@@ -5,7 +5,7 @@ label start:
     "What's your name again?"
     window hide
 
-    $ P_state.name = "Agang" if renpy.variant("pc") else "Leo"
+    $ P_state.name = "Аганг" if renpy.variant("pc") else "Лео"
     call screen name_input(prompt=_(""), prefix="I'm ", suffix=".")
 
     $ hotel_room_rent = Attr(500.0, name=_("Room Rent"))
@@ -16,9 +16,9 @@ label start:
 
 
     menu:
-        "Start from the beginning":
+        "Начать с начала":
             $ run_event('d1_1')
-        "Skip the prologues":
+        "Пропустить пролог":
 
             $ fake_run('d4_1_bLine', 'd4_4_bLine', 'd5_2_bLine', 'd5_4_bLine')
             $ fake_run('d4_3', 'A_dgsjhx', 'd8_1', 'A_daily_1', 
