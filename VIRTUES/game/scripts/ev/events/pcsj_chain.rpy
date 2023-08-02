@@ -6,7 +6,7 @@ label pcsj:
 
     narrator "The rest of the week was uneventful. But things are getting better, I can tell you that."
 
-    narrator "Now my relations with Vera and with Senning have been magnificently improved. This is inspiring."
+    narrator "Now my relations with Вера and with Сеннин have been magnificently improved. This is inspiring."
 
     narrator "I thought my life would be easy like this forever, but I was wrong. On the morning of the next Monday, my life was entirely changed by a phone call."
 
@@ -22,9 +22,9 @@ label pcsj:
 
     scene e_pcsj_normal with tstmgr
 
-    e "Hello, [P.name], it's me, Elisa."
+    e "Hello, [P.name], it's me, Элиза."
 
-    player "Oh, Aunt Elisa, hello there. What's going on?"
+    player "Oh, Aunt Элиза, hello there. What's going on?"
 
     e "I don't know if you have seen the news already..."
 
@@ -36,7 +36,7 @@ label pcsj:
 
     e "He is suspected to manipulate the city council election. The police have arrested him."
 
-    player "Is today April 1st????? Aunt Elisa, it's not funny."
+    player "Is today April 1st????? Aunt Элиза, it's not funny."
 
     e "I wasn't joking. It is true. You can go search it on the internet."
 
@@ -70,13 +70,13 @@ label pcsj:
 
     e "So do you have any plan?"
 
-    player "I, I don't know, Aunt Elisa. I'm in a mess..."
+    player "I, I don't know, Aunt Элиза. I'm in a mess..."
 
     e "Do you have any savings?"
 
     player "Eh, no..."
 
-    player "But... Aunt Elisa, you are going to help me, right?"
+    player "But... Aunt Элиза, you are going to help me, right?"
 
     e "Of course I am going to help."
 
@@ -94,7 +94,7 @@ label pcsj:
 
     player "I, I see."
 
-    player "I'll take the job, Aunt Elisa."
+    player "I'll take the job, Aunt Элиза."
 
     e "Good, [P.name], don't let me down."
 
@@ -104,7 +104,7 @@ label pcsj:
 
     narrator "If I can't use my dad's money, I won't be able to live in this hotel anymore."
 
-    narrator "It will be great if Aunt Elisa can have me in her mansion. I know she has a lot of empty rooms at her place. And I will be able to live with her and Irene together. That sounds not bad."
+    narrator "It will be great if Aunt Элиза can have me in her mansion. I know she has a lot of empty rooms at her place. And I will be able to live with her and Айрин together. That sounds not bad."
 
     e "You are a grown man. You ought to fix this problem yourself."
 
@@ -112,11 +112,11 @@ label pcsj:
 
     narrator "That's... sad..."
 
-    player "Alright, Aunt Elisa, I get it."
+    player "Alright, Aunt Элиза, I get it."
 
     e "Great. You can come to work start from the next Monday. Теодора will tell you about the detail."
 
-    player " I really appreciate it, Aunt Elisa."
+    player " I really appreciate it, Aunt Элиза."
 
     e "You are half a son to me. I really hope you can overcome this situation."
 
@@ -124,23 +124,23 @@ label pcsj:
 
     e "Besides what I have just offered, I have another job for you, a private job."
 
-    player "What's that, Aunt Elisa? I will accept every opportunity."
+    player "What's that, Aunt Элиза? I will accept every opportunity."
 
     e "It's glad to see you have such a passion."
 
-    e "I want you to be Irene's private tutor. You know, she doesn't do well in studying. I wish you can help her."
+    e "I want you to be Айрин's private tutor. You know, she doesn't do well in studying. I wish you can help her."
 
     e "You can come to our house and tutor her every day after she gets home from school, and of course, you'll get paid for that."
 
-    player "I'm very happy to do that. Thanks again, Aunt Elisa."
+    player "I'm very happy to do that. Thanks again, Aunt Элиза."
 
     e "That's all I have to say, [P.name]. I wish you can stay strong and work out this situation."
 
-    player "I will try my best, Aunt Elisa. I promise."
+    player "I will try my best, Aunt Элиза. I promise."
 
     e "Goodbye, [P.name]."
 
-    player "Bye, Aunt Elisa."
+    player "Bye, Aunt Элиза."
 
     scene void with tstmgr
 
@@ -160,13 +160,13 @@ label pcsj:
 
     player "... ... ... ..."
 
-    player "But if I do such things, Aunt Elisa and my dad will definitely be disappointed. They seem to expect me to get through this situation by myself."
+    player "But if I do such things, Aunt Элиза and my dad will definitely be disappointed. They seem to expect me to get through this situation by myself."
 
-    player "I think I'll just listen to Aunt Elisa and accept those two jobs. I won't ask friends for borrowing money unless it is the only solution left."
+    player "I think I'll just listen to Aunt Элиза and accept those two jobs. I won't ask friends for borrowing money unless it is the only solution left."
 
     player "As for the housing..."
 
-    player "I'd better move to the house where Vera is living right now. After all that house is my only estate."
+    player "I'd better move to the house where Вера is living right now. After all that house is my only estate."
 
     player "... ... ... ..."
 

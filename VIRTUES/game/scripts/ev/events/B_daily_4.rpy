@@ -3,9 +3,9 @@ label B_daily_4:
     scene school_day_background with tstmgr
     play music happy
 
-    narrator "I found Senning in school."
+    narrator "I found Сеннин in school."
 
-    player "Hey, Senning, is everything alright?"
+    player "Hey, Сеннин, is everything alright?"
 
     scene b_school_day_frown with tstmgr
 
@@ -17,7 +17,7 @@ label B_daily_4:
 
     b "I have known that your secret business is a B&B service."
 
-    b "And I have also known that now you and Miss Vera are living together."
+    b "And I have also known that now you and Miss Вера are living together."
 
     b "Who is she? Why did you never tell me anything about her?"
 
@@ -43,7 +43,7 @@ label B_daily_4:
 
     scene b_school_day_frown with tstmgr
 
-    b " I'm just curious about Miss Vera. She acted like the hostess of your house. You two must be close."
+    b " I'm just curious about Miss Вера. She acted like the hostess of your house. You two must be close."
 
     player "what do you think of her?"
 
@@ -55,7 +55,7 @@ label B_daily_4:
 
     scene b_school_day_frown with tstmgr
 
-    b "Do you think me and Miss Vera can be friends?"
+    b "Do you think me and Miss Вера can be friends?"
 
     player "Yeah, why not? You should definitely go to my house more often and get to know more about her."
 

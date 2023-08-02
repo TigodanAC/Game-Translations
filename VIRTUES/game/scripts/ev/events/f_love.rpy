@@ -3,13 +3,13 @@ label F_love_1:
     scene park_woodpath_day_background with tstmgr
     play music happy
 
-    narrator "I met with Rachel in the park again."
+    narrator "I met with Рэйчел in the park again."
 
     scene f_wood_smile2 with tstmgr
 
     f "Hi, [P]. It's good to see you."
 
-    player "Me, too, Rachel. "
+    player "Me, too, Рэйчел. "
 
     scene f_wood_smile with tstmgr
 
@@ -103,7 +103,7 @@ label F_love_1:
 
     narrator "... ... ... ..."
 
-    narrator "Rachel and I spent some time together in the park."
+    narrator "Рэйчел and I spent some time together in the park."
 
     narrator "... ... ... ..."
 

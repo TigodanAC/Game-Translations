@@ -3,7 +3,7 @@ label F_daily_2:
     scene void with tstmgr
     play music happy
 
-    "I encountered Rachel again in the park."
+    "I encountered Рэйчел again in the park."
 
 
 

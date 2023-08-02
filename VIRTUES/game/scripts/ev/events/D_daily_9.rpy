@@ -27,7 +27,7 @@ label D_daily_9:
 
 
 
-    "What the hell? Is Vera in danger? Shit!"
+    "What the hell? Is Вера in danger? Shit!"
 
 
 
@@ -35,7 +35,7 @@ label D_daily_9:
 
 
 
-    player "Vera!"
+    player "Вера!"
 
 
 
@@ -53,7 +53,7 @@ label D_daily_9:
 
 
 
-    d "Because Vera is too adorable, hee hee..."
+    d "Because Вера is too adorable, hee hee..."
 
 
 
@@ -73,7 +73,7 @@ label D_daily_9:
 
     scene d_daily9_3 with tstmgr
 
-    d "I brought neko ears for both Uno and Vera. We are having a girl’s party tonight!"
+    d "I brought neko ears for both Уно and Вера. We are having a girl’s party tonight!"
 
 
 
@@ -125,11 +125,11 @@ label D_daily_9:
 
     scene d_daily9_7 with tstmgr
 
-    "Irene sat up straight and put her mouth near me. Is she... seeking a kiss?"
+    "Айрин sat up straight and put her mouth near me. Is she... seeking a kiss?"
 
 
 
-    "Vera and Uno have closed their eyes and are enjoying my touching. They may not find out if we make it quick..."
+    "Вера and Уно have closed their eyes and are enjoying my touching. They may not find out if we make it quick..."
 
 
 

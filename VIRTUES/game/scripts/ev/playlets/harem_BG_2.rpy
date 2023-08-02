@@ -16,13 +16,13 @@ label harem_BG_2:
 
     scene harem_bg_2_2 with tstmgr
 
-    b "Uhhh! Uno! What are you doing?"
+    b "Uhhh! Уно! What are you doing?"
 
 
 
     scene harem_bg_2_3 with tstmgr
 
-    g "Oh, hi, Senning~ I'm just... taking some photos for myself..."
+    g "Oh, hi, Сеннин~ I'm just... taking some photos for myself..."
 
 
 
@@ -92,7 +92,7 @@ label harem_BG_2:
 
     scene harem_bg_2_9 with tstmgr
 
-    g "Don't be shy, Senning. Your tits are amazing~"
+    g "Don't be shy, Сеннин. Your tits are amazing~"
 
 
 

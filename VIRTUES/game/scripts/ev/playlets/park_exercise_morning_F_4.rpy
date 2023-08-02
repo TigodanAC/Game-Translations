@@ -4,7 +4,7 @@ label park_exercise_morning_F_4:
 
     scene park_exercise_morning_f_4_1 with tstmgr
 
-    player "Good morning, Rachel~"
+    player "Good morning, Рэйчел~"
 
 
 

@@ -10,7 +10,7 @@ label harem_CD_1:
 
     scene harem_cd_1_1 with dissolve
 
-    "Irene is waiting for her pickup after school."
+    "Айрин is waiting for her pickup after school."
 
 
 
@@ -28,7 +28,7 @@ label harem_CD_1:
 
     scene harem_cd_1_4 with tstmgr
 
-    player "Sorry we were late. How long have you been waiting, Irene?"
+    player "Sorry we were late. How long have you been waiting, Айрин?"
 
 
 

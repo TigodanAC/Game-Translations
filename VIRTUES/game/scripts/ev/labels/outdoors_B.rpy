@@ -74,19 +74,19 @@ label outdoors_B.b_outdoors_1:
     "Male student A" "Ahh... How could he be so lucky to fuck a hot girl like that?"
 
 
-    "Male student B" "And that girl... ... Why do I think she looks like Senning? I mean they have similar hair-style."
+    "Male student B" "And that girl... ... Why do I think she looks like Сеннин? I mean they have similar hair-style."
 
 
 
-    "Male student A" "No way, Senning will never have sex outdoors. She is just not that type of girl."
+    "Male student A" "No way, Сеннин will never have sex outdoors. She is just not that type of girl."
 
 
 
-    "Male student B" "Eh... You have a point. Senning is like an angel that no one can corrupt~"
+    "Male student B" "Eh... You have a point. Сеннин is like an angel that no one can corrupt~"
 
 
 
-    "Male student B" "But damn, I’m going to imagine this girl was Senning and masturbate tonight!"
+    "Male student B" "But damn, I’m going to imagine this girl was Сеннин and masturbate tonight!"
 
 
     stop sound

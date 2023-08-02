@@ -3,7 +3,7 @@ label G_daily_2:
     scene g_daily2_1 with tstmgr
     play music happy
 
-    "It seems like Senning and Uno are having a good conversation."
+    "It seems like Сеннин and Уно are having a good conversation."
 
     scene g_daily2_2 with tstmgr
 
@@ -15,9 +15,9 @@ label G_daily_2:
 
     player "Hi, Sen..."
 
-    player "and Uno."
+    player "and Уно."
 
-    "Uno answered with a nod."
+    "Уно answered with a nod."
 
     scene g_daily2_4 with tstmgr
 
@@ -29,7 +29,7 @@ label G_daily_2:
 
     player "Well... she didn't have anywhere else to go after she left home."
 
-    "Uno nodded again."
+    "Уно nodded again."
 
     b "... ... ... ..."
 
@@ -65,13 +65,13 @@ label G_daily_2:
 
     scene g_daily2_9 with tstmgr
 
-    "And now it's just me and Senning."
+    "And now it's just me and Сеннин."
 
     player "Seems like you two are getting along with each other."
 
     b "Yeah, we have a lot in common."
 
-    "Well, I have some reservations about that. I mean, Senning would never go to a public area in a skimpy nightgown or film amateur porn."
+    "Well, I have some reservations about that. I mean, Сеннин would never go to a public area in a skimpy nightgown or film amateur porn."
 
     scene g_daily2_10 with tstmgr
 
@@ -87,7 +87,7 @@ label G_daily_2:
 
     "... ... ... ..."
 
-    "I spent some time with Senning in the bookstore."
+    "I spent some time with Сеннин in the bookstore."
 
     stop music fadeout 1.0
 

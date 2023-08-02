@@ -11,7 +11,7 @@ label G_daily_3:
 
     g "Hi, [P]."
 
-    player "Uno? Anything I can help you with?"
+    player "Уно? Anything I can help you with?"
 
     g "... ... ... ..."
 
@@ -29,7 +29,7 @@ label G_daily_3:
 
     player "This is so weird. Are you serious?"
 
-    "Uno nodded her head as an answer."
+    "Уно nodded her head as an answer."
 
     g "You are the only one who knows this secret of mine. So... I guess you are the only one who can give me some advice."
 
@@ -111,7 +111,7 @@ label G_daily_3:
 
     scene g_daily3_4 with tstmgr
 
-    "Uno nodded again."
+    "Уно nodded again."
 
     player "So you'll play with your bare breasts for the whole world to see...but touching yourself a bit is off limits?"
 

@@ -3,7 +3,7 @@ label DG_duo_1:
     scene void with tstmgr
     play music happy
 
-    "This afternoon, Irene came to my house for visiting Uno while I was not at home..."
+    "This afternoon, Айрин came to my house for visiting Уно while I was not at home..."
 
 
 
@@ -66,7 +66,7 @@ label DG_duo_1:
 
 
 
-    player "(Uno must be in her room right now, maybe I should go spend some time with her.)"
+    player "(Уно must be in her room right now, maybe I should go spend some time with her.)"
 
 
 
@@ -74,7 +74,7 @@ label DG_duo_1:
 
 
 
-    "I came to Uno’s room and opened the door..."
+    "I came to Уно’s room and opened the door..."
 
 
 
@@ -98,7 +98,7 @@ label DG_duo_1:
 
     scene dg_duo_1_8 with tstmgr
 
-    d "Uno! We should be serious!"
+    d "Уно! We should be serious!"
 
 
 
@@ -126,7 +126,7 @@ label DG_duo_1:
 
     scene dg_duo_1_10 with tstmgr
 
-    d "Uno!!"
+    d "Уно!!"
 
 
 
@@ -156,7 +156,7 @@ label DG_duo_1:
 
     scene dg_duo_1_13 with tstmgr
 
-    player "And you are jealous too, Uno?"
+    player "And you are jealous too, Уно?"
 
 
 
@@ -168,13 +168,13 @@ label DG_duo_1:
 
     scene dg_duo_1_15 with tstmgr
 
-    d "What! Uno you traitor!"
+    d "What! Уно you traitor!"
 
 
 
     scene dg_duo_1_16 with tstmgr
 
-    g "Come on, Irene, don’t resist your cat spirit~"
+    g "Come on, Айрин, don’t resist your cat spirit~"
 
 
 
@@ -194,7 +194,7 @@ label DG_duo_1:
 
     scene dg_duo_1_18 with tstmgr
 
-    d "Hmmmmmm... ... Bad [P]! I asked you to have Uno in your house, but I didn’t ask you to make her another pet of yours!"
+    d "Hmmmmmm... ... Bad [P]! I asked you to have Уно in your house, but I didn’t ask you to make her another pet of yours!"
 
 
 
@@ -242,7 +242,7 @@ label DG_duo_1:
 
     scene dg_duo_1_24 with tstmgr
 
-    "Uno turned her eyes on me too and I could see the expectant light shining in her pupils."
+    "Уно turned her eyes on me too and I could see the expectant light shining in her pupils."
 
 
 
@@ -253,7 +253,7 @@ label DG_duo_1:
     label DG_duo_1_choice_1:
 
     menu:
-        "Irene":
+        "Айрин":
 
 
             player "It’s you, my silver kitty~"
@@ -264,25 +264,25 @@ label DG_duo_1:
 
             scene dg_duo_1_26 with tstmgr
 
-            g "I’m happy for you, Irene~"
+            g "I’m happy for you, Айрин~"
 
             d "Hee hee~"
 
             scene dg_duo_1_27 with tstmgr
 
-            g "Uno will... try behave better, so maybe the next time... ... I’ll be your favorite..."
+            g "Уно will... try behave better, so maybe the next time... ... I’ll be your favorite..."
 
-            "Uno still had her gentle smile on her face, but I can see that she was disappointed after hearing my answer. Owww... it broke my heart... ..."
+            "Уно still had her gentle smile on her face, but I can see that she was disappointed after hearing my answer. Owww... it broke my heart... ..."
 
             scene dg_duo_1_31 with tstmgr
 
-            player "I, I was just kidding. Don't get it serious, Uno. You two are all my favorite kitties. I must have saved the world in my previous life so that I can have you two with me now."
-        "Uno":
+            player "I, I was just kidding. Don't get it serious, Уно. You two are all my favorite kitties. I must have saved the world in my previous life so that I can have you two with me now."
+        "Уно":
 
 
 
 
-            player "Uno, because she behaves well and never gets jealous."
+            player "Уно, because she behaves well and never gets jealous."
 
             scene dg_duo_1_28 with tstmgr
 
@@ -292,7 +292,7 @@ label DG_duo_1:
 
             d "Awwwwwwww... ... ... ..."
 
-            "Irene was close to tears after hearing my answer. Owww... it broke my heart... ..."
+            "Айрин was close to tears after hearing my answer. Owww... it broke my heart... ..."
 
             scene dg_duo_1_30 with tstmgr
 
@@ -300,7 +300,7 @@ label DG_duo_1:
 
             scene dg_duo_1_32 with tstmgr
 
-            player "Oww... I was just kidding, Irene. You don’t need to change anything. You two are all my favorite kitties."
+            player "Oww... I was just kidding, Айрин. You don’t need to change anything. You two are all my favorite kitties."
 
             scene dg_duo_1_31 with tstmgr
 
@@ -332,7 +332,7 @@ label DG_duo_1:
 
     scene dg_duo_1_36 with tstmgr
 
-    g "So... do you know what we should do now, Irene?"
+    g "So... do you know what we should do now, Айрин?"
 
 
 
@@ -354,13 +354,13 @@ label DG_duo_1:
 
 
 
-    player "Wow, Uno... ..."
+    player "Wow, Уно... ..."
 
 
 
     scene dg_duo_1_39 with tstmgr
 
-    d "You must have done this a lot of times before, bad Uno! You slutty cat!"
+    d "You must have done this a lot of times before, bad Уно! You slutty cat!"
 
 
 
@@ -372,7 +372,7 @@ label DG_duo_1:
 
 
 
-    player "Irene, you... ..."
+    player "Айрин, you... ..."
 
 
 
@@ -414,7 +414,7 @@ label DG_duo_1:
 
 
 
-    d "Uno... looks so horny... ..."
+    d "Уно... looks so horny... ..."
 
 
 
@@ -458,7 +458,7 @@ label DG_duo_1:
 
     scene dg_duo_1_47 with tstmgr
 
-    player "Sorry for letting you wait long, Irene... ..."
+    player "Sorry for letting you wait long, Айрин... ..."
 
 
 
@@ -472,7 +472,7 @@ label DG_duo_1:
 
     scene dg_duo_1_48 with tstmgr
 
-    player "Uno’s boobs are bigger... but Irene’s... are more tender... ..."
+    player "Уно’s boobs are bigger... but Айрин’s... are more tender... ..."
 
 
 
@@ -548,7 +548,7 @@ label DG_duo_1:
 
 
 
-    d "I... held longer than you did, Uno... ... Like... ... 1.5 seconds longer... ..."
+    d "I... held longer than you did, Уно... ... Like... ... 1.5 seconds longer... ..."
 
 
 
@@ -592,7 +592,7 @@ label DG_duo_1:
 
             g "Meow~ meow~ This is... the goodbye kiss from us~"
 
-            d "[P]~~ Meow~~ Irene licks... better~~"
+            d "[P]~~ Meow~~ Айрин licks... better~~"
 
             scene dg_duo_1_53 with tstmgr
 
@@ -607,7 +607,7 @@ label DG_duo_1:
 
             if D. harem < 15 or G.harem < 20:
 
-                "The further plot will be unlocked after Irene's harem acceptance level reaches 15 and Unos reaches 20."
+                "The further plot will be unlocked after Айрин's harem acceptance level reaches 15 and Unos reaches 20."
 
                 "You can always replay this event in the ‘subplot replay’ button located in your bedroom."
 
@@ -629,13 +629,13 @@ label DG_duo_1:
 
                 scene dg_duo_1_54 with tstmgr
 
-                d "Wait, Uno, are you trying to... ..."
+                d "Wait, Уно, are you trying to... ..."
 
                 scene dg_duo_1_55 with tstmgr
 
-                "Uno took my erected dick out from my pants without hesitation."
+                "Уно took my erected dick out from my pants without hesitation."
 
-                d "Uno... ..."
+                d "Уно... ..."
 
                 "Master’s huge thing needs to be calmed down~"
 
@@ -673,7 +673,7 @@ label DG_duo_1:
 
                 pause
 
-                player "Ahhh~ Uno, you are so good at this... ..."
+                player "Ahhh~ Уно, you are so good at this... ..."
 
                 g "Am I master’s favorite pet?"
 

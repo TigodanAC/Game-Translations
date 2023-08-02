@@ -175,7 +175,7 @@ label ACG_duo_6:
 
 
 
-    g "Vera is so... dedicatedly... ..."
+    g "Вера is so... dedicatedly... ..."
 
 
 
@@ -191,7 +191,7 @@ label ACG_duo_6:
 
 
 
-    c "Wow... that’s it? I thought you could last longer, Vera~"
+    c "Wow... that’s it? I thought you could last longer, Вера~"
 
 
 
@@ -217,7 +217,7 @@ label ACG_duo_6:
 
     scene acg_duo_6_8 with tstmgr
 
-    a "Uno... ... It’s... your turn now... ..."
+    a "Уно... ... It’s... your turn now... ..."
 
 
 
@@ -237,7 +237,7 @@ label ACG_duo_6:
 
 
 
-    player "It’s not unfortunate at all, come here, Uno~"
+    player "It’s not unfortunate at all, come here, Уно~"
 
 
 
@@ -253,11 +253,11 @@ label ACG_duo_6:
 
 
 
-    c "Wait, what do you want to do? I won’t allow you to hurt Uno."
+    c "Wait, what do you want to do? I won’t allow you to hurt Уно."
 
 
 
-    player "Relax~ how would I ever hurt any of you angels?~ I just want to make Uno have fun too~"
+    player "Relax~ how would I ever hurt any of you angels?~ I just want to make Уно have fun too~"
 
 
 
@@ -277,7 +277,7 @@ label ACG_duo_6:
 
 
 
-    player "I’ll make you enjoy the night like your sisters do, Uno~"
+    player "I’ll make you enjoy the night like your sisters do, Уно~"
 
 
 
@@ -307,7 +307,7 @@ label ACG_duo_6:
 
 
 
-    a "Uno looks so enjoying... ..."
+    a "Уно looks so enjoying... ..."
 
 
 
@@ -339,7 +339,7 @@ label ACG_duo_6:
 
 
 
-    "Uno and I orgasmed at the same time."
+    "Уно and I orgasmed at the same time."
 
 
 
@@ -349,7 +349,7 @@ label ACG_duo_6:
 
 
 
-    a "Good job, Uno!"
+    a "Good job, Уно!"
 
 
 
@@ -385,7 +385,7 @@ label ACG_duo_6:
 
     scene acg_duo_6_20 with tstmgr
 
-    a "Uno~ You are so smart!~"
+    a "Уно~ You are so smart!~"
 
 
 
@@ -409,7 +409,7 @@ label ACG_duo_6:
 
     scene acg_duo_6_22 with tstmgr
 
-    "Vera&Uno" "Yeah!"
+    "Вера&Уно" "Yeah!"
 
 
 

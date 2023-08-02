@@ -9,7 +9,7 @@ label ACG_duo_4:
 
     scene acg_duo_4_1 with dissolve
 
-    "Vera and Uno are talking in the livingroom... ..."
+    "Вера and Уно are talking in the livingroom... ..."
 
 
 
@@ -29,7 +29,7 @@ label ACG_duo_4:
 
     scene acg_duo_4_3 with tstmgr
 
-    a "Wait, Uno, why do you always call him ‘master’?"
+    a "Wait, Уно, why do you always call him ‘master’?"
 
 
 
@@ -91,7 +91,7 @@ label ACG_duo_4:
 
     scene acg_duo_4_10 with tstmgr
 
-    g "No, Uno is totally fine with that~"
+    g "No, Уно is totally fine with that~"
 
 
 
@@ -101,13 +101,13 @@ label ACG_duo_4:
 
 
 
-    "Yeah, both Uno and Theo are the kinds of girls who don’t care about polygamy at all."
+    "Yeah, both Уно and Theo are the kinds of girls who don’t care about polygamy at all."
 
 
 
     scene acg_duo_4_10 with tstmgr
 
-    "But Vera... ..."
+    "But Вера... ..."
 
 
 
@@ -129,7 +129,7 @@ label ACG_duo_4:
 
     scene acg_duo_4_14 with tstmgr
 
-    player "Vera... ... ... ..."
+    player "Вера... ... ... ..."
 
 
 
@@ -145,7 +145,7 @@ label ACG_duo_4:
 
 
 
-    a "[P], Uno, Theo, and I... ... We are like a family~"
+    a "[P], Уно, Theo, and I... ... We are like a family~"
 
 
 
@@ -155,7 +155,7 @@ label ACG_duo_4:
 
 
 
-    g "Vera~~~"
+    g "Вера~~~"
 
 
 

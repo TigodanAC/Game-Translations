@@ -3,7 +3,7 @@ label G_train_inti_3:
     scene void with tstmgr
     play music happy
 
-    "Late night, in Uno’s room... ..."
+    "Late night, in Уно’s room... ..."
 
 
 
@@ -13,7 +13,7 @@ label G_train_inti_3:
 
 
 
-    "Uno is having a hard time after she saw the number showing on the weighing scale."
+    "Уно is having a hard time after she saw the number showing on the weighing scale."
 
 
 
@@ -135,7 +135,7 @@ label G_train_inti_3:
 
             scene g_train_inti_3_16 with tstmgr
 
-            g "What do you think is the best way to get the most out of your ejaculation by using Uno’s mouth?"
+            g "What do you think is the best way to get the most out of your ejaculation by using Уно’s mouth?"
 
             player "Ehh... ... Well, if it is only with the mouth, then... deep throat, I guess?"
 
@@ -249,7 +249,7 @@ label G_train_inti_3:
 
             scene g_train_inti_3_25 with tstmgr
 
-            "Uno lay down on the bed obediently as I told her to."
+            "Уно lay down on the bed obediently as I told her to."
 
             player "Alright then~"
 
@@ -257,7 +257,7 @@ label G_train_inti_3:
 
             g "Awwwwwwwww~~~ I have never seen master’s penis in this position. This is so magnificent~"
 
-            player "Get ready, Uno, it may be suffering, just let me know if you want me to stop."
+            player "Get ready, Уно, it may be suffering, just let me know if you want me to stop."
 
             g "Suffer? Even better!~"
 
@@ -275,7 +275,7 @@ label G_train_inti_3:
 
             g "Glug... ... mmmmmmm... ... wummmmmmm... ..."
 
-            "I thrust my penis into her throat like a rude conquerer. Uno couldn’t say anything but make a peculiar gurgling sound from her stuffed throat."
+            "I thrust my penis into her throat like a rude conquerer. Уно couldn’t say anything but make a peculiar gurgling sound from her stuffed throat."
 
             player "Just remember to give me a sign if you can’t take it anymore."
 
@@ -283,7 +283,7 @@ label G_train_inti_3:
 
             g "... ... ... ..."
 
-            "Uno didn’t make any sound out, instead she put her hands down to her pussy. Shit, she began to masturbate herself."
+            "Уно didn’t make any sound out, instead she put her hands down to her pussy. Shit, she began to masturbate herself."
 
             player "You are... such a masochist~"
 
@@ -461,7 +461,7 @@ label G_train_inti_3:
 
             g "But I can bear it since... master’s penis is here~"
 
-            player "Yes, Uno, keep it on. You are doing a good job."
+            player "Yes, Уно, keep it on. You are doing a good job."
 
             g "Master~~~ You have to hold me tight, otherwise I will fall immediately."
 
@@ -477,7 +477,7 @@ label G_train_inti_3:
 
             g "Master’s penis... so hard and hot~~~ I think it is going to burn my labia~"
 
-            "Uno’s love juice was keeping flowing out from her pussy. The amount was so big that I almost began to wonder if she was actually peeing."
+            "Уно’s love juice was keeping flowing out from her pussy. The amount was so big that I almost began to wonder if she was actually peeing."
 
             g "It’s so strange... ... I don’t feel the tiredness anymore. I feel like... I can keep squatting for another hour!"
 
@@ -503,7 +503,7 @@ label G_train_inti_3:
 
             $ flashlight()
 
-            "Uno tried to stand up and get away from my dick, but she failed and made my dick penetrate her pussy even deeper."
+            "Уно tried to stand up and get away from my dick, but she failed and made my dick penetrate her pussy even deeper."
 
             g "Ohhhhhhhhhh~~~ I can’t... ... Master~~~ Master’s penis is so huge~~~"
 

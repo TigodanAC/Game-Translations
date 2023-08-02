@@ -99,7 +99,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_12 with tstmgr
 
-    a "I... I think we can do that in sequence, like... I will do it today, Theo tomorrow, and Uno the day after tomorrow. That must be the fairest way."
+    a "I... I think we can do that in sequence, like... I will do it today, Theo tomorrow, and Уно the day after tomorrow. That must be the fairest way."
 
 
 
@@ -163,23 +163,23 @@ label ACG_duo_5:
 
 
 
-    c "Raise your hand if you agree with Vera’s proposal."
+    c "Raise your hand if you agree with Вера’s proposal."
 
 
 
     scene acg_duo_5_19 with tstmgr
 
-    "Vera raised her hand."
+    "Вера raised her hand."
 
 
 
-    c "Now raise your hand if you agree with Uno’s proposal."
+    c "Now raise your hand if you agree with Уно’s proposal."
 
 
 
     scene acg_duo_5_20 with tstmgr
 
-    "Uno raised her hand."
+    "Уно raised her hand."
 
 
 
@@ -329,7 +329,7 @@ label ACG_duo_5:
 
 
 
-    g "Wow~ Uno is coming too~"
+    g "Wow~ Уно is coming too~"
 
 
 
@@ -337,7 +337,7 @@ label ACG_duo_5:
 
     $ flashlight()
 
-    g "Master~ Please give Uno more of your love~"
+    g "Master~ Please give Уно more of your love~"
 
 
 
@@ -377,7 +377,7 @@ label ACG_duo_5:
 
 
 
-    c "You are so hopeless, Uno... ..."
+    c "You are so hopeless, Уно... ..."
 
 
 
@@ -449,7 +449,7 @@ label ACG_duo_5:
 
 
 
-    "Hmmmmm... ... Vera and Uno seemed to become more excited after hearing Теодора’s humiliation."
+    "Hmmmmm... ... Вера and Уно seemed to become more excited after hearing Теодора’s humiliation."
 
 
 
@@ -641,7 +641,7 @@ label ACG_duo_5:
 
     $ flashlight()
 
-    "Vera and Uno pinned Теодора down on the bed..."
+    "Вера and Уно pinned Теодора down on the bed..."
 
 
 
@@ -931,7 +931,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_73 with tstmgr
 
-    "Uno crawled to me lovingly, like a kitten that wanted to be petted."
+    "Уно crawled to me lovingly, like a kitten that wanted to be petted."
 
 
 
@@ -961,13 +961,13 @@ label ACG_duo_5:
 
     scene acg_duo_5_84 with tstmgr
 
-    g "Sorry, Vera, for being a step ahead of you~"
+    g "Sorry, Вера, for being a step ahead of you~"
 
 
 
     scene acg_duo_5_85 with tstmgr
 
-    a "It's totally fine, Uno. I will... ... play with myself when you are having fun..."
+    a "It's totally fine, Уно. I will... ... play with myself when you are having fun..."
 
 
 
@@ -985,31 +985,31 @@ label ACG_duo_5:
 
 
 
-    a "It makes me so horny just looking at Uno’s happy face~ Awwww... ... ... ..."
+    a "It makes me so horny just looking at Уно’s happy face~ Awwww... ... ... ..."
 
 
 
-    g "Vera... Yahhhh... Master... ... Ohhhhhhh~~~~"
+    g "Вера... Yahhhh... Master... ... Ohhhhhhh~~~~"
 
 
 
-    g "Uno’s little pussy is getting so wet by master’s big bad penis, and... ..."
+    g "Уно’s little pussy is getting so wet by master’s big bad penis, and... ..."
 
 
 
-    g "Awwwww... ... Vera’s pussy is getting so wet too~ Your fluid just splashed on Uno’s mouth~"
+    g "Awwwww... ... Вера’s pussy is getting so wet too~ Your fluid just splashed on Уно’s mouth~"
 
 
 
-    a "Oh... I’m so sorry, Uno. I didn’t mean to... ..."
+    a "Oh... I’m so sorry, Уно. I didn’t mean to... ..."
 
 
 
-    g "Uno... wants to taste more of Vera’s horny fluid~"
+    g "Уно... wants to taste more of Вера’s horny fluid~"
 
 
 
-    g "And master, Uno’s pussy wants to taste more of your fluid too~~~"
+    g "And master, Уно’s pussy wants to taste more of your fluid too~~~"
 
 
 
@@ -1023,7 +1023,7 @@ label ACG_duo_5:
 
 
 
-    g "Wuuuuuuu... ... Vera, why are you hitting Uno’s face with your titties?"
+    g "Wuuuuuuu... ... Вера, why are you hitting Уно’s face with your titties?"
 
 
 
@@ -1031,7 +1031,7 @@ label ACG_duo_5:
 
 
 
-    g "Wuuuumm~~ Yuuummm~~ Bad Vera~~ Master will punish you later... ..."
+    g "Wuuuumm~~ Yuuummm~~ Bad Вера~~ Master will punish you later... ..."
 
 
 
@@ -1051,11 +1051,11 @@ label ACG_duo_5:
 
 
 
-    player "Ahhhhhhhh~~ Uno, I’m so crazy about you!"
+    player "Ahhhhhhhh~~ Уно, I’m so crazy about you!"
 
 
 
-    g "See, Vera, I am... his favorite~"
+    g "See, Вера, I am... his favorite~"
 
 
 
@@ -1097,7 +1097,7 @@ label ACG_duo_5:
 
 
 
-    "This time my ejaculation didn’t last as long as the last time, but the amount was still objective. I shot everything I had for this round into Uno’s pussy and made sure she didn’t spill out any drop of my sperm."
+    "This time my ejaculation didn’t last as long as the last time, but the amount was still objective. I shot everything I had for this round into Уно’s pussy and made sure she didn’t spill out any drop of my sperm."
 
 
 
@@ -1117,7 +1117,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_75 with tstmgr
 
-    player "Sorry to make you wait so long, Vera..."
+    player "Sorry to make you wait so long, Вера..."
 
 
 
@@ -1145,7 +1145,7 @@ label ACG_duo_5:
 
 
 
-    "Honestly, I am indeed a little tired now... ... Thanks, Vera, you are so thoughtful~"
+    "Honestly, I am indeed a little tired now... ... Thanks, Вера, you are so thoughtful~"
 
 
 
@@ -1161,7 +1161,7 @@ label ACG_duo_5:
 
 
 
-    "Vera rode on my body and began to move herself, and I was lying comfortably on the bed enjoying her service."
+    "Вера rode on my body and began to move herself, and I was lying comfortably on the bed enjoying her service."
 
 
 
@@ -1181,7 +1181,7 @@ label ACG_duo_5:
 
 
 
-    a "That's why... awwww~~~ That’s why Theo, Uno, and I love you so much~~~"
+    a "That's why... awwww~~~ That’s why Theo, Уно, and I love you so much~~~"
 
 
 
@@ -1189,7 +1189,7 @@ label ACG_duo_5:
 
 
 
-    player "I... love you too, Vera... ..."
+    player "I... love you too, Вера... ..."
 
 
     stop sound
@@ -1215,7 +1215,7 @@ label ACG_duo_5:
 
 
 
-    a "Please~ please cum together with me and give me all of your cum, just like you did to Theo and Uno... ..."
+    a "Please~ please cum together with me and give me all of your cum, just like you did to Theo and Уно... ..."
 
 
 
@@ -1239,7 +1239,7 @@ label ACG_duo_5:
 
 
 
-    "Vera and I came together... ..."
+    "Вера and I came together... ..."
 
 
 
@@ -1259,7 +1259,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_95 with tstmgr
 
-    "Vera collapsed on my body and breathed heavily. I guess we are all exhausted now."
+    "Вера collapsed on my body and breathed heavily. I guess we are all exhausted now."
 
 
 

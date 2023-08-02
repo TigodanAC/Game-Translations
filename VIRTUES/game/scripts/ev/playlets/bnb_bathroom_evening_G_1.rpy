@@ -2,7 +2,7 @@ label bnb_bathroom_evening_G_1:
 
     scene void with tstmgr
 
-    "Uno was calling my name in the bathroom."
+    "Уно was calling my name in the bathroom."
 
 
 
@@ -12,7 +12,7 @@ label bnb_bathroom_evening_G_1:
 
 
 
-    player "Eh, I don't know. I'll ask Vera when she gets back."
+    player "Eh, I don't know. I'll ask Вера when she gets back."
 
 
 

@@ -37,7 +37,7 @@ label AG_duo:
 
     scene ag_duo1_5 with tstmgr
 
-    g "Vera just told me about how you saved her from a bad man."
+    g "Вера just told me about how you saved her from a bad man."
 
 
 
@@ -67,7 +67,7 @@ label AG_duo:
 
 
 
-    g "I always love to see Vera’s smiling face."
+    g "I always love to see Вера’s smiling face."
 
 
 
@@ -84,7 +84,7 @@ label AG_duo:
     label AG_duo_choice_1:
 
     menu:
-        "Touch Vera’s butt":
+        "Touch Вера’s butt":
 
 
             scene ag_duo1_10 with tstmgr
@@ -93,7 +93,7 @@ label AG_duo:
 
             scene ag_duo1_11 with tstmgr
 
-            g "What’s wrong, Vera?"
+            g "What’s wrong, Вера?"
 
             scene ag_duo1_10 with tstmgr
 
@@ -120,7 +120,7 @@ label AG_duo:
             scene ag_duo1_14 with tstmgr
 
             "That went very well. What should I do next?"
-        "Touch Uno’s butt":
+        "Touch Уно’s butt":
 
 
 
@@ -129,7 +129,7 @@ label AG_duo:
 
             g "(Surprisedly moaning) Aww... ..."
 
-            a "Are you okay, Uno?"
+            a "Are you okay, Уно?"
 
             scene ag_duo1_17 with tstmgr
 
@@ -181,7 +181,7 @@ label AG_duo:
 
             scene ag_duo1_22 with tstmgr
 
-            a "Uno... are you okay?..."
+            a "Уно... are you okay?..."
 
             g "I'm... fine... ..."
 
@@ -206,18 +206,18 @@ label AG_duo:
     label AG_duo_choice_2:
 
     menu:
-        "Find an excuse to stay with Vera alone":
+        "Find an excuse to stay with Вера alone":
 
 
-            player "Hey there, Uno."
+            player "Hey there, Уно."
 
-            player "Vera and I...need to discuss some business stuff right now. Can you give us a moment?"
+            player "Вера and I...need to discuss some business stuff right now. Can you give us a moment?"
 
             scene ag_duo1_23 with tstmgr
 
             g "(Looking at you oddly) Emm?"
 
-            g "(Looking at Vera) ... ... ... ..."
+            g "(Looking at Вера) ... ... ... ..."
 
             scene ag_duo1_24 with tstmgr
 
@@ -227,7 +227,7 @@ label AG_duo:
 
             a "Wait, you don’t have to... ... ... ..."
 
-            "Uno left the room with a strange smile."
+            "Уно left the room with a strange smile."
 
             a "... ... ... ..."
 
@@ -237,13 +237,13 @@ label AG_duo:
 
             scene ag_duo1_27 with tstmgr
 
-            player "Oh you know exactly what I want, Vera."
+            player "Oh you know exactly what I want, Вера."
 
             scene ag_duo1_28 with tstmgr
 
             player "I want you... ..."
 
-            a "Stop! Uno may hear us!"
+            a "Stop! Уно may hear us!"
 
             scene ag_duo1_29 with tstmgr
 
@@ -263,7 +263,7 @@ label AG_duo:
 
             a "(Moaning with lust) Awww... no... ... Uh, uh, uh, uhh... ..."
 
-            player "If you keep making such perverted sounds, Uno may really notice us~"
+            player "If you keep making such perverted sounds, Уно may really notice us~"
 
             scene ag_duo1_32 with tstmgr
 
@@ -285,7 +285,7 @@ label AG_duo:
 
             g "... ... ... ..."
 
-            g "(Vera... seems to enjoy it.)"
+            g "(Вера... seems to enjoy it.)"
 
             scene ag_duo1_34 with tstmgr
 
@@ -299,7 +299,7 @@ label AG_duo:
 
             a "I love you so much!! Yes! Yes!! Right there, right there right there!! Don't stop! Don't stop!!!"
 
-            player "As you wish, Vera."
+            player "As you wish, Вера."
 
             a "I’m about to cum... I’m about to cum... ..."
 
@@ -338,20 +338,20 @@ label AG_duo:
             "... ... ... ..."
 
             "Sometime later..."
-        "Find an excuse to stay with Uno alone":
+        "Find an excuse to stay with Уно alone":
 
 
 
 
             if G.love < 30:
-                "Further plot will be unlocked after you improve the relationship with Uno."
+                "Further plot will be unlocked after you improve the relationship with Уно."
                 "You can always replay this event in the ‘subplot replay’ button located in your bedroom."
                 jump AG_duo_choice_2
             else:
 
                 scene ag_duo1_39 with tstmgr
 
-                player "Hey, Vera, I just remembered. A guest just told me that he lost his wallet in the livingroom this afternoon. Did you find anything during cleaning?"
+                player "Hey, Вера, I just remembered. A guest just told me that he lost his wallet in the livingroom this afternoon. Did you find anything during cleaning?"
 
                 scene ag_duo1_40 with tstmgr
 
@@ -361,7 +361,7 @@ label AG_duo:
 
                 scene ag_duo1_41 with tstmgr
 
-                "Vera left the room in a hurry..."
+                "Вера left the room in a hurry..."
 
                 g "... ... ... ..."
 
@@ -381,7 +381,7 @@ label AG_duo:
 
                 g "... ... ... ..."
 
-                g "So... why did you want Vera to leave?"
+                g "So... why did you want Вера to leave?"
 
                 player "You can take a guess... ..."
 
@@ -393,7 +393,7 @@ label AG_duo:
 
                 "She then removed her dress without a word. Damn...this girl expects sex more than I do"
 
-                player "Wow... Uno... ..."
+                player "Wow... Уно... ..."
 
                 scene ag_duo1_46 with tstmgr
 
@@ -401,7 +401,7 @@ label AG_duo:
 
                 scene ag_duo1_47 with tstmgr
 
-                g "Just make it quick, before Vera comes back."
+                g "Just make it quick, before Вера comes back."
 
                 player "Okay... ... ... ..."
 
@@ -447,7 +447,7 @@ label AG_duo:
 
                 g "So huge... so huge... ... your dick is so huge~~~"
 
-                player "Vera is going to hear if you keep moaning so loud~"
+                player "Вера is going to hear if you keep moaning so loud~"
 
                 g "But... but... I feel... so good... ..."
 
@@ -466,7 +466,7 @@ label AG_duo:
 
                 g "(Mumbling) My... pussy... is melting... ..."
 
-                player "I’m going to cum, Uno!~"
+                player "I’m going to cum, Уно!~"
 
                 g "Me... too... ..."
 
@@ -491,7 +491,7 @@ label AG_duo:
 
                 scene ag_duo1_57 with tstmgr
 
-                g "Vera will be so jealous if she knows what I just experienced~~~"
+                g "Вера will be so jealous if she knows what I just experienced~~~"
 
                 scene void with tstmgr
 

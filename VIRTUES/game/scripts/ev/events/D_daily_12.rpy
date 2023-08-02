@@ -29,7 +29,7 @@ label D_daily_12.line_a:
 
     "*Door bell sound* Ding-dong~ Ding-dong~"
 
-    d "Hello! Anybody home? Uno? Let’s go to a movie!"
+    d "Hello! Anybody home? Уно? Let’s go to a movie!"
 
     scene d_daily12_24 with dissolve
 
@@ -69,17 +69,17 @@ label D_daily_12.line_a:
 
     b "Mamamamama... married?"
 
-    "It seems like Irene didn’t close the door and Senning just happened to get in after her."
+    "It seems like Айрин didn’t close the door and Сеннин just happened to get in after her."
 
     scene d_daily12_30 with tstmgr
 
-    c "Ah, you must be Senning. [P] has told me about you."
+    c "Ah, you must be Сеннин. [P] has told me about you."
 
     c "My name is Теодора, a... tenant. What I said was just a joke, don’t take it seriously."
 
     scene d_daily12_31 with tstmgr
 
-    c "And this is my sister, Irene."
+    c "And this is my sister, Айрин."
 
     scene d_daily12_33 with tstmgr
 
@@ -103,7 +103,7 @@ label D_daily_12.line_a:
 
     c "Pardon?"
 
-    b "*Murmuring* Irene... ... so cute... ..."
+    b "*Murmuring* Айрин... ... so cute... ..."
 
     scene d_daily12_36 with tstmgr
 
@@ -115,7 +115,7 @@ label D_daily_12.line_a:
 
     b "*Swallowing hard* ... ... ... ..."
 
-    c "You don’t look so well. Are you okay, Senning?"
+    c "You don’t look so well. Are you okay, Сеннин?"
 
     b "I... I’m fine. I’m totally fine, I just... ..."
 
@@ -125,13 +125,13 @@ label D_daily_12.line_a:
 
     b "I need to... ... ... ..."
 
-    c "Senning?"
+    c "Сеннин?"
 
     scene d_daily12_39 with tstmgr
 
-    "Senning suddenly lost balance and fell forward."
+    "Сеннин suddenly lost balance and fell forward."
 
-    c "Senning!"
+    c "Сеннин!"
 
     d "Oh my God! What happens to her?"
 
@@ -163,7 +163,7 @@ label D_daily_12.line_a:
 
     "... ... ... ..."
 
-    "*Senning has become friends with Теодора and Irene.*"
+    "*Сеннин has become friends with Теодора and Айрин.*"
 
     "... ... ... ..."
 
@@ -185,19 +185,19 @@ label D_daily_12.line_b:
 
     scene d_daily12_1 with tstmgr
 
-    a "*Opened the door* Oh, hi, Irene. What brings you here?"
+    a "*Opened the door* Oh, hi, Айрин. What brings you here?"
 
 
 
     scene d_daily12_2 with tstmgr
 
-    d "I’m here to visit you and Uno! Am I welcome here?~"
+    d "I’m here to visit you and Уно! Am I welcome here?~"
 
 
 
     scene d_daily12_3 with tstmgr
 
-    a "Oh, of course, come on in~ But unfortunately Uno and [P] are not at home right now."
+    a "Oh, of course, come on in~ But unfortunately Уно and [P] are not at home right now."
 
 
 
@@ -213,17 +213,17 @@ label D_daily_12.line_b:
 
     scene d_daily12_5 with tstmgr
 
-    a "Senning, this is Irene, [P] is her private tutor."
+    a "Сеннин, this is Айрин, [P] is her private tutor."
 
 
 
-    a "And Irene, this is Senning, [P]’s college friend~"
+    a "And Айрин, this is Сеннин, [P]’s college friend~"
 
 
 
     scene d_daily12_6 with tstmgr
 
-    d "Nice to meet you, Senning."
+    d "Nice to meet you, Сеннин."
 
 
 
@@ -273,7 +273,7 @@ label D_daily_12.line_b:
 
 
 
-    b "Can I... have a little hug with you, please, Miss Irene?"
+    b "Can I... have a little hug with you, please, Miss Айрин?"
 
 
 
@@ -321,7 +321,7 @@ label D_daily_12.line_b:
 
     scene d_daily12_17 with tstmgr
 
-    "Senning suddenly lost balance and fell backward."
+    "Сеннин suddenly lost balance and fell backward."
 
 
 
@@ -331,7 +331,7 @@ label D_daily_12.line_b:
 
 
 
-    "Vera caught Senning on time before she fell on the ground."
+    "Вера caught Сеннин on time before she fell on the ground."
 
 
 
@@ -399,7 +399,7 @@ label D_daily_12.line_b:
 
 
 
-    "*Irene and Senning have become friends.*"
+    "*Айрин and Сеннин have become friends.*"
 
 
 

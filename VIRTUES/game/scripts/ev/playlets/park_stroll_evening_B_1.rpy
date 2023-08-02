@@ -48,7 +48,7 @@ label park_stroll_evening_B_1:
 
     scene park_stroll_evening_b_1_3 with tstmgr
 
-    "Senning and I looked at each other awkwardly."
+    "Сеннин and I looked at each other awkwardly."
 
 
 
@@ -60,7 +60,7 @@ label park_stroll_evening_B_1:
 
 
 
-    "Senning nodded her head."
+    "Сеннин nodded her head."
 
 
 

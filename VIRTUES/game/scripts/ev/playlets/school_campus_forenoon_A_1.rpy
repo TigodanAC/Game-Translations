@@ -16,7 +16,7 @@ label school_campus_forenoon_A_1:
 
 
 
-    player "Vera... ..."
+    player "Вера... ..."
 
 
 

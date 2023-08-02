@@ -83,7 +83,7 @@ label A_love_3:
 
     a "Thanks, [P]. I feel... much better now."
 
-    player "Anytime, Vera."
+    player "Anytime, Вера."
 
     scene a_love_3_3 with tstmgr
 
@@ -101,7 +101,7 @@ label A_love_3:
 
     player "... ... ... ..."
 
-    player "Good night, Vera. "
+    player "Good night, Вера. "
 
     scene void with tstmgr
 

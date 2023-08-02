@@ -6,7 +6,7 @@ label mansion_tutor_afternoon_D_2:
 
 
 
-    player "Irene? Are you still with me?"
+    player "Айрин? Are you still with me?"
 
 
 

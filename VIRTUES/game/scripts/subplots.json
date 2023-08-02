@@ -1,15 +1,15 @@
 {
     "null": {
-       "CDE_Picnic": "Picnic party - Elisa's family",
-       "AG_duo": "Laundry room - Vera, Uno",
-       "DE_duo": "Swimming pool - Irene, Elisa",
-       "DG_duo_1": "Pet training - Irene, Uno"
+       "CDE_Picnic": "Picnic party - Элиза's family",
+       "AG_duo": "Laundry room - Вера, Уно",
+       "DE_duo": "Swimming pool - Айрин, Элиза",
+       "DG_duo_1": "Pet training - Айрин, Уно"
     },
     "B": {
-       "B_Beach": "Beach - Senning",
-       "B_daily_16": "Senning's room - Senning, Uno"
+       "B_Beach": "Beach - Сеннин",
+       "B_daily_16": "Сеннин's room - Сеннин, Уно"
     },
     "G": {
-       "G_daily_6": "Role play - Vera, Uno"
+       "G_daily_6": "Role play - Вера, Уно"
     }
  }

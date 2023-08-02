@@ -131,7 +131,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_12 with tstmgr
 
-    player "Should we... go to your house or the bungalow, Elisa?~"
+    player "Should we... go to your house or the bungalow, Элиза?~"
 
 
 
@@ -149,7 +149,7 @@ label E_train_sexskill_1:
 
 
 
-    "Sometime later, in Elisa’s room..."
+    "Sometime later, in Элиза’s room..."
 
 
 
@@ -243,7 +243,7 @@ label E_train_sexskill_1:
 
 
 
-    player "Elisa’s lap pillow... ... Can I really do that?"
+    player "Элиза’s lap pillow... ... Can I really do that?"
 
 
 
@@ -265,7 +265,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_21 with dissolve
 
-    player "Elisa... ..."
+    player "Элиза... ..."
 
 
 
@@ -611,7 +611,7 @@ label E_train_sexskill_1:
 
 
 
-    "Elisa’s milk gushed out like streams... This is just magnificent~"
+    "Элиза’s milk gushed out like streams... This is just magnificent~"
 
 
 
@@ -639,7 +639,7 @@ label E_train_sexskill_1:
 
 
 
-    "I spent the entire afternoon with Elisa and played this mother-son game all along..."
+    "I spent the entire afternoon with Элиза and played this mother-son game all along..."
 
 
 

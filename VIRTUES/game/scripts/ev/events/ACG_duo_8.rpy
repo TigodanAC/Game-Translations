@@ -43,7 +43,7 @@ label ACG_duo_8:
 
 
 
-    c "We don’t really have many choices. Uno has serious airsick, so we can’t really go any place far away."
+    c "We don’t really have many choices. Уно has serious airsick, so we can’t really go any place far away."
 
 
 
@@ -217,7 +217,7 @@ label ACG_duo_8:
 
     scene void with tstmgr
 
-    "I got up from bed and went to Vera’s room, and I saw... ..."
+    "I got up from bed and went to Вера’s room, and I saw... ..."
 
 
 
@@ -247,7 +247,7 @@ label ACG_duo_8:
 
 
 
-    "Теодора and Vera, two of my favorite girls, are rubbing each other’s pussy with their own."
+    "Теодора and Вера, two of my favorite girls, are rubbing each other’s pussy with their own."
 
 
 
@@ -291,7 +291,7 @@ label ACG_duo_8:
 
     scene acg_duo_8_20 with tstmgr
 
-    "Теодора and Vera stopped after hearing me shouting."
+    "Теодора and Вера stopped after hearing me shouting."
 
 
 
@@ -335,7 +335,7 @@ label ACG_duo_8:
 
     scene acg_duo_8_22 with tstmgr
 
-    g "Uno has known her mistake and she is ready to be punished~"
+    g "Уно has known her mistake and she is ready to be punished~"
 
 
 
@@ -345,7 +345,7 @@ label ACG_duo_8:
 
 
 
-    player "Now, you two, go groveling on the bed like Uno."
+    player "Now, you two, go groveling on the bed like Уно."
 
 
 
@@ -363,13 +363,13 @@ label ACG_duo_8:
 
     scene acg_duo_8_24 with tstmgr
 
-    "To my surprise, Теодора groveled like Uno without any complaint. It seems like she was afraid that I might be really angry too."
+    "To my surprise, Теодора groveled like Уно without any complaint. It seems like she was afraid that I might be really angry too."
 
 
 
     scene acg_duo_8_25 with tstmgr
 
-    "Vera followed them in just a few seconds. Humph, now I feel much better~"
+    "Вера followed them in just a few seconds. Humph, now I feel much better~"
 
 
 
@@ -417,7 +417,7 @@ label ACG_duo_8:
 
 
 
-    "I haven’t spanked Vera like this before and I was a little surprised by the great elasticity of her butt. Damn this feels so great~"
+    "I haven’t spanked Вера like this before and I was a little surprised by the great elasticity of her butt. Damn this feels so great~"
 
 
 
@@ -477,7 +477,7 @@ label ACG_duo_8:
 
 
 
-    g "It’s unfair, master! Uno wants to be punished by your big hand too~"
+    g "It’s unfair, master! Уно wants to be punished by your big hand too~"
 
 
 
@@ -523,7 +523,7 @@ label ACG_duo_8:
 
 
 
-    "Ah, yeah, it is never a punishment for Uno. She just loves to be spanked."
+    "Ah, yeah, it is never a punishment for Уно. She just loves to be spanked."
 
 
 
@@ -552,7 +552,7 @@ label ACG_duo_8:
 
     scene acg_duo_8_33 with tstmgr
 
-    "But Vera still needs to get used to it~"
+    "But Вера still needs to get used to it~"
 
 
 
@@ -590,7 +590,7 @@ label ACG_duo_8:
 
 
 
-    g "Vera is so enjoying~"
+    g "Вера is so enjoying~"
 
 
 
@@ -696,7 +696,7 @@ label ACG_duo_8:
 
 
 
-    "I continuously spanked Vera and Uno hard, enjoying hearing their beautiful moanings, sighing in my heart at the joy of harem. Now I can’t even recall why I got angry in the first place~"
+    "I continuously spanked Вера and Уно hard, enjoying hearing their beautiful moanings, sighing in my heart at the joy of harem. Now I can’t even recall why I got angry in the first place~"
 
 
 
@@ -950,7 +950,7 @@ label ACG_duo_8:
 
 
 
-    c "See... Uno, he fucks me first, he loves me the most~~"
+    c "See... Уно, he fucks me first, he loves me the most~~"
 
 
 
@@ -978,7 +978,7 @@ label ACG_duo_8:
 
 
 
-    c "Uno~~~ Vera... ... Can you see how much he loves me?~~~ Ohhhhh~~~"
+    c "Уно~~~ Вера... ... Can you see how much he loves me?~~~ Ohhhhh~~~"
 
 
 
@@ -1024,7 +1024,7 @@ label ACG_duo_8:
 
     scene acg_duo_8_67 with tstmgr
 
-    player "Now, the next one, Vera, your turn~"
+    player "Now, the next one, Вера, your turn~"
 
 
 
@@ -1034,17 +1034,17 @@ label ACG_duo_8:
 
 
 
-    "Vera is the most perfect housewife you can ever find. She always takes my condition as the no.1 issue and she always tries to do something for me."
+    "Вера is the most perfect housewife you can ever find. She always takes my condition as the no.1 issue and she always tries to do something for me."
 
 
 
-    g "Vera sounds like my mom~"
+    g "Вера sounds like my mom~"
 
 
 
     scene acg_duo_8_69 with tstmgr
 
-    player "Now I just need you, Vera~"
+    player "Now I just need you, Вера~"
 
 
 
@@ -1084,7 +1084,7 @@ label ACG_duo_8:
 
 
 
-    g "What are you proud of, Vera?"
+    g "What are you proud of, Вера?"
 
 
 
@@ -1154,7 +1154,7 @@ label ACG_duo_8:
 
 
 
-    "Uno wiggles its butt adorably to welcome me."
+    "Уно wiggles its butt adorably to welcome me."
 
 
 
@@ -1162,7 +1162,7 @@ label ACG_duo_8:
 
 
 
-    g "Uno is... always ready for everything master wants to do to me~"
+    g "Уно is... always ready for everything master wants to do to me~"
 
 
 
@@ -1206,7 +1206,7 @@ label ACG_duo_8:
 
 
 
-    "Uno is my cute masochistic pet and she would take every punishment from me as a gift."
+    "Уно is my cute masochistic pet and she would take every punishment from me as a gift."
 
 
 
@@ -1222,7 +1222,7 @@ label ACG_duo_8:
 
 
 
-    g "Uno is... so happy~~~"
+    g "Уно is... so happy~~~"
 
 
 

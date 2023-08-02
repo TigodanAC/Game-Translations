@@ -18,11 +18,11 @@ label F_love_8:
 
     scene f_love_8_1 with dissolve
 
-    a "*Opened the door* Ah, Rachel?"
+    a "*Opened the door* Ah, Рэйчел?"
 
 
 
-    f "Hi, Vera... ..."
+    f "Hi, Вера... ..."
 
 
 
@@ -86,7 +86,7 @@ label F_love_8:
 
 
 
-    player "Rachel? What are you doing here?"
+    player "Рэйчел? What are you doing here?"
 
 
 
@@ -98,13 +98,13 @@ label F_love_8:
 
 
 
-    g "Ah~ Hello, Rachel, we have met in the bookstore before, do you still remember?~"
+    g "Ah~ Hello, Рэйчел, we have met in the bookstore before, do you still remember?~"
 
 
 
     scene f_love_8_8 with tstmgr
 
-    f "Oh, yeah, hi, Uno... ..."
+    f "Oh, yeah, hi, Уно... ..."
 
 
 
@@ -130,13 +130,13 @@ label F_love_8:
 
 
 
-    f "(Oh, so Uno is [P]’s girlfriend, and Vera is the cheater?)"
+    f "(Oh, so Уно is [P]’s girlfriend, and Вера is the cheater?)"
 
 
 
     scene f_love_8_9 with tstmgr
 
-    f "(Wuuuuuummmm... ... So Vera is the bad guy!)"
+    f "(Wuuuuuummmm... ... So Вера is the bad guy!)"
 
 
 
@@ -146,7 +146,7 @@ label F_love_8:
 
 
 
-    f "(I’m going to tell Uno everything and if she wants, I will help her kick this adulterous couple’s asses!)"
+    f "(I’m going to tell Уно everything and if she wants, I will help her kick this adulterous couple’s asses!)"
 
 
 
@@ -166,7 +166,7 @@ label F_love_8:
 
 
 
-    player "(Uno really became much more outgoing than the first time I saw her...)"
+    player "(Уно really became much more outgoing than the first time I saw her...)"
 
 
 
@@ -196,7 +196,7 @@ label F_love_8:
 
 
 
-    g "... ... Rachel is... watching~"
+    g "... ... Рэйчел is... watching~"
 
 
 
@@ -240,7 +240,7 @@ label F_love_8:
 
     scene f_love_8_20 with tstmgr
 
-    player "Come here, Vera... ..."
+    player "Come here, Вера... ..."
 
 
 
@@ -330,7 +330,7 @@ label F_love_8:
 
 
 
-    f "Are you okay to share Vera and Uno’s love with other men?"
+    f "Are you okay to share Вера and Уно’s love with other men?"
 
 
 
@@ -380,7 +380,7 @@ label F_love_8:
 
 
 
-    f "(I feel envy at Vera and Uno when he said they are his treasures... ...)"
+    f "(I feel envy at Вера and Уно when he said they are his treasures... ...)"
 
 
 
@@ -414,7 +414,7 @@ label F_love_8:
 
     scene f_love_8_42 with tstmgr
 
-    "Rachel left the house..."
+    "Рэйчел left the house..."
 
 
 

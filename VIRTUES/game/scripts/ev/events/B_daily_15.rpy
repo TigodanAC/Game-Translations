@@ -17,11 +17,11 @@ label B_daily_15:
 
 
 
-    player "Hmm... a call from Aunt Elisa. I haven’t seen her for a year! I miss her so much!"
+    player "Hmm... a call from Aunt Элиза. I haven’t seen her for a year! I miss her so much!"
 
 
 
-    player "She and Irene... ... and Theo... ..."
+    player "She and Айрин... ... and Theo... ..."
 
 
 
@@ -45,15 +45,15 @@ label B_daily_15:
 
 
 
-    e "Irene will be so happy about this. See you later~"
+    e "Айрин will be so happy about this. See you later~"
 
 
 
-    player "Bye, Aunt Elisa."
+    player "Bye, Aunt Элиза."
 
 
 
-    "I hung up the phone and took a look at the time. It was nearly 3pm, I think I should go back to my dorm and change a shirt before I go to Aunt Elisa’s house."
+    "I hung up the phone and took a look at the time. It was nearly 3pm, I think I should go back to my dorm and change a shirt before I go to Aunt Элиза’s house."
 
 
 
@@ -149,11 +149,11 @@ label B_daily_15:
 
     scene b_daily15_8 with tstmgr
 
-    "???" "My name is... Senning."
+    "???" "My name is... Сеннин."
 
 
 
-    player "Senning, I like that name~ I mean, it is easy to pronounce. You can call me [P] if you like."
+    player "Сеннин, I like that name~ I mean, it is easy to pronounce. You can call me [P] if you like."
 
 
 

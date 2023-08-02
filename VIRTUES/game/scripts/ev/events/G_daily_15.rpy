@@ -39,7 +39,7 @@ label G_daily_15:
 
     scene g_daily_15_4 with tstmgr
 
-    player "Wait, sorry, Uno, am I being too possessive lately?"
+    player "Wait, sorry, Уно, am I being too possessive lately?"
 
 
 
@@ -91,7 +91,7 @@ label G_daily_15:
 
 
 
-    player "Uno... ..."
+    player "Уно... ..."
 
 
 

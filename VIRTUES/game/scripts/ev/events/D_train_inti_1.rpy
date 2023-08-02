@@ -10,7 +10,7 @@ label D_train_inti_1:
 
     scene d_train_inti_1_1 with tstmgr
 
-    "Girl A" "Irene, do you want to come to my home today? I just bought a lot of great mangas, we can read together~"
+    "Girl A" "Айрин, do you want to come to my home today? I just bought a lot of great mangas, we can read together~"
 
 
 
@@ -20,7 +20,7 @@ label D_train_inti_1:
 
     scene d_train_inti_1_2 with tstmgr
 
-    "Suddenly, someone put a hand on Irene’s shoulder..."
+    "Suddenly, someone put a hand on Айрин’s shoulder..."
 
 
 
@@ -56,7 +56,7 @@ label D_train_inti_1:
 
 
 
-    "Girl A" "You should teach me some tricks about how to get a boyfriend, Irene."
+    "Girl A" "You should teach me some tricks about how to get a boyfriend, Айрин."
 
 
 
@@ -112,7 +112,7 @@ label D_train_inti_1:
 
 
 
-    "Sometime later, in Irene’s room..."
+    "Sometime later, in Айрин’s room..."
 
 
 
@@ -162,13 +162,13 @@ label D_train_inti_1:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 
     scene d_train_inti_1_15 with tstmgr
 
-    player "I... I don’t want to hurt you, Irene. You are so small but my penis is... eh... relatively huge. You may be in great pain during the first-time vaginal sex."
+    player "I... I don’t want to hurt you, Айрин. You are so small but my penis is... eh... relatively huge. You may be in great pain during the first-time vaginal sex."
 
 
 
@@ -202,7 +202,7 @@ label D_train_inti_1:
 
     scene d_train_inti_1_18 with tstmgr
 
-    player "Irene... ... Okay, let’s do that~"
+    player "Айрин... ... Okay, let’s do that~"
 
 
 
@@ -238,7 +238,7 @@ label D_train_inti_1:
 
     scene d_train_inti_1_22 with tstmgr
 
-    "Irene pressed her soft body tightly against mine. I couldn’t help putting my arms around her and holding her even tighter."
+    "Айрин pressed her soft body tightly against mine. I couldn’t help putting my arms around her and holding her even tighter."
 
 
 
@@ -278,7 +278,7 @@ label D_train_inti_1:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 
@@ -296,7 +296,7 @@ label D_train_inti_1:
 
 
 
-    player "Irene, you are just stunning."
+    player "Айрин, you are just stunning."
 
 
 
@@ -312,7 +312,7 @@ label D_train_inti_1:
 
 
 
-    player "Irene’s nipple... ... is sweet like candy... ..."
+    player "Айрин’s nipple... ... is sweet like candy... ..."
 
 
 
@@ -340,7 +340,7 @@ label D_train_inti_1:
 
 
 
-    "No man could stay rational when his face was buried in Irene's lovely tits. I didn’t know how long we kept this position, and when I came to my sense again... ..."
+    "No man could stay rational when his face was buried in Айрин's lovely tits. I didn’t know how long we kept this position, and when I came to my sense again... ..."
 
 
 
@@ -384,7 +384,7 @@ label D_train_inti_1:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 
@@ -432,7 +432,7 @@ label D_train_inti_1:
 
 
 
-    d "Do you love Irene's tight anus? Do you like Irene's tight anus?"
+    d "Do you love Айрин's tight anus? Do you like Айрин's tight anus?"
 
 
 
@@ -456,13 +456,13 @@ label D_train_inti_1:
 
 
 
-    "Ahhh... damn, Irene’s tight moist anus is simply amazing. No dick could last more than 10 minutes against it... ..."
+    "Ahhh... damn, Айрин’s tight moist anus is simply amazing. No dick could last more than 10 minutes against it... ..."
 
 
 
     scene d_train_inti_1_34 with tstmgr
 
-    player "Irene, thank you for letting me do that~"
+    player "Айрин, thank you for letting me do that~"
 
 
 

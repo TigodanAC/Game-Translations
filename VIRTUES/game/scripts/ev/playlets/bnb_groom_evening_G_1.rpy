@@ -2,7 +2,7 @@ label bnb_groom_evening_G_1:
 
     scene void with tstmgr
 
-    player "(Opening the door) Hey, Uno, dinner is ready. Do you want to... ..."
+    player "(Opening the door) Hey, Уно, dinner is ready. Do you want to... ..."
 
 
 

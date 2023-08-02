@@ -96,7 +96,7 @@ label store_2_more_firstime:
 
 
 
-    player "You want to cheat on Senning’s dad?"
+    player "You want to cheat on Сеннин’s dad?"
 
 
 
@@ -112,11 +112,11 @@ label store_2_more_firstime:
 
     scene store_2_more_firstime_9 with tstmgr
 
-    player "Does Senning know this?"
+    player "Does Сеннин know this?"
 
 
 
-    "Lady Minna" "What are you thinking? Of course not. We attach great importance to children’s education. Senning has been brought up with both oriental traditional virtues and western etiquettes of being a lady. She is perfection~"
+    "Lady Minna" "What are you thinking? Of course not. We attach great importance to children’s education. Сеннин has been brought up with both oriental traditional virtues and western etiquettes of being a lady. She is perfection~"
 
 
 
@@ -174,7 +174,7 @@ label store_2_more_firstime:
 
             scene store_2_more_firstime_16 with tstmgr
 
-            "Lady Minna" "Senning did has told me that you have a remarkable performance in sex. I guess you are exactly the one I need..."
+            "Lady Minna" "Сеннин did has told me that you have a remarkable performance in sex. I guess you are exactly the one I need..."
 
             scene b_daily19_37 with flashback
 

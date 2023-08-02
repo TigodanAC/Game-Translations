@@ -34,7 +34,7 @@ label harem_AC_3:
 
     scene bnb_frontyard_evening_c_1_4 with tstmgr
 
-    player "Oh, hi, Vera, it's me~"
+    player "Oh, hi, Вера, it's me~"
 
 
 
@@ -56,7 +56,7 @@ label harem_AC_3:
 
 
 
-    c "Eh, hi, Vera... ..."
+    c "Eh, hi, Вера... ..."
 
 
 

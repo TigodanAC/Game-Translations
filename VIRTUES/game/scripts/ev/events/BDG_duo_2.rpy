@@ -3,7 +3,7 @@ label BDG_duo_2:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Irene's perspective."
+    "*The following plot is from Айрин's perspective."
 
 
 
@@ -11,7 +11,7 @@ label BDG_duo_2:
 
 
 
-    "Afternoon, in Uno’s room, Irene and Uno are having a good time together... ..."
+    "Afternoon, in Уно’s room, Айрин and Уно are having a good time together... ..."
 
 
 
@@ -21,7 +21,7 @@ label BDG_duo_2:
 
 
 
-    d "I won, Uno~ Now you are my capture again~"
+    d "I won, Уно~ Now you are my capture again~"
 
 
 
@@ -39,7 +39,7 @@ label BDG_duo_2:
 
 
 
-    g "Yaaaah~~ Help~~~ Irene is bullying me again~"
+    g "Yaaaah~~ Help~~~ Айрин is bullying me again~"
 
 
 
@@ -101,7 +101,7 @@ label BDG_duo_2:
 
 
 
-    g "Irene, can you actually spank me harder?"
+    g "Айрин, can you actually spank me harder?"
 
 
 
@@ -133,11 +133,11 @@ label BDG_duo_2:
 
 
 
-    g "Irene’s fluid is flowing out from pussy and wetting my hair and neck~~ It feels itchy~"
+    g "Айрин’s fluid is flowing out from pussy and wetting my hair and neck~~ It feels itchy~"
 
 
 
-    g "Irene must be super excited to spank me~"
+    g "Айрин must be super excited to spank me~"
 
 
 
@@ -171,7 +171,7 @@ label BDG_duo_2:
 
 
 
-    g "Irene is so cute!~"
+    g "Айрин is so cute!~"
 
 
 
@@ -181,11 +181,11 @@ label BDG_duo_2:
 
     scene bdg_duo_2_7 with tstmgr
 
-    d "*Sucking Uno’s pussy* Sip~~ sip~~ glug~~ sip~~ glug~~"
+    d "*Sucking Уно’s pussy* Sip~~ sip~~ glug~~ sip~~ glug~~"
 
 
 
-    g "Awwwww~~~ Irene's little tongue is so agile~"
+    g "Awwwww~~~ Айрин's little tongue is so agile~"
 
 
 
@@ -213,7 +213,7 @@ label BDG_duo_2:
 
     scene bdg_duo_2_9 with tstmgr
 
-    "Irene and Uno" "Hmmmmmmm?"
+    "Айрин and Уно" "Hmmmmmmm?"
 
 
 
@@ -227,7 +227,7 @@ label BDG_duo_2:
 
 
 
-    g "Senning... fainted again. Awwwww... ... [P] will be angry at us for making her faint."
+    g "Сеннин... fainted again. Awwwww... ... [P] will be angry at us for making her faint."
 
 
 

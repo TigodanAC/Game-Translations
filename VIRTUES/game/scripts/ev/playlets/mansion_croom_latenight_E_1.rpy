@@ -16,13 +16,13 @@ label mansion_croom_latenight_E_1:
 
 
 
-    "Hmmm? It seems like Aunt Elisa is looking at a picture."
+    "Hmmm? It seems like Aunt Элиза is looking at a picture."
 
 
 
     scene mansion_croom_latenight_e_1_2 with tstmgr
 
-    player "What are you looking at, Aunt Elisa?"
+    player "What are you looking at, Aunt Элиза?"
 
 
 
@@ -42,7 +42,7 @@ label mansion_croom_latenight_E_1:
 
 
 
-    player "Aunt Elisa..."
+    player "Aunt Элиза..."
 
 
 

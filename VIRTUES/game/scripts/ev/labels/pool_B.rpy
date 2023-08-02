@@ -36,7 +36,7 @@ label pool_B.b_pool_1:
 
     scene b_pool_1_3 with tstmgr
 
-    player "*immersed face in Senning’s butt* How could I miss any chance to taste this tasty butt?"
+    player "*immersed face in Сеннин’s butt* How could I miss any chance to taste this tasty butt?"
 
 
 
@@ -166,7 +166,7 @@ label pool_B.b_pool_1:
 
     scene void with tstmgr
 
-    "We then spent the entire time on looking for Senning’s glasses."
+    "We then spent the entire time on looking for Сеннин’s glasses."
 
 
 

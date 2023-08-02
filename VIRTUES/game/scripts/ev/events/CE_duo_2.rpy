@@ -87,7 +87,7 @@ label CE_duo_2:
 
 
 
-    "Elisa pressed her boobs tightly against Theo’s. It is extremely stimulating for Theo since her nipples are super sensitive."
+    "Элиза pressed her boobs tightly against Theo’s. It is extremely stimulating for Theo since her nipples are super sensitive."
 
 
 

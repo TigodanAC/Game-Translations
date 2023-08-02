@@ -3,7 +3,7 @@ label hint_clean:
     scene void with tstmgr
     play music happy
 
-    "Morning, while I was cleaning the house with Vera..."
+    "Morning, while I was cleaning the house with Вера..."
 
 
 

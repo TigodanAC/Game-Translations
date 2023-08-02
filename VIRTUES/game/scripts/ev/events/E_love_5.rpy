@@ -3,7 +3,7 @@ label E_love_5:
     scene void with tstmgr
     play music sorrow
 
-    "I came to Aunt Elisa’s house this afternoon for tutoring. The door is not locked, but no one seems at home."
+    "I came to Aunt Элиза’s house this afternoon for tutoring. The door is not locked, but no one seems at home."
 
 
 
@@ -13,7 +13,7 @@ label E_love_5:
 
 
 
-    player "Aunt Elisa? Irene? Are you there?"
+    player "Aunt Элиза? Айрин? Are you there?"
 
 
 
@@ -21,7 +21,7 @@ label E_love_5:
 
 
 
-    player "Irene may be on her way home right now. But where is Aunt Elisa?... ..."
+    player "Айрин may be on her way home right now. But where is Aunt Элиза?... ..."
 
 
 
@@ -119,7 +119,7 @@ label E_love_5:
 
 
 
-    player "I... I tried, but I can’t... Sorry, Aunt Elisa. I can’t move my eyes away from you."
+    player "I... I tried, but I can’t... Sorry, Aunt Элиза. I can’t move my eyes away from you."
 
 
 
@@ -135,7 +135,7 @@ label E_love_5:
 
     scene e_love_5_8 with tstmgr
 
-    player "I think you look super attractive right now, Aunt Elisa."
+    player "I think you look super attractive right now, Aunt Элиза."
 
 
 
@@ -149,7 +149,7 @@ label E_love_5:
 
 
 
-    player "Oh, forget about it. What I’m trying to say is... ... Aunt Elisa, I really like the way you are right now."
+    player "Oh, forget about it. What I’m trying to say is... ... Aunt Элиза, I really like the way you are right now."
 
 
 
@@ -233,7 +233,7 @@ label E_love_5:
 
 
 
-    player "Aunt Elisa... do you need my help?"
+    player "Aunt Элиза... do you need my help?"
 
 
 
@@ -349,7 +349,7 @@ label E_love_5:
 
     scene e_love_5_24 with tstmgr
 
-    player "How do you feel? Aunt Elisa?"
+    player "How do you feel? Aunt Элиза?"
 
 
 
@@ -373,7 +373,7 @@ label E_love_5:
 
 
 
-    player "It may hurt a little, Aunt Elisa."
+    player "It may hurt a little, Aunt Элиза."
 
 
 
@@ -437,7 +437,7 @@ label E_love_5:
 
 
 
-    player "And you seem to like me doing it, Aunt Elisa."
+    player "And you seem to like me doing it, Aunt Элиза."
 
 
 
@@ -483,7 +483,7 @@ label E_love_5:
 
             scene e_love_5_45 with tstmgr
 
-            e "Irene will be home anytime. You should go wait for her in her room."
+            e "Айрин will be home anytime. You should go wait for her in her room."
 
             e "See you... later."
 
@@ -525,7 +525,7 @@ label E_love_5:
 
             e "Kiss me, [P]. I want you to kiss me!"
 
-            player "Aunt Elisa... ..."
+            player "Aunt Элиза... ..."
 
             scene e_love_5_37 with tstmgr
 

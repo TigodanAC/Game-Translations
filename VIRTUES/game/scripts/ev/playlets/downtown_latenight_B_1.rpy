@@ -2,7 +2,7 @@ label downtown_latenight_B_1:
 
     scene downtown_latenight_b_1_1 with tstmgr
 
-    "Senning and I are walking along the street..."
+    "Сеннин and I are walking along the street..."
 
 
 

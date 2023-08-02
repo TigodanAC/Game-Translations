@@ -20,7 +20,7 @@ label clothing_afternoon_A_4:
 
 
 
-    "Manager" "Is there a problem, Vera?"
+    "Manager" "Is there a problem, Вера?"
 
 
 

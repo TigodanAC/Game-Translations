@@ -4,13 +4,13 @@ label d5_3:
 
     narrator "Afternoon, In the library."
 
-    narrator "Senning is helping me go through last day's lecture slides which I missed in class while sleeping."
+    narrator "Сеннин is helping me go through last day's lecture slides which I missed in class while sleeping."
 
     scene b_library_smile with tstmgr
 
     b "Is there anything in my note you still do not understand?"
 
-    player "No, I'm fine now. Thank you, Senning, you are such a good teacher."
+    player "No, I'm fine now. Thank you, Сеннин, you are such a good teacher."
 
     scene library_background with tstmgr
 
@@ -26,9 +26,9 @@ label d5_3:
 
     player "Hi, Jake? Did you find anything useful?"
 
-    "Jake" "Of course I did. I found Vera's neighbor, that Jennifer, bought her some drinks, then she told me everything she knows."
+    "Jake" "Of course I did. I found Вера's neighbor, that Jennifer, bought her some drinks, then she told me everything she knows."
 
-    "Jake" "According to her, that Vera was from a poor countryside family. She came to this city alone last month, trying to make a better life."
+    "Jake" "According to her, that Вера was from a poor countryside family. She came to this city alone last month, trying to make a better life."
 
     "Jake" "She now has two jobs to do every day, morning at a cafe as a waitress, afternoon at a clothing store as a salesperson. And as far as I know, she has just found another job at Uzi Bar, and she will be there tonight for her first day at work."
 
@@ -48,7 +48,7 @@ label d5_3:
 
     narrator "I hung up the phone."
 
-    player "Sorry, Senning, where were we?"
+    player "Sorry, Сеннин, where were we?"
 
     scene b_library_angry with tstmgr
 
@@ -70,11 +70,11 @@ label d5_3:
 
     narrator "She left angrily."
 
-    narrator "Well, this is Senning. She is like a sheep in most cases, but she would become a lion when she gets angry."
+    narrator "Well, this is Сеннин. She is like a sheep in most cases, but she would become a lion when she gets angry."
 
     narrator "I pissed two girls off in the last two days. What a genius I am."
 
-    narrator "Anyway, now the most important thing is to find Vera tonight. And let's see if I can do something to make Senning cool down tomorrow. "
+    narrator "Anyway, now the most important thing is to find Вера tonight. And let's see if I can do something to make Сеннин cool down tomorrow. "
 
     scene void with tstmgr
 

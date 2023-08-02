@@ -3,7 +3,7 @@ label se_bookstore:
     scene bookstore_background with tstmgr
     play music happy
 
-    narrator "Senning is going to the bookstore for an interview. And I am going with her."
+    narrator "Сеннин is going to the bookstore for an interview. And I am going with her."
 
     scene se_bookstore_1 with tstmgr
 
@@ -67,11 +67,11 @@ label se_bookstore:
 
     scene bookstore_background with tstmgr
 
-    narrator "Senning and the girl soon left and headed to the meeting room. "
+    narrator "Сеннин and the girl soon left and headed to the meeting room. "
 
     narrator "So... What should I do?"
 
-    narrator "I think I should check around, you know, to make sure this bookstore is a safe place for Senning to work."
+    narrator "I think I should check around, you know, to make sure this bookstore is a safe place for Сеннин to work."
 
     narrator "The store looks nice and clean. But what about the staff area?"
 
@@ -111,7 +111,7 @@ label se_bookstore:
 
     scene se_bookstore_8 with tstmgr
 
-    narrator "Soon, a girl came inside the room. It was the same girl that led Senning to the meeting room."
+    narrator "Soon, a girl came inside the room. It was the same girl that led Сеннин to the meeting room."
 
     player "(That girl...)"
 
@@ -217,7 +217,7 @@ label se_bookstore:
 
     narrator "A few minutes later, I came out from the locker, and left the staff area quietly."
 
-    narrator "Senning is already waiting for me in the store."
+    narrator "Сеннин is already waiting for me in the store."
 
     scene se_bookstore_4 with tstmgr
 

@@ -32,9 +32,9 @@ label G_action_sha_2_girlfriend:
 
             scene g_action_sha_2_10 with dissolve
 
-            player "Say hi to your fans, Uno."
+            player "Say hi to your fans, Уно."
 
-            g "Hi... people, this is... Uno the titty slave."
+            g "Hi... people, this is... Уно the titty slave."
 
             player "Don’t cover your body with hands, let people see how sexy you are~"
 
@@ -44,7 +44,7 @@ label G_action_sha_2_girlfriend:
 
             scene g_action_sha_2_12 with tstmgr
 
-            g "Awwwwww~~ Master, did Uno do anything wrong?"
+            g "Awwwwww~~ Master, did Уно do anything wrong?"
 
             player "Nope, but somehow I just want to punish you right now, because I’m your master and I can do anything I want to you, right?"
 
@@ -62,13 +62,13 @@ label G_action_sha_2_girlfriend:
 
             scene g_action_sha_2_15 with tstmgr
 
-            g "Uno... Uno wants master to keep playing my body. Uno’s body is master’s exclusive toy~"
+            g "Уно... Уно wants master to keep playing my body. Уно’s body is master’s exclusive toy~"
 
-            g "Could you please... make your Uno cum, master? Your shameless titty slave wants it so bad... ..."
+            g "Could you please... make your Уно cum, master? Your shameless titty slave wants it so bad... ..."
 
             "Oh, I didn’t teach her to say those. She is... ... so talented at this."
 
-            player "Alright, Uno, now serve me like the last time and you can cum with your favorite dick~"
+            player "Alright, Уно, now serve me like the last time and you can cum with your favorite dick~"
 
             scene g_action_sha_2_16 with tstmgr
 
@@ -80,25 +80,25 @@ label G_action_sha_2_girlfriend:
 
             "A few moments later..."
 
-            g "Ahh~~ Ahh~~ Master, master, Uno wants more~~~"
+            g "Ahh~~ Ahh~~ Master, master, Уно wants more~~~"
 
             scene g_train_sha_2_38 with dissolve
 
             pause
 
-            g "Uno... Uno is so happy~~"
+            g "Уно... Уно is so happy~~"
 
-            g "Uno can’t see anything, but... ..."
+            g "Уно can’t see anything, but... ..."
 
             g "I know that I served master well because master’s penis is getting so big inside my body~"
 
-            player "Uno... ... ... ..."
+            player "Уно... ... ... ..."
 
             scene g_train_sha_2_37 with tstmgr
 
             g "Ahh~~~ ahh~~~ ahh~~~ master~~~"
 
-            g "Uno... loves... you... ..."
+            g "Уно... loves... you... ..."
 
             g "Awwwww~~~~ I’m about to... ..."
 
@@ -112,7 +112,7 @@ label G_action_sha_2_girlfriend:
 
             g "*Lost consciousness* ... ... ... ..."
 
-            player "Eh... ... Uno?"
+            player "Eh... ... Уно?"
 
             "Damn, she passed out again..."
 
@@ -196,9 +196,9 @@ label G_action_sha_2_girlfriend:
 
             g "Make my body remember... this feel~"
 
-            g "Uno... loves master’s dick... so much... ..."
+            g "Уно... loves master’s dick... so much... ..."
 
-            g "Uno is... is... ..."
+            g "Уно is... is... ..."
 
             scene g_action_sha_2_3 with tstmgr
 
@@ -214,7 +214,7 @@ label G_action_sha_2_girlfriend:
 
             g "Ohhhhhhhhhhhhhhhh~~~~~"
 
-            player "Uno... ..."
+            player "Уно... ..."
 
             scene g_action_sha_2_5 with tstmgr
 

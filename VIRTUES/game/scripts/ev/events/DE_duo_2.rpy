@@ -3,7 +3,7 @@ label DE_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Elisa’s mansion..."
+    "Late night, in Элиза’s mansion..."
 
 
 
@@ -41,7 +41,7 @@ label DE_duo_2:
 
     scene de_duo_2_4 with dissolve
 
-    player "Irene?"
+    player "Айрин?"
 
 
 
@@ -53,7 +53,7 @@ label DE_duo_2:
 
 
 
-    "Irene is that kind of person who is literally scared of thunder. I remember that she would cry every rainy night when she was a kid."
+    "Айрин is that kind of person who is literally scared of thunder. I remember that she would cry every rainy night when she was a kid."
 
 
 
@@ -131,7 +131,7 @@ label DE_duo_2:
 
 
 
-    player "Irene... ... ... ..."
+    player "Айрин... ... ... ..."
 
 
 
@@ -167,7 +167,7 @@ label DE_duo_2:
 
     scene de_duo_2_14 with tstmgr
 
-    "Irene soon fell into sleep in my arms, soundly like a kitty. It seemed like my body has given her a great sense of security."
+    "Айрин soon fell into sleep in my arms, soundly like a kitty. It seemed like my body has given her a great sense of security."
 
 
 
@@ -189,23 +189,23 @@ label DE_duo_2:
 
 
 
-    "My door was gently opened by someone at the next second. It was Aunt Elisa."
+    "My door was gently opened by someone at the next second. It was Aunt Элиза."
 
 
 
     scene de_duo_2_16 with tstmgr
 
-    e "Ha, Irene is really here~"
+    e "Ha, Айрин is really here~"
 
 
 
-    player "Aunt Elisa? You haven’t gone to bed yet?"
+    player "Aunt Элиза? You haven’t gone to bed yet?"
 
 
 
     scene de_duo_2_17 with tstmgr
 
-    e "The storm is so heavy today, I was worried about Irene... ..."
+    e "The storm is so heavy today, I was worried about Айрин... ..."
 
 
 
@@ -227,13 +227,13 @@ label DE_duo_2:
 
 
 
-    d "*Talking in the dream* Mommy... ... [P]... ... Theo... ... Irene... ... together forever... ..."
+    d "*Talking in the dream* Mommy... ... [P]... ... Theo... ... Айрин... ... together forever... ..."
 
 
 
     scene de_duo_2_19 with tstmgr
 
-    e "Irene... ..."
+    e "Айрин... ..."
 
 
 

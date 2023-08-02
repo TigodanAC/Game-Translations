@@ -7,7 +7,7 @@ label G_love_5:
 
 
 
-    "Later this evening, Uno and I are making another porn video in her room..."
+    "Later this evening, Уно and I are making another porn video in her room..."
 
 
 

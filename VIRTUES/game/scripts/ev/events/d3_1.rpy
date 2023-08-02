@@ -221,7 +221,7 @@ label d3_1:
 
 
 
-    a "I’m Vera. Nice to meet you."
+    a "I’m Вера. Nice to meet you."
 
 
 
@@ -499,7 +499,7 @@ label d3_1:
 
 
 
-    player "Vera... ... ... ..."
+    player "Вера... ... ... ..."
 
 
 
@@ -575,7 +575,7 @@ label d3_1:
 
 
 
-    player "Vera... ... ... ..."
+    player "Вера... ... ... ..."
 
 
 

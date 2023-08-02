@@ -8,7 +8,7 @@ label alley_latenight_A_1:
 
     scene alley_latenight_a_1_2 with tstmgr
 
-    player "Hi, Vera."
+    player "Hi, Вера."
 
 
 

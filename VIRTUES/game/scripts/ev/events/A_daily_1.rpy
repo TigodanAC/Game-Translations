@@ -3,11 +3,11 @@ label A_daily_1:
     scene bar_background with tstmgr
     play music happy
 
-    "Restaurateur" "You know, I raised Vera's wage recently."
+    "Restaurateur" "You know, I raised Вера's wage recently."
 
     player "For real? That's not like you. You are practically famous for your parsimony."
 
-    "Restaurateur" "That's because I believe none of my other employees deserve a higher wage. Vera is different, however. She deserves more."
+    "Restaurateur" "That's because I believe none of my other employees deserve a higher wage. Вера is different, however. She deserves more."
 
     player "Why is that?"
 
@@ -27,7 +27,7 @@ label A_daily_1:
 
     player "... ... ... ..."
 
-    narrator "I lifted my head up, and saw the back of Vera's figure serving a table of guests."
+    narrator "I lifted my head up, and saw the back of Вера's figure serving a table of guests."
 
     narrator "Indeed, just like the restaurateur said, she is so energetic. No matter what she had been through, she still seems to embrace her life with full of optimism and passion."
 

@@ -3,7 +3,7 @@ label F_daily_7:
     scene f_daily7_1 with tstmgr
     play music happy
 
-    player "Hi, Rachel. How’s everything?"
+    player "Hi, Рэйчел. How’s everything?"
 
 
 
@@ -45,7 +45,7 @@ label F_daily_7:
 
 
 
-    "Sometime later, in Rachel’s room..."
+    "Sometime later, in Рэйчел’s room..."
 
 
 
@@ -67,7 +67,7 @@ label F_daily_7:
 
     scene f_daily7_6 with tstmgr
 
-    player "Sorry, Rachel... ..."
+    player "Sorry, Рэйчел... ..."
 
 
 
@@ -207,7 +207,7 @@ label F_daily_7:
 
 
 
-    player "Rachel... ... ... ..."
+    player "Рэйчел... ... ... ..."
 
 
 
@@ -277,7 +277,7 @@ label F_daily_7:
 
     scene f_daily7_25 with tstmgr
 
-    player "I... I think that’s enough, Rachel."
+    player "I... I think that’s enough, Рэйчел."
 
 
 
@@ -383,7 +383,7 @@ label F_daily_7:
 
     scene f_daily7_35 with tstmgr
 
-    player "Wait, Rachel?"
+    player "Wait, Рэйчел?"
 
 
 
@@ -397,7 +397,7 @@ label F_daily_7:
 
 
 
-    f "(So this is the thing that Senning once sucked with her mouth...)"
+    f "(So this is the thing that Сеннин once sucked with her mouth...)"
 
 
 
@@ -407,7 +407,7 @@ label F_daily_7:
 
 
 
-    player "Seriously, Rachel, I don’t think this is a good idea."
+    player "Seriously, Рэйчел, I don’t think this is a good idea."
 
 
 
@@ -446,7 +446,7 @@ label F_daily_7:
 
 
 
-    player "Ohhhh my God... ... You lick... like you have done it before. Where did you learn all this, Rachel?"
+    player "Ohhhh my God... ... You lick... like you have done it before. Where did you learn all this, Рэйчел?"
 
 
 
@@ -480,7 +480,7 @@ label F_daily_7:
 
     scene f_love_6_27 with flashback
 
-    f "(Senning once took it in her mouth...)"
+    f "(Сеннин once took it in her mouth...)"
 
 
 
@@ -540,7 +540,7 @@ label F_daily_7:
 
 
 
-    player "I’m sorry, Rachel, I didn’t mean to... came in your mouth."
+    player "I’m sorry, Рэйчел, I didn’t mean to... came in your mouth."
 
 
 
@@ -550,7 +550,7 @@ label F_daily_7:
 
 
 
-    f "(Senning... had all of your cum too... ...)"
+    f "(Сеннин... had all of your cum too... ...)"
 
 
 
@@ -582,7 +582,7 @@ label F_daily_7:
 
 
 
-    player "Bye, Rachel..."
+    player "Bye, Рэйчел..."
 
 
 

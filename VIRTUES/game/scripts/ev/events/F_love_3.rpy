@@ -106,7 +106,7 @@ label F_love_3:
 
 
 
-    "Sometime later, in Rachel’s room..."
+    "Sometime later, in Рэйчел’s room..."
 
 
 
@@ -330,9 +330,9 @@ label F_love_3:
 
             player "That was delicious... ..."
 
-            player "How do you feel, Rachel?"
+            player "How do you feel, Рэйчел?"
 
-            player "Rachel?"
+            player "Рэйчел?"
 
             "... ... ... ..."
 

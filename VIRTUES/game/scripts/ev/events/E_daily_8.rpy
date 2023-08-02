@@ -3,7 +3,7 @@ label E_daily_8:
     scene void with tstmgr
     play music sorrow
 
-    "After today’s tutoring class with Irene..."
+    "After today’s tutoring class with Айрин..."
 
 
 
@@ -29,7 +29,7 @@ label E_daily_8:
 
     scene e_daily8_3 with tstmgr
 
-    player "Yeah, I have already booked an Uber. See you tomorrow, Aunt Elisa and Irene."
+    player "Yeah, I have already booked an Uber. See you tomorrow, Aunt Элиза and Айрин."
 
 
 

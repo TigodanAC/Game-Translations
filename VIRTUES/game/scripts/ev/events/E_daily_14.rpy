@@ -3,7 +3,7 @@ label E_daily_14:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, Elisa and Irene are having a bath together..."
+    "Later tonight, Элиза and Айрин are having a bath together..."
 
 
 
@@ -41,7 +41,7 @@ label E_daily_14:
 
 
 
-    e "Irene... ..."
+    e "Айрин... ..."
 
 
 

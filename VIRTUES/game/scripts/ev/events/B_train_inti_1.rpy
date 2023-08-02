@@ -3,7 +3,7 @@ label B_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "Senning came to my house today to prepare for an exam with me."
+    "Сеннин came to my house today to prepare for an exam with me."
 
 
 
@@ -65,7 +65,7 @@ label B_train_inti_1:
 
     scene b_train_inti_1_6 with dissolve
 
-    "We spent the next few hours studying together. Senning was a great teacher and she easily answered all the questions I had about the course."
+    "We spent the next few hours studying together. Сеннин was a great teacher and she easily answered all the questions I had about the course."
 
 
 
@@ -181,7 +181,7 @@ label B_train_inti_1:
 
 
 
-    "Senning didn’t say a word."
+    "Сеннин didn’t say a word."
 
 
 
@@ -231,7 +231,7 @@ label B_train_inti_1:
 
 
 
-    "Senning fell on me, put her head on my chest and kept kissing me through my shirt."
+    "Сеннин fell on me, put her head on my chest and kept kissing me through my shirt."
 
 
 
@@ -265,7 +265,7 @@ label B_train_inti_1:
 
 
 
-    "Well, this is it, Senning is completely out of control. She has taken off my shirt and couldn’t stop kissing and licking my body."
+    "Well, this is it, Сеннин is completely out of control. She has taken off my shirt and couldn’t stop kissing and licking my body."
 
 
 

@@ -2,13 +2,13 @@ label mansion_tutor_afternoon_E_1:
 
     scene d_room_background with tstmgr
 
-    "At the time when I was tutoring Irene, Aunt Elisa opened the door with a crack quietly and looked inside."
+    "At the time when I was tutoring Айрин, Aunt Элиза opened the door with a crack quietly and looked inside."
 
 
 
     scene e_droom_smile with tstmgr
 
-    e "([P] is doing a quite good job. Irene seems to enjoy the way he teaches as well.)"
+    e "([P] is doing a quite good job. Айрин seems to enjoy the way he teaches as well.)"
 
 
 

@@ -21,13 +21,13 @@ label F_daily_10:
 
     scene f_daily10_3 with tstmgr
 
-    b "Rachel!~~~"
+    b "Рэйчел!~~~"
 
 
 
     scene f_daily10_4 with tstmgr
 
-    f "Senning? Good morning~"
+    f "Сеннин? Good morning~"
 
 
 
@@ -43,7 +43,7 @@ label F_daily_10:
 
     scene f_daily10_6 with tstmgr
 
-    b "You were so cool back there, Rachel! How could anyone run so fast on this planet?"
+    b "You were so cool back there, Рэйчел! How could anyone run so fast on this planet?"
 
 
 
@@ -103,13 +103,13 @@ label F_daily_10:
 
 
 
-    "Although Rachel doesn’t know much about how to get along with people, she vaguely felt that she should hide the fact from Senning that she had had sex with [P]."
+    "Although Рэйчел doesn’t know much about how to get along with people, she vaguely felt that she should hide the fact from Сеннин that she had had sex with [P]."
 
 
 
     scene f_daily10_13 with tstmgr
 
-    f "Sorry, Senning... ..."
+    f "Sorry, Сеннин... ..."
 
 
 
@@ -131,7 +131,7 @@ label F_daily_10:
 
 
 
-    "Apparently, Rachel is not a good secret keeper."
+    "Apparently, Рэйчел is not a good secret keeper."
 
 
 
@@ -217,7 +217,7 @@ label F_daily_10:
 
     scene f_daily10_23 with tstmgr
 
-    b "Are you okay, Rachel?"
+    b "Are you okay, Рэйчел?"
 
 
 
@@ -311,7 +311,7 @@ label F_daily_10:
 
 
 
-    "Senning and Rachel then spent a wonderful afternoon together..."
+    "Сеннин and Рэйчел then spent a wonderful afternoon together..."
 
 
 

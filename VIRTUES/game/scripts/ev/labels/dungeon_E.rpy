@@ -86,7 +86,7 @@ label dungeon_E.e_dungeon_1:
 
 
 
-    player "Elisa... ... ... ..."
+    player "Элиза... ... ... ..."
 
 
 
@@ -96,7 +96,7 @@ label dungeon_E.e_dungeon_1:
 
 
 
-    player "Promise me, Elisa! Promise me that you will be happy to be used by me all the time!"
+    player "Promise me, Элиза! Promise me that you will be happy to be used by me all the time!"
 
 
 
@@ -193,7 +193,7 @@ label dungeon_E.e_dungeon_2:
 
     scene e_dungeon_2_2 with tstmgr
 
-    player "I’m on it, Elisa~"
+    player "I’m on it, Элиза~"
 
 
 

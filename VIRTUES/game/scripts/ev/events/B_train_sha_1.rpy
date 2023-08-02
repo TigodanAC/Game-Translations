@@ -3,7 +3,7 @@ label B_train_sha_1:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, when I found Senning in her room..."
+    "A few days later, when I found Сеннин in her room..."
 
 
 
@@ -175,7 +175,7 @@ label B_train_sha_1:
 
 
 
-    player "Alright, Senning, you can open your eyes now~"
+    player "Alright, Сеннин, you can open your eyes now~"
 
 
 
@@ -297,7 +297,7 @@ label B_train_sha_1:
 
     scene b_train_sha_1_22 with dissolve
 
-    "Although Senning was very unaccustomed to dancing in a place like this, I could see that she was trying her best. She kept her eyes closed nervously and jumped up and down like a frightened rabbit."
+    "Although Сеннин was very unaccustomed to dancing in a place like this, I could see that she was trying her best. She kept her eyes closed nervously and jumped up and down like a frightened rabbit."
 
 
 
@@ -325,7 +325,7 @@ label B_train_sha_1:
 
     scene b_train_sha_1_26 with tstmgr
 
-    "Senning then calmed down and leaned her head in my arms. We moved softly like we were at a formal dance party."
+    "Сеннин then calmed down and leaned her head in my arms. We moved softly like we were at a formal dance party."
 
 
 

@@ -3,7 +3,7 @@ label E_love_3:
     scene e_love_3_1 with tstmgr
     play music sorrow
 
-    "Today’s tutoring class with Irene is finished. Now I should go home."
+    "Today’s tutoring class with Айрин is finished. Now I should go home."
 
 
 
@@ -13,7 +13,7 @@ label E_love_3:
 
 
 
-    player "Hi, Aunt Elisa."
+    player "Hi, Aunt Элиза."
 
 
 
@@ -21,7 +21,7 @@ label E_love_3:
 
 
 
-    player "It... it went very well. Irene is a smart girl. She definitely has the potential to get into a top college."
+    player "It... it went very well. Айрин is a smart girl. She definitely has the potential to get into a top college."
 
 
 
@@ -71,7 +71,7 @@ label E_love_3:
 
 
 
-    player "I mean... I’d like to stay here for one night, but I don’t want to bother you, Aunt Elisa."
+    player "I mean... I’d like to stay here for one night, but I don’t want to bother you, Aunt Элиза."
 
 
 
@@ -97,7 +97,7 @@ label E_love_3:
 
 
 
-    "Nothing has changed in this room after all these years. Aunt Elisa really keeps this room well."
+    "Nothing has changed in this room after all these years. Aunt Элиза really keeps this room well."
 
 
 
@@ -111,7 +111,7 @@ label E_love_3:
 
 
 
-    c "Give him a break, Irene. Just go play yourself."
+    c "Give him a break, Айрин. Just go play yourself."
 
 
 
@@ -145,7 +145,7 @@ label E_love_3:
 
     scene e_love_3_6 with tstmgr
 
-    player "Oh, hi, Aunt Elisa."
+    player "Oh, hi, Aunt Элиза."
 
 
 
@@ -171,7 +171,7 @@ label E_love_3:
 
 
 
-    player "Oh, what? The room? It’s perfect. Thanks, Aunt Elisa."
+    player "Oh, what? The room? It’s perfect. Thanks, Aunt Элиза."
 
 
 
@@ -197,7 +197,7 @@ label E_love_3:
 
 
 
-    player "I don’t know, Aunt Elisa. I can’t really remember what it was like before."
+    player "I don’t know, Aunt Элиза. I can’t really remember what it was like before."
 
 
 
@@ -237,7 +237,7 @@ label E_love_3:
 
     scene e_love_3_14 with tstmgr
 
-    player "Aunt Elisa. I... ... ... ..."
+    player "Aunt Элиза. I... ... ... ..."
 
 
 
@@ -249,13 +249,13 @@ label E_love_3:
 
             scene e_love_3_15 with tstmgr
 
-            "Suddenly, Irene’s voice was heard from the outside."
+            "Suddenly, Айрин’s voice was heard from the outside."
 
             d "Mom, where are you?"
 
             e "... ... ... ..."
 
-            e "Irene is calling me. I should go now."
+            e "Айрин is calling me. I should go now."
 
             player "... ... ... ..."
 
@@ -265,7 +265,7 @@ label E_love_3:
 
             e "(Relived sighing) You have a good rest. See you tomorrow."
 
-            player "Goodnight, Aunt Elisa."
+            player "Goodnight, Aunt Элиза."
 
             scene void with tstmgr
 
@@ -277,7 +277,7 @@ label E_love_3:
 
             scene e_love_3_17 with tstmgr
 
-            player "Aunt Elisa!"
+            player "Aunt Элиза!"
 
             e "What?... ... ... ..."
 
@@ -305,7 +305,7 @@ label E_love_3:
 
             scene e_love_3_22 with tstmgr
 
-            player "Aunt Elisa!!"
+            player "Aunt Элиза!!"
 
             e "(Surprisedly moaning) Oh... ... ... ..."
 
@@ -363,11 +363,11 @@ label E_love_3:
 
             e "Hmmm... hey, [P]. Would you please... let me go?"
 
-            player "Aunt Elisa... your chest is so warm... ..."
+            player "Aunt Элиза... your chest is so warm... ..."
 
             e "Oww... ... [P]..."
 
-            "Suddenly, Irene’s voice was heard from the outside."
+            "Suddenly, Айрин’s voice was heard from the outside."
 
             d "Mom, where are you?"
 
@@ -375,7 +375,7 @@ label E_love_3:
 
             e "... ... ... ..."
 
-            e "Irene is calling me. I should go now."
+            e "Айрин is calling me. I should go now."
 
             e "(Thank God...)"
 
@@ -389,7 +389,7 @@ label E_love_3:
 
             e "(Relived sighing) You have a good rest. See you tomorrow."
 
-            player "Goodnight, Aunt Elisa."
+            player "Goodnight, Aunt Элиза."
 
             e "... ... ... ..."
 

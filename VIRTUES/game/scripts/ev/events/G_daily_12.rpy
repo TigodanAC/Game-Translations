@@ -9,7 +9,7 @@ label G_daily_12:
 
     scene g_daily12_1 with dissolve
 
-    player "Hey, Vera, have we received any letters from the bank recently?"
+    player "Hey, Вера, have we received any letters from the bank recently?"
 
 
 
@@ -31,7 +31,7 @@ label G_daily_12:
 
     scene g_daily12_4 with tstmgr
 
-    a "Maybe it’s my fault. I might have made a mistake and tossed it in the trash together with those harassment letters for Uno. There were just too many of them."
+    a "Maybe it’s my fault. I might have made a mistake and tossed it in the trash together with those harassment letters for Уно. There were just too many of them."
 
 
 
@@ -43,7 +43,7 @@ label G_daily_12:
 
     scene g_daily12_6 with tstmgr
 
-    a "Oh, no, Uno, I didn’t mean to... ..."
+    a "Oh, no, Уно, I didn’t mean to... ..."
 
 
 
@@ -59,7 +59,7 @@ label G_daily_12:
 
     scene g_daily12_8 with tstmgr
 
-    "Vera turned to look at me with flustered eyes."
+    "Вера turned to look at me with flustered eyes."
 
 
 
@@ -67,7 +67,7 @@ label G_daily_12:
 
 
 
-    player "Yeah, Uno, Vera wasn’t blaming you."
+    player "Yeah, Уно, Вера wasn’t blaming you."
 
 
 
@@ -91,7 +91,7 @@ label G_daily_12:
 
     scene void with tstmgr
 
-    "Uno then left the room..."
+    "Уно then left the room..."
 
 
 
@@ -107,7 +107,7 @@ label G_daily_12:
 
     scene g_daily12_11 with tstmgr
 
-    player "It’s okay, Vera."
+    player "It’s okay, Вера."
 
 
 
@@ -115,7 +115,7 @@ label G_daily_12:
 
 
 
-    "I do have noticed that Uno seemed to be a little distressed these days, but that is normal, right? Everybody gets distressed sometimes."
+    "I do have noticed that Уно seemed to be a little distressed these days, but that is normal, right? Everybody gets distressed sometimes."
 
 
 
@@ -157,7 +157,7 @@ label G_daily_12:
 
     scene g_daily12_16 with tstmgr
 
-    player "I will, Vera. Now stop thinking too much."
+    player "I will, Вера. Now stop thinking too much."
 
 
 
@@ -201,7 +201,7 @@ label G_daily_12:
 
 
 
-    player "(When did Uno come?)"
+    player "(When did Уно come?)"
 
 
 
@@ -219,7 +219,7 @@ label G_daily_12:
 
     scene g_daily12_22 with tstmgr
 
-    player "It must be hard for you these days, Uno... But don’t worry, I will always be around and protect you..."
+    player "It must be hard for you these days, Уно... But don’t worry, I will always be around and protect you..."
 
 
 

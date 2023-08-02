@@ -110,7 +110,7 @@ label G_action_inti_1_girlfriend:
 
             g "Ahhhhh... huhh... huh... ..."
 
-            player "Alright, Uno, I’m about to cum."
+            player "Alright, Уно, I’m about to cum."
 
             g "Cum... outside... because... ... dangerous period... ..."
 
@@ -142,13 +142,13 @@ label G_action_inti_1_girlfriend:
 
             g "So... hot... ... your cum... ..."
 
-            player "Uno... ..."
+            player "Уно... ..."
 
             scene g_action_inti_1_10 with tstmgr
 
             g "I thought you would... cum inside... ..."
 
-            g "[P]... ... Uno... loves you~~~"
+            g "[P]... ... Уно... loves you~~~"
         "Play her tits on the table":
 
 
@@ -156,7 +156,7 @@ label G_action_inti_1_girlfriend:
 
             scene g_train_inti_1_29 with tstmgr
 
-            player "Well, Uno, I’m not going to fuck you today~ I’m going to focus on your tits~"
+            player "Well, Уно, I’m not going to fuck you today~ I’m going to focus on your tits~"
 
             g "Okay... ..."
 
@@ -186,13 +186,13 @@ label G_action_inti_1_girlfriend:
 
             scene g_action_inti_1_13 with tstmgr
 
-            player "Ohhhh... Uno, I was so lucky to meet you!"
+            player "Ohhhh... Уно, I was so lucky to meet you!"
 
             g "Oh... ah... thanks~"
 
             player "Your tits... can cure all my tiredness... ..."
 
-            g "You are acting like Irene now~"
+            g "You are acting like Айрин now~"
 
             g "You two are both big babies, hee hee~~~"
 
@@ -216,7 +216,7 @@ label G_action_inti_1_girlfriend:
 
 
 
-    "Uno and I had a fun time together that night, but I guess I’ll have to spend another day on my homeworks... ..."
+    "Уно and I had a fun time together that night, but I guess I’ll have to spend another day on my homeworks... ..."
 
 
 

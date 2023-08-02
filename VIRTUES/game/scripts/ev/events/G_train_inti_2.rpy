@@ -3,7 +3,7 @@ label G_train_inti_2:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, I came to the bookstore in the afternoon to pick up Uno as usual."
+    "A few days later, I came to the bookstore in the afternoon to pick up Уно as usual."
 
 
 
@@ -21,7 +21,7 @@ label G_train_inti_2:
 
 
 
-    player "Senning, have you seen Uno today?"
+    player "Сеннин, have you seen Уно today?"
 
 
 
@@ -87,7 +87,7 @@ label G_train_inti_2:
 
 
 
-    player "Uno!!"
+    player "Уно!!"
 
 
 
@@ -169,7 +169,7 @@ label G_train_inti_2:
 
 
 
-    player "Sorry, Uno, I was supposed to protect you from all the harassments... but I... failed... ..."
+    player "Sorry, Уно, I was supposed to protect you from all the harassments... but I... failed... ..."
 
 
 
@@ -183,7 +183,7 @@ label G_train_inti_2:
 
 
 
-    player "Just... talk to me, Uno, don’t keep everything to yourself. Let me know if I can help!"
+    player "Just... talk to me, Уно, don’t keep everything to yourself. Let me know if I can help!"
 
 
 
@@ -255,7 +255,7 @@ label G_train_inti_2:
 
 
 
-    "Things are even worse than I imagined. Uno is suffering from serious cyberbullying and real-life harassment at the same time. She won’t hold it much longer if things keep going on like this."
+    "Things are even worse than I imagined. Уно is suffering from serious cyberbullying and real-life harassment at the same time. She won’t hold it much longer if things keep going on like this."
 
 
 
@@ -275,7 +275,7 @@ label G_train_inti_2:
 
             scene g_train_inti_2_19 with tstmgr
 
-            player "It’s not too late to quit yet, Uno. You can choose to run away from all this."
+            player "It’s not too late to quit yet, Уно. You can choose to run away from all this."
 
             player "You can just delete your social media accounts and move to another place, a place where those hates won’t find you."
 
@@ -283,7 +283,7 @@ label G_train_inti_2:
 
             player "Yes, and people will eventually forget you one day."
 
-            player "But... Uno, the more important thing is, do you still like making porno videos?"
+            player "But... Уно, the more important thing is, do you still like making porno videos?"
 
             g "... ... ... ..."
 
@@ -317,7 +317,7 @@ label G_train_inti_2:
 
             g "So... ... what should the new name be?"
 
-            player "Emmm... I don’t know, ‘[P] and Uno’? Anyway, the point is my name should appear on our channel as well. From now on, we will make videos as a couple."
+            player "Emmm... I don’t know, ‘[P] and Уно’? Anyway, the point is my name should appear on our channel as well. From now on, we will make videos as a couple."
 
             player "Thus you won’t be the only one that has people’s attention anymore. They will take us as a whole."
 
@@ -395,15 +395,15 @@ label G_train_inti_2:
 
 
 
-            player "I guess you are right, Uno. This may really be a... dead end."
+            player "I guess you are right, Уно. This may really be a... dead end."
 
             scene g_train_inti_2_18 with tstmgr
 
-            "Uno nodded, but for some reason, I feel like she is a little disappointed at my answer."
+            "Уно nodded, but for some reason, I feel like she is a little disappointed at my answer."
 
             player "... ... ... ..."
 
-            player "It’s not too late to quit yet, Uno. You can choose to run away from all this."
+            player "It’s not too late to quit yet, Уно. You can choose to run away from all this."
 
             player "You can just delete your social media accounts and move to another place, a place where those haters won’t find you."
 
@@ -439,7 +439,7 @@ label G_train_inti_2:
 
             player "House, jobs, they can all give way to you. I just want to stay with you and protect you with everything I have."
 
-            player "I was kind of the one that lead you to this pornstar career and I will also be the one to take you out. I believe Irene, Vera, and the other girls will understand."
+            player "I was kind of the one that lead you to this pornstar career and I will also be the one to take you out. I believe Айрин, Вера, and the other girls will understand."
 
             scene g_train_inti_2_21 with tstmgr
 
@@ -457,17 +457,17 @@ label G_train_inti_2:
 
             "We didn’t go home that day, instead we bought two train tickets and went to another city directly."
 
-            "I rented a house there for Uno and stayed with her every day and night. She deleted her accounts and vanished from the internet."
+            "I rented a house there for Уно and stayed with her every day and night. She deleted her accounts and vanished from the internet."
 
-            "Meanwhile I told the other girls about Uno’s situation and they all understood our decision. Sometimes they would come here too and stay with us for weekends."
+            "Meanwhile I told the other girls about Уно’s situation and they all understood our decision. Sometimes they would come here too and stay with us for weekends."
 
             "... ... ... ..."
 
             "A few months later, the investigation of my dad was finally done. He was sentenced guilty and had to stay in jail for the next two years, that’s sad. But his personal property was unfrozen now and he authorized me to use it, so I became rich again, that’s good~"
 
-            "I then invested in tourism and built a resort with the Shinyrost family. Vera became the manager of that hotel."
+            "I then invested in tourism and built a resort with the Shinyrost family. Вера became the manager of that hotel."
 
-            "As for Uno, she and I moved again. This time I took her to one of my father’s estates in the Capital City, a big luxury apartment. I hope she can be happy there... ..."
+            "As for Уно, she and I moved again. This time I took her to one of my father’s estates in the Capital City, a big luxury apartment. I hope she can be happy there... ..."
 
             "... ... ... ..."
 
@@ -529,21 +529,21 @@ label G_train_inti_2:
 
             "[P] just got back from the city where they lived before. He was there to check the status of the resort and visit the girls."
 
-            player "Well, Vera is getting better at her job. The resort works quite well under her leadership."
+            player "Well, Вера is getting better at her job. The resort works quite well under her leadership."
 
             scene g_train_inti_2_28 with tstmgr
 
-            g "Vera is always so good at managing~"
+            g "Вера is always so good at managing~"
 
-            player "Irene is in college now, the same college as mine~ But well, she won’t meet me there in her freshman year anyway."
+            player "Айрин is in college now, the same college as mine~ But well, she won’t meet me there in her freshman year anyway."
 
-            "[P] took a gap year from college to stay with Uno... ..."
+            "[P] took a gap year from college to stay with Уно... ..."
 
             scene g_train_inti_2_30 with tstmgr
 
             g "... ... ... ..."
 
-            player "Senning is planning to travel around the country during the next break, Rachel will go with her."
+            player "Сеннин is planning to travel around the country during the next break, Рэйчел will go with her."
 
             scene g_train_inti_2_31 with tstmgr
 
@@ -585,7 +585,7 @@ label G_train_inti_2:
 
             g "I played with those dildos all night long, but they couldn’t bring me any pleasure nor the warmth you gave me."
 
-            player "Uno... ..."
+            player "Уно... ..."
 
             scene g_train_inti_2_36 with tstmgr
 
@@ -599,14 +599,14 @@ label G_train_inti_2:
 
             "... ... ... ... ... ..."
 
-            "In the next two hours, the entire apartment resounded with [P] and Uno’s lustful moaning."
+            "In the next two hours, the entire apartment resounded with [P] and Уно’s lustful moaning."
 
             scene g_train_inti_2_37 with dissolve
             play sound g_train_inti_2_37 loop
 
             "They fucked again and again, round after round, without any rest, like two savage animals..."
 
-            "Uno moaned so loud every time when [P] smacked his huge dick into her delicate pussy, but they don’t care if anyone else can hear them."
+            "Уно moaned so loud every time when [P] smacked his huge dick into her delicate pussy, but they don’t care if anyone else can hear them."
 
             "Her big tits kept bouncing on the window and making lewd thuds, but they don’t care if anyone will notice them from outside..."
 
@@ -641,13 +641,13 @@ label G_train_inti_2:
             scene g_train_inti_2_41 with tstmgr
             play sound g_train_inti_2_41 loop
 
-            player "Ahhh~ Uno, you are so damn tight~"
+            player "Ahhh~ Уно, you are so damn tight~"
 
             g "Uhhhh~~ hummmmm~~ [P]~~ Uah~~~~"
 
-            g "Do you... do you still love Uno’s horny plumpy body as before?"
+            g "Do you... do you still love Уно’s horny plumpy body as before?"
 
-            "Ever since they moved here, Uno would ask a question like that to [P] every time when they have sex."
+            "Ever since they moved here, Уно would ask a question like that to [P] every time when they have sex."
 
             player "What kind of question is that? You are the woman that I love most in this world! Nothing will change that!"
 
@@ -664,7 +664,7 @@ label G_train_inti_2:
 
             g "Awwwwwwwwwwwww!!!!~~~~~~~~"
 
-            "As always, [P] finished today’s sex with a great orgasm. He came so much inside Uno’s body that even made her belly bulge a bit..."
+            "As always, [P] finished today’s sex with a great orgasm. He came so much inside Уно’s body that even made her belly bulge a bit..."
 
             g "[P]... [P]... ... [P]... ... ... Love... ... so much... ..."
 
@@ -680,7 +680,7 @@ label G_train_inti_2:
 
             scene g_train_inti_2_43 with tstmgr
 
-            player "That was fantastic, Uno~"
+            player "That was fantastic, Уно~"
 
             g "Yes... ... as always."
 
@@ -688,13 +688,13 @@ label G_train_inti_2:
 
             g "I need to... prepare the dinner now..."
 
-            "Uno didn’t know how to cook before, but after a few months of learning by herself, she can actually make a good meal now."
+            "Уно didn’t know how to cook before, but after a few months of learning by herself, she can actually make a good meal now."
 
             "But to be honest, I don’t want her to cook for me. I wish she can still be that carefree lazy girl who ordered fried chicken online every day."
 
             scene g_train_inti_2_45 with tstmgr
 
-            player "Wait, Uno... ..."
+            player "Wait, Уно... ..."
 
             player "Actually... I have some good news to tell you today."
 
@@ -766,7 +766,7 @@ label G_train_inti_2:
 
             "It’s just... she is not the same girl as she used to be anymore."
 
-            "The old Uno I know was a cute innocent girl who would look at me with adoration and with stars in her eyes when listening to me. She would be so happy just hearing me speak. But now... ..."
+            "The old Уно I know was a cute innocent girl who would look at me with adoration and with stars in her eyes when listening to me. She would be so happy just hearing me speak. But now... ..."
 
             "She has become... maturer, more sensitive, easier to get upset and harder to get happy, and... ..."
 
@@ -826,7 +826,7 @@ label G_train_inti_2:
 
             scene g_train_inti_2_57 with tstmgr
 
-            player "I’m so sorry, Uno, I’m so sorry... ..."
+            player "I’m so sorry, Уно, I’m so sorry... ..."
 
             g "[P]?"
 
@@ -848,7 +848,7 @@ label G_train_inti_2:
 
             scene g_train_inti_2_60 with tstmgr
 
-            "Uno... smiled again... to comfort me, even though she was still in a bad mood."
+            "Уно... smiled again... to comfort me, even though she was still in a bad mood."
 
             "I really like the way she smiles. Her eyes always squint when she smiles. It’s just adorable."
 
@@ -870,7 +870,7 @@ label G_train_inti_2:
 
             g "Are you... really sure of that? I... I don’t mean to... ..."
 
-            player "All I want is to see your happy face, Uno."
+            player "All I want is to see your happy face, Уно."
 
             scene g_train_inti_2_64 with tstmgr
 
@@ -878,7 +878,7 @@ label G_train_inti_2:
 
             scene g_train_inti_2_65 with tstmgr
 
-            player "And, Uno... ..."
+            player "And, Уно... ..."
 
             player "What do you say let’s go home some months later, after our videos have completely disappeared from the internet."
 
@@ -907,7 +907,7 @@ label G_train_inti_2:
 
             g "Yes... ... A lot of good memories... ..."
 
-            player "You, me, Vera, and the other girls... ... We will all live there."
+            player "You, me, Вера, and the other girls... ... We will all live there."
 
             player "So you will never feel lonely again~"
 
@@ -927,7 +927,7 @@ label G_train_inti_2:
 
             g "Let’s order some food online for tonight! I want to have fried chicken again!~"
 
-            player "Uno... ..."
+            player "Уно... ..."
 
             scene g_train_inti_2_70 with tstmgr
 
@@ -950,7 +950,7 @@ label G_train_inti_2:
             stop music fadeout 1.0
 
             if not _replaying_event:
-                "*Uno's good end achieved!*"
+                "*Уно's good end achieved!*"
                 $ MainMenu(confirm=False)()
 
     stop music fadeout 1.0

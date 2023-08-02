@@ -4,7 +4,7 @@ label school_bathroom_evening_F_1:
 
     scene school_bathroom_evening_f_1_1 with tstmgr
 
-    "Rachel is having a shower alone while two girls are talking in the other side of this shower room..."
+    "Рэйчел is having a shower alone while two girls are talking in the other side of this shower room..."
 
 
 
@@ -32,7 +32,7 @@ label school_bathroom_evening_F_1:
 
     scene school_bathroom_evening_f_1_3 with tstmgr
 
-    f "(Fuck... hard... ... Like what [P] did to Vera?)"
+    f "(Fuck... hard... ... Like what [P] did to Вера?)"
 
 
 

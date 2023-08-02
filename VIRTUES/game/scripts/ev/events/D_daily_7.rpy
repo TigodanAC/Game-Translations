@@ -5,7 +5,7 @@ label D_daily_7:
     scene d_daily7_1 with tstmgr
     play music happy
 
-    player "Hi... Irene..."
+    player "Hi... Айрин..."
 
 
 
@@ -51,7 +51,7 @@ label D_daily_7:
 
     scene d_daily7_4 with tstmgr
 
-    "Irene shook her head."
+    "Айрин shook her head."
 
 
 

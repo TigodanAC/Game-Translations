@@ -4,7 +4,7 @@ label sbsj:
 
     narrator "The next morning."
 
-    narrator "I came to Aunt Elisa's company."
+    narrator "I came to Aunt Элиза's company."
 
     narrator "In the next few months, or even the next few years, this job may be my primary source of income, and Теодора will be my supervisor. God, I can't even imagine how hard it will be."
 
@@ -70,7 +70,7 @@ label sbsj:
 
     c "Well, this is the only contract you can get from me. It's your freedom to choose whether to accept this or find yourself a dishwashing job."
 
-    player "What will Aunt Elisa think if she knows you are exploiting me?"
+    player "What will Aunt Элиза think if she knows you are exploiting me?"
 
     c "She won't judge it. She took you as her own son, remember? If you can't even handle such an easy situation like this, you won't be worthy of being part of our family."
 

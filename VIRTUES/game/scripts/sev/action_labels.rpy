@@ -19,8 +19,8 @@ label shop:
 
 
     menu:
-        posia "Hi there, the chosen one~ {fast}"
-        "Buy her service [shop_buy_service_badge]":
+        posia "Привет, избранный~ {fast}"
+        "Приобрести ее услуги [shop_buy_service_badge]":
 
 
             label shop.shop_buy_serive:
@@ -36,7 +36,7 @@ label shop:
                 $ shop_cleanse_badge = ""
 
             menu:
-                "Fortunetelling ($200) [shop_fortune_badge]" if not fortunetelling_today:
+                "Гадание ($200) [shop_fortune_badge]" if not fortunetelling_today:
                     if not P.buy(200, _("Fortunetelling")):
                         jump shop.shop_menu
 
@@ -59,10 +59,10 @@ label shop:
                         else:
                             $ run_event('store_1_ft_playlet3')
 
-                "{color=#aaaaaa}Fortunetelling (come tomorrow){/color} [shop_fortune_badge]" if fortunetelling_today:
+                "{color=#aaaaaa}Гадание (Приходите завтра){/color} [shop_fortune_badge]" if fortunetelling_today:
                     jump shop.shop_buy_serive
 
-                "Cleansing ($500) [shop_cleanse_badge]" if seen("store_1_cl_firstime") and not cleansing_today:
+                "Чистка ($500) [shop_cleanse_badge]" if seen("store_1_cl_firstime") and not cleansing_today:
                     if not P.buy(500, _("Cleansing")):
                         jump shop.shop_menu
 
@@ -80,10 +80,10 @@ label shop:
                         elif rdc(2):
                             $ run_event('store_1_cl_playlet2')
 
-                "{color=#aaaaaa}Cleansing (come tomorrow){/color} [shop_fortune_badge]" if seen("store_1_cl_firstime") and cleansing_today:
+                "{color=#aaaaaa}Чистка (Приходите завтра){/color} [shop_fortune_badge]" if seen("store_1_cl_firstime") and cleansing_today:
                     jump shop.shop_buy_serive
 
-                "Blessing ($800)" if seen("store_1_bl_firstime") and not blessing_today:
+                "Благословение ($800)" if seen("store_1_bl_firstime") and not blessing_today:
                     if not P.buy(800, _("Blessing")):
                         jump shop.shop_menu
 
@@ -93,47 +93,47 @@ label shop:
 
                     $ run_event('store_1_bl_playlet1')
 
-                "{color=#aaaaaa}Blessing (come tomorrow){/color}" if seen("store_1_bl_firstime") and blessing_today:
+                "{color=#aaaaaa}Благословение (Приходите завтра){/color}" if seen("store_1_bl_firstime") and blessing_today:
                     jump shop.shop_buy_serive
-                "Back":
+                "Назад":
 
                     jump shop.shop_menu
-        "Buy something from her":
+        "Купить у нее что-нибудь":
 
             label shop.buy_wallpaper:
             $ set_shop_ui_wide()
             menu:
-                "Vera's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["a_store_1"].is_shop_unlocked:
+                "Вера: Костюм астролога (Обои) ($500)" if not BackgroundSystem.data["a_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["a_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Senning's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["b_store_1"].is_shop_unlocked:
+                "Сеннин: Костюм астролога (Обои) ($500)" if not BackgroundSystem.data["b_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["b_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Теодора's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["c_store_1"].is_shop_unlocked:
+                "Теодора: Костюм астролога (Обои) ($500)" if not BackgroundSystem.data["c_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["c_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Irene's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["d_store_1"].is_shop_unlocked:
+                "Айрин: Костюм астролога (Обои) ($500)" if not BackgroundSystem.data["d_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["d_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Elisa's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["e_store_1"].is_shop_unlocked:
+                "Элиза: Костюм астролога (Обои) ($500)" if not BackgroundSystem.data["e_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["e_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Rachel's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["f_store_1"].is_shop_unlocked:
+                "Рэйчел: Костюм астролога (Обои) ($500)" if not BackgroundSystem.data["f_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["f_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Uno's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["g_store_1"].is_shop_unlocked:
+                "Уно: Костюм астролога (Обои) ($500)" if not BackgroundSystem.data["g_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["g_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Back":
+                "Назад":
                     jump shop.shop_menu
-        "Back":
+        "Назад":
 
             pass
 
@@ -157,8 +157,8 @@ label hotel_shop:
         $ hotel_interact_with_badge = "{image=badge2}"
 
     menu:
-        minna "Ah, it's my future son-in-law~{fast}"
-        "Interact with her [hotel_interact_with_badge]":
+        minna "Ах, это мой будущий зять ~{fast}"
+        "Проведите с ней время [hotel_interact_with_badge]":
 
 
             label hotel_shop.interact_with:
@@ -174,7 +174,7 @@ label hotel_shop:
                 $ satisfy_her_need_badge = ""
 
             menu:
-                "Talk with her [hotel_shop_chat_badge]" if not hotel_shop_chat_today:
+                "Поговорите с ней [hotel_shop_chat_badge]" if not hotel_shop_chat_today:
                     $ set_default_ui()
                     $ hotel_shop_chat_count += 1
                     $ hotel_shop_chat_today = True
@@ -187,10 +187,10 @@ label hotel_shop:
                     else:
                         $ run_event('store_2_chat_3')
 
-                "{color=#aaaaaa}Talk with her (come tomorrow){/color} [hotel_shop_chat_badge]" if hotel_shop_chat_today:
+                "{color=#aaaaaa}Поговорите с ней (Приходите завтра){/color} [hotel_shop_chat_badge]" if hotel_shop_chat_today:
                     jump hotel_shop.interact_with
 
-                "Satisfy her need [satisfy_her_need_badge]" if what_about_me and not satisfy_her_need_today:
+                "Удовлетворите ее потребность [satisfy_her_need_badge]" if what_about_me and not satisfy_her_need_today:
                     $ set_default_ui()
                     $ satisfy_her_need_count += 1
                     $ satisfy_her_need_today = True
@@ -201,47 +201,47 @@ label hotel_shop:
                     else:
                         $ run_event('store_2_more_playlet2')
 
-                "{color=#aaaaaa}Satisfy her need (come tomorrow){/color} [satisfy_her_need_badge]" if what_about_me and satisfy_her_need_today:
+                "{color=#aaaaaa}Satisfy her need (Приходите завтра){/color} [satisfy_her_need_badge]" if what_about_me and satisfy_her_need_today:
                     jump hotel_shop.interact_with
-                "Back":
+                "Назад":
 
                     jump hotel_shop.shop_menu
-        "Buy something from her":
+        "Купите у нее что-нибудь":
 
             label hotel_shop.buy_wallpaper:
             $ set_hotel_shop_ui_wide()
             menu:
-                "Vera in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["a_store_2"].is_shop_unlocked:
+                "Вера в Ципао (Обои) ($500)" if not BackgroundSystem.data["a_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["a_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Senning in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["b_store_2"].is_shop_unlocked:
+                "Сеннин в Ципао (Обои) ($500)" if not BackgroundSystem.data["b_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["b_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Теодора in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["c_store_2"].is_shop_unlocked:
+                "Теодора в Ципао (Обои) ($500)" if not BackgroundSystem.data["c_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["c_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Irene in Cheongsam Suit Wallpaper ($500)" if not BackgroundSystem.data["d_store_2"].is_shop_unlocked:
+                "Айрин в Ципао Suit (Обои) ($500)" if not BackgroundSystem.data["d_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["d_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Elisa in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["e_store_2"].is_shop_unlocked:
+                "Элиза в Ципао (Обои) ($500)" if not BackgroundSystem.data["e_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["e_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Rachel in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["f_store_2"].is_shop_unlocked:
+                "Рэйчел в Ципао (Обои) ($500)" if not BackgroundSystem.data["f_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["f_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Uno in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["g_store_2"].is_shop_unlocked:
+                "Уно в Ципао (Обои) ($500)" if not BackgroundSystem.data["g_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["g_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Back":
+                "Назад":
                     jump hotel_shop.shop_menu
-        "Back":
+        "Назад":
 
             pass
 
@@ -253,20 +253,20 @@ label bungalow:
         scene e_love_8_8 with tstmgr
     else:
         scene e_train_inti_1_4 with tstmgr
-    "Aunt Elisa isn't in the bungalow right now, I'm definitely not going to walk cross that forest..."
+    "Тети Элизы сейчас нет в бунгало, я точно не пойду через тот лес..."
     jump action_post
 
 label my_room_in_hotel:
     menu:
-        "Go to bed":
+        "Идти спать":
             if t.period < LateNight:
-                "It's too early to go to bed."
+                "Слишком рано ложиться спать."
             else:
                 if t.period < LateNight:
-                    "It's too early to go to bed."
+                    "Слишком рано ложиться спать."
                 else:
                     $ new_day()
-        "Back":
+        "Назад":
             pass
     jump action_post
 
@@ -281,19 +281,19 @@ label course:
 
     if not seen('B_love_1'):
         scene class_background with tstmgr
-        "I went to a class and spent some time on studying."
-        "I tried to talk with Senning, but she was still angry at me."
+        "Я пошел в класс и потратил некоторое время на учёбу."
+        "Я попытался поговорить с Сеннин, но она все еще злилась на меня.."
         "... ... ... ..."
     else:
         scene go_to_class with tstmgr
         $ rdc = RandomChoice(3)
         if rdc(1):
-            b "There will be a quiz at the end of this class, remember not to leave early."
+            b "В конце этого урока будет викторина, не забывайте не уходить раньше времени."
         elif rdc(2):
-            b "The professor said that the next exam won’t cover today’s lecture, so... ..."
+            b "Профессор сказал, что следующий экзамен не будет охватывать сегодняшнюю лекцию, так что... ..."
         else:
-            b "Hi, [P]. Let’s sit together."
-        "I spent some time in the class with Senning."
+            b "Привет, [P]. Давай сядем вместе."
+        "Я провел некоторое время в классе с Сеннин."
         "... ... ... ..."
 
     $ add(B, B.love, 1)
@@ -308,13 +308,13 @@ label work:
     scene go_to_work with tstmgr
     $ rdc = RandomChoice(3)
     if rdc(1):
-        c "Keep working like this and you will get a promotion very soon."
+        c "Продолжайте в том же духе и очень скоро вы получите повышение."
     elif rdc(2):
-        c "If you have any question, feel free to reach me in my office."
+        c "Если у вас есть какие-либо вопросы, не стесняйтесь связаться со мной в моем офисе."
     else:
-        c "Did you go to my mom’s house recently? How are she and Irene doing?"
+        c "Ты недавно был у моей мамы? Как они с Айрин поживают?"
 
-    "I spent some time working in the company."
+    "Я провел некоторое время, работая в компании."
     "... ... ... ..."
 
     $ add(C, C.love, 1)
@@ -331,7 +331,7 @@ label find_C_company:
 
     scene expression find_bg(C) with Dissolve(0.5)
 
-    "I don't have much time. What's the matter?"
+    "У меня мало времени. В чем дело?"
 
     $ show_find_fix(C)
 
@@ -347,21 +347,21 @@ label street:
         scene downtown_day_background
     else:
         scene downtown_night_background
-    "I wish I could bring someone here with me… …"
+    "Хотел бы я привести кого-нибудь сюда с собой… …"
 
     if not B_gift or not D_gift:
 
         label downtown_menu:
         menu:
-            "Buy a gift for Senning ($2000)" if not B_gift:
+            "Купить подарок для Сеннин ($2000)" if not B_gift:
                 $ P.buy(2000, _("Gift"))
                 $ B_gift = True
                 jump downtown_menu
-            "Buy a gift for Irene ($5000)" if not D_gift:
+            "Купить подарок для Айрин ($5000)" if not D_gift:
                 $ P.buy(5000, _("Gift"))
                 $ D_gift = True
                 jump downtown_menu
-            "Return":
+            "Назад":
                 $ time_proceed(1)
                 jump action_post
 
@@ -383,7 +383,7 @@ label B_room:
 
     scene expression find_bg(B) with Dissolve(0.5)
 
-    b "Hello, [P.name], it's nice to see you."
+    b "Привет, [P.name], приятно тебя видеть."
 
     $ show_find_fix(B)
 
@@ -395,13 +395,13 @@ label C_room:
     else:
         scene croom_night_background with tstmgr
 
-    "This is Теодора's old room. Nobody lives here after she moved out from this mansion. But Aunt Elisa still keeps this room nice and clean."
+    "Это старая комната Теодоры. Здесь никто не живет после того, как она уехала из этого особняка. Но тетя Элиза по-прежнему содержит эту комнату в чистоте и порядке.."
     jump action_post
 
 label D_room:
     if not seen("D_dqsj"):
         scene void with tstmgr
-        narrator "Irene is still mad at me. I should go buy a gift for her, and then come back to her."
+        narrator "Айрин все еще злится на меня. Я должен пойти купить ей подарок, а потом вернуться к ней."
         $ show_map()
         jump pauser
 
@@ -416,7 +416,7 @@ label D_room:
 label E_room:
     scene expression find_bg(E) with Dissolve(0.5)
 
-    e "It's good to see you, [P]!"
+    e "Рада видеть тебя, [P]!"
 
     $ show_find_fix(E)
 
@@ -426,7 +426,7 @@ label F_room:
     scene expression find_bg(F) with Dissolve(0.5)
 
     if F.love >= 25 and not seen("A_love_5"):
-        $ Push("More of her story will be unlocked after you improve relationship with Vera")
+        $ Push("Больше её истории будет разблокировано после того, как вы улучшите отношения с Верой.")
 
     d "[P.name]!"
 
@@ -437,7 +437,7 @@ label F_room:
 label tutor:
 
     scene ddqsj_d5 with tstmgr
-    "I spent some time on tutoring Irene."
+    "Я потратил некоторое время на репетиторство Айрин."
 
     $ add(D, D.love, 1)
     $ P.earn(50, _("Tutorship"), t)
@@ -461,11 +461,11 @@ label bookstore:
 
     scene g_bookstore_smile with tstmgr
 
-    g "Hi, [P]."
+    g "Привет, [P]."
 
-    g "Are you looking for a book?"
+    g "Ты ищешь книгу?"
 
-    player "Nope, just here to check you out."
+    player "Нет, просто зашёл проверить как ты."
 
     scene g_bookstore_normal with tstmgr
 
@@ -489,18 +489,18 @@ label exercise:
         scene go_to_sports with tstmgr
         $ rdc = RandomChoice(3)
         if rdc(1):
-            f "Hi there, my friend. I’m going for a jog. Are you with me?"
+            f "Привет, мой друг. Я иду на пробежку. Ты со мной?"
         elif rdc(2):
-            f "Don’t be lazy. Let’s sweat together."
+            f "Не ленись. Давайте пропотеем вместе."
         else:
-            f "Why are you staring at me? Come on, let’s go for a run!"
+            f "Почему ты смотришь на меня? Ну же, давай бегать!"
 
-        "I spent some time with Rachel in the park."
+        "Я провел некоторое время с Рэйчел в парке."
         "... ... ... ..."
         $ add(F, F.love, 1)
         $ time_proceed(1)
     else:
-        "I'm too tired today."
+        "Я слишком устал на сегодня."
 
 
 
@@ -508,12 +508,12 @@ label exercise:
 
 label alley:
     scene alley_background with tstmgr
-    "A dark, creepy, dangerous alley. Why would I come here alone?"
+    "Темный, жуткий, опасный переулок. Зачем мне приходить сюда одному?"
     jump action_post
 
 label beach:
     scene beach_background with tstmgr
-    "This beach is a famous scenic spot of this city. But it's kinda pathetic to come here alone."
+    "Этот пляж является популярным живописным местом этого города. Но как-то жалко приходить сюда одному."
     jump action_post
 
 
@@ -523,7 +523,7 @@ label G_room:
 
     scene expression find_bg(G) with Dissolve(0.5)
 
-    g "... ... ... ... Hi..."
+    g "... ... ... ... Привет..."
 
     $ show_find_fix(G)
 
@@ -533,19 +533,19 @@ default first_A_room = True
 label A_room:
 
     if first_A_room:
-        "Now Vera and I are living next door to each other. I can meet with her every day."
-        "But remember, she will be in her room only in the morning and late night every day except Sunday. "
-        "Well, she is at home now, I think it may be a good time to have a chat with her."
-        "(Knock, knock, knock.)"
-        a "Who is this?"
-        player "It's me, [P]."
-        a "Oh, wait a moment, I'm changing clothes now."
-        "Changing clothes? So she is now talking to me half-nakedly? That... really captures my imagination..."
-        "(Door opened)"
+        "Сейчас мы с Верой живем по соседству. Я могу встречаться с ней каждый день."
+        "Но помните, она будет в своей комнате только утром и поздно вечером каждый день, кроме воскресенья. "
+        "Ну, она сейчас дома, думаю, самое время с ней поболтать."
+        "(Тук, тук, тук.)"
+        a "Кто там?"
+        player "Это я, [P]."
+        a "О, подожди, я сейчас переоденусь."
+        "Переоденусь? Так она сейчас разговаривает со мной полуголая? Это... действительно захватывает мое воображение..."
+        "(Дверь открывается)"
         $ first_A_room = False
 
     if seen("A_love_4") and not seen("A_love_5"):
-        "She is not in the mood right now."
+        "Она сейчас не в настроении."
         $ show_map()
         jump action_post
 
@@ -558,11 +558,11 @@ label A_room:
 label C_room_2:
     if is_day():
         scene bnb_croom_background with tstmgr
-        "Теодора is not in her room."
+        "Теодора не в своей комнате."
         "... ... ... ..."
     else:
         scene void with tstmgr
-        "Теодора has locked her door. Maybe she doesn't want others to know what she is doing."
+        "Теодора заперла дверь. Может быть, она не хочет, чтобы другие знали, что она делает."
         "... ... ... ..."
     jump action_post
 
@@ -573,16 +573,16 @@ label find_A_cafe:
     if seen("A_love_4") and not seen("A_love_5"):
         scene a_cafe_weird with tstmgr
         a "... ... ... ..."
-        "She is not in the mood right now."
+        "Она сейчас не в настроении."
         $ add(A, A.love, 1)
         $ time_proceed(1)
         jump action_post
 
     scene cafe_background with tstmgr
-    player "Hi, Vera"
+    player "Привет, Вера"
     scene a_cafe_normal1 with tstmgr
     a "[P.name]?"
-    a "What would you like to eat today?"
+    a "Что бы ты хотели съесть сегодня?"
     scene cafe_background with tstmgr
     "... ... ... ..."
 
@@ -598,7 +598,7 @@ label find_A_clothing:
     if seen("A_love_4") and not seen("A_love_5"):
         scene a_dressstore_frown with tstmgr
         a "... ... ... ..."
-        "She is not in the mood right now."
+        "Она сейчас не в настроении."
         $ add(A, A.love, 1)
         $ time_proceed(1)
         jump action_post
@@ -606,7 +606,7 @@ label find_A_clothing:
     if A.relation == "general":
         scene a_dressstore_weird with tstmgr
         a "... ... ... ..."
-        a "You came again..."
+        a "Ты пришел снова..."
         scene dressstore_background with tstmgr
         "... ... ... ..."
         $ add(A, A.love, 1)
@@ -640,9 +640,9 @@ label find_A_clothing:
 
         scene a_dressstore_smile3
 
-        a "Hello, [P]."
+        a "Привет, [P]."
 
-        a "Thanks for coming to see me. I'm bored to death right now."
+        a "Спасибо, что пришёл ко мне. Я тут умираю от скуки."
 
         a "… … … …"
 
@@ -661,18 +661,18 @@ label find_A_restaurant:
     if seen("A_love_4") and not seen("A_love_5"):
         scene bar_background with tstmgr
         "... ... ... ..."
-        "Vera is not in the mood right now."
+        "Вера сейчас не в настроении."
         $ add(A, A.love, 1)
         $ time_proceed(1)
         jump action_post
 
     scene a_restaurant_smile with tstmgr
     a "[P.name]?"
-    player "Hi, Vera."
-    a "What can I get for you?"
-    player "Nothing but a cup of beer, please. I'm just waiting for you getting off work."
+    player "Привет, Вера."
+    a "Что я могу сделать для тебя?"
+    player "Только кружечку пива, пожалуйста. Я просто жду, когда ты закончишь работу."
     scene a_restaurant_slight_surprise with tstmgr
-    a "Oh, okay..."
+    a "О, ладно..."
     scene bar_background with tstmgr
     "... ... ... ..."
 
@@ -692,7 +692,7 @@ label hang_park:
         scene park_day_background with tstmgr
     else:
         scene park_night_background with tstmgr
-    "I took a walk at the park. Nothing special."
+    "Я прогулялся по парку. Ничего особенного."
 
     $ time_proceed(1)
     jump action_post

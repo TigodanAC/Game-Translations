@@ -3,7 +3,7 @@ label F_love_5:
     scene void with tstmgr
     play music sorrow
 
-    "Later in the morning, Rachel came to the house to get the sexual education DVD that I promised to find for her earlier."
+    "Later in the morning, Рэйчел came to the house to get the sexual education DVD that I promised to find for her earlier."
 
 
 
@@ -23,23 +23,23 @@ label F_love_5:
 
 
 
-    player "Vera, this is Rachel, my friend at school. And Rachel, this is Vera, my... ..."
+    player "Вера, this is Рэйчел, my friend at school. And Рэйчел, this is Вера, my... ..."
 
 
 
     scene f_love_5_3 with tstmgr
 
-    a "I’m his assistant in his b&b service. Nice to meet you, Rachel~"
+    a "I’m his assistant in his b&b service. Nice to meet you, Рэйчел~"
 
 
 
     scene f_love_5_4 with tstmgr
 
-    f "It’s so nice to meet you, too, Vera~"
+    f "It’s so nice to meet you, too, Вера~"
 
 
 
-    player "Alright, Rachel, the DVD is in my room. Let’s head to my room and I’ll give it to you."
+    player "Alright, Рэйчел, the DVD is in my room. Let’s head to my room and I’ll give it to you."
 
 
 
@@ -49,7 +49,7 @@ label F_love_5:
 
 
 
-    a "Will you stay for dinner, Rachel?"
+    a "Will you stay for dinner, Рэйчел?"
 
 
 
@@ -123,7 +123,7 @@ label F_love_5:
 
     scene void with tstmgr
 
-    "Rachel opened the door..."
+    "Рэйчел opened the door..."
 
 
 
@@ -139,7 +139,7 @@ label F_love_5:
 
 
 
-    f "Are they belonging to Vera?"
+    f "Are they belonging to Вера?"
 
 
 
@@ -175,13 +175,13 @@ label F_love_5:
 
     scene f_love_5_17 with dissolve
 
-    player "(Came inside the room) I found it, Rachel!"
+    player "(Came inside the room) I found it, Рэйчел!"
 
 
 
     scene f_love_5_18 with tstmgr
 
-    player "Emmm... Rachel?"
+    player "Emmm... Рэйчел?"
 
 
 
@@ -211,7 +211,7 @@ label F_love_5:
 
     scene f_love_5_19 with tstmgr
 
-    player "Do you see Rachel, Vera?"
+    player "Do you see Рэйчел, Вера?"
 
 
 
@@ -413,7 +413,7 @@ label F_love_5:
 
 
 
-    f "(Did [P] just put that dick thing into Vera's body? How did he even do that?)"
+    f "(Did [P] just put that dick thing into Вера's body? How did he even do that?)"
 
 
 
@@ -427,7 +427,7 @@ label F_love_5:
 
 
 
-    player "Your pussy has got used to my dick, Vera. They matched so perfectly... ..."
+    player "Your pussy has got used to my dick, Вера. They matched so perfectly... ..."
 
 
 
@@ -455,7 +455,7 @@ label F_love_5:
 
     scene f_love_5_35 with tstmgr
 
-    "Vera then started to slide the closet door, and she saw... ..."
+    "Вера then started to slide the closet door, and she saw... ..."
 
 
 
@@ -593,7 +593,7 @@ label F_love_5:
 
 
 
-    "Sometime later, after [P] and Vera left the room, Rachel came out from the closet..."
+    "Sometime later, after [P] and Вера left the room, Рэйчел came out from the closet..."
 
 
 
@@ -615,7 +615,7 @@ label F_love_5:
 
 
 
-    f "Vera noticed me back there... but she didn’t tell [P] about it. Hmmmmmm... ... ... ..."
+    f "Вера noticed me back there... but she didn’t tell [P] about it. Hmmmmmm... ... ... ..."
 
 
 
@@ -647,7 +647,7 @@ label F_love_5:
 
     scene void with tstmgr
 
-    "Rachel then left the house in a hurry..."
+    "Рэйчел then left the house in a hurry..."
 
 
 

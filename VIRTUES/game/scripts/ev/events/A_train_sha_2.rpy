@@ -3,7 +3,7 @@ label A_train_sha_2:
     scene void with tstmgr
     play music happy
 
-    "Some days later, in an afternoon, I decided to check on Vera in the clothing store she works at..."
+    "Some days later, in an afternoon, I decided to check on Вера in the clothing store she works at..."
 
 
 
@@ -111,7 +111,7 @@ label A_train_sha_2:
 
 
 
-    player "Vera... ... ... ..."
+    player "Вера... ... ... ..."
 
 
 
@@ -123,7 +123,7 @@ label A_train_sha_2:
 
     scene a_train_sha_2_10 with tstmgr
 
-    player "Wow, Vera, you didn’t wear briefs today?"
+    player "Wow, Вера, you didn’t wear briefs today?"
 
 
 
@@ -209,7 +209,7 @@ label A_train_sha_2:
 
     scene a_train_sha_2_18 with tstmgr
 
-    "Manager" "Has anyone seen Vera?"
+    "Manager" "Has anyone seen Вера?"
 
 
 
@@ -331,7 +331,7 @@ label A_train_sha_2:
 
 
 
-    player "Vera? What the hell?"
+    player "Вера? What the hell?"
 
 
 
@@ -346,7 +346,7 @@ label A_train_sha_2:
 
     scene a_train_sha_2_23 with tstmgr
 
-    player "Eh... Vera, why did you... ..."
+    player "Eh... Вера, why did you... ..."
 
 
 
@@ -388,7 +388,7 @@ label A_train_sha_2:
 
 
 
-    "We left the fitting room sometime later. I bought a lot of things in the store in order to increase Vera’s performance, but she still got scolded by her manager anyway... ..."
+    "We left the fitting room sometime later. I bought a lot of things in the store in order to increase Вера’s performance, but she still got scolded by her manager anyway... ..."
 
     stop music fadeout 1.0
 

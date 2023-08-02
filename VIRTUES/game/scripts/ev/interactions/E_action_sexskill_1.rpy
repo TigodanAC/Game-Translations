@@ -18,7 +18,7 @@ label E_action_sexskill_1:
 
 
 
-    e "Theo and Irene won’t be home today, you will have mommy’s love all to yourself~"
+    e "Theo and Айрин won’t be home today, you will have mommy’s love all to yourself~"
 
 
 
@@ -148,7 +148,7 @@ label E_action_sexskill_1:
 
             e "Ohhhhhhhhhhhhhhhhhhh!!!!!~~~~~~~~~"
 
-            "Elisa’s nipple pussies orgasmed violently. Her milk shot out even though I had plugged her nipples with my fingers..."
+            "Элиза’s nipple pussies orgasmed violently. Her milk shot out even though I had plugged her nipples with my fingers..."
 
             scene e_action_sexskill_1_18 with tstmgr
 

@@ -3,7 +3,7 @@ label B_love_1:
     scene void with tstmgr
     play music happy
 
-    narrator "Senning didn't forgive me yet, so I bought a gift for her. Let's hope it can work."
+    narrator "Сеннин didn't forgive me yet, so I bought a gift for her. Let's hope it can work."
 
     scene library_background with tstmgr
 
@@ -57,7 +57,7 @@ label B_love_1:
 
     player "Girl? What gir... Oh..."
 
-    narrator "I realize that she was talking about Vera. I once mentioned it on the phone in front of her that I was going to find such a girl at a nightclub."
+    narrator "I realize that she was talking about Вера. I once mentioned it on the phone in front of her that I was going to find such a girl at a nightclub."
 
     player "That girl is only a normal friend to me."
 
@@ -75,7 +75,7 @@ label B_love_1:
 
     player "And I bought you a gift to ask for your forgiveness."
 
-    player "(Handed gift to Senning)"
+    player "(Handed gift to Сеннин)"
 
     scene b_library_surprise with tstmgr
 

@@ -6,7 +6,7 @@ label cafe_forenoon_A_4:
 
 
 
-    "Server A" "(Gossipping with others) Look, Vera's boyfriend is here again."
+    "Server A" "(Gossipping with others) Look, Вера's boyfriend is here again."
 
 
 

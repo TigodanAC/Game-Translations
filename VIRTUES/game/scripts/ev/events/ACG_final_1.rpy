@@ -3,7 +3,7 @@ label ACG_final_1:
     scene void with tstmgr
     play music sorrow
 
-    "*This is the happy harem ending for Vera&Theo&Uno, it happens in a route which you only have Vera, Theo, and Uno in your harem. You will be able to reexperience this scene in your room.*"
+    "*This is the happy harem ending for Вера&Theo&Уно, it happens in a route which you only have Вера, Theo, and Уно in your harem. You will be able to reexperience this scene in your room.*"
 
 
 
@@ -31,13 +31,13 @@ label ACG_final_1:
 
     scene acg_final_1_2 with tstmgr
 
-    "Vera... ..."
+    "Вера... ..."
 
 
 
     scene acg_final_1_3 with tstmgr
 
-    "Uno... ..."
+    "Уно... ..."
 
 
 
@@ -149,7 +149,7 @@ label ACG_final_1:
 
     scene acg_final_1_12 with tstmgr
 
-    player "Oh, morning, Vera~"
+    player "Oh, morning, Вера~"
 
 
 
@@ -214,7 +214,7 @@ label ACG_final_1:
 
     scene acg_final_1_18 with tstmgr
 
-    "Vera then left the bed and went out of the room nakedly."
+    "Вера then left the bed and went out of the room nakedly."
 
 
 
@@ -254,7 +254,7 @@ label ACG_final_1:
 
     scene acg_final_1_22 with tstmgr
 
-    c "I’ll go help Vera, see you later~"
+    c "I’ll go help Вера, see you later~"
 
 
 
@@ -268,7 +268,7 @@ label ACG_final_1:
 
 
 
-    "Influenced by Uno, both Theo and Vera have become nudists. They said it is a way for them to ‘be completely honest with each other’."
+    "Influenced by Уно, both Theo and Вера have become nudists. They said it is a way for them to ‘be completely honest with each other’."
 
 
 
@@ -300,7 +300,7 @@ label ACG_final_1:
 
 
 
-    player "Wake up, Uno~"
+    player "Wake up, Уно~"
 
 
 
@@ -312,7 +312,7 @@ label ACG_final_1:
 
 
 
-    "Uno is always the last one waking up, and she is also the deadliest sleeper among us."
+    "Уно is always the last one waking up, and she is also the deadliest sleeper among us."
 
 
 
@@ -350,11 +350,11 @@ label ACG_final_1:
 
 
 
-    player "Are you awake now, Uno?"
+    player "Are you awake now, Уно?"
 
 
 
-    g "Hee hee... master... ... master is so fat~ even fatter than Uno~~~ Want to... take a bite~~"
+    g "Hee hee... master... ... master is so fat~ even fatter than Уно~~~ Want to... take a bite~~"
 
 
 
@@ -400,7 +400,7 @@ label ACG_final_1:
 
 
 
-    g "Master’s penis~~ love it... ... love it~~ Uno wants to... marry master’s penis~~ Fat penis... ... for Uno’s fat ass~~~~"
+    g "Master’s penis~~ love it... ... love it~~ Уно wants to... marry master’s penis~~ Fat penis... ... for Уно’s fat ass~~~~"
 
 
 
@@ -450,7 +450,7 @@ label ACG_final_1:
     play sound cumshot
     $ flashlight()
 
-    player "Ahhhhhhhhh-haaa!! Take it, Uno! Today’s first load~~~~~~"
+    player "Ahhhhhhhhh-haaa!! Take it, Уно! Today’s first load~~~~~~"
 
 
 
@@ -492,7 +492,7 @@ label ACG_final_1:
 
 
 
-    player "Now it’s time to get up. Remember to say good morning to Theo and Vera. You forgot to do that yesterday."
+    player "Now it’s time to get up. Remember to say good morning to Theo and Вера. You forgot to do that yesterday."
 
 
 
@@ -512,7 +512,7 @@ label ACG_final_1:
 
     scene acg_final_1_34 with dissolve
 
-    a "Ah! Uno! You brushed your teeth for too short!"
+    a "Ah! Уно! You brushed your teeth for too short!"
 
 
 
@@ -526,7 +526,7 @@ label ACG_final_1:
 
 
 
-    "Vera has become a full-time housewife after she quit her jobs. It seems like being a housewife can grow one’s mental age effectively as well. Although Vera is not a mother yet, she has shown amazing motherly qualities towards the other family members."
+    "Вера has become a full-time housewife after she quit her jobs. It seems like being a housewife can grow one’s mental age effectively as well. Although Вера is not a mother yet, she has shown amazing motherly qualities towards the other family members."
 
 
 
@@ -546,11 +546,11 @@ label ACG_final_1:
 
     scene acg_final_1_37 with tstmgr
 
-    g "*Running away* Goodbye, Mama Vera!~"
+    g "*Running away* Goodbye, Mama Вера!~"
 
 
 
-    "Uno ran out of the room."
+    "Уно ran out of the room."
 
 
 
@@ -562,7 +562,7 @@ label ACG_final_1:
 
     scene acg_final_1_39 with tstmgr
 
-    "Vera then left the room to chase Uno... ..."
+    "Вера then left the room to chase Уно... ..."
 
 
 
@@ -642,7 +642,7 @@ label ACG_final_1:
 
     scene acg_final_1_47 with tstmgr
 
-    player "Nah, Vera is not here, no one can save you now~"
+    player "Nah, Вера is not here, no one can save you now~"
 
 
 
@@ -740,7 +740,7 @@ label ACG_final_1:
 
 
 
-    player "Just... don't tell Vera about I kissed you without brushing teeth first, okay?"
+    player "Just... don't tell Вера about I kissed you without brushing teeth first, okay?"
 
 
 
@@ -766,7 +766,7 @@ label ACG_final_1:
 
     scene acg_final_1_53 with dissolve
 
-    player "Thanks for the meal, Vera~ It was delicious as always."
+    player "Thanks for the meal, Вера~ It was delicious as always."
 
 
 
@@ -794,13 +794,13 @@ label ACG_final_1:
 
 
 
-    player "Vera... ..."
+    player "Вера... ..."
 
 
 
     scene acg_final_1_55 with tstmgr
 
-    player "*Immersing head into Vera’s boobs* Ahhhh... ... ... ..."
+    player "*Immersing head into Вера’s boobs* Ahhhh... ... ... ..."
 
 
 
@@ -824,7 +824,7 @@ label ACG_final_1:
 
     scene acg_final_1_57 with tstmgr
 
-    c "Well, Uno, you will have your chance tomorrow~ Now you should join me to do the dishes. Give them for a while~"
+    c "Well, Уно, you will have your chance tomorrow~ Now you should join me to do the dishes. Give them for a while~"
 
 
 
@@ -834,7 +834,7 @@ label ACG_final_1:
 
     scene acg_final_1_58 with tstmgr
 
-    "Теодора and Uno then left for doing dishes together..."
+    "Теодора and Уно then left for doing dishes together..."
 
 
 
@@ -844,7 +844,7 @@ label ACG_final_1:
 
     scene acg_final_1_59 with tstmgr
 
-    player "Huh... ... Thanks for your service, Vera~"
+    player "Huh... ... Thanks for your service, Вера~"
 
 
 
@@ -892,7 +892,7 @@ label ACG_final_1:
 
 
 
-    player "Ah shut up, you want a baby so bad that you even began to treat Uno like she is a kid."
+    player "Ah shut up, you want a baby so bad that you even began to treat Уно like she is a kid."
 
 
 
@@ -904,7 +904,7 @@ label ACG_final_1:
 
     scene acg_final_1_64 with tstmgr
 
-    g "*Shouting from the kitchen* Yep! But I was enjoying it! Good job, Mama Vera~"
+    g "*Shouting from the kitchen* Yep! But I was enjoying it! Good job, Mama Вера~"
 
 
 
@@ -986,7 +986,7 @@ label ACG_final_1:
 
 
 
-    "Vera didn’t use to say words like ‘cock’ or ‘fuck’, but she has learned to do that from Theo. It’s not a bad thing though, dirty talk should be as dirty as possible."
+    "Вера didn’t use to say words like ‘cock’ or ‘fuck’, but she has learned to do that from Theo. It’s not a bad thing though, dirty talk should be as dirty as possible."
 
 
 
@@ -994,7 +994,7 @@ label ACG_final_1:
 
 
 
-    player "I’m cumming, Vera~"
+    player "I’m cumming, Вера~"
 
 
 
@@ -1071,7 +1071,7 @@ label ACG_final_1:
 
     scene acg_final_1_70 with tstmgr
 
-    "Starting with Vera... ..."
+    "Starting with Вера... ..."
 
 
 
@@ -1261,17 +1261,17 @@ label ACG_final_1:
 
 
 
-    a "I’m going to prepare the dinner. Come with me, Uno~ I will need your help."
+    a "I’m going to prepare the dinner. Come with me, Уно~ I will need your help."
 
 
 
     scene acg_final_1_84 with tstmgr
 
-    g "Aye aye, Mama Vera!"
+    g "Aye aye, Mama Вера!"
 
 
 
-    a "Stop calling me that, Uno, you are about to be a mother yourself!"
+    a "Stop calling me that, Уно, you are about to be a mother yourself!"
 
 
 
@@ -1356,7 +1356,7 @@ label ACG_final_1:
 
 
 
-    c "Ha, Uno bet that you wouldn’t find it~"
+    c "Ha, Уно bet that you wouldn’t find it~"
 
 
 
@@ -1392,7 +1392,7 @@ label ACG_final_1:
 
 
 
-    "The master of the house is resting his head on Vera’s huge tits and sucking Теодора’s nipple at the same time."
+    "The master of the house is resting his head on Вера’s huge tits and sucking Теодора’s nipple at the same time."
 
 
 
@@ -1488,13 +1488,13 @@ label ACG_final_1:
 
     scene acg_final_1_101 with tstmgr
 
-    g "Uno will take the first round~"
+    g "Уно will take the first round~"
 
 
 
     scene acg_final_1_102 with tstmgr
 
-    "Uno wiggled her big ass and came closer to me."
+    "Уно wiggled her big ass and came closer to me."
 
 
 
@@ -1510,7 +1510,7 @@ label ACG_final_1:
 
     scene acg_final_1_104 with tstmgr
 
-    g "Irene told me that~"
+    g "Айрин told me that~"
 
 
 
@@ -1564,7 +1564,7 @@ label ACG_final_1:
 
 
 
-    "Uno's huge tits are bouncing on my arms as I fuck her. Those soft heavy meat hammers turned me so on~~"
+    "Уно's huge tits are bouncing on my arms as I fuck her. Those soft heavy meat hammers turned me so on~~"
 
 
 
@@ -1602,7 +1602,7 @@ label ACG_final_1:
 
 
 
-    player "You have such a lewd body, Uno. Everything about you is so meaty and juicy~"
+    player "You have such a lewd body, Уно. Everything about you is so meaty and juicy~"
 
 
 
@@ -1688,7 +1688,7 @@ label ACG_final_1:
 
 
 
-    "Theo really knows how to make Uno hyped. Uno orgasmed even wilder than one minute ago."
+    "Theo really knows how to make Уно hyped. Уно orgasmed even wilder than one minute ago."
 
 
 
@@ -1728,7 +1728,7 @@ label ACG_final_1:
 
 
 
-    c "The dirty cock... with Uno’s fluid and [P]’s cum... in my wet pussy~~~"
+    c "The dirty cock... with Уно’s fluid and [P]’s cum... in my wet pussy~~~"
 
 
 
@@ -1889,7 +1889,7 @@ label ACG_final_1:
 
 
 
-    g "Don't be scared, Auntie Uno is here~~"
+    g "Don't be scared, Auntie Уно is here~~"
 
 
 
@@ -1907,7 +1907,7 @@ label ACG_final_1:
 
 
 
-    "Vera kept silent during the whole time I had fun with Theo and Uno. She is a dedicated person who never competes with others and is willing to be the last one in the line."
+    "Вера kept silent during the whole time I had fun with Theo and Уно. She is a dedicated person who never competes with others and is willing to be the last one in the line."
 
 
 
@@ -1925,7 +1925,7 @@ label ACG_final_1:
 
     scene acg_final_1_128 with tstmgr
 
-    c "Sorry to make you wait so long, Vera~"
+    c "Sorry to make you wait so long, Вера~"
 
 
 
@@ -1935,7 +1935,7 @@ label ACG_final_1:
 
     scene acg_final_1_129 with tstmgr
 
-    g "Mama Vera! Kiss!"
+    g "Mama Вера! Kiss!"
 
 
 
@@ -1971,7 +1971,7 @@ label ACG_final_1:
 
 
 
-    g "Come on, master!~ Mama Vera is waiting!~"
+    g "Come on, master!~ Mama Вера is waiting!~"
 
 
 
@@ -1997,7 +1997,7 @@ label ACG_final_1:
 
 
 
-    "Теодора and Uno took Vera’s hands while I started fucking her. It’s not because they want to restrict her from escaping, they just want to feel what Vera feels."
+    "Теодора and Уно took Вера’s hands while I started fucking her. It’s not because they want to restrict her from escaping, they just want to feel what Вера feels."
 
 
 
@@ -2005,7 +2005,7 @@ label ACG_final_1:
 
 
 
-    "Vera’s boobs are waving so hard as I move. This makes my dick even harder~"
+    "Вера’s boobs are waving so hard as I move. This makes my dick even harder~"
 
 
 
@@ -2013,7 +2013,7 @@ label ACG_final_1:
 
 
 
-    g "Mama Vera looks so happy."
+    g "Mama Вера looks so happy."
 
 
 
@@ -2029,11 +2029,11 @@ label ACG_final_1:
 
 
 
-    c "We can feel you, Vera. Just moan out and let loose of your mind, immersing yourself in his cock~"
+    c "We can feel you, Вера. Just moan out and let loose of your mind, immersing yourself in his cock~"
 
 
 
-    g "We are all here with you, Mama Vera~"
+    g "We are all here with you, Mama Вера~"
 
 
     stop sound
@@ -2055,11 +2055,11 @@ label ACG_final_1:
 
 
 
-    player "Yes, Vera, I love you so much~"
+    player "Yes, Вера, I love you so much~"
 
 
 
-    g "Me too! We all love Mama Vera!~"
+    g "Me too! We all love Mama Вера!~"
 
 
 

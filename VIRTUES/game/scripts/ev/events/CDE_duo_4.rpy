@@ -2,7 +2,7 @@ label CDE_duo_4:
 
     scene void with tstmgr
     play music happy
-    "Afternoon, in Elisa’s mansion."
+    "Afternoon, in Элиза’s mansion."
 
 
 

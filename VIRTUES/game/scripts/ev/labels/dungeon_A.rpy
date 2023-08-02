@@ -204,7 +204,7 @@ label dungeon_A.a_dungeon_2:
 
 
 
-    "Vera’s hands were restrained, but it made her huge boobs wave even more violently."
+    "Вера’s hands were restrained, but it made her huge boobs wave even more violently."
 
 
 

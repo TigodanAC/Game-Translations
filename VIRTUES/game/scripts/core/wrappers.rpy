@@ -91,10 +91,10 @@ init -2 python:
         if obj.is_plot_locked:
             if obj is B.love:
                 if seen("B_love_1"): 
-                    Push("I am tired of studying right now, perhaps I should spend some time on Vera")
+                    Push("I am tired of studying right now, perhaps I should spend some time on Вера")
             if obj is A.love:
                 if seen("A_love_1"):
-                    Push("I have spent too much time on Vera, maybe I should go to classes more often.")
+                    Push("I have spent too much time on Вера, maybe I should go to classes more often.")
             return
         
         if obj.is_stage_locked:
@@ -128,7 +128,7 @@ init -2 python:
         
         elif obj.owner == 'B':
             if obj >= 60 and not seen("B_daily_21"):
-                Push(_("You should improve the relationship with Minna and Irene first."))
+                Push(_("You should improve the relationship with Minna and Айрин first."))
             elif obj >= 35:
                 Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
             else:
@@ -154,13 +154,13 @@ init -2 python:
         
         elif obj.owner == 'F':
             if obj >= 25 and not seen("A_love_5"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Vera."))
+                Push(_("More of Рэйчел's story will be unlocked after you improve relationship with Вера."))
             elif obj is F.love and obj >= 30 and not seen("B_train_inti_1"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Senning."))
+                Push(_("More of Рэйчел's story will be unlocked after you improve relationship with Сеннин."))
             elif obj is F.love and obj >= 35 and not seen("G_train_sha_2"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Uno."))
+                Push(_("More of Рэйчел's story will be unlocked after you improve relationship with Уно."))
             elif obj is F.love and obj >= 40 and not seen ('ACG_duo_4'):
-                Push(_("You should raise Vera, Theo, and Uno's harem acceptance first."))
+                Push(_("You should raise Вера, Theo, and Уно's harem acceptance first."))
             else:
                 Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
         

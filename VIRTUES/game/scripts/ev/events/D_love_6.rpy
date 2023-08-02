@@ -7,7 +7,7 @@ label D_love_6:
 
 
 
-    player "Good afternoon, Aunt Elisa."
+    player "Good afternoon, Aunt Элиза."
 
 
 
@@ -53,7 +53,7 @@ label D_love_6:
 
     scene void with tstmgr
 
-    "Later, in Irene’s room."
+    "Later, in Айрин’s room."
 
 
 
@@ -93,7 +93,7 @@ label D_love_6:
 
     scene d_love_6_5 with tstmgr
 
-    d "You know, Uno bought me a bikini suit on Internet the other day."
+    d "You know, Уно bought me a bikini suit on Internet the other day."
 
 
 
@@ -297,7 +297,7 @@ label D_love_6:
         "Woman":
 
 
-            player "You have grown up, Irene..."
+            player "You have grown up, Айрин..."
 
             player "You have grown up into a very attractive woman."
 
@@ -365,7 +365,7 @@ label D_love_6:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 
@@ -381,7 +381,7 @@ label D_love_6:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 
@@ -575,7 +575,7 @@ label D_love_6:
 
             d "I will tell my mom about this... ... ... ..."
 
-            player "This is the punishment you deserve for flirting with me, Irene. You deserve it!"
+            player "This is the punishment you deserve for flirting with me, Айрин. You deserve it!"
 
             d "This is a... punishment?"
 
@@ -632,7 +632,7 @@ label D_love_6:
 
             scene d_love_6_49 with tstmgr
 
-            player "Irene... How do you feel right now? Does it still hurt?"
+            player "Айрин... How do you feel right now? Does it still hurt?"
 
             d "No, I feel... awesome... ..."
 
@@ -668,7 +668,7 @@ label D_love_6:
 
             "That’s right. I’m not an asshole that would fuck a girl against her will."
 
-            player "Sorry, Irene."
+            player "Sorry, Айрин."
 
             scene d_love_6_30 with tstmgr
 
@@ -692,7 +692,7 @@ label D_love_6:
 
             scene d_love_6_31 with tstmgr
 
-            d "Oh yeah! I can make it up for you with my mouth! Uno told me about how to do a blowjob!"
+            d "Oh yeah! I can make it up for you with my mouth! Уно told me about how to do a blowjob!"
 
             player "What? What the hell did she teach you?"
 

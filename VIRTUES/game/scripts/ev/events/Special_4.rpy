@@ -7,7 +7,7 @@ label Special_4:
 
 
 
-    "Well, Senning and Теодора want me to talk with their mothers, so... ..."
+    "Well, Сеннин and Теодора want me to talk with their mothers, so... ..."
 
 
 
@@ -33,7 +33,7 @@ label Special_4:
 
 
 
-    player "Eh... ... Теодора and Senning are worried about you. They don’t know why their mothers suddenly become hostile to each other."
+    player "Eh... ... Теодора and Сеннин are worried about you. They don’t know why their mothers suddenly become hostile to each other."
 
 
 
@@ -97,7 +97,7 @@ label Special_4:
 
 
 
-    e "Which of them do you think will have this position? Теодора, or Senning."
+    e "Which of them do you think will have this position? Теодора, or Сеннин."
 
 
 
@@ -123,7 +123,7 @@ label Special_4:
 
     scene special_4_11 with tstmgr
 
-    "Lady Minna" "Tell me, kid, what do I have to do to make Senning your lawful wife?"
+    "Lady Minna" "Tell me, kid, what do I have to do to make Сеннин your lawful wife?"
 
 
 
@@ -201,7 +201,7 @@ label Special_4:
 
 
 
-    "Lady Minna" "It is important to me... and Senning."
+    "Lady Minna" "It is important to me... and Сеннин."
 
 
 
@@ -239,7 +239,7 @@ label Special_4:
 
     scene special_4_23 with tstmgr
 
-    player "Elisa... ..."
+    player "Элиза... ..."
 
 
 
@@ -303,7 +303,7 @@ label Special_4:
 
 
 
-    "Elisa pressed her breasts hard against Minna’s butt. Now my penis is experiencing the unparalleled pleasure that was brought by boobs, buttocks, and a milf’s pussy together."
+    "Элиза pressed her breasts hard against Minna’s butt. Now my penis is experiencing the unparalleled pleasure that was brought by boobs, buttocks, and a milf’s pussy together."
 
 
 
@@ -591,7 +591,7 @@ label Special_4:
 
 
 
-    "Lady Minna" "Oh, you can’t even do that, Elisa? You must have a poor sex life during the past two decades~"
+    "Lady Minna" "Oh, you can’t even do that, Элиза? You must have a poor sex life during the past two decades~"
 
 
 
@@ -693,7 +693,7 @@ label Special_4:
 
     scene void with tstmgr
 
-    player "Elisa... ..."
+    player "Элиза... ..."
 
 
 
@@ -749,7 +749,7 @@ label Special_4:
 
 
 
-    "Elisa’s boobs are waving violently, it made her milk spill all over my body and even my mouth, damn that’s so lewd~"
+    "Элиза’s boobs are waving violently, it made her milk spill all over my body and even my mouth, damn that’s so lewd~"
 
 
 
@@ -761,7 +761,7 @@ label Special_4:
 
 
 
-    player "Elisa... ..."
+    player "Элиза... ..."
 
 
 
@@ -785,7 +785,7 @@ label Special_4:
 
 
 
-    "I ejaculated everything I got in Elisa's horny pussy..."
+    "I ejaculated everything I got in Элиза's horny pussy..."
 
 
 

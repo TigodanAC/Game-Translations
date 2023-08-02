@@ -28,11 +28,11 @@ label downtown_evening_B_1:
 
     scene downtown_evening_b_1_4 with tstmgr
 
-    b "And I need to buy some gifts for Miss Vera!"
+    b "And I need to buy some gifts for Miss Вера!"
 
 
 
-    b "And some gifts for Uno as well!"
+    b "And some gifts for Уно as well!"
 
 
 

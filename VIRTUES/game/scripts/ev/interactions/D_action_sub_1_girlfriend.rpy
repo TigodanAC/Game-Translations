@@ -2,7 +2,7 @@ label D_action_sub_1_girlfriend:
 
     scene void with tstmgr
 
-    "Evening, in Irene’s room..."
+    "Evening, in Айрин’s room..."
 
 
 
@@ -58,7 +58,7 @@ label D_action_sub_1_girlfriend:
 
             d "Master’s finger... is salty~ but... tasty~~~"
 
-            player "Ohhhhhh~~~~ Irene~~~~"
+            player "Ohhhhhh~~~~ Айрин~~~~"
 
             scene d_action_sub_1_7 with tstmgr
 
@@ -70,7 +70,7 @@ label D_action_sub_1_girlfriend:
 
             player "You are the best~~"
 
-            d "Hahhh~~~ Irene is so happy!~~~"
+            d "Hahhh~~~ Айрин is so happy!~~~"
         "Hold her in your arms" if True:
 
 
@@ -80,7 +80,7 @@ label D_action_sub_1_girlfriend:
 
             d "Meow meow?"
 
-            player "You are so adorable, Irene..."
+            player "You are so adorable, Айрин..."
 
             scene d_action_sub_1_10 with tstmgr
 
@@ -120,7 +120,7 @@ label D_action_sub_1_girlfriend:
 
     scene void with tstmgr
 
-    "I stayed with Irene in her room until late night..."
+    "I stayed with Айрин in her room until late night..."
 
 
 

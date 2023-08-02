@@ -7,9 +7,9 @@ label C_daily_5:
 
     narrator "*Phone Ringing* Dududu... Dududu... Dududu..."
 
-    narrator "My phone suddenly started to ring. It's a call from Aunt Elisa."
+    narrator "My phone suddenly started to ring. It's a call from Aunt Элиза."
 
-    player "Eh, hello, Aunt Elisa."
+    player "Eh, hello, Aunt Элиза."
 
     e "Hi, [P], you are at the company, right?"
 
@@ -19,7 +19,7 @@ label C_daily_5:
 
     e "And you need to come, too."
 
-    player "Uh, thanks for inviting me, Aunt Elisa. And I am going to tell Теодора right now."
+    player "Uh, thanks for inviting me, Aunt Элиза. And I am going to tell Теодора right now."
 
     e "Okay, I'll see you two tonight."
 
@@ -145,7 +145,7 @@ label C_daily_5:
 
     narrator "... ... ... ..."
 
-    narrator "I massaged her shoulder for the next 30 minutes, then we went to Elisa's mansion for dinner. Nothing much to say about that dinner, it's just a dinner."
+    narrator "I massaged her shoulder for the next 30 minutes, then we went to Элиза's mansion for dinner. Nothing much to say about that dinner, it's just a dinner."
 
     narrator "... ... ... ..."
 

@@ -1071,7 +1071,7 @@ label C_final:
 
             scene c_final_70 with dissolve
 
-            player "So... Is Irene doing a good job?"
+            player "So... Is Айрин doing a good job?"
 
 
 
@@ -1081,7 +1081,7 @@ label C_final:
 
 
 
-            c "Mom will be happy to know that Irene is really putting effort into something~"
+            c "Mom will be happy to know that Айрин is really putting effort into something~"
 
 
 

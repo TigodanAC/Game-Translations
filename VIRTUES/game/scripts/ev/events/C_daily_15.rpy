@@ -153,7 +153,7 @@ label C_daily_15:
 
     scene c_daily15_14 with tstmgr
 
-    g "Uno wants a hug, too~"
+    g "Уно wants a hug, too~"
 
 
 

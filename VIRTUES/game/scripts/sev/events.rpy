@@ -136,7 +136,7 @@ label first_company:
 label E_inspect_work:
     scene void with tstmgr
     narrator "... ... ... ..."
-    narrator "At the time when I was at work, Aunt Elisa came in the company and observed me in a distance."
+    narrator "At the time when I was at work, Aunt Элиза came in the company and observed me in a distance."
     scene e_office_smile with tstmgr
     e "(He works really hard...)"
     e "(And I can see how his girl colleagues adore him. Such a charming young man he is.)"
@@ -146,9 +146,9 @@ label E_inspect_work:
 label E_inspect_tutor:
     scene void with tstmgr
     narrator "... ... ... ..."
-    narrator "At the time when I was tutoring Irene, Aunt Elisa opened the door with a crack quietly and looked inside."
+    narrator "At the time when I was tutoring Айрин, Aunt Элиза opened the door with a crack quietly and looked inside."
     scene e_droom_smile with tstmgr
-    e "([P] is doing quite a good job at teaching Irene.)"
+    e "([P] is doing quite a good job at teaching Айрин.)"
     e "(He is patient and gentle, just like what his father used to be.)"
     $ add(E, E.love, 1)
     return

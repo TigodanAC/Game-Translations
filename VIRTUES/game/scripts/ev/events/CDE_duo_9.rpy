@@ -43,7 +43,7 @@ label CDE_duo_9:
 
     scene void with tstmgr
 
-    "Теодора searched around the house but still couldn’t find Elisa, eventually she came near the swimming pool and surprisedly saw... ..."
+    "Теодора searched around the house but still couldn’t find Элиза, eventually she came near the swimming pool and surprisedly saw... ..."
 
 
 
@@ -143,7 +143,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_13 with tstmgr
 
-    "Теодора then sat down beside Elisa..."
+    "Теодора then sat down beside Элиза..."
 
 
 
@@ -423,7 +423,7 @@ label CDE_duo_9:
 
 
 
-    "To be honest, the reverse titfuck didn’t give me greater sexual pleasure than the normal titfuck. I have to move very carefully and slowly since my ass is rubbing Elisa’s face all the time. It will make her suffer if I move hard."
+    "To be honest, the reverse titfuck didn’t give me greater sexual pleasure than the normal titfuck. I have to move very carefully and slowly since my ass is rubbing Элиза’s face all the time. It will make her suffer if I move hard."
 
 
 

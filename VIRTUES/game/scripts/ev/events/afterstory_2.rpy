@@ -13,7 +13,7 @@ label afterstory_2:
 
 
 
-    e "I’m just here... to see how you and Irene are doing at work... ..."
+    e "I’m just here... to see how you and Айрин are doing at work... ..."
 
 
 
@@ -29,7 +29,7 @@ label afterstory_2:
 
 
 
-    "Elisa and Теодора" "... ... ... ..."
+    "Элиза and Теодора" "... ... ... ..."
 
 
 
@@ -145,7 +145,7 @@ label afterstory_2:
 
     scene afterstory_2_14 with tstmgr
 
-    "Elisa carefully lifted up her shirt, revealing her massive breasts to Theo."
+    "Элиза carefully lifted up her shirt, revealing her massive breasts to Theo."
 
 
 
@@ -293,7 +293,7 @@ label afterstory_2:
 
 
 
-    c "Don’t tell Irene about this, mom. She will be so jealous~"
+    c "Don’t tell Айрин about this, mom. She will be so jealous~"
 
 
 
@@ -445,7 +445,7 @@ label afterstory_2:
 
 
 
-    "I just received an empty text from Elisa. I texted her back and asked what’s going on, but she didn’t reply."
+    "I just received an empty text from Элиза. I texted her back and asked what’s going on, but she didn’t reply."
 
 
 
@@ -577,7 +577,7 @@ label afterstory_2:
 
 
 
-    "This was the first time I had a visual comparison of their booties. Elisa’s was definitely thicker and huger, and Theo’s looked more tender and bouncier..."
+    "This was the first time I had a visual comparison of their booties. Элиза’s was definitely thicker and huger, and Theo’s looked more tender and bouncier..."
 
 
 
@@ -591,7 +591,7 @@ label afterstory_2:
 
 
 
-    "As time went by, Theo became weaker and Elisa began to take the lead."
+    "As time went by, Theo became weaker and Элиза began to take the lead."
 
 
 
@@ -797,7 +797,7 @@ label afterstory_2:
 
 
 
-    player "Come here, Elisa, do the job for your girl~"
+    player "Come here, Элиза, do the job for your girl~"
 
 
 
@@ -817,7 +817,7 @@ label afterstory_2:
 
 
 
-    player "Elisa!~~~"
+    player "Элиза!~~~"
 
 
 
@@ -833,7 +833,7 @@ label afterstory_2:
 
 
 
-    "As the boss of the company, Elisa let out a lustful scream under my thrusts which was completely incompatible with her identity."
+    "As the boss of the company, Элиза let out a lustful scream under my thrusts which was completely incompatible with her identity."
 
 
 
@@ -877,7 +877,7 @@ label afterstory_2:
 
 
 
-    "I put the exhausted Elisa on Теодора’s body so she could at least rest her head on her daughter’s meaty ass."
+    "I put the exhausted Элиза on Теодора’s body so she could at least rest her head on her daughter’s meaty ass."
 
 
 
@@ -889,11 +889,11 @@ label afterstory_2:
 
 
 
-    e "Theo, Irene, and I... ... The entire Shinyrost family has been conquered by your mighty dick~~~"
+    e "Theo, Айрин, and I... ... The entire Shinyrost family has been conquered by your mighty dick~~~"
 
 
 
-    player "Ahhh... I’m cumming, take it all, Elisa!"
+    player "Ahhh... I’m cumming, take it all, Элиза!"
 
 
 
@@ -909,7 +909,7 @@ label afterstory_2:
 
 
 
-    "I ejaculated all my cum inside Elisa’s mature pussy and made her orgasm at the same time. Uhhhh... ... Yes, what a perfect end for a sex party~"
+    "I ejaculated all my cum inside Элиза’s mature pussy and made her orgasm at the same time. Uhhhh... ... Yes, what a perfect end for a sex party~"
 
 
 
@@ -923,7 +923,7 @@ label afterstory_2:
 
 
 
-    "Sometime later, after Elisa and Теодора recovered from exhaustion... ..."
+    "Sometime later, after Элиза and Теодора recovered from exhaustion... ..."
 
 
 
@@ -1007,7 +1007,7 @@ label afterstory_2:
 
 
 
-    "Awwww, I can’t believe the first thing Elisa thought of when I bit her nipple was to warn me about static~~~ She is so thoughtful~~"
+    "Awwww, I can’t believe the first thing Элиза thought of when I bit her nipple was to warn me about static~~~ She is so thoughtful~~"
 
 
 

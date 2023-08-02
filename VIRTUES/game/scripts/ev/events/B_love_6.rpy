@@ -3,7 +3,7 @@ label B_love_6:
     scene b_gf_2_watchtv_1 with tstmgr
     play music happy
 
-    "Senning and I are watching TV in her room."
+    "Сеннин and I are watching TV in her room."
 
 
 
@@ -255,7 +255,7 @@ label B_love_6:
 
         player "Owww... ... ... ..."
 
-        "To my surprise, Senning didn’t spit my penis out. Instead, she kept it in her mouth and accepted all of my cum."
+        "To my surprise, Сеннин didn’t spit my penis out. Instead, she kept it in her mouth and accepted all of my cum."
 
         scene b_love_6_14 with tstmgr
 
@@ -348,7 +348,7 @@ label B_love_6:
 
         player "(Owww... I can’t believe it.)"
 
-        player "(Senning, the most elegant girl I have ever seen, is now licking my glans like a slut.)"
+        player "(Сеннин, the most elegant girl I have ever seen, is now licking my glans like a slut.)"
 
         player "Oh my... ... I think I am going to... ..."
 

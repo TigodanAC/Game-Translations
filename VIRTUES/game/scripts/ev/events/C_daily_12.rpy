@@ -139,7 +139,7 @@ label C_daily_12:
 
     scene c_daily12_13 with tstmgr
 
-    "Vera then left the room..."
+    "Вера then left the room..."
 
 
 

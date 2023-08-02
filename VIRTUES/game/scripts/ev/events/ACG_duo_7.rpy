@@ -161,7 +161,7 @@ label ACG_duo_7:
 
 
 
-    c "You are spoiling him, Vera."
+    c "You are spoiling him, Вера."
 
 
 
@@ -173,13 +173,13 @@ label ACG_duo_7:
 
     scene acg_duo_7_15 with tstmgr
 
-    c "Humph... ... You have become a bad girl, haven't you? Just like Uno~"
+    c "Humph... ... You have become a bad girl, haven't you? Just like Уно~"
 
 
 
     scene acg_duo_7_16 with tstmgr
 
-    "Теодора suddenly kissed Vera..."
+    "Теодора suddenly kissed Вера..."
 
 
 
@@ -241,7 +241,7 @@ label ACG_duo_7:
 
     scene acg_duo_7_19 with tstmgr
 
-    c "See you tonight, Vera~"
+    c "See you tonight, Вера~"
 
 
 
@@ -267,7 +267,7 @@ label ACG_duo_7:
 
 
 
-    player "Vera... ..."
+    player "Вера... ..."
 
 
 
@@ -293,7 +293,7 @@ label ACG_duo_7:
 
     scene acg_duo_7_25 with tstmgr
 
-    player "See you tonight, Vera~"
+    player "See you tonight, Вера~"
 
 
 

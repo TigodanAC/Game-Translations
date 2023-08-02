@@ -211,7 +211,7 @@ label CE_duo_1:
 
     scene ce_duo_1_20 with tstmgr
 
-    e "I came here only because I was lonely at home too since Irene is at school... ..."
+    e "I came here only because I was lonely at home too since Айрин is at school... ..."
 
 
 
@@ -395,7 +395,7 @@ label CE_duo_1:
 
 
 
-    "Elisa sat on me and wriggled her body obliviously."
+    "Элиза sat on me and wriggled her body obliviously."
 
 
 
@@ -419,7 +419,7 @@ label CE_duo_1:
 
 
 
-    e "Squirt your seed in my womb, in the place where Theo and Irene used to live in~"
+    e "Squirt your seed in my womb, in the place where Theo and Айрин used to live in~"
 
 
 
@@ -439,7 +439,7 @@ label CE_duo_1:
 
 
 
-    "Elisa orgasmed violently while I ejaculated all my sperm in her deepest area."
+    "Элиза orgasmed violently while I ejaculated all my sperm in her deepest area."
 
 
 
@@ -461,7 +461,7 @@ label CE_duo_1:
 
 
 
-    e "I just be successfully fertilized. We are going to have a baby~ Теодора and Irene are going to have a brother or a sister~"
+    e "I just be successfully fertilized. We are going to have a baby~ Теодора and Айрин are going to have a brother or a sister~"
 
 
 
@@ -521,7 +521,7 @@ label CE_duo_1:
 
 
 
-    "Elisa went to the cabinet and... ..."
+    "Элиза went to the cabinet and... ..."
 
 
 

@@ -3,7 +3,7 @@ label C_love_3:
     scene void with tstmgr
     play music sorrow
 
-    "Midnight, in Elisa's mansion."
+    "Midnight, in Элиза's mansion."
 
     "*The following plot is from Теодора's perspective*"
 
@@ -27,7 +27,7 @@ label C_love_3:
 
     scene void with tstmgr
 
-    "Irene always criticized me for moving out from her and mom. She said I did that because I don't love them. Well, that's not true."
+    "Айрин always criticized me for moving out from her and mom. She said I did that because I don't love them. Well, that's not true."
 
     "I moved out only because I hate this place. I started hating it ever since we moved in here 15 years ago."
 
@@ -99,7 +99,7 @@ label C_love_3:
 
     scene c_love_3_8 with tstmgr
 
-    player "Eh... Irene has an exam tomorrow, and your mom asked me to stay here tonight so I could help her review until late."
+    player "Eh... Айрин has an exam tomorrow, and your mom asked me to stay here tonight so I could help her review until late."
 
     player "Why did you... ..."
 

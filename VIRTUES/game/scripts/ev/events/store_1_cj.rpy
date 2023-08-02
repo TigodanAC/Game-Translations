@@ -9,11 +9,11 @@ label store_1_cj:
 
     scene store_1_cj_1 with dissolve
 
-    player "Vera once said that she wants a new bra... ... yeah, I can buy one for her."
+    player "Вера once said that she wants a new bra... ... yeah, I can buy one for her."
 
 
 
-    player "And I want to buy Senning a new handbag as a gift, but I’m not sure if I can afford it... ..."
+    player "And I want to buy Сеннин a new handbag as a gift, but I’m not sure if I can afford it... ..."
 
 
 

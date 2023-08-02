@@ -3,7 +3,7 @@ label G_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "It’s not hard to find out that Uno is treating me differently ever since our relationship got improved."
+    "It’s not hard to find out that Уно is treating me differently ever since our relationship got improved."
 
 
 
@@ -41,7 +41,7 @@ label G_train_inti_1:
 
     scene g_train_inti_1_5 with tstmgr
 
-    player "Oh, hi, Uno, I am working on an economic project. It's... eh, quite important."
+    player "Oh, hi, Уно, I am working on an economic project. It's... eh, quite important."
 
 
 
@@ -95,7 +95,7 @@ label G_train_inti_1:
 
     scene g_train_inti_1_5 with tstmgr
 
-    player "Hmm? Oh, hi, Uno, I didn’t notice you."
+    player "Hmm? Oh, hi, Уно, I didn’t notice you."
 
 
 
@@ -245,7 +245,7 @@ label G_train_inti_1:
 
 
 
-    player "Uno?"
+    player "Уно?"
 
 
 
@@ -488,7 +488,7 @@ label G_train_inti_1:
 
 
 
-    "That was a lie, of course, but it has a great result. Uno’s pussy became much tighter and wetter after hearing my words."
+    "That was a lie, of course, but it has a great result. Уно’s pussy became much tighter and wetter after hearing my words."
 
 
 
@@ -528,7 +528,7 @@ label G_train_inti_1:
 
 
 
-    player "Uno! I’m cumming, too!"
+    player "Уно! I’m cumming, too!"
 
 
 
@@ -552,7 +552,7 @@ label G_train_inti_1:
 
 
 
-    g "Pregnant... ... Uno is going to... ... be pregnant... ..."
+    g "Pregnant... ... Уно is going to... ... be pregnant... ..."
 
 
 
@@ -596,7 +596,7 @@ label G_train_inti_1:
 
 
 
-    "I spent some time with Uno in the livingroom and forgot my paper at all... ..."
+    "I spent some time with Уно in the livingroom and forgot my paper at all... ..."
 
 
 

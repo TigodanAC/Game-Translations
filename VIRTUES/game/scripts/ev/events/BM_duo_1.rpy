@@ -3,7 +3,7 @@ label B_final_1:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, I came to Senning's apartment..."
+    "Afternoon, I came to Сеннин's apartment..."
 
 
 
@@ -35,7 +35,7 @@ label B_final_1:
 
     scene bm_duo_1_4 with tstmgr
 
-    "Lady Minna" "Ra... Rachel, yeah, that’s the name."
+    "Lady Minna" "Ra... Рэйчел, yeah, that’s the name."
 
 
 
@@ -55,7 +55,7 @@ label B_final_1:
 
     scene bm_duo_1_6 with tstmgr
 
-    "Lady Minna" "Sigh... ... I just want to know what I have missed about her during the past three years. After that day in Elisa’s house, I realized there are so many things I don’t know about her."
+    "Lady Minna" "Sigh... ... I just want to know what I have missed about her during the past three years. After that day in Элиза’s house, I realized there are so many things I don’t know about her."
 
 
 
@@ -133,7 +133,7 @@ label B_final_1:
 
 
 
-    "Well, Senning did tell me about that before~"
+    "Well, Сеннин did tell me about that before~"
 
 
 
@@ -239,7 +239,7 @@ label B_final_1:
 
 
 
-    player "Senning was an introverted girl, I didn’t know what she really thought of me. I valued the friendship with her and I was afraid to pursue her because I didn’t want to make things difficult for her."
+    player "Сеннин was an introverted girl, I didn’t know what she really thought of me. I valued the friendship with her and I was afraid to pursue her because I didn’t want to make things difficult for her."
 
 
 
@@ -269,7 +269,7 @@ label B_final_1:
 
 
 
-    "Lady Minna" "Well, you know, Senning is the jewel of my family. She was spoiled hard and she has never suffered any setbacks since she was a child."
+    "Lady Minna" "Well, you know, Сеннин is the jewel of my family. She was spoiled hard and she has never suffered any setbacks since she was a child."
 
 
 
@@ -289,7 +289,7 @@ label B_final_1:
 
 
 
-    "Lady Minna" "I will leave this country very soon, and I believe you will take care of Senning well. No, I believe you will take care of her even better than I do."
+    "Lady Minna" "I will leave this country very soon, and I believe you will take care of Сеннин well. No, I believe you will take care of her even better than I do."
 
 
 
@@ -390,7 +390,7 @@ label B_final_1:
 
 
 
-    player "We can’t let Senning see this."
+    player "We can’t let Сеннин see this."
 
 
 
@@ -424,7 +424,7 @@ label B_final_1:
 
 
 
-    player "Shhhhh... ... Senning is going to hear you."
+    player "Shhhhh... ... Сеннин is going to hear you."
 
 
 
@@ -476,7 +476,7 @@ label B_final_1:
 
 
 
-    "Lady Minna couldn’t help but moan out, I hope Senning didn’t hear it."
+    "Lady Minna couldn’t help but moan out, I hope Сеннин didn’t hear it."
 
 
 
@@ -496,7 +496,7 @@ label B_final_1:
 
 
 
-    "Lady Minna" "Now we should... dress up before Senning finds us."
+    "Lady Minna" "Now we should... dress up before Сеннин finds us."
 
 
 
@@ -514,7 +514,7 @@ label B_final_1:
 
             scene bm_duo_1_40 with tstmgr
 
-            f "Senning! I found my wallet, let’s go to the theater! We can still catch the movie from the middle!~"
+            f "Сеннин! I found my wallet, let’s go to the theater! We can still catch the movie from the middle!~"
 
             scene bm_duo_1_41 with tstmgr
 
@@ -528,13 +528,13 @@ label B_final_1:
 
             scene bm_duo_1_43 with tstmgr
 
-            b "*Talking to Rachel* I’m coming."
+            b "*Talking to Рэйчел* I’m coming."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "After Senning went out with Rachel again, Lady Minna and I dressed up and left the apartment... ..."
+            "After Сеннин went out with Рэйчел again, Lady Minna and I dressed up and left the apartment... ..."
         "Not yet":
 
 
@@ -548,7 +548,7 @@ label B_final_1:
 
             player "Let’s do another round~"
 
-            "Lady Minna" "What are you talking about? Senning will find us any second."
+            "Lady Minna" "What are you talking about? Сеннин will find us any second."
 
             player "Not if we be careful enough."
 
@@ -582,7 +582,7 @@ label B_final_1:
 
             scene bm_duo_1_48 with tstmgr
 
-            f "Senning! I found my wallet, let’s go to the theater! We can still catch the movie from the middle~"
+            f "Сеннин! I found my wallet, let’s go to the theater! We can still catch the movie from the middle~"
 
             b "Oh, okay, but... ..."
 
@@ -594,7 +594,7 @@ label B_final_1:
 
             scene bm_duo_1_49 with tstmgr
 
-            "Senning then left the room. It looks like she won’t be back any time soon."
+            "Сеннин then left the room. It looks like she won’t be back any time soon."
 
             stop sound
             scene bm_duo_1_50 with tstmgr
@@ -603,7 +603,7 @@ label B_final_1:
 
             "Lady Minna" "That was... so close~~~"
 
-            player "Lady Minna, your vagina became so damn tight after you heard Senning was coming in."
+            player "Lady Minna, your vagina became so damn tight after you heard Сеннин was coming in."
 
             player "You are really a helpless slut~"
 
@@ -653,7 +653,7 @@ label B_final_1:
 
             "Lady Minna" "You know, son, our bodies are really in tune with each other. I will miss you so much after I go back to my country."
 
-            "Lady Minna" "It would be best if you and Senning can leave this country with me together~"
+            "Lady Minna" "It would be best if you and Сеннин can leave this country with me together~"
 
             "Lady Minna" "Forget it, I was just joking~"
 

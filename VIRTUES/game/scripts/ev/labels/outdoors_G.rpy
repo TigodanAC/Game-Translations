@@ -113,7 +113,7 @@ label outdoors_G.g_outdoors_1:
 
     scene g_outdoors_1_10 with tstmgr
 
-    player "*Covered Uno with back* ... ... ... ..."
+    player "*Covered Уно with back* ... ... ... ..."
 
 
 
@@ -265,7 +265,7 @@ label outdoors_G.g_outdoors_2:
 
 
 
-    "It seems like the less clothes Uno has on, the weaker the sense of shame she has."
+    "It seems like the less clothes Уно has on, the weaker the sense of shame she has."
 
 
 
@@ -291,7 +291,7 @@ label outdoors_G.g_outdoors_2:
 
     scene g_outdoors_2_5 with tstmgr
 
-    g "Awwww~ Now Uno has become a real dog~"
+    g "Awwww~ Now Уно has become a real dog~"
 
 
 
@@ -358,7 +358,7 @@ label outdoors_G.g_outdoors_2:
 
 
 
-    g "Yes, Uno will be a good good puppy~ Uno will not find excuses anymore~ Uno will always obey~"
+    g "Yes, Уно will be a good good puppy~ Уно will not find excuses anymore~ Уно will always obey~"
 
 
 
@@ -376,7 +376,7 @@ label outdoors_G.g_outdoors_2:
 
     $ flashlight()
 
-    g "Ohhhhhhhhhh~ Master’s dick is in Uno's pussy~ in Uno's puppy pussy~"
+    g "Ohhhhhhhhhh~ Master’s dick is in Уно's pussy~ in Уно's puppy pussy~"
 
 
 
@@ -402,7 +402,7 @@ label outdoors_G.g_outdoors_2:
 
 
 
-    g "Uno... Uno loves it so much~~ Uno is a shameless dog in season~~ Uno wants to be master's little pet forever!~~~~"
+    g "Уно... Уно loves it so much~~ Уно is a shameless dog in season~~ Уно wants to be master's little pet forever!~~~~"
 
 
 

@@ -25,7 +25,7 @@ label A_daily_11:
 
 
 
-    "Vera sat up on the bed."
+    "Вера sat up on the bed."
 
 
 
@@ -303,7 +303,7 @@ label A_daily_11:
 
 
 
-    player "I’m cumming, Vera!~~~"
+    player "I’m cumming, Вера!~~~"
 
 
     stop sound

@@ -10,13 +10,13 @@ label mansion_guestroom_latenight_D_1:
 
 
 
-    "Later tonight, Irene came to my room without letting her mother know."
+    "Later tonight, Айрин came to my room without letting her mother know."
 
 
 
     scene mansion_guestroom_latenight_d_1_1 with tstmgr
 
-    player "Hmm? What’s up, Irene?"
+    player "Hmm? What’s up, Айрин?"
 
 
 
@@ -30,7 +30,7 @@ label mansion_guestroom_latenight_D_1:
 
 
 
-    player "Irene... ... ... ..."
+    player "Айрин... ... ... ..."
 
 
 

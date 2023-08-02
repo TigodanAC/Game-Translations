@@ -3,7 +3,7 @@ label E_love_7:
     scene void with tstmgr
     play music sorrow
 
-    "I decided to stay in Aunt Elisa’s mansion for tonight..."
+    "I decided to stay in Aunt Элиза’s mansion for tonight..."
 
 
 
@@ -41,7 +41,7 @@ label E_love_7:
 
 
 
-    player "Elisa... ..."
+    player "Элиза... ..."
 
 
 
@@ -77,7 +77,7 @@ label E_love_7:
 
 
 
-    player "Ah, hi, Aunt Elisa..."
+    player "Ah, hi, Aunt Элиза..."
 
 
 
@@ -95,7 +95,7 @@ label E_love_7:
 
 
 
-    player "What are you doing here, Aunt Elisa?"
+    player "What are you doing here, Aunt Элиза?"
 
 
 
@@ -137,7 +137,7 @@ label E_love_7:
 
     scene e_love_7_6 with tstmgr
 
-    "I then took a seat next to Aunt Elisa."
+    "I then took a seat next to Aunt Элиза."
 
 
 
@@ -183,7 +183,7 @@ label E_love_7:
 
 
 
-    player "Aunt Elisa... ..."
+    player "Aunt Элиза... ..."
 
 
 
@@ -233,7 +233,7 @@ label E_love_7:
 
 
 
-    player "Aunt Elisa... ... ... ..."
+    player "Aunt Элиза... ... ... ..."
 
 
 
@@ -263,7 +263,7 @@ label E_love_7:
 
 
 
-    e "I have already bought a Japanese-style bungalow in the suburb of the city and I’ll move there after Irene goes to college."
+    e "I have already bought a Japanese-style bungalow in the suburb of the city and I’ll move there after Айрин goes to college."
 
 
 
@@ -279,7 +279,7 @@ label E_love_7:
 
 
 
-    player "And... what about Irene?"
+    player "And... what about Айрин?"
 
 
 
@@ -337,7 +337,7 @@ label E_love_7:
 
 
 
-    player "Aunt Elisa... ..."
+    player "Aunt Элиза... ..."
 
 
 
@@ -361,7 +361,7 @@ label E_love_7:
 
 
 
-    "I never saw Aunt Elisa expressing her sorrow like this before. She is so eager to be loved. The void in her heart is tearing her apart."
+    "I never saw Aunt Элиза expressing her sorrow like this before. She is so eager to be loved. The void in her heart is tearing her apart."
 
 
 

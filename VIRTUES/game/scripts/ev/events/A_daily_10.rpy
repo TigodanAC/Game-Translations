@@ -7,7 +7,7 @@ label A_daily_10:
 
 
 
-    player "Vera? Why are you dressed like this?"
+    player "Вера? Why are you dressed like this?"
 
 
 
@@ -65,7 +65,7 @@ label A_daily_10:
 
 
 
-    "Vera’s voice got extremely quiet."
+    "Вера’s voice got extremely quiet."
 
 
 
@@ -125,7 +125,7 @@ label A_daily_10:
 
     scene a_daily10_10 with tstmgr
 
-    "Vera blushed and looked away."
+    "Вера blushed and looked away."
 
 
 

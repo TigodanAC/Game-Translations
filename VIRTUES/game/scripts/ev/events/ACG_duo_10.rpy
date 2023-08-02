@@ -5,7 +5,7 @@ label ACG_duo_10:
     scene void with tstmgr
     play music sorrow
 
-    "Among all the girls who live in my house, Vera is definitely the busiest one."
+    "Among all the girls who live in my house, Вера is definitely the busiest one."
 
 
 
@@ -73,13 +73,13 @@ label ACG_duo_10:
 
     scene acg_duo_10_10 with dissolve
 
-    player "(I have practiced my massaging skill a lot recently. I think Vera will definitely love it~)"
+    player "(I have practiced my massaging skill a lot recently. I think Вера will definitely love it~)"
 
 
 
     scene acg_duo_10_11 with tstmgr
 
-    "I went to Vera’s room, but she was not there."
+    "I went to Вера’s room, but she was not there."
 
 
 
@@ -107,7 +107,7 @@ label ACG_duo_10:
 
     scene acg_duo_10_8 with tstmgr
 
-    g "The massage with our breasts~ Humph, humph~ Is it good, Vera? This service used to be master’s favorite~"
+    g "The massage with our breasts~ Humph, humph~ Is it good, Вера? This service used to be master’s favorite~"
 
 
 
@@ -123,7 +123,7 @@ label ACG_duo_10:
 
     scene acg_duo_10_8 with tstmgr
 
-    a "Theo... Uno... ... You two are so kind to me... ..."
+    a "Theo... Уно... ... You two are so kind to me... ..."
 
 
 
@@ -133,11 +133,11 @@ label ACG_duo_10:
 
 
 
-    g "I think you should quit those jobs, Vera~ so you will have more time staying with us~"
+    g "I think you should quit those jobs, Вера~ so you will have more time staying with us~"
 
 
 
-    c "Be careful, if you keep yourself too busy for too long, you won’t have enough time to take care of your face and skin. By that time Uno and I may take away more of [P]’s favor from you~"
+    c "Be careful, if you keep yourself too busy for too long, you won’t have enough time to take care of your face and skin. By that time Уно and I may take away more of [P]’s favor from you~"
 
 
 
@@ -163,7 +163,7 @@ label ACG_duo_10:
 
 
 
-    "It looks like I am not the only one in the house who cares about Vera~~"
+    "It looks like I am not the only one in the house who cares about Вера~~"
 
 
 

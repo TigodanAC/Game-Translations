@@ -4,7 +4,7 @@ label B_train_inti_2:
 
     play music sorrow
 
-    "*The following plot is from Senning’s perspective.*"
+    "*The following plot is from Сеннин’s perspective.*"
 
 
 
@@ -12,7 +12,7 @@ label B_train_inti_2:
 
 
 
-    "Later this afternoon, in Senning’s room..."
+    "Later this afternoon, in Сеннин’s room..."
 
 
 
@@ -164,7 +164,7 @@ label B_train_inti_2:
 
     scene void with tstmgr
 
-    "Senning went to open the door."
+    "Сеннин went to open the door."
 
 
 
@@ -188,7 +188,7 @@ label B_train_inti_2:
 
 
 
-    "A lady in red slowly stepped into the room. She looks just like a mature version of Senning but with a little bit more arrogance and elegance."
+    "A lady in red slowly stepped into the room. She looks just like a mature version of Сеннин but with a little bit more arrogance and elegance."
 
 
 
@@ -240,7 +240,7 @@ label B_train_inti_2:
 
     scene b_train_inti_2_27 with tstmgr
 
-    "???" "Oh my God, Senning, you got a boyfriend in college?!"
+    "???" "Oh my God, Сеннин, you got a boyfriend in college?!"
 
 
 
@@ -344,7 +344,7 @@ label B_train_inti_2:
 
 
 
-    player "You are really Senning’s mother? You two look really alike but... ... I’d rather believe that you are her sister. You look so young... ..."
+    player "You are really Сеннин’s mother? You two look really alike but... ... I’d rather believe that you are her sister. You look so young... ..."
 
 
 
@@ -380,7 +380,7 @@ label B_train_inti_2:
 
     scene b_train_inti_2_37 with dissolve
 
-    "Lady Minna" "So, tell me, young man, how long have you and Senning been together?"
+    "Lady Minna" "So, tell me, young man, how long have you and Сеннин been together?"
 
 
 
@@ -736,7 +736,7 @@ label B_train_inti_2:
 
             b "[P]... ..."
 
-            player "Well, ma’am, you can definitely have your doubt, but what can you do about it? Are you going to force Senning to break up with me? You were the one who said you would support her to pursue her love in her own ways."
+            player "Well, ma’am, you can definitely have your doubt, but what can you do about it? Are you going to force Сеннин to break up with me? You were the one who said you would support her to pursue her love in her own ways."
 
             scene b_train_inti_2_67 with tstmgr
 
@@ -766,7 +766,7 @@ label B_train_inti_2:
 
             player "Wait, what? That was... a test?"
 
-            "Lady Minna" "Well, yes, that was a test, but I didn’t lie to you, Senning does need to leave your country after she graduates. However... ..."
+            "Lady Minna" "Well, yes, that was a test, but I didn’t lie to you, Сеннин does need to leave your country after she graduates. However... ..."
 
             "Lady Minna" "You were right about one thing, that she won’t have to leave if I offer to help~"
 
@@ -830,7 +830,7 @@ label B_train_inti_2:
 
             "Lady Minna" "As for you, young man, as far as I know, your father is in deep trouble right now and it’s not likely he can get out of jail soon. He will need you here to take care of his estates and business."
 
-            "Lady Minna" "And that means you and Senning will have to be apart..."
+            "Lady Minna" "And that means you and Сеннин will have to be apart..."
 
             "Lady Minna" "It’s all about the responsibilities, you know. Both of you are from wealthy families. Your families provided you with good lives and good educations, in return, you will have to take the responsibilities that the families need you to take."
 
@@ -864,7 +864,7 @@ label B_train_inti_2:
 
             scene b_train_inti_2_82 with tstmgr
 
-            "Senning buried her head in her mom's breasts and cried out loud. She must have been really disappointed in me. But... what else could I do? I can’t just elope with her. The responsibilities lie between us."
+            "Сеннин buried her head in her mom's breasts and cried out loud. She must have been really disappointed in me. But... what else could I do? I can’t just elope with her. The responsibilities lie between us."
 
             player "Sigh... ... ... ..."
 
@@ -880,7 +880,7 @@ label B_train_inti_2:
 
             scene void with tstmgr
 
-            "I walked out to the balcony and stood there staring blankly while Lady Minna was trying to comfort Senning."
+            "I walked out to the balcony and stood there staring blankly while Lady Minna was trying to comfort Сеннин."
 
             "... ... ... ..."
 
@@ -902,7 +902,7 @@ label B_train_inti_2:
 
             "Lady Minna" "... ... ... ..."
 
-            "Lady Minna" "To be honest, you impressed me again with your rationality. You made the right decision. It is best for both you and Senning."
+            "Lady Minna" "To be honest, you impressed me again with your rationality. You made the right decision. It is best for both you and Сеннин."
 
             scene b_train_inti_2_86 with tstmgr
 
@@ -920,7 +920,7 @@ label B_train_inti_2:
 
             scene b_train_inti_2_88 with tstmgr
 
-            "Lady Minna" "Don’t get me wrong. I’m not blaming you. You did nothing wrong. I admire you and I thank you for showing up in Senning’s life."
+            "Lady Minna" "Don’t get me wrong. I’m not blaming you. You did nothing wrong. I admire you and I thank you for showing up in Сеннин’s life."
 
             "Lady Minna" "I was always worried about her. I was afraid that she is not going to make a success in the adult world with that soft fragile character."
 
@@ -932,19 +932,19 @@ label B_train_inti_2:
 
             "I gave up on her as soon as I heard about the one-year thing. Real love should be better than that."
 
-            "Senning and I have been friends for years. Maybe I just mistook the friendship for love."
+            "Сеннин and I have been friends for years. Maybe I just mistook the friendship for love."
 
             scene b_train_inti_2_90 with tstmgr
 
             "Lady Minna" "Don’t doubt yourself, kid. You have the freedom to love or not to love. Again, you did nothing wrong."
 
-            "Lady Minna" "But you’d better go now, Senning doesn’t want to see you at this moment."
+            "Lady Minna" "But you’d better go now, Сеннин doesn’t want to see you at this moment."
 
             "Lady Minna" "Don’t worry, she will understand and she won’t hate you for the decision you made. You two can still be good friends for an entire year."
 
             player "... ... ... ..."
 
-            "I nodded slightly and left the room quietly. Senning was still crying, but she didn’t look at me when I left."
+            "I nodded slightly and left the room quietly. Сеннин was still crying, but she didn’t look at me when I left."
 
             scene void with tstmgr
 
@@ -952,7 +952,7 @@ label B_train_inti_2:
 
             "... ... ... ... ... ..."
 
-            "We didn’t really break up during Senning’s final year in this country, at least... no one has really said that out. We still studied together every day and sometimes we would hang out like we used to."
+            "We didn’t really break up during Сеннин’s final year in this country, at least... no one has really said that out. We still studied together every day and sometimes we would hang out like we used to."
 
             "However, she was not sensitive to my body scent anymore. I guess that meant I have lost her love. The disappointment is like a knife that cuts off her attachment to me."
 
@@ -970,7 +970,7 @@ label B_train_inti_2:
 
             b "Yes, this is it."
 
-            "Senning has really grown a lot during the past year. Her mom was right, she has truly become a stronger and more independent woman after that day. She is not the soft fragile girl that she used to be anymore."
+            "Сеннин has really grown a lot during the past year. Her mom was right, she has truly become a stronger and more independent woman after that day. She is not the soft fragile girl that she used to be anymore."
 
             scene b_train_inti_2_92 with tstmgr
 
@@ -1006,7 +1006,7 @@ label B_train_inti_2:
 
                     scene b_train_inti_2_95 with tstmgr
 
-                    "There was a sparkle in Senning’s eyes, but it soon faded away."
+                    "There was a sparkle in Сеннин’s eyes, but it soon faded away."
 
                     scene b_train_inti_2_96 with tstmgr
 
@@ -1044,18 +1044,18 @@ label B_train_inti_2:
 
             scene b_train_inti_2_101 with tstmgr
 
-            "Senning left without looking back. I watched her leave until she disappeared in the gate beyond the security check."
+            "Сеннин left without looking back. I watched her leave until she disappeared in the gate beyond the security check."
 
-            "And that was the last time I saw Senning."
+            "And that was the last time I saw Сеннин."
 
             scene void with tstmgr
 
-            "*Senning’s bad end achieved!*"
+            "*Сеннин’s bad end achieved!*"
 
             stop music fadeout 1.0
 
             if not _replaying_event:
-                "*Senning's bad end achieved!*"
+                "*Сеннин's bad end achieved!*"
                 $ MainMenu(confirm=False)()
 
 

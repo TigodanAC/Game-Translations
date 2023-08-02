@@ -32,7 +32,7 @@ label A_action_sha_1_sexpartner:
 
             a "(Blushed) ... ... ... ..."
 
-            player "Come on, Vera, there are no other people around, don’t be shy..."
+            player "Come on, Вера, there are no other people around, don’t be shy..."
 
             scene a_action_sha_1_4 with tstmgr
 
@@ -84,7 +84,7 @@ label A_action_sha_1_sexpartner:
 
             scene void with tstmgr
 
-            "Vera then pushed me away, lifted up her dress, and ran away from me awkwardly."
+            "Вера then pushed me away, lifted up her dress, and ran away from me awkwardly."
         "Lift your skirt up" if True:
 
 
@@ -110,7 +110,7 @@ label A_action_sha_1_sexpartner:
 
             a "What? No!"
 
-            player "Come on, Vera, there are no other people around, don’t be shy..."
+            player "Come on, Вера, there are no other people around, don’t be shy..."
 
             scene a_action_sha_1_3 with tstmgr
 
@@ -162,7 +162,7 @@ label A_action_sha_1_sexpartner:
 
             scene void with tstmgr
 
-            "Vera then pulled down her skirt and ran away from me awkwardly."
+            "Вера then pulled down her skirt and ran away from me awkwardly."
 
 
 

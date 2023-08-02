@@ -2,7 +2,7 @@ label bungalow_latenight_E_1:
 
     scene bungalow_latenight_e_1_1 with tstmgr
 
-    "After a wild sex with Aunt Elisa in the bungalow..."
+    "After a wild sex with Aunt Элиза in the bungalow..."
 
 
 

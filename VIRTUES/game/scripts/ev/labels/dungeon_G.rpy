@@ -17,7 +17,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "Uno is just an innocent kitty!~"
+    g "Уно is just an innocent kitty!~"
 
 
 
@@ -33,7 +33,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "You don’t have to... caress Uno on a wooden horse. You are a bad master."
+    g "You don’t have to... caress Уно on a wooden horse. You are a bad master."
 
 
 
@@ -193,7 +193,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "Uno can’t take it anymore... ..."
+    g "Уно can’t take it anymore... ..."
 
 
 
@@ -279,7 +279,7 @@ label dungeon_G.g_dungeon_2:
 
 
 
-    player "Hmmmm... Uno, it doesn’t work like that. You should act... hmmm... sadder."
+    player "Hmmmm... Уно, it doesn’t work like that. You should act... hmmm... sadder."
 
 
 
@@ -315,7 +315,7 @@ label dungeon_G.g_dungeon_2:
 
     scene g_dungeon_2_4 with tstmgr
 
-    player "*Lifting up Uno’s head with penis* What do you say, kitty?"
+    player "*Lifting up Уно’s head with penis* What do you say, kitty?"
 
 
 
@@ -479,7 +479,7 @@ label dungeon_G.g_dungeon_2:
 
     scene g_dungeon_2_15 with tstmgr
 
-    g "Uno will be a good kitty, so don’t get mad~ Meow~"
+    g "Уно will be a good kitty, so don’t get mad~ Meow~"
 
 
 

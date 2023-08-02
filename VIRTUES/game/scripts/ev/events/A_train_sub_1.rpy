@@ -173,7 +173,7 @@ label A_train_sub_1:
 
 
 
-    player "Vera? What’s with the dress?"
+    player "Вера? What’s with the dress?"
 
 
 
@@ -273,7 +273,7 @@ label A_train_sub_1:
 
             scene a_train_sub_1_28 with tstmgr
 
-            player "Don’t worry, Vera. I am not a bad master who only asks for service. I will help you with it~"
+            player "Don’t worry, Вера. I am not a bad master who only asks for service. I will help you with it~"
 
             a "Awwwww~ [P]~~"
 
@@ -347,13 +347,13 @@ label A_train_sub_1:
 
             pause
 
-            "My fluid busted out from my dick like a white fountain. At the same time Vera lowered her head and accepted all the shooting flow in her mouth."
+            "My fluid busted out from my dick like a white fountain. At the same time Вера lowered her head and accepted all the shooting flow in her mouth."
 
             scene a_train_sub_1_35 with tstmgr
 
             a "So... ... sticky... ..."
 
-            player "Vera... That was amazing... ..."
+            player "Вера... That was amazing... ..."
 
             scene a_train_sub_1_36 with tstmgr
 
@@ -433,7 +433,7 @@ label A_train_sub_1:
 
             scene a_train_sub_1_41 with tstmgr
 
-            player "I will, Vera. Now get over here so I can place my dick in your cleavage~"
+            player "I will, Вера. Now get over here so I can place my dick in your cleavage~"
 
             a "Awwwwwww... You are pulling my nipples apart~~~"
 
@@ -453,7 +453,7 @@ label A_train_sub_1:
 
             a "Owwwwwwwwww!!!!~~~"
 
-            player "Does it hurt much when I drag your nipples like this, Vera?"
+            player "Does it hurt much when I drag your nipples like this, Вера?"
 
             scene a_train_sub_1_44 with tstmgr
 
@@ -487,7 +487,7 @@ label A_train_sub_1:
 
             a "You are right, master~ They are really... bags of fun~"
 
-            player "Vera, you are priceless as a housemaid..."
+            player "Вера, you are priceless as a housemaid..."
 
             scene a_train_sub_1_46 with tstmgr
 
@@ -499,13 +499,13 @@ label A_train_sub_1:
 
             $ flashlight()
 
-            "My fluid busted out from my dick like a white fountain. At the same time Vera lowered her head and accepted all the shooting flow in her mouth."
+            "My fluid busted out from my dick like a white fountain. At the same time Вера lowered her head and accepted all the shooting flow in her mouth."
 
             scene a_train_sub_1_35 with tstmgr
 
             a "So... ... sticky... ..."
 
-            player "Vera... That was amazing... ..."
+            player "Вера... That was amazing... ..."
 
             scene a_train_sub_1_36 with tstmgr
 
@@ -531,7 +531,7 @@ label A_train_sub_1:
 
     scene a_train_sub_1_49 with tstmgr
 
-    "Vera then crawled on my body and located her pussy to my dick obediently."
+    "Вера then crawled on my body and located her pussy to my dick obediently."
 
 
 
@@ -543,7 +543,7 @@ label A_train_sub_1:
 
 
 
-    player "Damn, Vera, do you have any idea about how sexy these hanging tits of yours are?"
+    player "Damn, Вера, do you have any idea about how sexy these hanging tits of yours are?"
 
 
 
@@ -589,7 +589,7 @@ label A_train_sub_1:
 
 
 
-    "Vera moaned out dramatically as I sticked my dick into her deep."
+    "Вера moaned out dramatically as I sticked my dick into her deep."
 
 
 
@@ -649,7 +649,7 @@ label A_train_sub_1:
 
 
 
-    player "Awwww... Vera, how lucky I am to have you in my life... ..."
+    player "Awwww... Вера, how lucky I am to have you in my life... ..."
 
 
 
@@ -675,7 +675,7 @@ label A_train_sub_1:
 
 
 
-    player "Vera... You are being nonsense. How will I ever get tired of you?"
+    player "Вера... You are being nonsense. How will I ever get tired of you?"
 
 
 
@@ -705,7 +705,7 @@ label A_train_sub_1:
 
 
 
-    player "Vera, you are just amazing... ..."
+    player "Вера, you are just amazing... ..."
 
 
 

@@ -60,7 +60,7 @@ label pool_D.d_pool_1:
 
     scene d_pool_1_4 with tstmgr
 
-    d "Irene is an adult now!"
+    d "Айрин is an adult now!"
 
 
 
@@ -102,19 +102,19 @@ label pool_D.d_pool_1:
 
     scene d_pool_1_9 with tstmgr
 
-    d "Is it getting so hard because of Irene?~"
+    d "Is it getting so hard because of Айрин?~"
 
 
 
     scene d_pool_1_10 with tstmgr
 
-    d "This... big bad dick~ Awwww... ... It wants to crush Irene so bad~"
+    d "This... big bad dick~ Awwww... ... It wants to crush Айрин so bad~"
 
 
 
     scene d_pool_1_9 with tstmgr
 
-    d "But Irene got her own way to calm it down~"
+    d "But Айрин got her own way to calm it down~"
 
 
 
@@ -124,7 +124,7 @@ label pool_D.d_pool_1:
 
 
 
-    d "Look~ the big bad dick is fucking Irene’s little tender bellybutton~"
+    d "Look~ the big bad dick is fucking Айрин’s little tender bellybutton~"
 
 
 
@@ -160,7 +160,7 @@ label pool_D.d_pool_1:
 
     scene d_pool_1_13 with tstmgr
 
-    player "Shit... ... Irene... ..."
+    player "Shit... ... Айрин... ..."
 
 
 
@@ -178,17 +178,17 @@ label pool_D.d_pool_1:
 
 
 
-    d "Awwww~ Yes, put all the dirty fluid in Irene’s bellybutton~"
+    d "Awwww~ Yes, put all the dirty fluid in Айрин’s bellybutton~"
 
 
 
     scene d_pool_1_16 with tstmgr
 
-    player "I... I love you, Irene... ..."
+    player "I... I love you, Айрин... ..."
 
 
 
-    d "Irene loves the big bad dick too~"
+    d "Айрин loves the big bad dick too~"
 
 
 
@@ -208,7 +208,7 @@ label pool_D.d_pool_2:
 
     scene d_pool_2_1 with tstmgr
 
-    player "Irene, where are you?"
+    player "Айрин, where are you?"
 
 
 
@@ -232,7 +232,7 @@ label pool_D.d_pool_2:
 
     scene d_pool_2_5 with tstmgr
 
-    player "Irene?"
+    player "Айрин?"
 
 
 
@@ -242,7 +242,7 @@ label pool_D.d_pool_2:
 
 
 
-    "Irene is as good at swimming as her sister. She is like the spirit of water. I am not able to find her in the pool unless she wants me to."
+    "Айрин is as good at swimming as her sister. She is like the spirit of water. I am not able to find her in the pool unless she wants me to."
 
 
 
@@ -264,7 +264,7 @@ label pool_D.d_pool_2:
 
     scene d_pool_2_9 with tstmgr
 
-    player "Irene, I’m going to get angry!"
+    player "Айрин, I’m going to get angry!"
 
 
 
@@ -280,7 +280,7 @@ label pool_D.d_pool_2:
 
 
 
-    player "Not funny, Irene, not funny."
+    player "Not funny, Айрин, not funny."
 
 
 

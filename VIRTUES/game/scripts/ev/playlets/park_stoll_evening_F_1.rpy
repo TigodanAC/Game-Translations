@@ -2,7 +2,7 @@ label park_stoll_evening_F_1:
 
     scene park_stroll_evening_f_1_1 with tstmgr
 
-    player "Hi, Rachel."
+    player "Hi, Рэйчел."
 
 
 

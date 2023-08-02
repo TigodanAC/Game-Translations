@@ -2,7 +2,7 @@ label park_stroll_morning_D_1:
 
     scene park_stroll_morning_d_1_1 with tstmgr
 
-    player "Emm? Irene?"
+    player "Emm? Айрин?"
 
 
 

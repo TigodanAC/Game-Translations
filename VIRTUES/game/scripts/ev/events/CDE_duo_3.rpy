@@ -155,7 +155,7 @@ label CDE_duo_3:
 
 
 
-    c "You have sacrificed so much for me and Irene during our growth. Now it’s time for you to pursue your love and I will not stop you no matter what."
+    c "You have sacrificed so much for me and Айрин during our growth. Now it’s time for you to pursue your love and I will not stop you no matter what."
 
 
 
@@ -233,13 +233,13 @@ label CDE_duo_3:
 
             scene cde_duo_3_20 with tstmgr
 
-            c "I may even deal with it if it was Irene, but... mom? I don’t know... ..."
+            c "I may even deal with it if it was Айрин, but... mom? I don’t know... ..."
 
             player "Oh... ..."
 
             scene cde_duo_3_21 with tstmgr
 
-            c "Hmmmmm? Wait a fucking second, why did your expression turn relaxed a bit after I mentioned Irene? I was just making an example."
+            c "Hmmmmm? Wait a fucking second, why did your expression turn relaxed a bit after I mentioned Айрин? I was just making an example."
 
             scene cde_duo_3_22 with tstmgr
 
@@ -261,13 +261,13 @@ label CDE_duo_3:
 
             scene cde_duo_3_25 with tstmgr
 
-            e "Irene, how could it be... ..."
+            e "Айрин, how could it be... ..."
 
             c "... ... ... ..."
 
             scene cde_duo_3_26 with tstmgr
 
-            c "Now the issue has become completely different since Irene is also involved. She will leave mom too after she knows this... ... There will be an unbreakable barrier between the three of us, and the family will fall apart."
+            c "Now the issue has become completely different since Айрин is also involved. She will leave mom too after she knows this... ... There will be an unbreakable barrier between the three of us, and the family will fall apart."
 
             c "We cannot... let this happen."
 
@@ -287,7 +287,7 @@ label CDE_duo_3:
 
             c "One, Let’s take this bastard out of our lives. Let’s move to another place and no one contacts him ever again. We just pretend that he doesn’t exist."
 
-            c "And mom, Irene, and I will be just like before. We will still be... ... the loving mother and the lovely daughters. One day we will forget everything that has happened here."
+            c "And mom, Айрин, and I will be just like before. We will still be... ... the loving mother and the lovely daughters. One day we will forget everything that has happened here."
 
             player "No no no no no!... ... ... ..."
 
@@ -301,7 +301,7 @@ label CDE_duo_3:
 
             scene cde_duo_3_32 with tstmgr
 
-            c "Mom, Irene, and I... ... let’s be frank with each other and share this bastard together..."
+            c "Mom, Айрин, and I... ... let’s be frank with each other and share this bastard together..."
 
             c "We will all be... in his harem."
 
@@ -333,7 +333,7 @@ label CDE_duo_3:
 
             scene cde_duo_3_38 with tstmgr
 
-            "Elisa suddenly showed me a smile."
+            "Элиза suddenly showed me a smile."
 
             scene cde_duo_3_39 with tstmgr
 
@@ -365,11 +365,11 @@ label CDE_duo_3:
 
             c "Yes, we will... be a happy family, the four of us, and more~"
 
-            player "Aunt Elisa... Theo... ..."
+            player "Aunt Элиза... Theo... ..."
 
             "Well, that was exactly what I want, but... damn, I was so surprised."
 
-            "I thought things would go worse after they know about what happened between me and Irene, but it seems I was totally wrong."
+            "I thought things would go worse after they know about what happened between me and Айрин, but it seems I was totally wrong."
 
             "It seems like... everything just gets resolved in a flash. Am I really not dreaming?"
 
@@ -487,7 +487,7 @@ label CDE_duo_3:
 
             scene cde_duo_3_57 with tstmgr
 
-            "It seems like Aunt Elisa has overcome the awkwardness already..."
+            "It seems like Aunt Элиза has overcome the awkwardness already..."
 
             e "Just... forget everything and concentrate on your lust for now... ..."
 
@@ -577,7 +577,7 @@ label CDE_duo_3:
 
             pause
 
-            player "Ohhh... Aunt Elisa... ..."
+            player "Ohhh... Aunt Элиза... ..."
 
             e "*Sucking* zimmmm~~ simmmmm~~ zimmmmm~~~"
 
@@ -734,7 +734,7 @@ label CDE_duo_3:
 
             scene cde_duo_3_81 with tstmgr
 
-            e "So... how should we tell Irene about this?"
+            e "So... how should we tell Айрин about this?"
 
             scene cde_duo_3_82 with tstmgr
 
@@ -756,7 +756,7 @@ label CDE_duo_3:
 
             "I can’t force them to accept it. The mother and daughter, have an intimate relationship with the same man, yeah... ... it’s just ridiculous."
 
-            "I should have seen this coming at the time when I decided to have sex with Elisa... ..."
+            "I should have seen this coming at the time when I decided to have sex with Элиза... ..."
 
             "Actually I was ready to accept it if both of them choose to leave me now."
 
@@ -776,11 +776,11 @@ label CDE_duo_3:
 
             scene cde_duo_3_86 with dissolve
 
-            "I opened my eyes again after a long time and saw that Elisa was the only one that stayed."
+            "I opened my eyes again after a long time and saw that Элиза was the only one that stayed."
 
             "Where is Теодора?... ... Whatever, the answer is obvious. She has made her decision and I have no position to ask her to change her mind no matter how much I love her."
 
-            player "Elisa... ... You chose me... instead of your daughters?"
+            player "Элиза... ... You chose me... instead of your daughters?"
 
             scene cde_duo_3_87 with tstmgr
 
@@ -794,7 +794,7 @@ label CDE_duo_3:
 
             e "I can only use the rest of my life to repay."
 
-            player "Elisa... ..."
+            player "Элиза... ..."
 
             scene cde_duo_3_89 with tstmgr
 
@@ -804,7 +804,7 @@ label CDE_duo_3:
 
             e "No, you don’t understand."
 
-            player "I understand, Elisa. I knew it all."
+            player "I understand, Элиза. I knew it all."
 
             scene cde_duo_3_90 with tstmgr
 
@@ -812,7 +812,7 @@ label CDE_duo_3:
 
             scene cde_duo_3_91 with tstmgr
 
-            player "I just want you to know that... you didn’t make me love you, Elisa. You didn’t make me do anything."
+            player "I just want you to know that... you didn’t make me love you, Элиза. You didn’t make me do anything."
 
             player "I love you out of my own will."
 
@@ -822,7 +822,7 @@ label CDE_duo_3:
 
             player "We will stay by each other’s side forever. It's not about redemption or repayment, no, it’s about love, and it’s only about love."
 
-            player "I love you, Elisa."
+            player "I love you, Элиза."
 
             scene cde_duo_3_92 with tstmgr
 
@@ -836,7 +836,7 @@ label CDE_duo_3:
 
             "... ... ... ... ... ..."
 
-            "And that was the end of the story. After that, Elisa and I moved to a different city where nobody knows us. She left the company and her mansion to her daughters."
+            "And that was the end of the story. After that, Элиза and I moved to a different city where nobody knows us. She left the company and her mansion to her daughters."
 
             "We soon got married. We knew we wouldn’t be blessed by others, but who cares?"
 
@@ -912,12 +912,12 @@ label CDE_duo_3:
 
             "... ... ... ... ... ... ... ..."
 
-            "*Elisa's alternative end achieved!*"
+            "*Элиза's alternative end achieved!*"
 
             stop music fadeout 1.0
 
             if not _replaying_event:
-                "*Elisa's alternative end achieved!*"
+                "*Элиза's alternative end achieved!*"
                 $ MainMenu(confirm=False)()
 
 

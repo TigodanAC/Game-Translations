@@ -15,12 +15,10 @@ python early:
             return "{}".format("unlocked" if self.is_password_unlocked else "locked")
         
         def __eq__(self, other):
-            if isinstance(self, BackgroundState) \
-        and self.name == other.name \
-        and self.is_password_unlocked == other.is_password_unlocked:
+            if isinstance(self, BackgroundState) and self.name == other.name and self.is_password_unlocked == other.is_password_unlocked:
                 return True
-            
-            return False
+            else:
+                return False
 
 init python:
     class Background(object):

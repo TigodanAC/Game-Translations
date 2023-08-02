@@ -3,13 +3,13 @@ label E_daily_13:
     scene void with tstmgr
     play music happy
 
-    "It seems like Vera is talking with someone in the hallway. I should probably go take a look..."
+    "It seems like Вера is talking with someone in the hallway. I should probably go take a look..."
 
 
 
     scene e_daily13_1 with dissolve
 
-    player "Elis... ... Aunt Elisa?"
+    player "Elis... ... Aunt Элиза?"
 
 
 
@@ -43,7 +43,7 @@ label E_daily_13:
 
 
 
-    player "So... what brings you here, Aunt Elisa?"
+    player "So... what brings you here, Aunt Элиза?"
 
 
 
@@ -77,7 +77,7 @@ label E_daily_13:
 
 
 
-    "Elisa’s face was red like a teenage girl who finally mustered up the courage to talk with her first crush. I have never seen this strong lady being so shy like this before."
+    "Элиза’s face was red like a teenage girl who finally mustered up the courage to talk with her first crush. I have never seen this strong lady being so shy like this before."
 
 
 
@@ -105,7 +105,7 @@ label E_daily_13:
 
 
 
-    player "Don’t you want to stay here for the lunch? Vera is really good at cooking..."
+    player "Don’t you want to stay here for the lunch? Вера is really good at cooking..."
 
 
 
