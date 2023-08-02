@@ -19,7 +19,7 @@ label F_daily_9:
 
 
 
-    "Coach" "Even worse, this time you are 0.6 seconds slower than the standard. Seriously, Rachel, what happened? You are so not in the state lately."
+    "Coach" "Even worse, this time you are 0.6 seconds slower than the standard. Seriously, Рэйчел, what happened? You are so not in the state lately."
 
 
 
@@ -61,7 +61,7 @@ label F_daily_9:
 
 
 
-    "Coach" "I hope you can bounce back, Rachel. Stop wasting your time on unimportant stuff. Running is the only thing that matters to you right now."
+    "Coach" "I hope you can bounce back, Рэйчел. Stop wasting your time on unimportant stuff. Running is the only thing that matters to you right now."
 
 
 
@@ -81,7 +81,7 @@ label F_daily_9:
 
 
 
-    "Sometime later, Rachel was walking alone in the park..."
+    "Sometime later, Рэйчел was walking alone in the park..."
 
 
 
@@ -99,11 +99,11 @@ label F_daily_9:
 
     scene f_daily9_8 with tstmgr
 
-    f "Emmm? You are... Uno?"
+    f "Emmm? You are... Уно?"
 
 
 
-    g "Nice to see you, Rachel~"
+    g "Nice to see you, Рэйчел~"
 
 
 
@@ -133,7 +133,7 @@ label F_daily_9:
 
     scene f_love_7_19 with flashback
 
-    g "Master~ master~ Fuck… fuck Uno more with your huge dick~"
+    g "Master~ master~ Fuck… fuck Уно more with your huge dick~"
 
 
 
@@ -201,7 +201,7 @@ label F_daily_9:
 
     scene f_daily9_21 with tstmgr
 
-    f "I’m... leaving now, see you around, Uno."
+    f "I’m... leaving now, see you around, Уно."
 
 
 

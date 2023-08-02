@@ -9,7 +9,7 @@ label B_daily_16:
 
     scene b_daily16_1 with dissolve
 
-    b "Uno~ do you have plans for today after work?"
+    b "Уно~ do you have plans for today after work?"
 
 
 
@@ -23,7 +23,7 @@ label B_daily_16:
 
     scene b_daily16_2 with tstmgr
 
-    g "That sounds... good. Thanks for inviting me, Senning."
+    g "That sounds... good. Thanks for inviting me, Сеннин."
 
 
 
@@ -33,7 +33,7 @@ label B_daily_16:
 
 
 
-    "Sometime later, in Senning’s apartment room..."
+    "Sometime later, in Сеннин’s apartment room..."
 
 
 
@@ -111,7 +111,7 @@ label B_daily_16:
 
 
 
-    "Sometime later, Senning and Uno were having a good time in the public bathroom."
+    "Sometime later, Сеннин and Уно were having a good time in the public bathroom."
 
 
 
@@ -135,7 +135,7 @@ label B_daily_16:
 
     scene void with tstmgr
 
-    "And at the same time, in Senning’s apartment room..."
+    "And at the same time, in Сеннин’s apartment room..."
 
 
 
@@ -171,7 +171,7 @@ label B_daily_16:
 
 
 
-    "Sometime later, when Senning and Uno had finally finished the shower and came back to the room... ..."
+    "Sometime later, when Сеннин and Уно had finally finished the shower and came back to the room... ..."
 
 
 
@@ -311,7 +311,7 @@ label B_daily_16:
 
 
 
-    player "(Holy shit! Why is Uno here, too?)"
+    player "(Holy shit! Why is Уно here, too?)"
 
 
 
@@ -327,7 +327,7 @@ label B_daily_16:
 
             scene b_daily16_22 with tstmgr
 
-            player "Sen, and Uno?"
+            player "Sen, and Уно?"
 
             scene b_daily16_43 with tstmgr
 
@@ -401,7 +401,7 @@ label B_daily_16:
 
             if B.harem < 15 or G.harem < 15:
 
-                "The further plot will be unlocked after Senning and Uno's harem acceptance levels reach 15."
+                "The further plot will be unlocked after Сеннин and Уно's harem acceptance levels reach 15."
 
                 "You can always replay this event in the ‘subplot replay’ button located in your bedroom."
 
@@ -425,7 +425,7 @@ label B_daily_16:
 
                 scene b_daily16_31 with tstmgr
 
-                b "*Got closer to [P] just like Uno did* ... ... ... ..."
+                b "*Got closer to [P] just like Уно did* ... ... ... ..."
 
                 "... ... ... ..."
 
@@ -485,7 +485,7 @@ label B_daily_16:
 
                 scene b_daily16_36 with tstmgr
 
-                "And Senning put her hand on my dick, too. I can’t believe it... ..."
+                "And Сеннин put her hand on my dick, too. I can’t believe it... ..."
 
                 g "Can... can you feel it?"
 

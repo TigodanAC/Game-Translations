@@ -2,7 +2,7 @@ label A_wsdgsjhx:
 
     scene a_love1_1 with tstmgr
 
-    narrator "I picked Vera up again tonight after she got off work."
+    narrator "I picked Вера up again tonight after she got off work."
 
     player "How was your day?"
 
@@ -22,7 +22,7 @@ label A_wsdgsjhx:
 
     a "Yeah she mentioned quitting to me, but who knows."
 
-    narrator "It has been a few days since Vera and I were able to communicate pleasantly like friends. She's more talkative and has even become accustomed to waiting for me to pick her up after work."
+    narrator "It has been a few days since Вера and I were able to communicate pleasantly like friends. She's more talkative and has even become accustomed to waiting for me to pick her up after work."
 
     narrator "As a girl from the countryside who has no friends in the city, she is very lonely. She needs someone to talk with, so here I am. "
 

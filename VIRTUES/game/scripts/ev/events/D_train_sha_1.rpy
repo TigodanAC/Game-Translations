@@ -7,13 +7,13 @@ label D_train_sha_1:
 
 
 
-    "The next morning, in Irene’s highschool."
+    "The next morning, in Айрин’s highschool."
 
 
 
     scene d_train_sha_1_1 with dissolve
 
-    "Girl A" "Irene, let’s go to the dining hall together~"
+    "Girl A" "Айрин, let’s go to the dining hall together~"
 
 
 
@@ -55,7 +55,7 @@ label D_train_sha_1:
 
     scene void with tstmgr
 
-    "Later, when Irene was on the way to a class..."
+    "Later, when Айрин was on the way to a class..."
 
 
 
@@ -95,7 +95,7 @@ label D_train_sha_1:
 
     scene d_train_sha_1_6 with tstmgr
 
-    player "Irene, are you okay? Your mother said that you didn’t feel well and asked me to pick you up."
+    player "Айрин, are you okay? Your mother said that you didn’t feel well and asked me to pick you up."
 
 
 
@@ -117,11 +117,11 @@ label D_train_sha_1:
 
 
 
-    "Girl A" "Wait, who is that guy with Irene?"
+    "Girl A" "Wait, who is that guy with Айрин?"
 
 
 
-    "Girl B" "I don’t know, but some people said that they once saw Irene and that guy kissing."
+    "Girl B" "I don’t know, but some people said that they once saw Айрин and that guy kissing."
 
 
 
@@ -157,7 +157,7 @@ label D_train_sha_1:
 
 
 
-    player "What’s going on, Irene? You look awful. Do you need me to take you to a hospital?"
+    player "What’s going on, Айрин? You look awful. Do you need me to take you to a hospital?"
 
 
 
@@ -199,7 +199,7 @@ label D_train_sha_1:
 
 
 
-    player "Oh, Irene... ..."
+    player "Oh, Айрин... ..."
 
 
 
@@ -341,7 +341,7 @@ label D_train_sha_1:
 
 
 
-    player "I will make it quick, Irene. Don’t panic~"
+    player "I will make it quick, Айрин. Don’t panic~"
 
 
 
@@ -368,7 +368,7 @@ label D_train_sha_1:
 
 
 
-    player "Keep your voice low, Irene. Someone may really hear us."
+    player "Keep your voice low, Айрин. Someone may really hear us."
 
 
 

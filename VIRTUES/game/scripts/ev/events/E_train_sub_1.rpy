@@ -7,7 +7,7 @@ label E_train_sub_1:
 
 
 
-    "Hmmmmmm... ... I have had sex with Aunt Elisa, I think I should be happy, but... ... nope, not really."
+    "Hmmmmmm... ... I have had sex with Aunt Элиза, I think I should be happy, but... ... nope, not really."
 
 
 
@@ -43,7 +43,7 @@ label E_train_sub_1:
 
 
 
-    "Later that day, I came to the bungalow again after receiving Elisa's call... ..."
+    "Later that day, I came to the bungalow again after receiving Элиза's call... ..."
 
 
 
@@ -97,7 +97,7 @@ label E_train_sub_1:
 
     scene e_train_sub_1_7 with tstmgr
 
-    player "Ha, don’t worry, Elisa, you will be surprised~"
+    player "Ha, don’t worry, Элиза, you will be surprised~"
 
 
 
@@ -205,7 +205,7 @@ label E_train_sub_1:
 
 
 
-    player "This is so magnificent... Your body is full of miracles, Elisa... ..."
+    player "This is so magnificent... Your body is full of miracles, Элиза... ..."
 
 
 
@@ -247,7 +247,7 @@ label E_train_sub_1:
 
     scene e_train_sub_1_23 with tstmgr
 
-    player "Elisa... ..."
+    player "Элиза... ..."
 
 
 
@@ -421,7 +421,7 @@ label E_train_sub_1:
 
 
 
-    "That was such a hard battle, but I was the winner. I have successfully satisfied Aunt Elisa and overpowered her with my dick~"
+    "That was such a hard battle, but I was the winner. I have successfully satisfied Aunt Элиза and overpowered her with my dick~"
 
 
 
@@ -431,7 +431,7 @@ label E_train_sub_1:
 
     scene e_train_sub_33 with tstmgr
 
-    player "Did you have a good time, Elisa?"
+    player "Did you have a good time, Элиза?"
 
 
 
@@ -447,7 +447,7 @@ label E_train_sub_1:
 
 
 
-    player "Love you too, Elisa~"
+    player "Love you too, Элиза~"
 
 
 

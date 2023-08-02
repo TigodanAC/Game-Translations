@@ -9,7 +9,7 @@ label G_daily_16:
 
     scene g_daily16_1 with dissolve
 
-    "Uno is kneeling at my feet obediently, enjoying my touch like a tame cat."
+    "Уно is kneeling at my feet obediently, enjoying my touch like a tame cat."
 
 
 
@@ -21,7 +21,7 @@ label G_daily_16:
 
 
 
-    player "Uno, there is a question I've wanted to ask you for a long time... ..."
+    player "Уно, there is a question I've wanted to ask you for a long time... ..."
 
 
 

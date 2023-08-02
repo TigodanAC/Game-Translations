@@ -2,7 +2,7 @@ label beach_afternoon_E_2:
 
     scene beach_afternoon_e_2_1 with tstmgr
 
-    player "How do you like my massage, Elisa?"
+    player "How do you like my massage, Элиза?"
 
 
 

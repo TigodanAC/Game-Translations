@@ -8,7 +8,7 @@ label bookstore_afternoon_G_2:
 
     scene bookstore_afternoon_g_2_1 with tstmgr
 
-    "Bookstore clerk A" "Hey man, does Uno have a boyfriend?"
+    "Bookstore clerk A" "Hey man, does Уно have a boyfriend?"
 
 
 

@@ -77,7 +77,7 @@ label D_daily_1:
 
     player "... ... ... ..."
 
-    narrator "Теодора and I always pretend like a loving couple in front of people, even Aunt Elisa and Irene couldn't find the truth."
+    narrator "Теодора and I always pretend like a loving couple in front of people, even Aunt Элиза and Айрин couldn't find the truth."
 
     scene rcsj_d8 with tstmgr
 
@@ -133,7 +133,7 @@ label D_daily_1:
 
             narrator "Alright, now I'm sure that it's a trap."
 
-            player "I, I'm just kidding around. Don't be silly, Irene."
+            player "I, I'm just kidding around. Don't be silly, Айрин."
 
             scene rcsj_d9 with tstmgr
 
@@ -151,7 +151,7 @@ label D_daily_1:
 
             scene rcsj_d6 with tstmgr
 
-            d "Emm... Her name's Uno."
+            d "Emm... Her name's Уно."
 
             player "A her?"
 
@@ -187,7 +187,7 @@ label D_daily_1:
 
             narrator "... ... ... ..."
 
-            player "(Uno, huh...)"
+            player "(Уно, huh...)"
 
             narrator "... ... ... ..."
         "Disagree":
@@ -221,7 +221,7 @@ label D_daily_1:
 
             scene rcsj_d6 with tstmgr
 
-            d "Emm... Her name's Uno."
+            d "Emm... Her name's Уно."
 
             player "A her?"
 
@@ -257,7 +257,7 @@ label D_daily_1:
 
             narrator "... ... ... ..."
 
-            narrator "I spent some time tutoring Irene."
+            narrator "I spent some time tutoring Айрин."
 
     stop music fadeout 1.0
 

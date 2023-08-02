@@ -2,7 +2,7 @@ label harem_AC_1:
 
     scene harem_ac_1_1 with dissolve
 
-    "Vera just got off work and we are walking home..."
+    "Вера just got off work and we are walking home..."
 
 
 

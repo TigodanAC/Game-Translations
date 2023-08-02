@@ -1,10 +1,10 @@
-define gui.about = _('''Patreon:  {a=https://www.patreon.com/NoMeme}https://www.patreon.com/NoMeme{/a}
-Discord:   {a=https://discord.gg/F5wXs8C}https://discord.gg/F5wXs8C{/a}
-Email:     {a=mailto:nomemestudio@outlook.com}NoMemeStudio@Outlook.com{/a}
+define gui.about = _('''Patreon разработчика:  {a=https://www.patreon.com/NoMeme}https://www.patreon.com/NoMeme{/a}
+Boosty переводчика: https://boosty.to/tigodanac
+Яндекс Кошелёк: 4100118299651690
 {size=-4}
-We would love to hear your feedbacks, suggestions and bug reports.{/size}''')
+Буду рад услышать ваши пожелания/замечания по переводу.{/size}''')
 
-define gui.about1 = _('''{color=#ffcd5c}V.I.R.T.U.E.S is a free game. The official download link is on our Patreon and Discord. Downloading the game anywhere else may be risky.{/color}''')
+define gui.about1 = _('''{color=#ffcd5c}V.I.R.T.U.E.S - бесплатная игра. Перевод реккомендуется скачивать только с Boosty либо Острова, все остальные загрузки могут быть рискованными.{/color}''')
 
 define gui.about2 = _('''{size=-4}
 Made by

@@ -20,7 +20,7 @@ label harem_AG_2:
 
 
 
-    g "[P]... [P] must be tired. [P] should come to Uno's room so Uno can give [P] a massage~"
+    g "[P]... [P] must be tired. [P] should come to Уно's room so Уно can give [P] a massage~"
 
 
 
@@ -40,7 +40,7 @@ label harem_AG_2:
 
 
 
-    g "Uno... won't wear any nightgown in her room... ..."
+    g "Уно... won't wear any nightgown in her room... ..."
 
 
 
@@ -72,7 +72,7 @@ label harem_AG_2:
 
     scene harem_ag_2_8 with tstmgr
 
-    g "As long as... you don't leave Uno alone... ..."
+    g "As long as... you don't leave Уно alone... ..."
 
 
 

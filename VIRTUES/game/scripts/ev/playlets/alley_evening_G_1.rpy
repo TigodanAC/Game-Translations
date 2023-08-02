@@ -30,7 +30,7 @@ label alley_evening_G_1:
 
 
 
-    player "Then you should talk with Vera. She once lived here for a couple months."
+    player "Then you should talk with Вера. She once lived here for a couple months."
 
 
 

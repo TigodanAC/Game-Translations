@@ -2,7 +2,7 @@ label harem_AB_2:
 
     scene harem_ab_2_1 with tstmgr
 
-    "Senning, Vera and I are watching a horror movie together..."
+    "Сеннин, Вера and I are watching a horror movie together..."
 
 
 
@@ -60,7 +60,7 @@ label harem_AB_2:
 
     scene harem_ab_2_10 with tstmgr
 
-    b "Hum~ a brave girl like Miss Vera doesn't need this, right?"
+    b "Hum~ a brave girl like Miss Вера doesn't need this, right?"
 
 
 

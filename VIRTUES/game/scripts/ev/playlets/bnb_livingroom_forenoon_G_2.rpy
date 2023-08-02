@@ -2,7 +2,7 @@ label bnb_livingroom_forenoon_G_2:
 
     scene void with tstmgr
 
-    "I was in the livingroom with Uno."
+    "I was in the livingroom with Уно."
 
 
 
@@ -30,7 +30,7 @@ label bnb_livingroom_forenoon_G_2:
 
 
 
-    player "Uno the cutiest, huh... ... ... ..."
+    player "Уно the cutiest, huh... ... ... ..."
 
 
 

@@ -3,7 +3,7 @@ label A_daily_2:
     scene cafe_background with tstmgr
     play music happy
 
-    player "Hello, Vera."
+    player "Hello, Вера."
 
     scene a_cafe_weird with tstmgr
 

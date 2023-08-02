@@ -28,8 +28,8 @@ init python:
 
     Action.current_parent = "college"
     apartment = Action("apartment", _("Student Apartment"), has_children=True, pos=(522, 432))  
-    B_room = Action("B_room", _("Find Senning"), "t.period in (Forenoon, Afternoon)", displaying="seen('B_love_1')", to_map=False, training_nz="B")
-    F_room = Action("F_room", _("Find Rachel"), "is_day()", displaying="seen('F_love_2')", to_map=False, training_nz="F")
+    B_room = Action("B_room", _("Find Сеннин"), "t.period in (Forenoon, Afternoon)", displaying="seen('B_love_1')", to_map=False, training_nz="B")
+    F_room = Action("F_room", _("Find Рэйчел"), "is_day()", displaying="seen('F_love_2')", to_map=False, training_nz="F")
     college_bathroom = Action("college_bathroom", _("Public Bathroom"))
 
     Action.current_parent = "college"
@@ -43,10 +43,10 @@ init python:
     mansion = Action("mansion", _("Mansion"), has_children=True)
 
     Action.current_parent = "mansion"
-    mansion_rooms = Action("mansion_rooms", _("Elisa's Mansion"), displaying="seen('d7_1')", has_children=True, rename=[("Elisa's Mansion", "seen('D_dqsj')")], pos=(950, 485))
+    mansion_rooms = Action("mansion_rooms", _("Элиза's Mansion"), displaying="seen('d7_1')", has_children=True, rename=[("Элиза's Mansion", "seen('D_dqsj')")], pos=(950, 485))
     C_room = Action("C_room", _("Теодора's Room"), "t.period in (Forenoon, Afternoon, Evening, LateNight)", displaying="seen('pcsj')")
-    D_room = Action("D_room", _("Find Irene"), "t.period in (Afternoon, Evening)", to_map=False, training_nz="D")
-    E_room = Action("E_room", _("Find Elisa"), "t.period in (Forenoon, Afternoon, Evening)", displaying="seen('pcsj', 'D_dqsj')", to_map=False, training_nz="E")
+    D_room = Action("D_room", _("Find Айрин"), "t.period in (Afternoon, Evening)", to_map=False, training_nz="D")
+    E_room = Action("E_room", _("Find Элиза"), "t.period in (Forenoon, Afternoon, Evening)", displaying="seen('pcsj', 'D_dqsj')", to_map=False, training_nz="E")
     mansion_pool = Action("mansion_pool", _("Swimming Pool"))
     mansion_bathroom = Action("mansion_bathroom", _("Bathroom"))
     mansion_toilet = Action("mansion_toilet", _("Toilet"), xysize=(135, 124))
@@ -112,9 +112,9 @@ init python:
 
     def G_room_hover():
         if t.period == Morning:
-            return "Uno is sleeping."
+            return "Уно is sleeping."
         if is_weekday() and t.period < Evening:
-            return "Uno is not home."
+            return "Уно is not home."
 
     def A_room_hover():
         if not is_A_home():
@@ -134,8 +134,8 @@ init python:
             return True
         return False
 
-    G_room = Action("G_room", _("Find Uno"), "is_G_home()", hover_message=G_room_hover, to_map=False, training_nz="G")
-    A_room = Action("A_room", _("Find Vera"), "is_A_home()", hover_message=A_room_hover, to_map=False, training_nz="A")
+    G_room = Action("G_room", _("Find Уно"), "is_G_home()", hover_message=G_room_hover, to_map=False, training_nz="G")
+    A_room = Action("A_room", _("Find Вера"), "is_A_home()", hover_message=A_room_hover, to_map=False, training_nz="A")
     C_room_2 = Action("C_room_2", ("Теодора's room"))
 
     Action.current_parent = None

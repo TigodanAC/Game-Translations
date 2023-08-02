@@ -14,7 +14,7 @@ label harem_CG_4:
 
     scene harem_cg_4_2 with tstmgr
 
-    g "Are they attracted by Uno’s plump cuteness?"
+    g "Are they attracted by Уно’s plump cuteness?"
 
 
 

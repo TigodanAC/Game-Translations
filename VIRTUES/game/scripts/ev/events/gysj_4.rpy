@@ -81,13 +81,13 @@ label gysj_4:
 
     pause
 
-    f "Oh, okay. Anyway, I am Rachel, glad to meet you."
+    f "Oh, okay. Anyway, I am Рэйчел, glad to meet you."
 
     scene gysj4_2 with flashback
 
     narrator "Oh, yeah. I remembered..."
 
-    player "Hi, Rachel... "
+    player "Hi, Рэйчел... "
 
     scene gysj4_3 with tstmgr
 

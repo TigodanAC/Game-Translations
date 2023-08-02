@@ -6,7 +6,7 @@ label harem_BG_1:
 
 
 
-    g "Senning?"
+    g "Сеннин?"
 
 
 
@@ -48,7 +48,7 @@ label harem_BG_1:
 
     scene harem_bg_1_4 with tstmgr
 
-    b "[P]'s scent... mixed with Uno's scent... ..."
+    b "[P]'s scent... mixed with Уно's scent... ..."
 
 
 

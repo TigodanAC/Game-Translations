@@ -6,9 +6,9 @@ label A_dgsjhx:
 
     narrator "The next day."
 
-    narrator "I entered the cafe where Vera works for breakfast again in the morning."
+    narrator "I entered the cafe where Вера works for breakfast again in the morning."
 
-    narrator "Well, the food isn't great, but at least I get a chance to talk with Vera."
+    narrator "Well, the food isn't great, but at least I get a chance to talk with Вера."
 
     narrator "During these days, I've been wondering why I come and see this girl. Do I have a crush on her? Or do I just feel guilty about our night together?"
 
@@ -48,7 +48,7 @@ label A_dgsjhx:
 
     a "So I have to earn more to support her. I'm now looking for one more job I can work at night."
 
-    player " I'm, I'm sorry to hear that, Vera."
+    player " I'm, I'm sorry to hear that, Вера."
 
     player "I can help you with that surgery fee if you want..."
 

@@ -114,9 +114,9 @@ label d4_1:
 
     scene day4_a7 with tstmgr
 
-    a "Vera..."
+    a "Вера..."
 
-    player "Nice to meet you, Vera."
+    player "Nice to meet you, Вера."
 
     narrator "She responded to me with only a humph."
 
@@ -128,7 +128,7 @@ label d4_1:
 
     scene day4_a8 with tstmgr
 
-    narrator "Vera suddenly cries out."
+    narrator "Вера suddenly cries out."
 
     a "Then what do you want me to do? You took my virginity! You, a nightclubbing playboy, took my virginity!"
 
@@ -142,7 +142,7 @@ label d4_1:
 
     narrator "Her emotion became very unstable again."
 
-    player "Okay, Vera. I understand your feeling. Believe me, I will make up for you."
+    player "Okay, Вера. I understand your feeling. Believe me, I will make up for you."
 
     scene day4_a10 with tstmgr
 
@@ -313,7 +313,7 @@ label d4_1_bLine:
 
     scene day4_fix_4 with tstmgr
 
-    a "I'm Vera."
+    a "I'm Вера."
 
     player "It's... nice to meet you."
 
@@ -343,7 +343,7 @@ label d4_1_bLine:
 
     narrator "I froze for a second, didn't really get what she means by \"waist and belly hurt as hell\". And soon I realized what is going on."
 
-    narrator "Some girls would suffer in pain after their hymen got broken. It seems like Vera is one of them."
+    narrator "Some girls would suffer in pain after their hymen got broken. It seems like Вера is one of them."
 
     narrator "God, I should be guilty about this since I was the one who made her suffer in pain. I should make up for her."
 

@@ -2,7 +2,7 @@ label cafe_forenoon_A_1:
 
     scene a_cafe_normal1 with tstmgr
 
-    player "Hi, Vera."
+    player "Hi, Вера."
 
 
 

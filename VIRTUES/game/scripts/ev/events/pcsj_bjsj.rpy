@@ -6,9 +6,9 @@ label bjsj:
 
     scene home_background with tstmgr
 
-    narrator " Vera is waiting for me outside the house."
+    narrator " Вера is waiting for me outside the house."
 
-    player "Hi, Vera."
+    player "Hi, Вера."
 
     scene a_bjsj_smile with tstmgr
 
@@ -34,7 +34,7 @@ label bjsj:
 
     narrator "... ... ... ..."
 
-    narrator "I followed Vera into the gate."
+    narrator "I followed Вера into the gate."
 
     scene home_frontyard_day_background with tstmgr
 
@@ -72,7 +72,7 @@ label bjsj:
 
     scene void with tstmgr
 
-    narrator "After a while, Vera has shown me the entire house."
+    narrator "After a while, Вера has shown me the entire house."
 
     a "So... which bedroom do you prefer to set yourself?"
 
@@ -96,13 +96,13 @@ label bjsj:
 
     narrator "She was in front of me. All of a sudden, a question came into my mind."
 
-    player "Hey, Vera. What's the wifi password?"
+    player "Hey, Вера. What's the wifi password?"
 
     scene bjsj_a2 with tstmgr
 
     narrator "She turned to look at me after hearing my words, but suddenly slipped and lost her balance."
 
-    player "Vera!"
+    player "Вера!"
 
     scene bjsj_a3 with tstmgr
 
@@ -162,7 +162,7 @@ label bjsj:
 
     scene bjsj_a11 with tstmgr
 
-    narrator "Vera lifted her head up and prepare to get up from my body."
+    narrator "Вера lifted her head up and prepare to get up from my body."
 
     scene bjsj_a12 with tstmgr
 
@@ -186,11 +186,11 @@ label bjsj:
 
     narrator "... ... ... ..."
 
-    narrator "With Vera's help, I moved into the house and started to prepare the B&B business."
+    narrator "With Вера's help, I moved into the house and started to prepare the B&B business."
 
-    call screen hint("From now on, you can manage your own B&B service in the B&B panel, and find Vera in her room every morning and midnight.")
+    call screen hint("From now on, you can manage your own B&B service in the B&B panel, and find Вера in her room every morning and midnight.")
 
-    call screen hint("Vera is the only girl living in the house for now, but there will be others, be patient.")
+    call screen hint("Вера is the only girl living in the house for now, but there will be others, be patient.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

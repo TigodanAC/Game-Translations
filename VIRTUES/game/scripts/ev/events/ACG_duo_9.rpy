@@ -15,7 +15,7 @@ label ACG_duo_9:
 
     scene acg_duo_9_2 with tstmgr
 
-    g "Everything is fine~ I love everything Vera cooks~"
+    g "Everything is fine~ I love everything Вера cooks~"
 
 
 
@@ -119,7 +119,7 @@ label ACG_duo_9:
 
 
 
-    g "Теодора and Irene have such a great relationship~"
+    g "Теодора and Айрин have such a great relationship~"
 
 
 
@@ -187,11 +187,11 @@ label ACG_duo_9:
 
     scene acg_duo_9_20 with dissolve
 
-    a "U... Uno... ... you’ve been kissing me... for too long... ..."
+    a "U... Уно... ... you’ve been kissing me... for too long... ..."
 
 
 
-    g "Because... Vera tastes so sweet~"
+    g "Because... Вера tastes so sweet~"
 
 
 

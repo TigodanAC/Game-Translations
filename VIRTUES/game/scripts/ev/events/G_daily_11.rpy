@@ -3,11 +3,11 @@ label G_daily_11:
     scene void with tstmgr
     play music sorrow
 
-    "*The following plot is from Uno’s perspective*"
+    "*The following plot is from Уно’s perspective*"
 
 
 
-    "Later today, while Uno was working in the bookstore, there were two men observing her from a distance..."
+    "Later today, while Уно was working in the bookstore, there were two men observing her from a distance..."
 
 
 
@@ -37,7 +37,7 @@ label G_daily_11:
 
 
 
-    "Man A" "*Stopped Uno* Excuse me, Miss."
+    "Man A" "*Stopped Уно* Excuse me, Miss."
 
 
 
@@ -47,7 +47,7 @@ label G_daily_11:
 
 
 
-    "Man A" "We know who you are. You are Uno, right? That Uno, the rising amateur pornstar."
+    "Man A" "We know who you are. You are Уно, right? That Уно, the rising amateur pornstar."
 
 
 
@@ -103,7 +103,7 @@ label G_daily_11:
 
 
 
-    g "And Uno is not even my real name~ So... suit yourself~"
+    g "And Уно is not even my real name~ So... suit yourself~"
 
 
 
@@ -125,7 +125,7 @@ label G_daily_11:
 
     scene g_daily11_7 with tstmgr
 
-    "Uno suddenly stiffened at the man’s words..."
+    "Уно suddenly stiffened at the man’s words..."
 
 
 
@@ -163,7 +163,7 @@ label G_daily_11:
 
     scene g_daily11_10 with tstmgr
 
-    "Uno took out one little black thing from her pocket."
+    "Уно took out one little black thing from her pocket."
 
 
 
@@ -217,7 +217,7 @@ label G_daily_11:
 
     scene g_daily11_14 with dissolve
 
-    player "Hey, Uno~ I’m here to take you home~"
+    player "Hey, Уно~ I’m here to take you home~"
 
 
 

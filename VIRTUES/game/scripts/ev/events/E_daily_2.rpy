@@ -3,7 +3,7 @@ label E_daily_2:
     scene void with tstmgr
     play music happy
 
-    narrator "I went to Aunt Elisa's mansion on foot this afternoon, but it began to rain halfway. "
+    narrator "I went to Aunt Элиза's mansion on foot this afternoon, but it began to rain halfway. "
 
     narrator "I got totally wet."
 
@@ -23,7 +23,7 @@ label E_daily_2:
 
     narrator "Her face suddenly turned red. That was... actually cute."
 
-    player "Okay, Aunt Elisa. But I don't have any change of clothes."
+    player "Okay, Aunt Элиза. But I don't have any change of clothes."
 
     scene e_mansion_inside_smile with tstmgr
 
@@ -43,7 +43,7 @@ label E_daily_2:
 
     narrator "She seems not to want to explain that in more detail... Suspicious."
 
-    narrator "But it's not a good time to dig into this. Aunt Elisa is right, I need to take a shower right now."
+    narrator "But it's not a good time to dig into this. Aunt Элиза is right, I need to take a shower right now."
 
     narrator "I walked into the bathroom. "
 
@@ -61,7 +61,7 @@ label E_daily_2:
 
     narrator "... ... ... ..."
 
-    narrator "5 years ago. Late night. In Elisa's mansion."
+    narrator "5 years ago. Late night. In Элиза's mansion."
 
     player "(... ... ... ...)"
 
@@ -91,13 +91,13 @@ label E_daily_2:
 
     player "(... ... ... ...)"
 
-    player "(Wait... who is in it? There are only 3 people living in this place besides me. Aunt Elisa, Теодора, and Irene. So whoever in this room must be a girl.)"
+    player "(Wait... who is in it? There are only 3 people living in this place besides me. Aunt Элиза, Теодора, and Айрин. So whoever in this room must be a girl.)"
 
     narrator "I can feel that my face flushed. "
 
     player "(Should I take a look?...)"
 
-    player "(But what if it is Irene? I don't want to peep a 13-year-old girl.)"
+    player "(But what if it is Айрин? I don't want to peep a 13-year-old girl.)"
 
     player "(I think I'll just close it.)"
 
@@ -105,7 +105,7 @@ label E_daily_2:
 
     narrator "It was a groan in pleasure which sounded stirring and erogenous. I only heard this kind of voice in porn before."
 
-    narrator "And I have recognized that voice. It was from Aunt Elisa."
+    narrator "And I have recognized that voice. It was from Aunt Элиза."
 
     player "(Is she...)"
 
@@ -135,7 +135,7 @@ label E_daily_2:
 
     narrator "... ... ... ..."
 
-    player "(I never know Aunt Elisa can be so... erotic...)"
+    player "(I never know Aunt Элиза can be so... erotic...)"
 
     player "(Look at those tits...)"
 
@@ -151,7 +151,7 @@ label E_daily_2:
 
     e "Ahhh... ... ... ..."
 
-    narrator "Aunt Elisa made a loud groan all of a sudden. Her body quivered, her breasts jiggled, and I saw water coming out of her pussy."
+    narrator "Aunt Элиза made a loud groan all of a sudden. Her body quivered, her breasts jiggled, and I saw water coming out of her pussy."
 
     player "(Holy shit. Did she just have a orgasm?)"
 
@@ -165,7 +165,7 @@ label E_daily_2:
 
     scene rcsj_e5 with tstmgr
 
-    narrator "After the orgasm ended, Aunt Elisa seemed to lose all the strength. She breathe heavily and her eyes looked blearily."
+    narrator "After the orgasm ended, Aunt Элиза seemed to lose all the strength. She breathe heavily and her eyes looked blearily."
 
     e "That was... quite a cumming."
 
@@ -195,7 +195,7 @@ label E_daily_2:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "Five years later. Now, in Elisa's mansion."
+    narrator "Five years later. Now, in Элиза's mansion."
 
     scene mansion_bathroom_background with tstmgr
 
@@ -209,7 +209,7 @@ label E_daily_2:
 
     narrator "... ... ... ..."
 
-    narrator "I took a shower in Aunt Elisa's mansion."
+    narrator "I took a shower in Aunt Элиза's mansion."
 
     narrator "... ... ... ..."
 

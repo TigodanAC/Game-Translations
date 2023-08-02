@@ -60,7 +60,7 @@ label harem_CE_2:
 
     scene harem_ce_2_8 with tstmgr
 
-    player "Elisa... Theo... ..."
+    player "Элиза... Theo... ..."
 
 
 

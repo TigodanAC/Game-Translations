@@ -20,7 +20,7 @@ label company_forenoon_E_1:
 
 
 
-    player "Eh, I'm doing fine. Thanks for asking, Aunt Elisa."
+    player "Eh, I'm doing fine. Thanks for asking, Aunt Элиза."
 
 
 

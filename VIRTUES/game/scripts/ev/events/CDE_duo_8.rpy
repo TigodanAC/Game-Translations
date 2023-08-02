@@ -3,7 +3,7 @@ label CDE_duo_8:
     scene void with tstmgr
     play music happy
 
-    "Elisa’s house... ... This place used to be like a second home to me. Although I have no blood connection with Elisa and her daughters, they treated me like I was a member of this house, a part of their family."
+    "Элиза’s house... ... This place used to be like a second home to me. Although I have no blood connection with Элиза and her daughters, they treated me like I was a member of this house, a part of their family."
 
 
 
@@ -25,7 +25,7 @@ label CDE_duo_8:
 
 
 
-    "Irene, just like her sister and mother, has become a part of my harem too."
+    "Айрин, just like her sister and mother, has become a part of my harem too."
 
 
 
@@ -45,7 +45,7 @@ label CDE_duo_8:
 
 
 
-    d "Can... can Irene get a kiss first?"
+    d "Can... can Айрин get a kiss first?"
 
 
 

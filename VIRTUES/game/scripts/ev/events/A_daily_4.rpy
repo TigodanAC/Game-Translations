@@ -7,7 +7,7 @@ label A_daily_4:
 
     narrator "The next morning..."
 
-    narrator "{b}the following plot is from Vera's perspective{/b}"
+    narrator "{b}the following plot is from Вера's perspective{/b}"
 
     narrator "(Door knocking) Knock, knock..."
 
@@ -87,29 +87,29 @@ label A_daily_4:
 
     scene rcsj_a15 with tstmgr
 
-    narrator "Vera and Senning entered the living room together."
+    narrator "Вера and Сеннин entered the living room together."
 
     scene rcsj_a16 with tstmgr
 
     a "Well..."
 
-    a " I'm Vera, [P.name]'s... assistant. It's nice to meet you."
+    a " I'm Вера, [P.name]'s... assistant. It's nice to meet you."
 
     scene rcsj_a17 with tstmgr
 
-    b "Nice to meet you too, Miss Vera. I am Senning, an international student from China."
+    b "Nice to meet you too, Miss Вера. I am Сеннин, an international student from China."
 
-    narrator "Miss Vera? That sounds weird. Vera is my given name, not my surname. Maybe she's just being polite or traditional..."
+    narrator "Miss Вера? That sounds weird. Вера is my given name, not my surname. Maybe she's just being polite or traditional..."
 
-    narrator "It was actually a cute grammar mistake. I kinda like the name \"Miss Vera.\""
+    narrator "It was actually a cute grammar mistake. I kinda like the name \"Miss Вера.\""
 
     scene rcsj_a18 with tstmgr
 
-    a "I had some Chinese lessons back in high school. Senning means \"forest\" in Chinese, right?"
+    a "I had some Chinese lessons back in high school. Сеннин means \"forest\" in Chinese, right?"
 
     scene rcsj_a19 with tstmgr
 
-    b "You surprised me, Miss Vera. You are the first one I've met in this country who knows the Chinese language."
+    b "You surprised me, Miss Вера. You are the first one I've met in this country who knows the Chinese language."
 
     b "And your interpretation of my name is quite close. In fact, the full meaning of my name is \"lemon in the forest.\""
 
@@ -119,7 +119,7 @@ label A_daily_4:
 
     scene rcsj_a17 with tstmgr
 
-    b "If you don't mind, Miss Vera, I have a question."
+    b "If you don't mind, Miss Вера, I have a question."
 
     a "Please say it."
 
@@ -169,7 +169,7 @@ label A_daily_4:
 
     b "No, no. I have a class in an hour. I can't stay long."
 
-    b "I will leave my notebook here, please hand it to him. It's so nice to meet you, Miss Vera."
+    b "I will leave my notebook here, please hand it to him. It's so nice to meet you, Miss Вера."
 
     a "Nice to meet you too..."
 
@@ -189,7 +189,7 @@ label A_daily_4:
 
     a "A Chinese girl was there a few minutes ago. She left her notebook to you."
 
-    player "Oh, that must be Senning. How do you like her?"
+    player "Oh, that must be Сеннин. How do you like her?"
 
     a "She is adorable."
 
@@ -219,7 +219,7 @@ label A_daily_4:
 
     a " What's that \"Ha!\" for? Why do you look excited?"
 
-    player "It's fun to imagine two beauties like you and Senning falling in love with the same dude and getting jealous at each other. It's just like a Japanese harem galgame."
+    player "It's fun to imagine two beauties like you and Сеннин falling in love with the same dude and getting jealous at each other. It's just like a Japanese harem galgame."
 
     scene rcsj_a28 with tstmgr
 

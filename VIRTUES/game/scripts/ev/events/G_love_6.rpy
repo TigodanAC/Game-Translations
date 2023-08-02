@@ -3,13 +3,13 @@ label G_love_6:
     scene void with tstmgr
     play music sorrow
 
-    "Afternoon, in Uno’s room."
+    "Afternoon, in Уно’s room."
 
 
 
     scene g_love_6_1 with tstmgr
 
-    d "Uno, have you decided what you want to cos at tomorrow’s convention?"
+    d "Уно, have you decided what you want to cos at tomorrow’s convention?"
 
 
 
@@ -71,7 +71,7 @@ label G_love_6:
 
     scene g_love_6_4 with tstmgr
 
-    g "You need to help me, Irene. I know you are good at painting pictures."
+    g "You need to help me, Айрин. I know you are good at painting pictures."
 
 
 
@@ -237,7 +237,7 @@ label G_love_6:
 
     scene g_love_6_17 with tstmgr
 
-    "The temperature is hotter than the weather forecast said. As more and more people came up and surrounded Uno, she started to sweat."
+    "The temperature is hotter than the weather forecast said. As more and more people came up and surrounded Уно, she started to sweat."
 
 
 
@@ -311,7 +311,7 @@ label G_love_6:
 
     scene void with tstmgr
 
-    "Uno kept doing her poses while more and more people started to notice the change in her suit."
+    "Уно kept doing her poses while more and more people started to notice the change in her suit."
 
 
 
@@ -425,9 +425,9 @@ label G_love_6:
 
             scene g_love_6_28 with tstmgr
 
-            "As for Uno, she clung to my arm for the entire trip and couldn't stop trembling. She must be devastated by such an embarrassment."
+            "As for Уно, she clung to my arm for the entire trip and couldn't stop trembling. She must be devastated by such an embarrassment."
 
-            player "You should go take a shower, Uno, to get rid of the painting."
+            player "You should go take a shower, Уно, to get rid of the painting."
 
             g "... ... ... ..."
 
@@ -543,7 +543,7 @@ label G_love_6:
 
             player "Who was the guy that painted on your body?"
 
-            g "It was Irene... ... And it’s not her fault. I asked her to do that for me..."
+            g "It was Айрин... ... And it’s not her fault. I asked her to do that for me..."
 
             g "I thought it would be fun... like in those videos... ..."
 
@@ -567,7 +567,7 @@ label G_love_6:
 
             g "You must think I am... a pervert."
 
-            player "Oh, Uno... ..."
+            player "Oh, Уно... ..."
 
             g "Please, don’t hate me..."
 
@@ -678,7 +678,7 @@ label G_love_6:
 
             "That was... such an angelic, adorable smile..."
 
-            player "Uno... ..."
+            player "Уно... ..."
 
             scene g_love_6_61 with tstmgr
 
@@ -751,7 +751,7 @@ label G_love_6:
 
             scene g_love_6_80 with tstmgr
 
-            player "That was so great, Uno..."
+            player "That was so great, Уно..."
 
             g "So much... so much... I will... definitely... get pregnant..."
 
@@ -769,7 +769,7 @@ label G_love_6:
 
             scene void with tstmgr
 
-            "Uno and I stayed in the bathroom for the entire afternoon..."
+            "Уно and I stayed in the bathroom for the entire afternoon..."
 
             "... ... ... ..."
         "No need to rush":
@@ -839,9 +839,9 @@ label G_love_6:
 
             scene g_love_6_28 with tstmgr
 
-            "As for Uno, she clung to my arm for the entire trip and couldn't stop trembling. She must be devastated by such an embarrassment."
+            "As for Уно, she clung to my arm for the entire trip and couldn't stop trembling. She must be devastated by such an embarrassment."
 
-            player "You should go take a shower, Uno, to get rid of the painting."
+            player "You should go take a shower, Уно, to get rid of the painting."
 
             g "... ... ... ..."
 
@@ -955,7 +955,7 @@ label G_love_6:
 
             player "Who was the guy that painted on your body?"
 
-            g "It was Irene... ... And it’s not her fault. I asked her to do that for me..."
+            g "It was Айрин... ... And it’s not her fault. I asked her to do that for me..."
 
             g "I thought it would be fun... like in those videos... ..."
 
@@ -979,7 +979,7 @@ label G_love_6:
 
             g "You must think I am... a pervert."
 
-            player "Oh, Uno... ..."
+            player "Oh, Уно... ..."
 
             g "Please, don’t hate me..."
 
@@ -1069,7 +1069,7 @@ label G_love_6:
 
             "That was... such an angelic, adorable smile..."
 
-            player "Uno... ..."
+            player "Уно... ..."
 
             scene g_love_6_61 with tstmgr
 
@@ -1139,7 +1139,7 @@ label G_love_6:
 
             scene g_love_6_80 with tstmgr
 
-            player "That was so great, Uno..."
+            player "That was so great, Уно..."
 
             g "So much... so much... I will... definitely... get pregnant..."
 
@@ -1157,7 +1157,7 @@ label G_love_6:
 
             scene void with tstmgr
 
-            "Uno and I stayed in the bathroom for the entire afternoon..."
+            "Уно and I stayed in the bathroom for the entire afternoon..."
 
             "... ... ... ..."
 

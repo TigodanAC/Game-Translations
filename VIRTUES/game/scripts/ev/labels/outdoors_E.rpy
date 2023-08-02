@@ -206,7 +206,7 @@ label outdoors_E.e_outdoors_2:
 
     $ flashlight()
 
-    "Something penetrated Elisa's pussy at this moment... ..."
+    "Something penetrated Элиза's pussy at this moment... ..."
 
 
 

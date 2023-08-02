@@ -3,13 +3,13 @@ label G_daily_6:
     scene g_daily7_1 with tstmgr
     play music happy
 
-    a "Uno, you got a new package."
+    a "Уно, you got a new package."
 
 
 
     scene g_daily7_2 with tstmgr
 
-    g "Thanks, Vera. It must be another cosplay costume I ordered online."
+    g "Thanks, Вера. It must be another cosplay costume I ordered online."
 
 
 
@@ -37,7 +37,7 @@ label G_daily_6:
 
     scene g_daily7_4 with tstmgr
 
-    a "Really? That would be great! Thanks, Uno~"
+    a "Really? That would be great! Thanks, Уно~"
 
 
 
@@ -357,7 +357,7 @@ label G_daily_6:
 
             scene g_daily7_24 with tstmgr
 
-            a "Alright, game is over. Do you want to have some ice cream, Uno?"
+            a "Alright, game is over. Do you want to have some ice cream, Уно?"
 
             g "Yeah, I’d love to~"
 
@@ -389,7 +389,7 @@ label G_daily_6:
 
             if A.harem < 10 or G.harem < 10:
 
-                "The further plot will be unlocked after Vera and Uno's harem acceptance levels reach 10."
+                "The further plot will be unlocked after Вера and Уно's harem acceptance levels reach 10."
 
                 "You can always replay this event in the ‘subplot replay’ button located in your bedroom."
 
@@ -467,7 +467,7 @@ label G_daily_6:
 
                 a "Wait, Ohhh, Awwwww~~~ that spot~~~~"
 
-                g "Vera... ... ... ..."
+                g "Вера... ... ... ..."
 
                 scene g_daily7_33 with tstmgr
 

@@ -13,7 +13,7 @@ label gysj_2:
 
     player "Wait, is that..."
 
-    player "Hey! Senning!"
+    player "Hey! Сеннин!"
 
     scene gysj2_2 with tstmgr
 

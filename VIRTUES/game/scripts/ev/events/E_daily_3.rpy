@@ -3,7 +3,7 @@ label E_daily_3:
     scene void with tstmgr
     play music happy
 
-    "Later tonight, in the bathroom of Elisa’s mansion."
+    "Later tonight, in the bathroom of Элиза’s mansion."
 
 
 
@@ -77,7 +77,7 @@ label E_daily_3:
 
 
 
-    e "Irene... ..."
+    e "Айрин... ..."
 
 
 
@@ -147,7 +147,7 @@ label E_daily_3:
 
     scene e_daily3_13 with tstmgr
 
-    e "Oh... Irene... ..."
+    e "Oh... Айрин... ..."
 
 
 
@@ -167,7 +167,7 @@ label E_daily_3:
 
 
 
-    e "Ohhh... Irene, it is about to come out... ... ... ..."
+    e "Ohhh... Айрин, it is about to come out... ... ... ..."
 
 
 
@@ -225,7 +225,7 @@ label E_daily_3:
 
     scene e_daily3_19 with tstmgr
 
-    e "Irene... wait, don’t bite my nipple like that!"
+    e "Айрин... wait, don’t bite my nipple like that!"
 
 
 
@@ -253,7 +253,7 @@ label E_daily_3:
 
 
 
-    e "Oww... Irene... ..."
+    e "Oww... Айрин... ..."
 
 
 
@@ -289,7 +289,7 @@ label E_daily_3:
 
     scene e_daily3_22 with tstmgr
 
-    e "Alright, Irene... come here."
+    e "Alright, Айрин... come here."
 
 
 

@@ -7,7 +7,7 @@ label A_daily_13:
 
 
 
-    player "Morning, Vera, I just got up from bed..."
+    player "Morning, Вера, I just got up from bed..."
 
 
 
@@ -59,13 +59,13 @@ label A_daily_13:
 
 
 
-    a "Yeah, and I was close to reach my goal sometime earlier when there were only you and me. But then Theo and Uno moved into the house, so I had to count them in, too."
+    a "Yeah, and I was close to reach my goal sometime earlier when there were only you and me. But then Theo and Уно moved into the house, so I had to count them in, too."
 
 
 
     scene a_daily13_4 with tstmgr
 
-    a "And now... ... me, you, Uno, Theo, Theo’s sister, Miss Lemon... ... there are just so many people. I will have to save more money for this trip... ..."
+    a "And now... ... me, you, Уно, Theo, Theo’s sister, Miss Lemon... ... there are just so many people. I will have to save more money for this trip... ..."
 
 
 
@@ -75,7 +75,7 @@ label A_daily_13:
 
     scene a_daily13_5 with tstmgr
 
-    a "Senning, of course. She once told me that her name means ‘the lemon in the forest’~"
+    a "Сеннин, of course. She once told me that her name means ‘the lemon in the forest’~"
 
 
 

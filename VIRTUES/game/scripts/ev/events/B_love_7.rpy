@@ -3,7 +3,7 @@ label B_train_sexskill_1:
     scene void with tstmgr
     play music sorrow
 
-    "Sometime later, I came to the school apartment to look for Senning."
+    "Sometime later, I came to the school apartment to look for Сеннин."
 
 
 

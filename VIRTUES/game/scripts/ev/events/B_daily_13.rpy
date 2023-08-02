@@ -3,7 +3,7 @@ label B_daily_13:
     scene void with tstmgr
     play music happy
 
-    "I was wandering on the campus, and happened to meet with Senning and her friend, Teresa."
+    "I was wandering on the campus, and happened to meet with Сеннин and her friend, Teresa."
 
 
 
@@ -43,7 +43,7 @@ label B_daily_13:
 
     scene b_daily13_6 with tstmgr
 
-    "Senning then ran into my arms and buried her head in my chest."
+    "Сеннин then ran into my arms and buried her head in my chest."
 
 
 

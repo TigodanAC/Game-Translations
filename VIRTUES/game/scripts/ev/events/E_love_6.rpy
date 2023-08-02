@@ -9,7 +9,7 @@ label E_love_6:
 
 
 
-    player "I always love your food, Aunt Elisa."
+    player "I always love your food, Aunt Элиза."
 
 
 
@@ -69,7 +69,7 @@ label E_love_6:
 
 
 
-    player "(Why would Aunt Elisa made soup only for me? She never did such a thing before.)"
+    player "(Why would Aunt Элиза made soup only for me? She never did such a thing before.)"
 
 
 
@@ -81,7 +81,7 @@ label E_love_6:
 
 
 
-    player "(I don’t believe it. I mean, why would Aunt Elisa drug me?)"
+    player "(I don’t believe it. I mean, why would Aunt Элиза drug me?)"
 
 
 
@@ -111,7 +111,7 @@ label E_love_6:
 
 
 
-    "*The following plot is from Elisa’s perspective*"
+    "*The following plot is from Элиза’s perspective*"
 
 
 
@@ -203,7 +203,7 @@ label E_love_6:
 
 
 
-    e "Be... be careful, Elisa, try move slowly..."
+    e "Be... be careful, Элиза, try move slowly..."
 
 
 
@@ -307,7 +307,7 @@ label E_love_6:
 
 
 
-    e "It has been deserted for so long... after Irene was born... ..."
+    e "It has been deserted for so long... after Айрин was born... ..."
 
 
 

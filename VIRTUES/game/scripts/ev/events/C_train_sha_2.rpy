@@ -657,7 +657,7 @@ label C_train_sha_2:
 
 
 
-    "Elisa put her hands on the handles and... ..."
+    "Элиза put her hands on the handles and... ..."
 
 
 
@@ -748,7 +748,7 @@ label C_train_sha_2:
 
     scene c_train_sha_2_62 with tstmgr
 
-    e "I... I didn't see anything. I’m going to pick Irene up from school now. You two... have fun... ..."
+    e "I... I didn't see anything. I’m going to pick Айрин up from school now. You two... have fun... ..."
 
 
 
@@ -762,7 +762,7 @@ label C_train_sha_2:
 
     scene c_train_sha_2_63 with tstmgr
 
-    "Elisa left the room awkwardly... ..."
+    "Элиза left the room awkwardly... ..."
 
 
 
@@ -772,7 +772,7 @@ label C_train_sha_2:
 
 
 
-    player "Well, I’d rather choose Aunt Elisa than a stranger."
+    player "Well, I’d rather choose Aunt Элиза than a stranger."
 
 
 
@@ -786,11 +786,11 @@ label C_train_sha_2:
 
 
 
-    player "You called Aunt Elisa ‘mommy’ and cried like a spoiled little girl with a high-pitched voice. You were acting like... ... Irene."
+    player "You called Aunt Элиза ‘mommy’ and cried like a spoiled little girl with a high-pitched voice. You were acting like... ... Айрин."
 
 
 
-    c "I... I didn’t... ... I am not... Irene."
+    c "I... I didn’t... ... I am not... Айрин."
 
 
 

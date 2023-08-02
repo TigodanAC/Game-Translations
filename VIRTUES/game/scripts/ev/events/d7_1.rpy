@@ -26,11 +26,11 @@ label d7_1:
 
     narrator "There is a girl lying on my bed and she looks just like Теодора's younger version. They both have emerald pupils and silver hair, but they are definitely not the same person."
 
-    player "Irene?"
+    player "Айрин?"
 
     d "Ah! You are finally awake, [P.name]."
 
-    narrator "This is Irene, Теодора's little sister. They look similar, but their personalities are remarkably different. Unlike her bad-temper older sister, Irene seems to be much sweeter and cuter. We are very close since we were kids."
+    narrator "This is Айрин, Теодора's little sister. They look similar, but their personalities are remarkably different. Unlike her bad-temper older sister, Айрин seems to be much sweeter and cuter. We are very close since we were kids."
 
     narrator "Maybe... a little bit too close? I mean, she is now lying on the same bed with me and acts like nothing happened."
 
@@ -50,9 +50,9 @@ label d7_1:
 
     d " What's wrong?"
 
-    player "Irene, we are not kids anymore. You can't just lie on the same bed with me like this."
+    player "Айрин, we are not kids anymore. You can't just lie on the same bed with me like this."
 
-    narrator "Do I really think it is inappropriate? Ha, not at all. No man would ever refuse to sleep on the same bed with an adorable girl like Irene."
+    narrator "Do I really think it is inappropriate? Ha, not at all. No man would ever refuse to sleep on the same bed with an adorable girl like Айрин."
 
     narrator "But I took her as my own sister. I have to say what I have to say."
 
@@ -74,7 +74,7 @@ label d7_1:
 
     narrator "These two adorable titties are right in front of my hands. If I touch them now..."
 
-    narrator "Irene has never said no to my requests before. And for God's sake, she is now lying on my bed without any protection."
+    narrator "Айрин has never said no to my requests before. And for God's sake, she is now lying on my bed without any protection."
 
     player "... ... ... ..."
 
@@ -102,7 +102,7 @@ label d7_1:
 
     narrator "Oh, no. She noticed it."
 
-    narrator "Irene came near me like a little snake. She seems to be curious about the change in my body."
+    narrator "Айрин came near me like a little snake. She seems to be curious about the change in my body."
 
     scene day7_d6 with tstmgr
 
@@ -170,7 +170,7 @@ label d7_1:
 
     player "(Is she coming back?)"
 
-    player "Hey, listen, Irene. I am sorry about......"
+    player "Hey, listen, Айрин. I am sorry about......"
 
     player "Oh..."
 

@@ -7,7 +7,7 @@ label DE_duo:
 
 
 
-    player "Irene, aren’t we supposed to have today’s tutoring lesson right now?"
+    player "Айрин, aren’t we supposed to have today’s tutoring lesson right now?"
 
 
 
@@ -83,11 +83,11 @@ label DE_duo:
 
 
 
-    "Aunt Elisa put her hand on my body lightly."
+    "Aunt Элиза put her hand on my body lightly."
 
 
 
-    player "Eh... Aunt Elisa?"
+    player "Eh... Aunt Элиза?"
 
 
 
@@ -105,7 +105,7 @@ label DE_duo:
 
     scene de_duo1_8 with tstmgr
 
-    e "Irene... ... ... ..."
+    e "Айрин... ... ... ..."
 
 
 
@@ -122,12 +122,12 @@ label DE_duo:
     label DE_duo_choice_1:
 
     menu:
-        "Irene":
+        "Айрин":
 
 
             scene de_duo1_10 with tstmgr
 
-            player "If Irene really wants to help me... ... ... ..."
+            player "If Айрин really wants to help me... ... ... ..."
 
             d "Great!"
 
@@ -135,7 +135,7 @@ label DE_duo:
 
             e "... ... ... ..."
 
-            e "Okay then, he is yours now, Irene. I will go get some drinks."
+            e "Okay then, he is yours now, Айрин. I will go get some drinks."
 
             d "See you later, mom."
 
@@ -153,7 +153,7 @@ label DE_duo:
 
             scene de_duo1_13 with tstmgr
 
-            player "Eh... Irene, I don’t really think this is a good position to put sunscreen on me..."
+            player "Eh... Айрин, I don’t really think this is a good position to put sunscreen on me..."
 
             scene de_duo1_14 with tstmgr
 
@@ -179,7 +179,7 @@ label DE_duo:
 
             player "I... ... ... ..."
 
-            "Suddenly, we heard the sound of footsteps. Aunt Elisa is coming back."
+            "Suddenly, we heard the sound of footsteps. Aunt Элиза is coming back."
 
             scene de_duo1_18 with tstmgr
 
@@ -209,17 +209,17 @@ label DE_duo:
 
             player "... ... ... ..."
 
-            "Both Aunt Elisa and Irene are in a nap right now."
+            "Both Aunt Элиза and Айрин are in a nap right now."
 
             "Perhaps... it’s my time to do something."
 
             "... ... ... ..."
-        "Aunt Elisa":
+        "Aunt Элиза":
 
 
 
 
-            player "If Aunt Elisa wishes to help me... ... ... ..."
+            player "If Aunt Элиза wishes to help me... ... ... ..."
 
             e "Good choice."
 
@@ -245,7 +245,7 @@ label DE_duo:
 
             scene de_duo1_24 with tstmgr
 
-            player "Eh... Aunt Elisa, I don’t really think this is a good position to put sunscreen on me..."
+            player "Eh... Aunt Элиза, I don’t really think this is a good position to put sunscreen on me..."
 
             scene de_duo1_25 with tstmgr
 
@@ -257,7 +257,7 @@ label DE_duo:
 
             "She pressed her soft body against my chest and gently squirmed it like a snake."
 
-            "Is she... seducing me? Isn’t she afraid of letting Irene see this?"
+            "Is she... seducing me? Isn’t she afraid of letting Айрин see this?"
 
             scene de_duo1_27 with tstmgr
 
@@ -265,9 +265,9 @@ label DE_duo:
 
             scene de_duo1_28 with tstmgr
 
-            player "Aunt Elisa... ..."
+            player "Aunt Элиза... ..."
 
-            "Suddenly, we heard the sound of footsteps. Irene is coming back."
+            "Suddenly, we heard the sound of footsteps. Айрин is coming back."
 
             scene de_duo1_29 with tstmgr
 
@@ -279,7 +279,7 @@ label DE_duo:
 
             scene de_duo1_31 with tstmgr
 
-            e "Hello, Irene."
+            e "Hello, Айрин."
 
             d "Why do you two stay so close to each other?"
 
@@ -305,7 +305,7 @@ label DE_duo:
 
             player "(How could they fall in asleep so quickly?)"
 
-            "Both Aunt Elisa and Irene are in a nap right now."
+            "Both Aunt Элиза and Айрин are in a nap right now."
 
             "Perhaps... it’s my time to do something."
 
@@ -316,14 +316,14 @@ label DE_duo:
     label DE_duo_choice_2:
 
     menu:
-        "Touch Irene":
+        "Touch Айрин":
 
 
 
 
             if D.love < 30:
 
-                "Further plot will be unlocked after you improve the relationship with Irene."
+                "Further plot will be unlocked after you improve the relationship with Айрин."
 
                 "You can always replay this event in the ‘subplot replay’ button located in your bedroom."
 
@@ -333,7 +333,7 @@ label DE_duo:
 
                 scene de_duo1_33 with tstmgr
 
-                "Irene is lying her head on my chest like a little animal."
+                "Айрин is lying her head on my chest like a little animal."
 
                 "Damn, she is cute... ..."
 
@@ -359,7 +359,7 @@ label DE_duo:
 
                 d "Hah!~~~~"
 
-                player "Oh, hi, Irene. Did I wake you up? I’m sorry... ..."
+                player "Oh, hi, Айрин. Did I wake you up? I’m sorry... ..."
 
                 scene de_duo1_39 with tstmgr
 
@@ -381,7 +381,7 @@ label DE_duo:
 
                 d "(Kissing) Wummmmmm~~~~ wummmm~~~~ wummm~~~"
 
-                player "Irene... ... ... ..."
+                player "Айрин... ... ... ..."
 
                 scene de_duo1_42 with tstmgr
 
@@ -391,7 +391,7 @@ label DE_duo:
 
                 "And then she took off my pants. Her action was so clean that I didn’t even realize it until my penis was in her hand."
 
-                player "Shit, Irene, what are you doing?"
+                player "Shit, Айрин, what are you doing?"
 
                 scene de_duo1_44 with tstmgr
 
@@ -407,7 +407,7 @@ label DE_duo:
 
                 scene de_duo1_46 with tstmgr
 
-                player "So... what’s now, Irene?"
+                player "So... what’s now, Айрин?"
 
                 scene de_duo1_47 with tstmgr
 
@@ -433,11 +433,11 @@ label DE_duo:
 
                 d "So... ... big... ..."
 
-                "Damn, I never felt so excited before. Aunt Elisa is sleeping by my side and her young daughter is giving me a blowjob!"
+                "Damn, I never felt so excited before. Aunt Элиза is sleeping by my side and her young daughter is giving me a blowjob!"
 
-                "I don’t know what I should think right now. I wish this blowjob can last longer because I want to feel more of Irene’s warm little mouth."
+                "I don’t know what I should think right now. I wish this blowjob can last longer because I want to feel more of Айрин’s warm little mouth."
 
-                "But at the same time, I wish we can finish it as soon as possible because Aunt Elisa may wake up anytime."
+                "But at the same time, I wish we can finish it as soon as possible because Aunt Элиза may wake up anytime."
 
                 "Ahhhhh... ... this is so suffering! But it makes me even more excited!!!!"
 
@@ -473,7 +473,7 @@ label DE_duo:
 
                 d "That was... so sticky..."
 
-                player "Irene... ... ... ..."
+                player "Айрин... ... ... ..."
 
                 scene de_duo1_53 with tstmgr
 
@@ -484,13 +484,13 @@ label DE_duo:
                 scene void with tstmgr
 
                 "... ... ... ..."
-        "Touch Elisa":
+        "Touch Элиза":
 
 
 
             if E.love < 55:
 
-                "The further plot will be unlocked after Elisa's love level reaches 55."
+                "The further plot will be unlocked after Элиза's love level reaches 55."
 
                 "You can always replay this event in the ‘subplot replay’ button located in your bedroom."
 
@@ -509,7 +509,7 @@ label DE_duo:
 
                 "I can still... move my hands a little... ..."
 
-                "Aunt Elisa’s long legs... ..."
+                "Aunt Элиза’s long legs... ..."
 
                 scene de_duo1_78 with tstmgr
 
@@ -632,7 +632,7 @@ label DE_duo:
 
                 e "Yes~~ hot cum~~~ pump them all inside me... ohhh~~~~"
 
-                "Elisa's body is trembling hard in the water along with the orgasm."
+                "Элиза's body is trembling hard in the water along with the orgasm."
 
                 scene de_duo1_72 with tstmgr
 

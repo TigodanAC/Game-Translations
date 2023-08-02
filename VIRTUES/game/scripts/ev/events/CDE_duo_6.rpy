@@ -2,7 +2,7 @@ label CDE_duo_6:
 
     scene void with tstmgr
     play music happy
-    "Later today, in the bathroom of Elisa’s mansion..."
+    "Later today, in the bathroom of Элиза’s mansion..."
 
 
 
@@ -20,11 +20,11 @@ label CDE_duo_6:
 
 
 
-    e "Irene... will be home soon, we should... ohhhh~~ hurry up... ..."
+    e "Айрин... will be home soon, we should... ohhhh~~ hurry up... ..."
 
 
 
-    c "Actually... I think today is the day to tell Irene everything."
+    c "Actually... I think today is the day to tell Айрин everything."
 
 
 
@@ -126,7 +126,7 @@ label CDE_duo_6:
 
 
 
-    player "It’s your turn again, Elisa~"
+    player "It’s your turn again, Элиза~"
 
 
     stop sound
@@ -136,11 +136,11 @@ label CDE_duo_6:
 
 
 
-    "Elisa’s vagina is a different thing. It is not as tight as her daughter’s, so I don’t need to worry about it being too violent for my dick."
+    "Элиза’s vagina is a different thing. It is not as tight as her daughter’s, so I don’t need to worry about it being too violent for my dick."
 
 
 
-    "If I have to find a word to describe this meat hole, I would say it is ‘juicy’, and I would use this word to describe Elisa herself too. I mean, she has milk in her breasts and she always sweats~"
+    "If I have to find a word to describe this meat hole, I would say it is ‘juicy’, and I would use this word to describe Элиза herself too. I mean, she has milk in her breasts and she always sweats~"
 
 
 
@@ -202,7 +202,7 @@ label CDE_duo_6:
 
 
 
-    "Elisa’s voice came from a distance..."
+    "Элиза’s voice came from a distance..."
 
 
 
@@ -292,7 +292,7 @@ label CDE_duo_6:
 
     $ flashlight()
 
-    d "Irene wants to sit in the middle!~"
+    d "Айрин wants to sit in the middle!~"
 
 
 
@@ -304,7 +304,7 @@ label CDE_duo_6:
 
 
 
-    e "Wow~ Irene, you are not supposed to be so close with your future brother-in-law."
+    e "Wow~ Айрин, you are not supposed to be so close with your future brother-in-law."
 
 
 
@@ -372,7 +372,7 @@ label CDE_duo_6:
 
     scene cde_duo_6_26 with tstmgr
 
-    e "You let me down so much, Irene. I thought you were studying pretty hard during the tutoring lessons~"
+    e "You let me down so much, Айрин. I thought you were studying pretty hard during the tutoring lessons~"
 
 
 
@@ -414,7 +414,7 @@ label CDE_duo_6:
 
 
 
-    c "Isn’t this what you want, Irene? Your future brother-in-law’s big dick~"
+    c "Isn’t this what you want, Айрин? Your future brother-in-law’s big dick~"
 
 
 
@@ -476,7 +476,7 @@ label CDE_duo_6:
 
 
 
-    e "Are you okay, Irene?"
+    e "Are you okay, Айрин?"
 
 
 
@@ -502,7 +502,7 @@ label CDE_duo_6:
 
 
 
-    d "[P]’s big cock... is stretching Irene’s pussy~~~ Ahhhhh~~~"
+    d "[P]’s big cock... is stretching Айрин’s pussy~~~ Ahhhhh~~~"
 
 
 
@@ -548,7 +548,7 @@ label CDE_duo_6:
 
     scene cde_duo_6_33 with tstmgr
 
-    "Irene’s little body shook so hard while I injected my cum into her tender water-filled pussy~"
+    "Айрин’s little body shook so hard while I injected my cum into her tender water-filled pussy~"
 
 
 
@@ -688,7 +688,7 @@ label CDE_duo_6:
 
     scene cde_duo_6_42 with tstmgr
 
-    player "Eh... ... Welcome to the harem, Irene~"
+    player "Eh... ... Welcome to the harem, Айрин~"
 
 
 

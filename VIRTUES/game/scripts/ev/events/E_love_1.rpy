@@ -7,25 +7,25 @@ label E_love_1:
 
     scene e_mansiongate_day_smile with tstmgr
 
-    narrator "Then the door opened, and Aunt Elisa appeared in my sight."
+    narrator "Then the door opened, and Aunt Элиза appeared in my sight."
 
     e "Good afternoon, [P]. It's so nice to see you."
 
-    player "Hi, Aunt Elisa. You look absolutely marvelous today. "
+    player "Hi, Aunt Элиза. You look absolutely marvelous today. "
 
     scene e_mansiongate_day_laugh with tstmgr
 
     e "Stop it. I'm already old, save your sweet words for Theo."
 
-    narrator "Aunt Elisa is still happy to hear my praise, it's easy to tell. She is not young, but she still cares about her looks. "
+    narrator "Aunt Элиза is still happy to hear my praise, it's easy to tell. She is not young, but she still cares about her looks. "
 
     scene e_mansiongate_day_smile with tstmgr
 
-    player "I'm here to tutor Irene again. Is she home yet?"
+    player "I'm here to tutor Айрин again. Is she home yet?"
 
     e "Not yet. You may have to wait for a while. There is a basketball match at her school today, and she has to be there as a cheerleader."
 
-    player "Wait, Irene is a cheerleader?"
+    player "Wait, Айрин is a cheerleader?"
 
     scene e_mansiongate_day_smile2 with tstmgr
 
@@ -33,7 +33,7 @@ label E_love_1:
 
     player "... ... ... ..."
 
-    player "(Irene with a cheerleading uniform on?)"
+    player "(Айрин with a cheerleading uniform on?)"
 
     scene e_love1_1 with tstmgr
 
@@ -81,13 +81,13 @@ label E_love_1:
 
     scene e_love1_3 with tstmgr
 
-    narrator "It is an old photo, well, not that old, but it was shot at least 5 years ago. The woman in the photo is Aunt Elisa. She looks as demure as now, but obviously younger."
+    narrator "It is an old photo, well, not that old, but it was shot at least 5 years ago. The woman in the photo is Aunt Элиза. She looks as demure as now, but obviously younger."
 
-    narrator "I think Aunt Elisa was looking at this photo just before I knocked on the door. That's why she said \"it's so good to be young\"."
+    narrator "I think Aunt Элиза was looking at this photo just before I knocked on the door. That's why she said \"it's so good to be young\"."
 
     narrator "... ... ... ..."
 
-    narrator "Well, old photos can always bring us back to the memories. I actually start to miss Aunt Elisa with her old looks..."
+    narrator "Well, old photos can always bring us back to the memories. I actually start to miss Aunt Элиза with her old looks..."
 
     scene void with tstmgr
 
@@ -95,7 +95,7 @@ label E_love_1:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "5 years ago, at Elisa's mansion."
+    narrator "5 years ago, at Элиза's mansion."
 
     scene e_love1_4 with flashback
 
@@ -115,7 +115,7 @@ label E_love_1:
 
     scene e_love1_6 with tstmgr
 
-    player "Sorry, Aunt Elisa. It won't happen again."
+    player "Sorry, Aunt Элиза. It won't happen again."
 
     scene e_love1_4 with tstmgr
 
@@ -167,7 +167,7 @@ label E_love_1:
 
     scene e_love1_8 with tstmgr
 
-    c "Mom, Irene said the b-word, deal with her!"
+    c "Mom, Айрин said the b-word, deal with her!"
 
     scene e_love1_4 with tstmgr
 
@@ -183,7 +183,7 @@ label E_love_1:
 
     narrator "... ... ... ... ... ..."
 
-    narrator "Well... that was indeed some unforgettable memory. I was like 15 at that time. My dad was abroad for half a year, and I was able to live in this mansion with Aunt Elisa's family for an entire semester."
+    narrator "Well... that was indeed some unforgettable memory. I was like 15 at that time. My dad was abroad for half a year, and I was able to live in this mansion with Aunt Элиза's family for an entire semester."
 
     scene e_love1_12 with tstmgr
 
@@ -199,7 +199,7 @@ label E_love_1:
 
     player "Coming right now..."
 
-    narrator "I then left the photo and joined Aunt Elisa in the kitchen."
+    narrator "I then left the photo and joined Aunt Элиза in the kitchen."
 
     scene void with tstmgr
 

@@ -3,7 +3,7 @@ label D_final:
     scene void with tstmgr
     play music sorrow
 
-    "*This is Irene’s solo end, it happens in a route in which you only fell in love with Irene.*"
+    "*This is Айрин’s solo end, it happens in a route in which you only fell in love with Айрин.*"
 
 
 
@@ -11,7 +11,7 @@ label D_final:
 
 
 
-    "One day, in Irene’s room... ..."
+    "One day, in Айрин’s room... ..."
 
 
 
@@ -253,7 +253,7 @@ label D_final:
 
 
 
-    "I was obsessed with Irene’s cute sexy body and the thrill of fucking in the classroom, didn’t think of anything else at all."
+    "I was obsessed with Айрин’s cute sexy body and the thrill of fucking in the classroom, didn’t think of anything else at all."
 
 
 
@@ -279,11 +279,11 @@ label D_final:
 
     scene d_final_31 with tstmgr
 
-    e "The school’s surveillance system was initially installed by one of the subsidiaries of Shinyrost Inc. I asked them for a backdoor of the security camera in Irene’s classroom so I can see how my daughter was doing in school every day."
+    e "The school’s surveillance system was initially installed by one of the subsidiaries of Shinyrost Inc. I asked them for a backdoor of the security camera in Айрин’s classroom so I can see how my daughter was doing in school every day."
 
 
 
-    "Wow... ... I knew Aunt Elisa has great influence in this city, but this is still something beyond my imagination. Is this even legal?"
+    "Wow... ... I knew Aunt Элиза has great influence in this city, but this is still something beyond my imagination. Is this even legal?"
 
 
 
@@ -319,7 +319,7 @@ label D_final:
 
 
 
-    "I get what she meant. There are dozens of cameras all over the school building. If the school security guards really paid attention to their job, they would easily notice me and Irene as soon as we entered the building."
+    "I get what she meant. There are dozens of cameras all over the school building. If the school security guards really paid attention to their job, they would easily notice me and Айрин as soon as we entered the building."
 
 
 
@@ -343,7 +343,7 @@ label D_final:
 
 
 
-    "Aunt Elisa has watched it all. She has seen how kinky her daughter and her half-son were during sex. I’m feeling so embarrassed right now... ..."
+    "Aunt Элиза has watched it all. She has seen how kinky her daughter and her half-son were during sex. I’m feeling so embarrassed right now... ..."
 
 
 
@@ -435,7 +435,7 @@ label D_final:
 
 
 
-    e "Irene, you have got the acceptance letters from two colleges. You need to pick one of them."
+    e "Айрин, you have got the acceptance letters from two colleges. You need to pick one of them."
 
 
 
@@ -445,7 +445,7 @@ label D_final:
 
 
 
-    "Eh... ... I’m pretty sure that Aunt Elisa’s influence must have played a key role in it... ..."
+    "Eh... ... I’m pretty sure that Aunt Элиза’s influence must have played a key role in it... ..."
 
 
 
@@ -465,7 +465,7 @@ label D_final:
 
 
 
-    "The answer seemed obvious. I don’t think Irene will choose a university thousands of miles away from home."
+    "The answer seemed obvious. I don’t think Айрин will choose a university thousands of miles away from home."
 
 
 
@@ -591,7 +591,7 @@ label D_final:
 
 
 
-    player "*Smiling* Fine, Irene, let’s go make some great memory together~"
+    player "*Smiling* Fine, Айрин, let’s go make some great memory together~"
 
 
 
@@ -969,7 +969,7 @@ label D_final:
 
 
 
-            d "Do you believe there is actually a world where Irene has a brother instead of a sister? A world where mommy never divorced? A world where you just made a different choice for me?"
+            d "Do you believe there is actually a world where Айрин has a brother instead of a sister? A world where mommy never divorced? A world where you just made a different choice for me?"
 
 
 
@@ -979,7 +979,7 @@ label D_final:
 
             scene d_final_100 with tstmgr
 
-            d "I believe in it~ I believe there are worlds where Irene lives a different life~"
+            d "I believe in it~ I believe there are worlds where Айрин lives a different life~"
 
 
 
@@ -989,7 +989,7 @@ label D_final:
 
             scene d_final_101 with tstmgr
 
-            d "So I won’t regret any of the decisions I’ve made, because I believe there is an Irene out there somewhere who just went on a different route."
+            d "So I won’t regret any of the decisions I’ve made, because I believe there is an Айрин out there somewhere who just went on a different route."
 
 
 
@@ -1151,7 +1151,7 @@ label D_final:
 
 
 
-            "Happy time always goes by fast. Soon the summer was over and Irene began her college life."
+            "Happy time always goes by fast. Soon the summer was over and Айрин began her college life."
 
 
 
@@ -1163,13 +1163,13 @@ label D_final:
 
             scene d_final_119 with tstmgr
 
-            "Irene has moved into my house since then. But we would go to Aunt Elisa’s mansion for dinner keeping her company every day."
+            "Айрин has moved into my house since then. But we would go to Aunt Элиза’s mansion for dinner keeping her company every day."
 
 
 
             scene void with tstmgr
 
-            "For Irene, life is still as easy as before. She is still spoiled and protected well by people who love her. The only thing that would make her worried is still her height."
+            "For Айрин, life is still as easy as before. She is still spoiled and protected well by people who love her. The only thing that would make her worried is still her height."
 
 
 
@@ -1313,7 +1313,7 @@ label D_final:
 
 
 
-            player "Alright, Irene, I’ll let you g... ..."
+            player "Alright, Айрин, I’ll let you g... ..."
 
 
 
@@ -1419,7 +1419,7 @@ label D_final:
 
 
 
-            d "Awww... ... Too huge... ... Irene’s belly is being... expanded... ..."
+            d "Awww... ... Too huge... ... Айрин’s belly is being... expanded... ..."
 
 
 
@@ -1455,11 +1455,11 @@ label D_final:
 
 
 
-            d "Uhhh~~ [P]’s giant point sticker... is pounding Irene’s little pussy so hard, so savagely~~~"
+            d "Uhhh~~ [P]’s giant point sticker... is pounding Айрин’s little pussy so hard, so savagely~~~"
 
 
 
-            d "Irene’s small body... ... awwww... ... can’t withstand your might~~~"
+            d "Айрин’s small body... ... awwww... ... can’t withstand your might~~~"
 
 
 
@@ -1467,7 +1467,7 @@ label D_final:
 
 
 
-            d "Yes... awwww~~ [P] is such a beast~~~ Irene is being fucked by a beast too~~~"
+            d "Yes... awwww~~ [P] is such a beast~~~ Айрин is being fucked by a beast too~~~"
 
 
 
@@ -1503,7 +1503,7 @@ label D_final:
 
 
 
-            d "Irene’s belly... ... is full of [P]’s cream~~~"
+            d "Айрин’s belly... ... is full of [P]’s cream~~~"
 
 
 
@@ -1513,7 +1513,7 @@ label D_final:
 
 
 
-            "Irene struggled forward and tried to pull my dick out of her cum-filled vagina."
+            "Айрин struggled forward and tried to pull my dick out of her cum-filled vagina."
 
 
 
@@ -1563,15 +1563,15 @@ label D_final:
 
 
 
-            d "Irene’s little pussy... ... is being abused~~~ abused by daddy’s pointer stick~~~"
+            d "Айрин’s little pussy... ... is being abused~~~ abused by daddy’s pointer stick~~~"
 
 
 
-            d "Awwww... ... Irene will never try to run away from daddy again~~ Please... ..."
+            d "Awwww... ... Айрин will never try to run away from daddy again~~ Please... ..."
 
 
 
-            d "... ...Cum in Irene’s dirty little pussy~~~"
+            d "... ...Cum in Айрин’s dirty little pussy~~~"
 
 
 
@@ -1791,11 +1791,11 @@ label D_final:
 
 
 
-            d "It’s like... Irene is being fucked by a giant~~~"
+            d "It’s like... Айрин is being fucked by a giant~~~"
 
 
 
-            d "Awww~~ Good giant sir, please spare Irene’s little pussy~~~"
+            d "Awww~~ Good giant sir, please spare Айрин’s little pussy~~~"
 
 
 
@@ -1813,11 +1813,11 @@ label D_final:
 
 
 
-            d "Too hard~~ good giant is fucking Irene too hard~~~"
+            d "Too hard~~ good giant is fucking Айрин too hard~~~"
 
 
 
-            d "Irene is becoming... a giant’s fee-use sex doll~~~"
+            d "Айрин is becoming... a giant’s fee-use sex doll~~~"
 
 
 
@@ -1845,7 +1845,7 @@ label D_final:
 
 
 
-            player "Shit, Irene, I’m cumming!!~~~~"
+            player "Shit, Айрин, I’m cumming!!~~~~"
 
 
             stop sound
@@ -1859,15 +1859,15 @@ label D_final:
 
 
 
-            d "Too... too deep... ... Bellybutton... ... Daddy’s huge cock just reached somewhere upper than Irene’s little bellybutton~~"
+            d "Too... too deep... ... Bellybutton... ... Daddy’s huge cock just reached somewhere upper than Айрин’s little bellybutton~~"
 
 
 
-            d "Awwwwww... Irene is so happy... ..."
+            d "Awwwwww... Айрин is so happy... ..."
 
 
 
-            d "Irene... Irene will be a good girl forever~~~~"
+            d "Айрин... Айрин will be a good girl forever~~~~"
 
 
 
@@ -1885,7 +1885,7 @@ label D_final:
 
 
 
-            "Irene grew up without a father and I grew up only with my father. She desperately wants to experience love from a father figure while I happen to know exactly how to be a good father, so... ... yeah, why not?"
+            "Айрин grew up without a father and I grew up only with my father. She desperately wants to experience love from a father figure while I happen to know exactly how to be a good father, so... ... yeah, why not?"
 
 
 
@@ -2025,7 +2025,7 @@ label D_final:
 
 
 
-            player "Ohhh... ... Irene~"
+            player "Ohhh... ... Айрин~"
 
 
 
@@ -2037,7 +2037,7 @@ label D_final:
 
             scene d_final_178 with tstmgr
 
-            player "Irene... ..."
+            player "Айрин... ..."
 
 
 
@@ -2217,7 +2217,7 @@ label D_final:
 
 
 
-            d "Irene is... so small... so weak... so helpless in front of your penis awwwww~~~"
+            d "Айрин is... so small... so weak... so helpless in front of your penis awwwww~~~"
 
 
 
@@ -2237,7 +2237,7 @@ label D_final:
 
 
 
-            d "Spare me, daddy~~~ Awwwww~~ Irene wants to... get my little feet on the ground~"
+            d "Spare me, daddy~~~ Awwwww~~ Айрин wants to... get my little feet on the ground~"
 
 
 
@@ -2271,7 +2271,7 @@ label D_final:
 
 
 
-            d "Big penis... fucks so hard... awww... in Irene’s pregnant pussy~~~ ohhhh~~~~"
+            d "Big penis... fucks so hard... awww... in Айрин’s pregnant pussy~~~ ohhhh~~~~"
 
 
 
@@ -2301,11 +2301,11 @@ label D_final:
 
 
 
-            d "Big penis, big cock, yes~~ awww~~ Irene is feeling so goooood~~~~"
+            d "Big penis, big cock, yes~~ awww~~ Айрин is feeling so goooood~~~~"
 
 
 
-            player "You are so fucking horny, Irene!~"
+            player "You are so fucking horny, Айрин!~"
 
 
             stop sound
@@ -2323,7 +2323,7 @@ label D_final:
 
 
 
-            d "Fuck Irene’s pregnant pussy~~ Yes, fuck Irene’s pregnant pussy~~~"
+            d "Fuck Айрин’s pregnant pussy~~ Yes, fuck Айрин’s pregnant pussy~~~"
 
 
 
@@ -2335,7 +2335,7 @@ label D_final:
 
 
 
-            player "I love you too, Irene!"
+            player "I love you too, Айрин!"
 
 
 
@@ -2375,7 +2375,7 @@ label D_final:
 
             scene d_final_198 with dissolve
 
-            d "Bad [P], bad daddy! Came so much in Irene’s pussy, bad daddy!"
+            d "Bad [P], bad daddy! Came so much in Айрин’s pussy, bad daddy!"
 
 
 
@@ -2411,7 +2411,7 @@ label D_final:
 
 
 
-            player "See, Irene, you are getting better at being a mother already~"
+            player "See, Айрин, you are getting better at being a mother already~"
 
 
 
@@ -2439,7 +2439,7 @@ label D_final:
 
 
 
-            "*Irene’s happy ending 1 achieved!*"
+            "*Айрин’s happy ending 1 achieved!*"
         "Avana University (Away from home)":
 
 
@@ -2545,7 +2545,7 @@ label D_final:
 
 
 
-            d "Do you believe there is a world where Irene has a brother instead of a sister? A world where mommy never divorced? A world where you made a different choice for me?"
+            d "Do you believe there is a world where Айрин has a brother instead of a sister? A world where mommy never divorced? A world where you made a different choice for me?"
 
 
 
@@ -2555,7 +2555,7 @@ label D_final:
 
             scene d_final_212 with tstmgr
 
-            d "I believe in it~ I believe there are worlds where Irene lives a different life~"
+            d "I believe in it~ I believe there are worlds where Айрин lives a different life~"
 
 
 
@@ -2565,7 +2565,7 @@ label D_final:
 
             scene d_final_213 with tstmgr
 
-            d "So I won’t regret any of the decisions I’ve made, because I believe there is an Irene out there somewhere who just went on a different route."
+            d "So I won’t regret any of the decisions I’ve made, because I believe there is an Айрин out there somewhere who just went on a different route."
 
 
 
@@ -2587,7 +2587,7 @@ label D_final:
 
             scene d_final_216 with tstmgr
 
-            player "I am surprised already, Irene... ..."
+            player "I am surprised already, Айрин... ..."
 
 
 
@@ -2615,7 +2615,7 @@ label D_final:
 
 
 
-            "Happy time always goes by fast. Soon the summer was over and Irene began her college life."
+            "Happy time always goes by fast. Soon the summer was over and Айрин began her college life."
 
 
 
@@ -2627,15 +2627,15 @@ label D_final:
 
 
 
-            "During her first year in college, Aunt Elisa and I went to see her almost every week for a few days."
+            "During her first year in college, Aunt Элиза and I went to see her almost every week for a few days."
 
 
 
-            "From the second year, Elisa visited less often because she believed her little girl has been able to take care of herself well."
+            "From the second year, Элиза visited less often because she believed her little girl has been able to take care of herself well."
 
 
 
-            "As for me, of course I still went to Avana City every week, but yeah, I could see Irene’s growth too."
+            "As for me, of course I still went to Avana City every week, but yeah, I could see Айрин’s growth too."
 
 
 
@@ -2663,7 +2663,7 @@ label D_final:
 
 
 
-            player "You are so beautiful, Irene... ... and you are becoming more beautiful every time I see you again."
+            player "You are so beautiful, Айрин... ... and you are becoming more beautiful every time I see you again."
 
 
 
@@ -2703,7 +2703,7 @@ label D_final:
 
 
 
-            "Girl A" "Hi, Irene~"
+            "Girl A" "Hi, Айрин~"
 
 
 
@@ -2717,7 +2717,7 @@ label D_final:
 
 
 
-            "She has made a lot of friends here. Although the two Shinyrost girls are equally beautiful and sexy, Irene is actually much more popular in this college than Теодора once was. She is more outgoing and active, always willing to be involved in campus and off-campus activities."
+            "She has made a lot of friends here. Although the two Shinyrost girls are equally beautiful and sexy, Айрин is actually much more popular in this college than Теодора once was. She is more outgoing and active, always willing to be involved in campus and off-campus activities."
 
 
 
@@ -2733,7 +2733,7 @@ label D_final:
 
             scene d_final_228 with tstmgr
 
-            "A few months ago Irene shot a commercial for a local lingerie brand and it soon went viral. It made her even more famous on campus."
+            "A few months ago Айрин shot a commercial for a local lingerie brand and it soon went viral. It made her even more famous on campus."
 
 
 
@@ -2749,7 +2749,7 @@ label D_final:
 
 
 
-            "Every weekend Irene would spend all her time with me instead of going to any activities."
+            "Every weekend Айрин would spend all her time with me instead of going to any activities."
 
 
 
@@ -2777,13 +2777,13 @@ label D_final:
 
 
 
-            "Later that night, in Irene’s apartment... ..."
+            "Later that night, in Айрин’s apartment... ..."
 
 
 
             scene d_final_229 with dissolve
 
-            player "Ohhhhh... ... Yes, Irene, just like that~"
+            player "Ohhhhh... ... Yes, Айрин, just like that~"
 
 
 
@@ -3096,7 +3096,7 @@ label D_final:
 
 
 
-            d "Lick me~ lick Irene’s horny pussy~~~"
+            d "Lick me~ lick Айрин’s horny pussy~~~"
 
 
 
@@ -3104,7 +3104,7 @@ label D_final:
 
 
 
-            d "It’s all your fault~~ You corrupted Irene’s virginal pussy to this bitchy pussy~"
+            d "It’s all your fault~~ You corrupted Айрин’s virginal pussy to this bitchy pussy~"
 
 
 
@@ -3132,7 +3132,7 @@ label D_final:
 
 
 
-            player "Irene... hummm~~ you are so fucking cute~~ I want to eat you up~~"
+            player "Айрин... hummm~~ you are so fucking cute~~ I want to eat you up~~"
 
 
 
@@ -3212,7 +3212,7 @@ label D_final:
 
             scene d_final_249 with tstmgr
 
-            d "[P] is taking Irene’s titties as a masturbation tool~~~"
+            d "[P] is taking Айрин’s titties as a masturbation tool~~~"
 
 
 
@@ -3286,7 +3286,7 @@ label D_final:
 
 
 
-            player "Ohhhhhh~~ Shit~~~ You are amazing, Irene!~~"
+            player "Ohhhhhh~~ Shit~~~ You are amazing, Айрин!~~"
 
 
 
@@ -3312,7 +3312,7 @@ label D_final:
 
             scene d_final_253 with dissolve
 
-            "Girl A" "The concert was so good~~ It’s definitely Irene’s loss not to come~"
+            "Girl A" "The concert was so good~~ It’s definitely Айрин’s loss not to come~"
 
 
 
@@ -3324,15 +3324,15 @@ label D_final:
 
 
 
-            "Girl B" "I heard they’ve been together since Irene’s highschool."
+            "Girl B" "I heard they’ve been together since Айрин’s highschool."
 
 
 
-            "Girl A" "Yeah, they are lovely, but I don’t understand why he wouldn’t let Irene leave her apartment at weekends at all. That’s a little creepy, I have to say."
+            "Girl A" "Yeah, they are lovely, but I don’t understand why he wouldn’t let Айрин leave her apartment at weekends at all. That’s a little creepy, I have to say."
 
 
 
-            "Girl B" "Hmmmmm... ... You don’t think it is Irene’s will?"
+            "Girl B" "Hmmmmm... ... You don’t think it is Айрин’s will?"
 
 
 
@@ -3365,7 +3365,7 @@ label D_final:
 
 
 
-            player "You are not the only one who is growing, Irene~ I work out every day during the week just to get myself more strength to fuck you at weekend!~"
+            player "You are not the only one who is growing, Айрин~ I work out every day during the week just to get myself more strength to fuck you at weekend!~"
 
 
 
@@ -3379,7 +3379,7 @@ label D_final:
 
 
 
-            "On every weekend night, Irene and I would stay in her room and fuck for the whole night like two animals. Sometimes we would even fall asleep with my dick in her pussy."
+            "On every weekend night, Айрин and I would stay in her room and fuck for the whole night like two animals. Sometimes we would even fall asleep with my dick in her pussy."
 
 
 
@@ -3395,7 +3395,7 @@ label D_final:
 
 
 
-            player "Irene~~ Ohhhh~~ Your grown-up pussy really feels different than before~~"
+            player "Айрин~~ Ohhhh~~ Your grown-up pussy really feels different than before~~"
 
 
 
@@ -3413,7 +3413,7 @@ label D_final:
 
 
 
-            player "Irene... You’ve really become a big girl~ such a beautiful big girl~"
+            player "Айрин... You’ve really become a big girl~ such a beautiful big girl~"
 
 
 
@@ -3421,11 +3421,11 @@ label D_final:
 
 
 
-            player "I always have faith in you, and I’m so proud of you, Irene~"
+            player "I always have faith in you, and I’m so proud of you, Айрин~"
 
 
 
-            d "Hee hee~~ awwww~ Irene... Irene is a good girl~~~"
+            d "Hee hee~~ awwww~ Айрин... Айрин is a good girl~~~"
 
 
 
@@ -3443,15 +3443,15 @@ label D_final:
 
 
 
-            d "Awwww~~~~ Irene’s big titties... are swaying so hard~~~ Awwww~~ Sometimes I still couldn’t believe they have become this huge~~"
+            d "Awwww~~~~ Айрин’s big titties... are swaying so hard~~~ Awwww~~ Sometimes I still couldn’t believe they have become this huge~~"
 
 
 
-            d "Hee hee~~ Irene has big titties now~~ [P]~~ Do you love Irene’s big titties?"
+            d "Hee hee~~ Айрин has big titties now~~ [P]~~ Do you love Айрин’s big titties?"
 
 
 
-            player "I love everything about you, Irene, and yes, especially your fucking big titties!~~"
+            player "I love everything about you, Айрин, and yes, especially your fucking big titties!~~"
 
 
 
@@ -3473,7 +3473,7 @@ label D_final:
 
 
 
-            player "Irene, my good big girl~~ I love you so much!~~"
+            player "Айрин, my good big girl~~ I love you so much!~~"
 
 
 
@@ -3485,11 +3485,11 @@ label D_final:
 
 
 
-            "Irene... as a milf? Wow... I really can’t picture that in my head, but I’ll try to make her dream come true by nourishing her with more of my rich-protein milk!"
+            "Айрин... as a milf? Wow... I really can’t picture that in my head, but I’ll try to make her dream come true by nourishing her with more of my rich-protein milk!"
 
 
 
-            player "I’m cumming, Irene! Take it all with your horny pussy!~~~"
+            player "I’m cumming, Айрин! Take it all with your horny pussy!~~~"
 
 
             stop sound
@@ -3508,14 +3508,14 @@ label D_final:
             d "Awwwww~~~ With this amount of sperm... ... I’m not going to feel lonely for the next entire week~"
 
 
-            player "My Irene... ..."
+            player "My Айрин... ..."
 
 
             scene d_final_261 with tstmgr
             "I let her arms loose and laid with her together... ..."
 
 
-            player "Irene... ... You will graduate one year later. We will soon be able to reunite again~"
+            player "Айрин... ... You will graduate one year later. We will soon be able to reunite again~"
 
 
             scene d_final_262 with tstmgr
@@ -3561,7 +3561,7 @@ label D_final:
 
 
 
-            "*Irene’s happy ending 2 achieved. But her story will continue in the future.*"
+            "*Айрин’s happy ending 2 achieved. But her story will continue in the future.*"
 
 
     stop music fadeout 1.0

@@ -5,39 +5,39 @@ label A_daily_3:
 
     narrator "It has been a few days since I posted this house on a B&B website."
 
-    narrator "Vera and I thought it might take a while to have our first guest, but this house has been full of guests ever since day one."
+    narrator "Вера and I thought it might take a while to have our first guest, but this house has been full of guests ever since day one."
 
     narrator "I guess it's not too surprising. This house has several advantages that attract people."
 
     narrator "It's in a wonderful location not far from the university and downtown with lovely decor, private bathrooms in each bedroom, and most importantly, an affordable price. All of these things make it quite popular on the B&B website."
 
-    narrator "Now Vera gets up before dawn every day and quietly cleans the living room and the public bathrooms before cooking breakfast for the guests."
+    narrator "Now Вера gets up before dawn every day and quietly cleans the living room and the public bathrooms before cooking breakfast for the guests."
 
     narrator "She is indeed quite good at cooking, just as what she said."
 
-    narrator "The guests have been impressed by the meals she's prepared and they all want to thank her in person, but Vera is gone by the time they are awake and asleep. Most of them haven't even gotten a chance to meet her yet."
+    narrator "The guests have been impressed by the meals she's prepared and they all want to thank her in person, but Вера is gone by the time they are awake and asleep. Most of them haven't even gotten a chance to meet her yet."
 
-    narrator "So far only one guest has encountered Vera by chance."
+    narrator "So far only one guest has encountered Вера by chance."
 
     narrator "According to that guest, one night he woke up and went to the kitchen for some water, but suddenly heard a sound from the hallway."
 
     scene rcsj_a1 with tstmgr
 
-    narrator "He went to the hallway with curiosity and saw that Vera was just coming in the house from outside and changing her shoes."
+    narrator "He went to the hallway with curiosity and saw that Вера was just coming in the house from outside and changing her shoes."
 
-    narrator "The guest didn't even realize Vera was the mysterious hostess at first. He thought a woman with such great cleaning and cooking skill must not be younger than 30 and did not expect to see a beautiful girl barely over 20."
+    narrator "The guest didn't even realize Вера was the mysterious hostess at first. He thought a woman with such great cleaning and cooking skill must not be younger than 30 and did not expect to see a beautiful girl barely over 20."
 
     scene rcsj_a2 with tstmgr
 
-    narrator "After Vera noticed him, she gave him a warm greeting. Although she was already exhausted from work, her smile was still very energetic."
+    narrator "After Вера noticed him, she gave him a warm greeting. Although she was already exhausted from work, her smile was still very energetic."
 
     scene home_livingroom_night_background with tstmgr
 
-    narrator "When the other guests heard this story, they started to blame me for letting Vera work outside until midnight."
+    narrator "When the other guests heard this story, they started to blame me for letting Вера work outside until midnight."
 
     narrator "Well, I kinda blame myself for that, too."
 
-    narrator "I know Vera is severely overloaded with work. She currently has four jobs to do every day and almost has no time to rest. She only can afford to sleep for about four to five hours a day."
+    narrator "I know Вера is severely overloaded with work. She currently has four jobs to do every day and almost has no time to rest. She only can afford to sleep for about four to five hours a day."
 
     narrator "My work is so easy compared to hers."
 
@@ -71,7 +71,7 @@ label A_daily_3:
 
     narrator "I took a while to clean the living room. It's not easy to clean without making any noise. I have to be very careful and try twice as hard."
 
-    narrator "It's hard to believe Vera does this willingly every day. It must be painstaking for her."
+    narrator "It's hard to believe Вера does this willingly every day. It must be painstaking for her."
 
     narrator "I feel guilty about it."
 
@@ -151,7 +151,7 @@ label A_daily_3:
 
     narrator "... ... ... ..."
 
-    player "(I need to do something to make this B&B business more profitable. That's the only way to let Vera quit the other jobs.)"
+    player "(I need to do something to make this B&B business more profitable. That's the only way to let Вера quit the other jobs.)"
 
     narrator "... ... ... ..."
 

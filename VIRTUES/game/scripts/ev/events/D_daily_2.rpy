@@ -8,7 +8,7 @@ label D_daily_2:
 
     narrator "Hmm... ... ... ..."
 
-    narrator "Irene is doing her homework right now."
+    narrator "Айрин is doing her homework right now."
 
     narrator "Well, I have found a bad habit of her during these days tutoring, that she can be distracted very easily while studying."
 
@@ -82,7 +82,7 @@ label D_daily_2:
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time tutoring Irene."
+    narrator "I spent some time tutoring Айрин."
 
     stop music fadeout 1.0
 

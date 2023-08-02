@@ -47,7 +47,7 @@ label B_daily_21:
 
 
 
-    "It looks like Senning is quite shy when her mother is around."
+    "It looks like Сеннин is quite shy when her mother is around."
 
 
 
@@ -79,7 +79,7 @@ label B_daily_21:
 
 
 
-    c "[P]... and Senning?"
+    c "[P]... and Сеннин?"
 
 
 
@@ -111,7 +111,7 @@ label B_daily_21:
 
     scene b_daily21_11 with tstmgr
 
-    "Lady Minna" "Glad to see you still remember my name, Elisa~"
+    "Lady Minna" "Glad to see you still remember my name, Элиза~"
 
 
 
@@ -180,12 +180,12 @@ label B_daily_21:
     label B_daily_21_choice_1:
 
     menu:
-        "Take Senning’s hand":
+        "Take Сеннин’s hand":
 
 
             scene b_daily21_16 with tstmgr
 
-            player "*Taking Senning’s hand* Let’s go then~"
+            player "*Taking Сеннин’s hand* Let’s go then~"
 
             b "[P]~~~"
 

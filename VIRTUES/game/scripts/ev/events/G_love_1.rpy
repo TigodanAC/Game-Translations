@@ -3,7 +3,7 @@ label G_love_1:
     scene void with tstmgr
     play music happy
 
-    "It has been a while since Uno moved in. "
+    "It has been a while since Уно moved in. "
 
     "Well, she is undoubtedly a good housemate. Never made any noise, always be quiet like a cat, and kept her room clean all the time. You can't ask for better."
 
@@ -36,13 +36,13 @@ label G_love_1:
     scene void with dissolve
     "... ... ... ..."
 
-    "As a famous coser, Uno receives a ton of packages. Most are costumes, but she also receives gifts from her fans."
+    "As a famous coser, Уно receives a ton of packages. Most are costumes, but she also receives gifts from her fans."
 
     "Some crazy dudes may even send her something weird for harassment, including but not limited to love letters, sexy lingeries, and vibrators. "
 
     "Well, I guess that's the price you pay for becoming famous on social media. "
 
-    "I took the package to Uno's room."
+    "I took the package to Уно's room."
 
     player "Knock, knock."
 
@@ -80,9 +80,9 @@ label G_love_1:
 
     scene g_love_1_5 with tstmgr
 
-    g "a bathing suit from... Irene."
+    g "a bathing suit from... Айрин."
 
-    player "Irene?"
+    player "Айрин?"
 
     g "Seems like a gift. "
 
@@ -102,7 +102,7 @@ label G_love_1:
 
     player "Do you want me to take photos of you in that suit?"
 
-    "Uno answered with a nod."
+    "Уно answered with a nod."
 
     player "Great, what are we waiting for?"
 
@@ -148,7 +148,7 @@ label G_love_1:
 
     scene g_love_1_9 with tstmgr
 
-    g "This is not a formal shoot. Irene said she only wanted 1 or 2 pictures."
+    g "This is not a formal shoot. Айрин said she only wanted 1 or 2 pictures."
 
     player "... ... ... ..."
 
@@ -195,7 +195,7 @@ label G_love_1:
 
             "... ... ... ..."
 
-            "I spent some time with Uno in the house."
+            "I spent some time with Уно in the house."
 
             "... ... ... ..."
         "Ask for more":

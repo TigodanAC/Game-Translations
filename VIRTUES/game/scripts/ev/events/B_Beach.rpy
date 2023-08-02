@@ -4,11 +4,11 @@ label B_Beach:
     scene map_day with dissolve
     play music happy
 
-    narrator "What a sunny weekend! I should ask Senning out for another beach trip."
+    narrator "What a sunny weekend! I should ask Сеннин out for another beach trip."
 
     narrator "... ... ... ..."
 
-    player "(Speaking on the phone) Hello, Senning, do you have time today?"
+    player "(Speaking on the phone) Hello, Сеннин, do you have time today?"
 
     b "Today? I don't have many things to do. What's your plan?"
 

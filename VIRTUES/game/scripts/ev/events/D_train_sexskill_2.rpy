@@ -2,7 +2,7 @@ label D_train_sexskill_2:
 
     scene void with tstmgr
     play music happy
-    "A few days later, I came to Irene for the tutoring as usual... ..."
+    "A few days later, I came to Айрин for the tutoring as usual... ..."
 
 
 
@@ -82,7 +82,7 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_8 with tstmgr
 
-    d "Okay... ... I’ll continue to take your lessons. Just... come to see Irene as often as before, please..."
+    d "Okay... ... I’ll continue to take your lessons. Just... come to see Айрин as often as before, please..."
 
 
 
@@ -190,7 +190,7 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_17 with tstmgr
 
-    d "Seriously, are you really not interested in Irene’s virginal pussy?"
+    d "Seriously, are you really not interested in Айрин’s virginal pussy?"
 
 
 
@@ -262,7 +262,7 @@ label D_train_sexskill_2:
 
 
 
-    "Irene suddenly realized something..."
+    "Айрин suddenly realized something..."
 
 
 
@@ -292,7 +292,7 @@ label D_train_sexskill_2:
 
 
 
-    "Irene turned around and walked to the door, but suddenly... ..."
+    "Айрин turned around and walked to the door, but suddenly... ..."
 
 
 
@@ -438,7 +438,7 @@ label D_train_sexskill_2:
 
 
 
-    d "Irene is... zimmm~~~ so excited~~ simmmm~~ simmm~~~"
+    d "Айрин is... zimmm~~~ so excited~~ simmmm~~ simmm~~~"
 
 
 
@@ -460,7 +460,7 @@ label D_train_sexskill_2:
 
     scene d_train_sexskill_2_41 with tstmgr
 
-    player "Now, Irene, take a deep breath..."
+    player "Now, Айрин, take a deep breath..."
 
 
 
@@ -576,7 +576,7 @@ label D_train_sexskill_2:
 
 
 
-    player "I'm going to move now, Irene."
+    player "I'm going to move now, Айрин."
 
 
 
@@ -674,7 +674,7 @@ label D_train_sexskill_2:
 
 
 
-    d "Irene loves~~ loves to be fucked like this~~ so so much~~~"
+    d "Айрин loves~~ loves to be fucked like this~~ so so much~~~"
 
 
 
@@ -686,7 +686,7 @@ label D_train_sexskill_2:
 
 
 
-    player "Ahhhhh... ... Irene... ... I’m cumming!~~~"
+    player "Ahhhhh... ... Айрин... ... I’m cumming!~~~"
 
 
     stop sound
@@ -760,7 +760,7 @@ label D_train_sexskill_2:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 

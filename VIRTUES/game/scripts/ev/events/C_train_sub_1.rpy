@@ -43,7 +43,7 @@ label C_train_sub_1:
 
 
 
-    c "Damn, I’m out of shower gel. I’ll use Vera’s instead. I think she won’t mind it~"
+    c "Damn, I’m out of shower gel. I’ll use Вера’s instead. I think she won’t mind it~"
 
 
 

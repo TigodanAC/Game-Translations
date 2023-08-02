@@ -19,7 +19,7 @@ label ACG_duo_3:
 
     scene void with flashback
 
-    "Should I apologize to Uno and Vera?"
+    "Should I apologize to Уно and Вера?"
 
 
 

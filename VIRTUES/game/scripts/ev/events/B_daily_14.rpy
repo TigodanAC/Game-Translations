@@ -7,7 +7,7 @@ label B_daily_14:
 
 
 
-    player "Hey... Senning, can I sit next to you?"
+    player "Hey... Сеннин, can I sit next to you?"
 
 
 

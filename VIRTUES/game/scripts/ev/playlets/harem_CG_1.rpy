@@ -2,7 +2,7 @@ label harem_CG_1:
 
     scene harem_cg_1_1 with tstmgr
 
-    "Late night, Теодора and Uno encountered outside [P]'s room..."
+    "Late night, Теодора and Уно encountered outside [P]'s room..."
 
 
 
@@ -10,7 +10,7 @@ label harem_CG_1:
 
 
 
-    c "Hi, Uno."
+    c "Hi, Уно."
 
 
 

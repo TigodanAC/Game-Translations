@@ -2,7 +2,7 @@ label E_action_sub_2:
 
     scene void with tstmgr
 
-    "Morning, in Elisa’s house... ..."
+    "Morning, in Элиза’s house... ..."
 
 
 
@@ -36,7 +36,7 @@ label E_action_sub_2:
 
 
 
-    player "Wow... ... Elisa... ... You tied yourself up again~"
+    player "Wow... ... Элиза... ... You tied yourself up again~"
 
 
 
@@ -63,7 +63,7 @@ label E_action_sub_2:
 
     scene e_action_sub_2_37 with tstmgr
 
-    e "Irene has already left home for school, we have... a lot of time~"
+    e "Айрин has already left home for school, we have... a lot of time~"
 
 
 
@@ -115,7 +115,7 @@ label E_action_sub_2:
 
             e "Ohhhhhhhhhhhhhhhh!!!!~~~~~"
 
-            player "Wow... Elisa, your nipples are hard like stone now. Are you sure it is fine?"
+            player "Wow... Элиза, your nipples are hard like stone now. Are you sure it is fine?"
 
             e "Please... I am enjoying it so much~ Just abusing them as you want~~~"
 
@@ -329,7 +329,7 @@ label E_action_sub_2:
 
             "Right now she can’t move her arms and legs at all, the only thing she can move is that pair of huge boobs. Oh my... that makes her boobs look even more magnificent and lewd~"
 
-            "Her labia is keeping stretching and contracting itself like it is a living thing. It is trying to swallow the whole dildo in her pussy. Man, young girls can't do such a trick, only a mature lady like Elisa can make the most of her body like this."
+            "Her labia is keeping stretching and contracting itself like it is a living thing. It is trying to swallow the whole dildo in her pussy. Man, young girls can't do such a trick, only a mature lady like Элиза can make the most of her body like this."
 
             e "This is... too much~~ I can’t... hhhhhh~~~"
 
@@ -403,7 +403,7 @@ label E_action_sub_2:
 
             e "Ohhhhhhhhhhhhhhhhhhh!!!~~~~~~~~~"
 
-            "Elisa had a great orgasm. I think I have never seen her squirting this hard before~"
+            "Элиза had a great orgasm. I think I have never seen her squirting this hard before~"
 
             scene e_action_sub_2_31 with tstmgr
 
@@ -452,7 +452,7 @@ label E_action_sub_2:
 
             e "Only you... can judge it... ..."
 
-            player "I love you, Elisa, and I love every inch of your body~"
+            player "I love you, Элиза, and I love every inch of your body~"
 
             e "I’m so happy~~~~~"
 
@@ -469,7 +469,7 @@ label E_action_sub_2:
 
             e "Ahhhhhhhhhhhh!~~~~~~"
 
-            "I ejected all the sperm in my balls into Elisa’s vagina..."
+            "I ejected all the sperm in my balls into Элиза’s vagina..."
 
             scene e_action_sub_2_35 with tstmgr
 

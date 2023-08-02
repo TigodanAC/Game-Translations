@@ -17,7 +17,7 @@ label D_daily_14:
 
 
 
-    "I came here with Irene about an hour ago, and now I am alone walking on the sand while she is having fun in the water."
+    "I came here with Айрин about an hour ago, and now I am alone walking on the sand while she is having fun in the water."
 
 
 
@@ -67,7 +67,7 @@ label D_daily_14:
 
     scene d_daily14_6 with tstmgr
 
-    "Irene... where are you?"
+    "Айрин... where are you?"
 
 
 
@@ -115,7 +115,7 @@ label D_daily_14:
 
 
 
-    "Shit, Irene... where did she go?"
+    "Shit, Айрин... where did she go?"
 
 
 
@@ -135,13 +135,13 @@ label D_daily_14:
 
 
 
-    player "Irene? Ha, I’ve been looking for you for a long time... ... wait, daddy?"
+    player "Айрин? Ha, I’ve been looking for you for a long time... ... wait, daddy?"
 
 
 
     scene d_daily14_12 with tstmgr
 
-    d "Are you trying to find Irene a new mommy?~"
+    d "Are you trying to find Айрин a new mommy?~"
 
 
 

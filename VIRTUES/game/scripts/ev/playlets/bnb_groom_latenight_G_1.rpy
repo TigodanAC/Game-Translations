@@ -4,7 +4,7 @@ label bnb_groom_latenight_G_1:
 
     scene bnb_groom_latenight_g_1_1 with tstmgr
 
-    g "Hello, fans~ This is Uno and I'm making this video for you with my master~"
+    g "Hello, fans~ This is Уно and I'm making this video for you with my master~"
 
 
 
@@ -20,13 +20,13 @@ label bnb_groom_latenight_G_1:
 
 
 
-    g "Do you want to immerse your head in Uno's tits and hold my plump body like holding a cushion, too?"
+    g "Do you want to immerse your head in Уно's tits and hold my plump body like holding a cushion, too?"
 
 
 
     scene bnb_groom_latenight_g_1_2 with tstmgr
 
-    g "Hee hee~ sorry, but Uno is master's property~ Only he can do such things to me~"
+    g "Hee hee~ sorry, but Уно is master's property~ Only he can do such things to me~"
 
 
 

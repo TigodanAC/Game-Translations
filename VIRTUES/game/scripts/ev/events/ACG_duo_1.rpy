@@ -181,13 +181,13 @@ label ACG_duo_1:
 
     scene acg_duo_16 with tstmgr
 
-    "Uno answered even before Vera could react. She stepped up and carried one of [P]’s arms, just like Теодора did."
+    "Уно answered even before Вера could react. She stepped up and carried one of [P]’s arms, just like Теодора did."
 
 
 
     scene acg_duo_17 with tstmgr
 
-    player "Hmmmmmmmmmmm... ... ... ... Uno? Is that you?"
+    player "Hmmmmmmmmmmm... ... ... ... Уно? Is that you?"
 
 
 
@@ -209,7 +209,7 @@ label ACG_duo_1:
 
     scene acg_duo_20 with tstmgr
 
-    player "*Putting a hand on Uno’s breast* Come~~~ drink with me~~~"
+    player "*Putting a hand on Уно’s breast* Come~~~ drink with me~~~"
 
 
 
@@ -323,7 +323,7 @@ label ACG_duo_1:
 
     scene acg_duo_30 with tstmgr
 
-    player "Vera, Theo, and Uno... ... What a lovely picture~"
+    player "Вера, Theo, and Уно... ... What a lovely picture~"
 
 
 

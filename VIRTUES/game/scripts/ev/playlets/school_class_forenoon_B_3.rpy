@@ -6,7 +6,7 @@ label school_class_forenoon_B_3:
 
 
 
-    player "Senning?"
+    player "Сеннин?"
 
 
 

@@ -3,11 +3,11 @@ label CDE_duo_7:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Elisa’s suburban bungalow..."
+    "Late night, in Элиза’s suburban bungalow..."
 
 
 
-    "This place used to be a secret paradise for me and Elisa, but now... ..."
+    "This place used to be a secret paradise for me and Элиза, but now... ..."
 
 
 
@@ -149,7 +149,7 @@ label CDE_duo_7:
 
     scene cde_duo_7_11 with tstmgr
 
-    player "Elisa, there is something I want to do for a long time... ..."
+    player "Элиза, there is something I want to do for a long time... ..."
 
 
 
@@ -199,7 +199,7 @@ label CDE_duo_7:
 
 
 
-    "Elisa had such a great orgasm and she was cumming with her breasts~"
+    "Элиза had such a great orgasm and she was cumming with her breasts~"
 
 
 
@@ -227,7 +227,7 @@ label CDE_duo_7:
 
 
 
-    "Oh shit, Elisa’s milk is still keeping flowing out. Her nipples are like faucets that couldn’t be turned off now. I feel like I’m going to suffocate myself any second if I stop drinking... ..."
+    "Oh shit, Элиза’s milk is still keeping flowing out. Her nipples are like faucets that couldn’t be turned off now. I feel like I’m going to suffocate myself any second if I stop drinking... ..."
 
 
 
@@ -287,7 +287,7 @@ label CDE_duo_7:
 
 
 
-    e "Is it a little inappropriate for us to leave Irene alone at home?"
+    e "Is it a little inappropriate for us to leave Айрин alone at home?"
 
 
 

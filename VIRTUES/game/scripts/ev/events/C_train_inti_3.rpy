@@ -124,7 +124,7 @@ label C_train_inti_3:
 
 
 
-    player "Can I go to Aunt Elisa’s house after I finish the job?"
+    player "Can I go to Aunt Элиза’s house after I finish the job?"
 
 
 
@@ -164,7 +164,7 @@ label C_train_inti_3:
 
 
 
-    "Sometime later, I finally got the work done and went to Elisa’s house..."
+    "Sometime later, I finally got the work done and went to Элиза’s house..."
 
 
 
@@ -210,7 +210,7 @@ label C_train_inti_3:
 
     scene c_train_inti_3_20 with tstmgr
 
-    "Elisa then left for the kitchen..."
+    "Элиза then left for the kitchen..."
 
 
 
@@ -228,7 +228,7 @@ label C_train_inti_3:
 
 
 
-    player "Theo, Aunt Elisa said that I will be surprised when I see you, what does she... ..."
+    player "Theo, Aunt Элиза said that I will be surprised when I see you, what does she... ..."
 
 
 

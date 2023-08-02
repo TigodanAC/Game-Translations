@@ -3,7 +3,7 @@ label E_daily_9:
     scene void with tstmgr
     play music sorrow
 
-    "I don’t know if I took it wrong, but I think Aunt Elisa has really changed a lot recently."
+    "I don’t know if I took it wrong, but I think Aunt Элиза has really changed a lot recently."
 
 
 
@@ -161,7 +161,7 @@ label E_daily_9:
 
     scene e_daily9_12 with tstmgr
 
-    player "I have smelled this kind of scent on Aunt Elisa’s body before..."
+    player "I have smelled this kind of scent on Aunt Элиза’s body before..."
 
 
 

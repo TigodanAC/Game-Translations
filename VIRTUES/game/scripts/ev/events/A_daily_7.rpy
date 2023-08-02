@@ -3,7 +3,7 @@ label A_daily_7:
     scene a_room_night_normal with tstmgr
     play music sorrow
 
-    player "Hi, Vera. Senning just sent me a movie yesterday, do you want to watch it with me?"
+    player "Hi, Вера. Сеннин just sent me a movie yesterday, do you want to watch it with me?"
 
     a "Eh... What movie?"
 

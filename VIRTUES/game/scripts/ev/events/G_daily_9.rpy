@@ -3,7 +3,7 @@ label G_daily_9:
     scene void with tstmgr
     play music sorrow
 
-    "As Uno’s porn videos became more and more popular on the internet, my concern has grown as well. I am worried that her secret identity may get exposed."
+    "As Уно’s porn videos became more and more popular on the internet, my concern has grown as well. I am worried that her secret identity may get exposed."
 
 
 
@@ -39,7 +39,7 @@ label G_daily_9:
 
 
 
-    player "Hi Uno, I’m here to pick you up from work."
+    player "Hi Уно, I’m here to pick you up from work."
 
 
 
@@ -49,7 +49,7 @@ label G_daily_9:
 
     scene g_daily9_3 with tstmgr
 
-    g "Are you sure you want to pick me up today instead of Vera?~~"
+    g "Are you sure you want to pick me up today instead of Вера?~~"
 
 
 
@@ -91,7 +91,7 @@ label G_daily_9:
 
     scene g_daily9_7 with tstmgr
 
-    player "So... Uno, I have a question for you."
+    player "So... Уно, I have a question for you."
 
 
 

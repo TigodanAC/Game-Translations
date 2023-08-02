@@ -231,13 +231,13 @@ label d1_1:
 
     scene d1_1_9 with tstmgr
 
-    player "I... I’m fine, Senning."
+    player "I... I’m fine, Сеннин."
 
 
 
     scene d1_1_8 with tstmgr
 
-    "Senning, one of my best friends in college, an international student from China with 1/4 European descent, major in Math and Finance, the no.1 girl on my potential-true-love list."
+    "Сеннин, one of my best friends in college, an international student from China with 1/4 European descent, major in Math and Finance, the no.1 girl on my potential-true-love list."
 
 
 
@@ -311,7 +311,7 @@ label d1_1:
 
 
 
-    "As an international student, Senning needs to work two times harder than local students. She not only needs to study her majors, but also needs to learn English from the very beginning."
+    "As an international student, Сеннин needs to work two times harder than local students. She not only needs to study her majors, but also needs to learn English from the very beginning."
 
 
 
@@ -569,7 +569,7 @@ label d1_1:
 
 
 
-    "Senning is really the savior of the underachievers. She answered all the questions with patience, just like a real professor."
+    "Сеннин is really the savior of the underachievers. She answered all the questions with patience, just like a real professor."
 
 
 
@@ -577,7 +577,7 @@ label d1_1:
 
 
 
-    "A student came up to Senning and me."
+    "A student came up to Сеннин and me."
 
 
 
@@ -605,7 +605,7 @@ label d1_1:
 
     scene d1_1_30 with tstmgr
 
-    "Senning suddenly blushed."
+    "Сеннин suddenly blushed."
 
 
 

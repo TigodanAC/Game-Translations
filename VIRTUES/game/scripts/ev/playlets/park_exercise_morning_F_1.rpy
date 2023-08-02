@@ -2,7 +2,7 @@ label park_exercise_morning_F_1:
 
     scene void with tstmgr
 
-    "I encountered with Rachel in the park this morning."
+    "I encountered with Рэйчел in the park this morning."
 
 
 

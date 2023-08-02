@@ -3,9 +3,9 @@ label B_daily_6:
     scene school_day_background with tstmgr
     play music happy  
 
-    narrator "I encountered Senning on campus."
+    narrator "I encountered Сеннин on campus."
 
-    player "Hi, Senning. "
+    player "Hi, Сеннин. "
 
     scene b_school_day_normal with tstmgr
 

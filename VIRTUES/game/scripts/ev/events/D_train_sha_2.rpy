@@ -3,7 +3,7 @@ label D_train_sha_2:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, Late night, in Irene’s classroom... ..."
+    "A few days later, Late night, in Айрин’s classroom... ..."
 
 
 
@@ -47,7 +47,7 @@ label D_train_sha_2:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 
@@ -79,7 +79,7 @@ label D_train_sha_2:
 
 
 
-    player "Wow, you look... so cute, Irene... ..."
+    player "Wow, you look... so cute, Айрин... ..."
 
 
 
@@ -91,7 +91,7 @@ label D_train_sha_2:
 
     scene d_train_sha_2_9 with tstmgr
 
-    d "Look, look, Irene’s cute little butt~"
+    d "Look, look, Айрин’s cute little butt~"
 
 
 
@@ -125,7 +125,7 @@ label D_train_sha_2:
 
     scene d_train_sha_2_12 with tstmgr
 
-    d "Humph, humph~ But you can’t put your huge dick in Irene’s butt yet~"
+    d "Humph, humph~ But you can’t put your huge dick in Айрин’s butt yet~"
 
 
 
@@ -137,7 +137,7 @@ label D_train_sha_2:
 
     scene d_train_sha_2_14 with tstmgr
 
-    d "How about making a video? Like Uno always does~"
+    d "How about making a video? Like Уно always does~"
 
 
 
@@ -207,7 +207,7 @@ label D_train_sha_2:
 
 
 
-    player "Irene... ..."
+    player "Айрин... ..."
 
 
 
@@ -317,7 +317,7 @@ label D_train_sha_2:
 
 
 
-    "This is actually the first time I see Irene masturbating. I can’t help but keep smiling like hentai."
+    "This is actually the first time I see Айрин masturbating. I can’t help but keep smiling like hentai."
 
 
 
@@ -375,7 +375,7 @@ label D_train_sha_2:
 
 
 
-    player "*Licking pussy* Irene’s tender little pussy... tastes so sweet~"
+    player "*Licking pussy* Айрин’s tender little pussy... tastes so sweet~"
 
 
 
@@ -427,7 +427,7 @@ label D_train_sha_2:
 
 
 
-    player "Glug... glug... Irene’s love juice... tasty as hell... ..."
+    player "Glug... glug... Айрин’s love juice... tasty as hell... ..."
 
 
 
@@ -519,7 +519,7 @@ label D_train_sha_2:
 
 
 
-    d "What... what are you doing? Irene’s pussy... is dirty~~~ I mean, I just peed~~"
+    d "What... what are you doing? Айрин’s pussy... is dirty~~~ I mean, I just peed~~"
 
 
 
@@ -531,7 +531,7 @@ label D_train_sha_2:
 
 
 
-    d "Awwwww~~~ [P]’s huge penis is making Irene’s pussy completely a mess~~~"
+    d "Awwwww~~~ [P]’s huge penis is making Айрин’s pussy completely a mess~~~"
 
 
 
@@ -557,11 +557,11 @@ label D_train_sha_2:
 
 
 
-    d "Awwwwww~~~ Irene is going to be fertilized in the classroom~~~"
+    d "Awwwwww~~~ Айрин is going to be fertilized in the classroom~~~"
 
 
 
-    d "Irene is a bad student!~~~~~~"
+    d "Айрин is a bad student!~~~~~~"
 
 
 
@@ -581,7 +581,7 @@ label D_train_sha_2:
 
 
 
-    d "[P]’s sperm... ... so much sperm... ... all in Irene’s little pussy~~~~"
+    d "[P]’s sperm... ... so much sperm... ... all in Айрин’s little pussy~~~~"
 
 
 
@@ -603,7 +603,7 @@ label D_train_sha_2:
 
 
 
-    "It turned out that we spent the entire night in Irene’s classroom and had sex everywhere."
+    "It turned out that we spent the entire night in Айрин’s classroom and had sex everywhere."
 
 
 
@@ -617,13 +617,13 @@ label D_train_sha_2:
 
 
 
-    player "Wake up, Irene, we have to go now, otherwise we will all get into trouble."
+    player "Wake up, Айрин, we have to go now, otherwise we will all get into trouble."
 
 
 
     scene d_train_sha_2_43 with tstmgr
 
-    player "Irene?"
+    player "Айрин?"
 
 
 

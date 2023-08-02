@@ -40,7 +40,7 @@ label Special_1:
 
 
 
-    "Elisa noticed the provocation in Lady Minna’s words."
+    "Элиза noticed the provocation in Lady Minna’s words."
 
 
 
@@ -52,7 +52,7 @@ label Special_1:
 
     scene special_1_2 with tstmgr
 
-    e "I heard your daughter Senning is his best friend in college, is that so?"
+    e "I heard your daughter Сеннин is his best friend in college, is that so?"
 
 
 
@@ -118,7 +118,7 @@ label Special_1:
 
     scene special_1_11 with tstmgr
 
-    "Lady Minna" "Senning is my only daughter. You must understand that I have to fight for it for her."
+    "Lady Minna" "Сеннин is my only daughter. You must understand that I have to fight for it for her."
 
 
 

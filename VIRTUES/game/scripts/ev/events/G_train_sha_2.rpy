@@ -37,13 +37,13 @@ label G_train_sha_2:
 
 
 
-    g "Uno... ..."
+    g "Уно... ..."
 
 
 
     scene g_train_sha_2_4 with tstmgr
 
-    player "Oh, Uno, huh? That’s a familiar name. I know a famous coser who has such a name, too."
+    player "Oh, Уно, huh? That’s a familiar name. I know a famous coser who has such a name, too."
 
 
 
@@ -59,7 +59,7 @@ label G_train_sha_2:
 
 
 
-    player "Oh, so you are Uno the Coser, ha, I think now you should reintroduce yourself to the audience."
+    player "Oh, so you are Уно the Coser, ha, I think now you should reintroduce yourself to the audience."
 
 
 
@@ -69,7 +69,7 @@ label G_train_sha_2:
 
     scene g_train_sha_2_7 with tstmgr
 
-    g "Hi, people... ... I am Uno..."
+    g "Hi, people... ... I am Уно..."
 
 
 
@@ -77,13 +77,13 @@ label G_train_sha_2:
 
 
 
-    player "Why did you do such a thing, Uno?"
+    player "Why did you do such a thing, Уно?"
 
 
 
     scene g_train_sha_2_8 with tstmgr
 
-    g "Because... ... that was a request from Uno’s master and Uno must obey whatever master says~"
+    g "Because... ... that was a request from Уно’s master and Уно must obey whatever master says~"
 
 
 
@@ -117,7 +117,7 @@ label G_train_sha_2:
 
 
 
-    player "I mean, what are you going to tell the audience? ‘Hey, I’m Uno, that famous coser. I did something stupid earlier and it ruined my cosplay career, so now I’m going to become a porn star instead.’"
+    player "I mean, what are you going to tell the audience? ‘Hey, I’m Уно, that famous coser. I did something stupid earlier and it ruined my cosplay career, so now I’m going to become a porn star instead.’"
 
 
 
@@ -141,7 +141,7 @@ label G_train_sha_2:
 
 
 
-    player "But we don’t have to tell people all the truth. People only need to know that you are Uno the coser, and we can dramatize the rest of the story a little bit... ..."
+    player "But we don’t have to tell people all the truth. People only need to know that you are Уно the coser, and we can dramatize the rest of the story a little bit... ..."
 
 
 
@@ -205,7 +205,7 @@ label G_train_sha_2:
 
     scene g_train_sha_2_8 with tstmgr
 
-    g "Because... ... that was a quest from Uno’s master and Uno must obey whatever master says~"
+    g "Because... ... that was a quest from Уно’s master and Уно must obey whatever master says~"
 
 
 
@@ -215,11 +215,11 @@ label G_train_sha_2:
 
     scene g_train_sha_2_16 with tstmgr
 
-    g "From now on... there is no Uno the Coser anymore, there will only be one Uno, which is... ... Uno the Titty Slave~~"
+    g "From now on... there is no Уно the Coser anymore, there will only be one Уно, which is... ... Уно the Titty Slave~~"
 
 
 
-    g "Uno is master’s exclusive titty slave... ... ... ..."
+    g "Уно is master’s exclusive titty slave... ... ... ..."
 
 
 
@@ -245,7 +245,7 @@ label G_train_sha_2:
 
     scene g_train_sha_2_19 with tstmgr
 
-    g "Yes, Uno is proud of them because... ... they can please my master... ..."
+    g "Yes, Уно is proud of them because... ... they can please my master... ..."
 
 
 
@@ -271,7 +271,7 @@ label G_train_sha_2:
 
 
 
-    g "Wummm~~~ wummm~~~ Uno~~~ Uno will make up for them~~~"
+    g "Wummm~~~ wummm~~~ Уно~~~ Уно will make up for them~~~"
 
 
 
@@ -279,7 +279,7 @@ label G_train_sha_2:
 
 
 
-    g "Uno will... record her sex with master for the first time~"
+    g "Уно will... record her sex with master for the first time~"
 
 
 
@@ -309,7 +309,7 @@ label G_train_sha_2:
 
 
 
-    player "Sorry, Uno, I didn’t mean to force you to do anything, just forget what I said, we can... ..."
+    player "Sorry, Уно, I didn’t mean to force you to do anything, just forget what I said, we can... ..."
 
 
 
@@ -333,7 +333,7 @@ label G_train_sha_2:
 
 
 
-    player "Uno... ... ... ..."
+    player "Уно... ... ... ..."
 
 
 
@@ -345,7 +345,7 @@ label G_train_sha_2:
 
     scene g_train_sha_2_20 with dissolve
 
-    g "Uno will... record her sex with master in front of the camera for the first time~"
+    g "Уно will... record her sex with master in front of the camera for the first time~"
 
 
 
@@ -527,7 +527,7 @@ label G_train_sha_2:
 
 
 
-    player "*Whispering* Yep, this position can make my dick hit as deep as it can~ How do you feel, Uno?"
+    player "*Whispering* Yep, this position can make my dick hit as deep as it can~ How do you feel, Уно?"
 
 
 
@@ -563,7 +563,7 @@ label G_train_sha_2:
 
 
 
-    player "Uno, you are doing great..."
+    player "Уно, you are doing great..."
 
 
 
@@ -590,11 +590,11 @@ label G_train_sha_2:
 
 
 
-    g "Why is your... ... I mean, why is master’s dick getting even bigger in Uno's pussy again?"
+    g "Why is your... ... I mean, why is master’s dick getting even bigger in Уно's pussy again?"
 
 
 
-    player "Because it makes me so excited just looking at you. You are so sexy, Uno..."
+    player "Because it makes me so excited just looking at you. You are so sexy, Уно..."
 
 
 
@@ -609,19 +609,19 @@ label G_train_sha_2:
 
 
 
-    g "Uno... can’t hold anymore... ... Uno wants to cum... ..."
+    g "Уно... can’t hold anymore... ... Уно wants to cum... ..."
 
 
 
-    player "Me too, Uno, do you want me to cum inside your body?"
+    player "Me too, Уно, do you want me to cum inside your body?"
 
 
 
-    g "Yes, yes, please, Uno wants master’s cum~~"
+    g "Yes, yes, please, Уно wants master’s cum~~"
 
 
 
-    player "Alright, Uno, be ready to... ..."
+    player "Alright, Уно, be ready to... ..."
 
 
 
@@ -653,7 +653,7 @@ label G_train_sha_2:
 
 
 
-    player "Ehhh... Uno? Are you okay?"
+    player "Ehhh... Уно? Are you okay?"
 
 
 
@@ -673,7 +673,7 @@ label G_train_sha_2:
 
     scene g_train_sha_2_42 with tstmgr
 
-    player "Sorry, people, Uno is tired so I guess this is the end of this video. We'll see you next time~"
+    player "Sorry, people, Уно is tired so I guess this is the end of this video. We'll see you next time~"
 
 
 
@@ -701,7 +701,7 @@ label G_train_sha_2:
 
     scene g_train_sha_2_45 with tstmgr
 
-    player "Ah, Uno, good evening~ You have slept for hours."
+    player "Ah, Уно, good evening~ You have slept for hours."
 
 
 

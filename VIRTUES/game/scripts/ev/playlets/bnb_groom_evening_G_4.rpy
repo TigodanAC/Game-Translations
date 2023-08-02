@@ -6,11 +6,11 @@ label bnb_groom_evening_G_4:
 
 
 
-    g "Master~ You have been holding Uno like this for half an hour~~"
+    g "Master~ You have been holding Уно like this for half an hour~~"
 
 
 
-    g "Are you going to fuck Uno tonight?"
+    g "Are you going to fuck Уно tonight?"
 
 
 
@@ -42,7 +42,7 @@ label bnb_groom_evening_G_4:
 
 
 
-    g "Awwww... ... Uno is not for eating~"
+    g "Awwww... ... Уно is not for eating~"
 
 
 

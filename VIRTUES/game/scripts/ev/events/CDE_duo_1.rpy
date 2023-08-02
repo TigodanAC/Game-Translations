@@ -3,7 +3,7 @@ label CDE_duo_1:
     scene void with tstmgr
     play music sorrow
 
-    "*The following plot is in Теодора and Irene’s perspective*"
+    "*The following plot is in Теодора and Айрин’s perspective*"
 
 
 
@@ -11,7 +11,7 @@ label CDE_duo_1:
 
 
 
-    "And she is having a bath with Irene right now... ..."
+    "And she is having a bath with Айрин right now... ..."
 
 
 
@@ -151,7 +151,7 @@ label CDE_duo_1:
 
     scene cde_duo_1_14 with tstmgr
 
-    e "Be nice, Irene, don’t stay up too late tonight."
+    e "Be nice, Айрин, don’t stay up too late tonight."
 
 
 
@@ -161,7 +161,7 @@ label CDE_duo_1:
 
 
 
-    "Elisa then closed the door and prepared to leave the house..."
+    "Элиза then closed the door and prepared to leave the house..."
 
 
 
@@ -223,11 +223,11 @@ label CDE_duo_1:
 
 
 
-    "The two girls soon get dressed up and managed to track Elisa’s trail to the suburb area."
+    "The two girls soon get dressed up and managed to track Элиза’s trail to the suburb area."
 
 
 
-    "They watched Elisa walking into the dark forest... ..."
+    "They watched Элиза walking into the dark forest... ..."
 
 
 

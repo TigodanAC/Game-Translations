@@ -20,7 +20,7 @@ label harem_AG_3:
 
 
 
-    g "Master... Master must be tired. Master should come to Uno’s room so Uno can give him a... nice massage~"
+    g "Master... Master must be tired. Master should come to Уно’s room so Уно can give him a... nice massage~"
 
 
 
@@ -40,7 +40,7 @@ label harem_AG_3:
 
 
 
-    g "Uno... Uno has all kinds of bra for cosplay~"
+    g "Уно... Уно has all kinds of bra for cosplay~"
 
 
 

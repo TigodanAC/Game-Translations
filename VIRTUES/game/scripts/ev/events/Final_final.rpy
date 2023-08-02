@@ -27,7 +27,7 @@ label Final_final:
 
 
 
-    "My house, Elisa’s mansion, and Senning’s apartment, these three places have become my sex paradise. I go to one of these three places randomly every day and stay for a night."
+    "My house, Элиза’s mansion, and Сеннин’s apartment, these three places have become my sex paradise. I go to one of these three places randomly every day and stay for a night."
 
 
 
@@ -83,7 +83,7 @@ label Final_final:
 
 
 
-    "So, everything stays the same as it used to be. Vera and Uno are still living in my house; Irene and Elisa are still living in the Shinyrost mansion; Senning and Rachel are still living in their apartment."
+    "So, everything stays the same as it used to be. Вера and Уно are still living in my house; Айрин and Элиза are still living in the Shinyrost mansion; Сеннин and Рэйчел are still living in their apartment."
 
 
 
@@ -123,7 +123,7 @@ label Final_final:
 
 
 
-    "A Saturday, at Elisa’s forest bungalow... ..."
+    "A Saturday, at Элиза’s forest bungalow... ..."
 
 
 
@@ -137,7 +137,7 @@ label Final_final:
 
 
 
-    player "Elisa... ... You are so amazing... ..."
+    player "Элиза... ... You are so amazing... ..."
 
 
 
@@ -171,7 +171,7 @@ label Final_final:
 
 
 
-    player "Elisa... my Elisa... ..."
+    player "Элиза... my Элиза... ..."
 
 
 
@@ -183,7 +183,7 @@ label Final_final:
 
 
 
-    "Elisa’s body is moving up and down along with my thrust. Her milk and sweat are splashing in all directions."
+    "Элиза’s body is moving up and down along with my thrust. Her milk and sweat are splashing in all directions."
 
 
 
@@ -281,7 +281,7 @@ label Final_final:
 
     scene final_final_10 with tstmgr
 
-    "Elisa couldn’t hold on any longer and fell on top of me... ..."
+    "Элиза couldn’t hold on any longer and fell on top of me... ..."
 
 
 
@@ -347,7 +347,7 @@ label Final_final:
 
 
 
-    a "You have to win this time! I mean, you have lost to Uno 9 times in a roll, this is your last chance to get her down, otherwise you will have to buy late-night snacks for her for a month!"
+    a "You have to win this time! I mean, you have lost to Уно 9 times in a roll, this is your last chance to get her down, otherwise you will have to buy late-night snacks for her for a month!"
 
 
 
@@ -375,13 +375,13 @@ label Final_final:
 
     scene final_final_16 with tstmgr
 
-    b "I believe in you, Uno!"
+    b "I believe in you, Уно!"
 
 
 
     scene final_final_17 with tstmgr
 
-    "Теодора and Uno" "Ohhhhhhh~~~~~"
+    "Теодора and Уно" "Ohhhhhhh~~~~~"
 
 
 
@@ -417,7 +417,7 @@ label Final_final:
 
 
 
-    "Ha, it looks like they were really having a good time with each other when Elisa and I were having sex. I’m so happy~"
+    "Ha, it looks like they were really having a good time with each other when Элиза and I were having sex. I’m so happy~"
 
 
 
@@ -439,23 +439,23 @@ label Final_final:
 
 
 
-    c "Wait, Irene, don’t do it!"
+    c "Wait, Айрин, don’t do it!"
 
 
 
     scene final_final_22 with tstmgr
 
-    d "*Taking both Теодора and Uno’s nipples in mouth* Huuuuuummmmmmm~~~~~~~~"
+    d "*Taking both Теодора and Уно’s nipples in mouth* Huuuuuummmmmmm~~~~~~~~"
 
 
 
-    "Теодора and Uno" "Ohhhhhhhhhhhhhh!!~~~~~"
+    "Теодора and Уно" "Ohhhhhhhhhhhhhh!!~~~~~"
 
 
 
     scene final_final_23 with tstmgr
 
-    d "Theo and Uno’s nipples... ... so hard... but so delicate... ... want to... crush them with my teeth~"
+    d "Theo and Уно’s nipples... ... so hard... but so delicate... ... want to... crush them with my teeth~"
 
 
 
@@ -481,7 +481,7 @@ label Final_final:
 
 
 
-    a "... ...Теодора really doesn’t want to buy snacks for Uno... ..."
+    a "... ...Теодора really doesn’t want to buy snacks for Уно... ..."
 
 
 
@@ -493,21 +493,21 @@ label Final_final:
 
 
 
-    d "*Sucking, sucking* Will you Theo and Uno milk like mommy?~"
+    d "*Sucking, sucking* Will you Theo and Уно milk like mommy?~"
 
 
 
-    c "Irene, Irene, wait, I... ..."
+    c "Айрин, Айрин, wait, I... ..."
 
 
 
     scene final_final_25 with tstmgr
 
-    "Теодора and Uno" "Ohhhhhhhhhhhhhhhhhhhhhhhh!!!!~~~~~~"
+    "Теодора and Уно" "Ohhhhhhhhhhhhhhhhhhhhhhhh!!!!~~~~~~"
 
 
 
-    "Теодора and Uno couldn’t bear Irene’s sucking and biting anymore. They had a great orgasm together~"
+    "Теодора and Уно couldn’t bear Айрин’s sucking and biting anymore. They had a great orgasm together~"
 
 
 
@@ -533,7 +533,7 @@ label Final_final:
 
     scene final_final_28 with tstmgr
 
-    e "Alright, kids, Vera and I are going to prepare dinner. Are there any specific dishes you want to have for dinner?"
+    e "Alright, kids, Вера and I are going to prepare dinner. Are there any specific dishes you want to have for dinner?"
 
 
 
@@ -557,11 +557,11 @@ label Final_final:
 
     scene void with tstmgr
 
-    "We are in Elisa’s forest bungalow, the nearest restaurant is 15 miles away, so yeah, no food delivery service available."
+    "We are in Элиза’s forest bungalow, the nearest restaurant is 15 miles away, so yeah, no food delivery service available."
 
 
 
-    "I used to come to this place with Elisa because she didn’t want her daughters to find out about our relationship. After I got the three of them in the harem, this place had been deserted for quite a while due to its inconvenience."
+    "I used to come to this place with Элиза because she didn’t want her daughters to find out about our relationship. After I got the three of them in the harem, this place had been deserted for quite a while due to its inconvenience."
 
 
 
@@ -571,7 +571,7 @@ label Final_final:
 
     scene final_final_28 with tstmgr
 
-    e "Alright then, if that be all, let’s go to the kitchen, Vera."
+    e "Alright then, if that be all, let’s go to the kitchen, Вера."
 
 
 
@@ -581,7 +581,7 @@ label Final_final:
 
     scene void with tstmgr
 
-    "Elisa and Vera then went to the kitchen together..."
+    "Элиза and Вера then went to the kitchen together..."
 
 
 
@@ -613,7 +613,7 @@ label Final_final:
 
 
 
-    "Ah, here we go again~ Senning always loses herself when she smells a scent she likes~ Now she is like a kitten going crazy for a catnip stick."
+    "Ah, here we go again~ Сеннин always loses herself when she smells a scent she likes~ Now she is like a kitten going crazy for a catnip stick."
 
 
 
@@ -653,7 +653,7 @@ label Final_final:
 
 
 
-    b "Irene~~ Let’s share this big stick together~"
+    b "Айрин~~ Let’s share this big stick together~"
 
 
 
@@ -675,7 +675,7 @@ label Final_final:
 
 
 
-    "I’m happy to see that Senning is getting along with Irene again. There was a time when she would be a little... melancholy every time she saw Irene, because... ..."
+    "I’m happy to see that Сеннин is getting along with Айрин again. There was a time when she would be a little... melancholy every time she saw Айрин, because... ..."
 
 
 
@@ -703,7 +703,7 @@ label Final_final:
 
     scene final_final_42 with tstmgr
 
-    d "Fu fu fu~~ Irene is a grown-up lady now~"
+    d "Fu fu fu~~ Айрин is a grown-up lady now~"
 
 
 
@@ -749,11 +749,11 @@ label Final_final:
 
 
 
-    d "Awwwwww... Senning... you are licking too much of area, leave the glans to me~~~"
+    d "Awwwwww... Сеннин... you are licking too much of area, leave the glans to me~~~"
 
 
 
-    c "Stop dripping your saliva on the floor, Irene. What did mom tell you? A lady should have her manner even when sucking a dick."
+    c "Stop dripping your saliva on the floor, Айрин. What did mom tell you? A lady should have her manner even when sucking a dick."
 
 
 
@@ -761,7 +761,7 @@ label Final_final:
 
 
 
-    player "Theo, Uno, do you want to join us?"
+    player "Theo, Уно, do you want to join us?"
 
 
 
@@ -793,13 +793,13 @@ label Final_final:
 
 
 
-    "Senning and Irene" "Oh... ..."
+    "Сеннин and Айрин" "Oh... ..."
 
 
 
     scene final_final_45 with tstmgr
 
-    "Senning and Irene obediently removed their tongues from my dick and knelt on the floor like pets, waiting to be fed by my sperm."
+    "Сеннин and Айрин obediently removed their tongues from my dick and knelt on the floor like pets, waiting to be fed by my sperm."
 
 
 
@@ -811,7 +811,7 @@ label Final_final:
 
     scene final_final_45 with tstmgr
 
-    d "Irene wants to eat [P]’s cum. [P]’s cum is even more delicious than mommy’s milk~"
+    d "Айрин wants to eat [P]’s cum. [P]’s cum is even more delicious than mommy’s milk~"
 
 
 
@@ -996,7 +996,7 @@ label Final_final:
 
     scene void with tstmgr
 
-    "Irene then got up and ran to the door... ..."
+    "Айрин then got up and ran to the door... ..."
 
 
 
@@ -1016,7 +1016,7 @@ label Final_final:
 
 
 
-    "Rachel won the national championship last year. Now she is quite famous in this country. People call her the ‘sexiest runner’."
+    "Рэйчел won the national championship last year. Now she is quite famous in this country. People call her the ‘sexiest runner’."
 
 
 
@@ -1094,7 +1094,7 @@ label Final_final:
 
 
 
-    player "I’m so sorry to hear that, Rachel... ..."
+    player "I’m so sorry to hear that, Рэйчел... ..."
 
 
 
@@ -1116,7 +1116,7 @@ label Final_final:
 
 
 
-    "Rachel must have made this decision after a lot of thought. I guess it is the best for her."
+    "Рэйчел must have made this decision after a lot of thought. I guess it is the best for her."
 
 
 
@@ -1146,7 +1146,7 @@ label Final_final:
 
 
 
-    g "That’s good news. Uno hates forest~ oink~"
+    g "That’s good news. Уно hates forest~ oink~"
 
 
 
@@ -1202,7 +1202,7 @@ label Final_final:
 
     scene final_final_78 with tstmgr
 
-    e "I am Senning’s mommy in this country~ Before Lady Minna left, I promised to her that I would treat her daughter like my own."
+    e "I am Сеннин’s mommy in this country~ Before Lady Minna left, I promised to her that I would treat her daughter like my own."
 
 
 
@@ -1216,15 +1216,15 @@ label Final_final:
 
 
 
-    player "Ha~ It’s great to see Senning can feel parents' love again after her mom left."
+    player "Ha~ It’s great to see Сеннин can feel parents' love again after her mom left."
 
 
 
-    f "Now Senning has a big family in this foreign country~"
+    f "Now Сеннин has a big family in this foreign country~"
 
 
 
-    a "Eh... ... Rachel, are you feeling okay?"
+    a "Eh... ... Рэйчел, are you feeling okay?"
 
 
 
@@ -1292,7 +1292,7 @@ label Final_final:
 
 
 
-    player "Ahhh... Rachel, your athletic pussy is so fucking tight!"
+    player "Ahhh... Рэйчел, your athletic pussy is so fucking tight!"
 
 
 
@@ -1356,7 +1356,7 @@ label Final_final:
 
 
 
-    g "Don’t worry about me, master~ just make Theo and Vera happy first~"
+    g "Don’t worry about me, master~ just make Theo and Вера happy first~"
 
 
 
@@ -1374,7 +1374,7 @@ label Final_final:
 
     scene void with tstmgr
 
-    "I gently put Rachel on the ground, and then I asked Vera to lie on the floor while Теодора lied on top of her."
+    "I gently put Рэйчел on the ground, and then I asked Вера to lie on the floor while Теодора lied on top of her."
 
 
 
@@ -1384,7 +1384,7 @@ label Final_final:
 
 
 
-    "This is such an embarrassing pose, but both Vera and Теодора have gotten used to obeying my command no matter how shameless it is."
+    "This is such an embarrassing pose, but both Вера and Теодора have gotten used to obeying my command no matter how shameless it is."
 
 
 
@@ -1462,7 +1462,7 @@ label Final_final:
 
     $ flashlight()
 
-    "Theo and Vera" "Ohhhhhhhhhhhhhhh!!!~~~~"
+    "Theo and Вера" "Ohhhhhhhhhhhhhhh!!!~~~~"
 
 
 
@@ -1492,7 +1492,7 @@ label Final_final:
 
 
 
-    g "Wow... Master is taking Vera and Theo’s asses as his toys~"
+    g "Wow... Master is taking Вера and Theo’s asses as his toys~"
 
 
 
@@ -1546,7 +1546,7 @@ label Final_final:
 
     $ flashlight()
 
-    "Theo and Vera" "Ohhhhhh~~~~"
+    "Theo and Вера" "Ohhhhhh~~~~"
 
 
 
@@ -1602,7 +1602,7 @@ label Final_final:
 
 
 
-    player "Senning’s mom told me about this before she left. Ahhh~~ You have no idea how many strange tricks she knows~"
+    player "Сеннин’s mom told me about this before she left. Ahhh~~ You have no idea how many strange tricks she knows~"
 
 
 
@@ -1674,7 +1674,7 @@ label Final_final:
 
     scene final_final_100 with tstmgr
 
-    player "Sorry to make you wait so long, Uno~"
+    player "Sorry to make you wait so long, Уно~"
 
 
 
@@ -1684,17 +1684,17 @@ label Final_final:
 
     scene final_final_101 with tstmgr
 
-    g "Sorry, I just got lost in watching you fucked Theo and Vera. That was so amazing~"
+    g "Sorry, I just got lost in watching you fucked Theo and Вера. That was so amazing~"
 
 
 
     scene final_final_102 with tstmgr
 
-    g "But, master~ Uno is not going to be satisfied only by labia rubbing~ Uno wants you to have your penis in her wet pussy~"
+    g "But, master~ Уно is not going to be satisfied only by labia rubbing~ Уно wants you to have your penis in her wet pussy~"
 
 
 
-    player "Are you sure of that? Vera and Theo said it is not healthy to have vaginal sex right after a meal."
+    player "Are you sure of that? Вера and Theo said it is not healthy to have vaginal sex right after a meal."
 
 
 
@@ -1728,7 +1728,7 @@ label Final_final:
 
 
 
-    g "Master’s huge cock... ... is expanding Uno’s little pussy~~"
+    g "Master’s huge cock... ... is expanding Уно’s little pussy~~"
 
 
 
@@ -1740,7 +1740,7 @@ label Final_final:
 
 
 
-    g "Oink~ oink~~ Uno is master’s plumpy little piggy~"
+    g "Oink~ oink~~ Уно is master’s plumpy little piggy~"
 
 
     stop sound
@@ -1774,7 +1774,7 @@ label Final_final:
 
 
 
-    player "Uno, I’m cumming!!~~"
+    player "Уно, I’m cumming!!~~"
 
 
     stop sound
@@ -1786,7 +1786,7 @@ label Final_final:
 
 
 
-    "I ejaculated everything left in my balls into Uno’s orgasmic pussy... ..."
+    "I ejaculated everything left in my balls into Уно’s orgasmic pussy... ..."
 
 
 
@@ -1798,15 +1798,15 @@ label Final_final:
 
     scene final_final_109 with tstmgr
 
-    g "Can’t... think... ... Uno has become... a cock-addicted brainwashed piggy~~~"
+    g "Can’t... think... ... Уно has become... a cock-addicted brainwashed piggy~~~"
 
 
 
-    "Uno loves to get choked during orgasm. It will double her pleasure and make her mind blow. She will need at least an hour to get back to normal~"
+    "Уно loves to get choked during orgasm. It will double her pleasure and make her mind blow. She will need at least an hour to get back to normal~"
 
 
 
-    g "Oink~~ oink~~ Uno is a piggy~~~ Oink~~"
+    g "Oink~~ oink~~ Уно is a piggy~~~ Oink~~"
 
 
 
@@ -1852,7 +1852,7 @@ label Final_final:
 
     scene final_final_113 with tstmgr
 
-    player "So... where do you guys want to go? I prefer to stay here because I don’t want to risk Rachel being seen by journalists or fans."
+    player "So... where do you guys want to go? I prefer to stay here because I don’t want to risk Рэйчел being seen by journalists or fans."
 
 
 
@@ -1888,13 +1888,13 @@ label Final_final:
 
     scene final_final_117 with tstmgr
 
-    player "What do you say, Uno?"
+    player "What do you say, Уно?"
 
 
 
     scene final_final_118 with tstmgr
 
-    player "Uno?"
+    player "Уно?"
 
 
 
@@ -1950,7 +1950,7 @@ label Final_final:
 
 
 
-    d "Leave her, Rachel~ I’m gonna hit that bitch in the head~"
+    d "Leave her, Рэйчел~ I’m gonna hit that bitch in the head~"
 
 
 
@@ -1958,7 +1958,7 @@ label Final_final:
 
 
 
-    f "Don’t be scared, Uno~ I’ll protect you~"
+    f "Don’t be scared, Уно~ I’ll protect you~"
 
 
 
@@ -2124,11 +2124,11 @@ label Final_final:
 
     scene final_final_136 with tstmgr
 
-    player "Uno? Why are you... ... you are afraid of swimming too?"
+    player "Уно? Why are you... ... you are afraid of swimming too?"
 
 
 
-    g "No~ Uno just wants to stay with master~"
+    g "No~ Уно just wants to stay with master~"
 
 
 
@@ -2146,11 +2146,11 @@ label Final_final:
 
     scene final_final_137 with tstmgr
 
-    d "Ah! Uno! Come back!"
+    d "Ah! Уно! Come back!"
 
 
 
-    g "Yaaah! Help! Irene is bullying me again!"
+    g "Yaaah! Help! Айрин is bullying me again!"
 
 
 
@@ -2164,7 +2164,7 @@ label Final_final:
 
 
 
-    e "Eh... ... sweetie, why are you biting Uno?"
+    e "Eh... ... sweetie, why are you biting Уно?"
 
 
 
@@ -2172,7 +2172,7 @@ label Final_final:
 
 
 
-    "Irene is still like a lovely kitten as before. She would bite you for fun but would never really hurt you."
+    "Айрин is still like a lovely kitten as before. She would bite you for fun but would never really hurt you."
 
 
 
@@ -2260,17 +2260,17 @@ label Final_final:
 
 
 
-    "My seven wives have been separated into three groups randomly, Elisa & Rachel, Vera & Theo & Uno, and Senning & Irene. Each group is in a certain area of the room, waiting for my caressing."
+    "My seven wives have been separated into three groups randomly, Элиза & Рэйчел, Вера & Theo & Уно, and Сеннин & Айрин. Each group is in a certain area of the room, waiting for my caressing."
 
 
 
-    "I decided to go to Elisa and Rachel first..."
+    "I decided to go to Элиза and Рэйчел first..."
 
 
 
     scene final_final_147 with dissolve
 
-    "Elisa and Rachel" "... ... ... ..."
+    "Элиза and Рэйчел" "... ... ... ..."
 
 
 
@@ -2334,7 +2334,7 @@ label Final_final:
 
 
 
-    e "[P]... you are pushing Rachel and me at the same time. Your arm strength is ridiculous~"
+    e "[P]... you are pushing Рэйчел and me at the same time. Your arm strength is ridiculous~"
 
 
 
@@ -2408,11 +2408,11 @@ label Final_final:
     play sound cumshot
     $ flashlight()
 
-    "Elisa and Rachel" "Ohhhhhhhhhhhhhhhhhhhhh!!~~~~~~~~"
+    "Элиза and Рэйчел" "Ohhhhhhhhhhhhhhhhhhhhh!!~~~~~~~~"
 
 
 
-    "Elisa and Rachel had a great orgasm together. I bet Elisa was squirting milk again, I just couldn’t see it from behind~"
+    "Элиза and Рэйчел had a great orgasm together. I bet Элиза was squirting milk again, I just couldn’t see it from behind~"
 
 
 
@@ -2426,11 +2426,11 @@ label Final_final:
 
 
 
-    "Rachel is resting her breasts on Elisa’s butt and moaning unconsciously. Ha~ The media will go crazy if they know this national champion is wearing a collar on a wooden horse in my dungeon~"
+    "Рэйчел is resting her breasts on Элиза’s butt and moaning unconsciously. Ha~ The media will go crazy if they know this national champion is wearing a collar on a wooden horse in my dungeon~"
 
 
 
-    "Have a good rest, Elisa and Rachel~ Now I should go take a look at my other groups of girls~"
+    "Have a good rest, Элиза and Рэйчел~ Now I should go take a look at my other groups of girls~"
 
 
 
@@ -2470,11 +2470,11 @@ label Final_final:
 
     scene final_final_157 with tstmgr
 
-    player "Vera... ..."
+    player "Вера... ..."
 
 
 
-    "Vera’s beautiful huge firm tits... ... They are not affected by gravity at all~"
+    "Вера’s beautiful huge firm tits... ... They are not affected by gravity at all~"
 
 
 
@@ -2544,11 +2544,11 @@ label Final_final:
 
     scene final_final_164 with tstmgr
 
-    player "Uno... ..."
+    player "Уно... ..."
 
 
 
-    "Uno’s fun bags are soft and bouncing. It feels so good to just hold them in my hands. I can play them all day~"
+    "Уно’s fun bags are soft and bouncing. It feels so good to just hold them in my hands. I can play them all day~"
 
 
 
@@ -2676,7 +2676,7 @@ label Final_final:
 
 
 
-    g "Masters came to Uno again~"
+    g "Masters came to Уно again~"
 
 
 
@@ -2688,7 +2688,7 @@ label Final_final:
 
 
 
-    c "Oh Uno, you brainwashed slut... ..."
+    c "Oh Уно, you brainwashed slut... ..."
 
 
 
@@ -2696,7 +2696,7 @@ label Final_final:
 
 
 
-    c "*Talking to Vera* Wait, did she just say something in Japanese?"
+    c "*Talking to Вера* Wait, did she just say something in Japanese?"
 
 
 
@@ -2718,7 +2718,7 @@ label Final_final:
 
 
 
-    player "Yeah, Vera~ You three are my treasures~~ I love you so much~~"
+    player "Yeah, Вера~ You three are my treasures~~ I love you so much~~"
 
 
 
@@ -2794,7 +2794,7 @@ label Final_final:
 
 
 
-    player "Irene... ... and Senning..."
+    player "Айрин... ... and Сеннин..."
 
 
 
@@ -2850,7 +2850,7 @@ label Final_final:
 
     scene final_final_177 with tstmgr
 
-    "Irene and Senning" "Really?~~~"
+    "Айрин and Сеннин" "Really?~~~"
 
 
 
@@ -2868,7 +2868,7 @@ label Final_final:
 
 
 
-    b "Irene... ... Can I go first?"
+    b "Айрин... ... Can I go first?"
 
 
 
@@ -2894,7 +2894,7 @@ label Final_final:
 
 
 
-    b "Awuumm~~ auummm~~ Irene’s pussy... smells like fresh grape~"
+    b "Awuumm~~ auummm~~ Айрин’s pussy... smells like fresh grape~"
 
 
 
@@ -2902,15 +2902,15 @@ label Final_final:
 
 
 
-    player "Senning’s tight pussy... is squeezing my dick so hard~"
+    player "Сеннин’s tight pussy... is squeezing my dick so hard~"
 
 
 
-    b "[P]... Irene... ... ohhhh~~~ hhh~~~ yes~~ hhhh~~~"
+    b "[P]... Айрин... ... ohhhh~~~ hhh~~~ yes~~ hhhh~~~"
 
 
 
-    d "I’m having [P]’s tongue in my upper mouth... and having Senning’s tongue in my lower mouth..."
+    d "I’m having [P]’s tongue in my upper mouth... and having Сеннин’s tongue in my lower mouth..."
 
 
 
@@ -2922,7 +2922,7 @@ label Final_final:
 
 
 
-    player "I get what you meant, Irene~"
+    player "I get what you meant, Айрин~"
 
 
     stop sound
@@ -2932,7 +2932,7 @@ label Final_final:
 
 
 
-    d "Auuummm~~ ummmm~~ Yes~~ I want to taste Senning’s clitoris... hummm~~"
+    d "Auuummm~~ ummmm~~ Yes~~ I want to taste Сеннин’s clitoris... hummm~~"
 
 
 
@@ -2944,7 +2944,7 @@ label Final_final:
 
 
 
-    d "Senning said she can’t take it, but she is still licking my pussy so hard~ Hee hee~~"
+    d "Сеннин said she can’t take it, but she is still licking my pussy so hard~ Hee hee~~"
 
 
 
@@ -2952,7 +2952,7 @@ label Final_final:
 
 
 
-    player "Oh my, Senning’s vagina squeezes me so hard every time Irene puts her tongue on that clitoris!~~~"
+    player "Oh my, Сеннин’s vagina squeezes me so hard every time Айрин puts her tongue on that clitoris!~~~"
 
 
 
@@ -2968,7 +2968,7 @@ label Final_final:
 
 
 
-    d "Wow~ [P] Came so much inside Senning~"
+    d "Wow~ [P] Came so much inside Сеннин~"
 
 
 
@@ -3002,15 +3002,15 @@ label Final_final:
 
 
 
-    d "I’m sitting on Senning’s big butt... and being fucked by [P]’s big cock at the same time~"
+    d "I’m sitting on Сеннин’s big butt... and being fucked by [P]’s big cock at the same time~"
 
 
 
-    d "Look, look, Senning~~ Isn’t this scene beautiful?~"
+    d "Look, look, Сеннин~~ Isn’t this scene beautiful?~"
 
 
 
-    b "Ye... yes... ... Irene... [P]... ... yes... ..."
+    b "Ye... yes... ... Айрин... [P]... ... yes... ..."
 
 
 
@@ -3018,7 +3018,7 @@ label Final_final:
 
 
 
-    b "I’m... happy for you... Irene... ..."
+    b "I’m... happy for you... Айрин... ..."
 
 
     stop sound
@@ -3028,7 +3028,7 @@ label Final_final:
 
 
 
-    player "Irene... your body grew bigger but your pussy is still so tight like it used to be~"
+    player "Айрин... your body grew bigger but your pussy is still so tight like it used to be~"
 
 
 
@@ -3036,7 +3036,7 @@ label Final_final:
 
 
 
-    d "And right now... Irene’s little tight pussy is being abused by [P]’s big bad cock~~~"
+    d "And right now... Айрин’s little tight pussy is being abused by [P]’s big bad cock~~~"
 
 
 
@@ -3068,7 +3068,7 @@ label Final_final:
 
 
 
-    "Irene and I had the ultimate orgasm together. Her pussy suddenly overflowed with my white thick cum and her own love juice~"
+    "Айрин and I had the ultimate orgasm together. Her pussy suddenly overflowed with my white thick cum and her own love juice~"
 
 
 
@@ -3076,7 +3076,7 @@ label Final_final:
 
 
 
-    b "Awwwww... ... I’m so happy that... Irene is feeling the same pleasure as I did~"
+    b "Awwwww... ... I’m so happy that... Айрин is feeling the same pleasure as I did~"
 
 
 
@@ -3124,7 +3124,7 @@ label Final_final:
 
 
 
-    "As always, Elisa is the only one who still keeps consciousness besides me."
+    "As always, Элиза is the only one who still keeps consciousness besides me."
 
 
 
@@ -3184,7 +3184,7 @@ label Final_final:
 
     scene final_final_193 with tstmgr
 
-    player "Okay, thanks, Elisa~ I’ll come to you in 10 minutes."
+    player "Okay, thanks, Элиза~ I’ll come to you in 10 minutes."
 
 
 
@@ -3208,7 +3208,7 @@ label Final_final:
 
 
 
-    "Father" "E... Elisa? Oh, hi, you didn’t tell me you would be here today."
+    "Father" "E... Элиза? Oh, hi, you didn’t tell me you would be here today."
 
 
 
@@ -3276,7 +3276,7 @@ label Final_final:
 
 
 
-    "Father" "And... Elisa, since you are here... ... You know, I have thought about it for a long time in jail... ..."
+    "Father" "And... Элиза, since you are here... ... You know, I have thought about it for a long time in jail... ..."
 
 
 
@@ -3334,7 +3334,7 @@ label Final_final:
 
 
 
-    e "Both Теодора and Irene are now his wives... ..."
+    e "Both Теодора and Айрин are now his wives... ..."
 
 
 

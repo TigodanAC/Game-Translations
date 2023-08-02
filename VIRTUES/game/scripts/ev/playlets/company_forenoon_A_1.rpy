@@ -6,7 +6,7 @@ label company_forenoon_A_1:
 
 
 
-    player "Vera? Why are you here?"
+    player "Вера? Why are you here?"
 
 
 

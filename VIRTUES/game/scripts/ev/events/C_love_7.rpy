@@ -530,7 +530,7 @@ label C_love_7:
 
 
 
-    c "There is already a woman living in your house, right? That little girlfriend of yours, Vera."
+    c "There is already a woman living in your house, right? That little girlfriend of yours, Вера."
 
 
 

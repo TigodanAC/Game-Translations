@@ -3,7 +3,7 @@ label afterstory_1:
     scene afterstory_1_1 with tstmgr
     play music happy
 
-    "Morning, I saw Vera entering the house from outside."
+    "Morning, I saw Вера entering the house from outside."
 
 
 
@@ -23,11 +23,11 @@ label afterstory_1:
 
     scene afterstory_1_3 with tstmgr
 
-    a "Nothing, I went to deliver some homemade brownies to Senning."
+    a "Nothing, I went to deliver some homemade brownies to Сеннин."
 
 
 
-    "Senning still has her part-time job in the bookstore."
+    "Сеннин still has her part-time job in the bookstore."
 
 
 
@@ -71,7 +71,7 @@ label afterstory_1:
 
 
 
-    "This is not the first time Vera expresses her longing for college. This poor girl missed her chance when she graduated from highschool due to poverty, but now... ..."
+    "This is not the first time Вера expresses her longing for college. This poor girl missed her chance when she graduated from highschool due to poverty, but now... ..."
 
 
 
@@ -79,7 +79,7 @@ label afterstory_1:
 
 
 
-    player "Vera... ..."
+    player "Вера... ..."
 
 
 
@@ -133,7 +133,7 @@ label afterstory_1:
 
 
 
-    player "Vera wants to go to college~"
+    player "Вера wants to go to college~"
 
 
 
@@ -149,7 +149,7 @@ label afterstory_1:
 
 
 
-    player "Yep, just do it, Vera~"
+    player "Yep, just do it, Вера~"
 
 
 
@@ -175,7 +175,7 @@ label afterstory_1:
 
 
 
-    "Weeks later, Vera got the college acceptance she dreams of."
+    "Weeks later, Вера got the college acceptance she dreams of."
 
 
 
@@ -191,7 +191,7 @@ label afterstory_1:
 
 
 
-    "One day, she invited Senning to the house... ..."
+    "One day, she invited Сеннин to the house... ..."
 
 
 
@@ -213,7 +213,7 @@ label afterstory_1:
 
 
 
-    b "Don’t worry, Vera, I’ll make you become the top student in your courses!~"
+    b "Don’t worry, Вера, I’ll make you become the top student in your courses!~"
 
 
 
@@ -331,7 +331,7 @@ label afterstory_1:
 
     scene afterstory_1_31 with tstmgr
 
-    player "... ... I’m willing to thrust Vera with my dick when she is studying though~"
+    player "... ... I’m willing to thrust Вера with my dick when she is studying though~"
 
 
 
@@ -343,7 +343,7 @@ label afterstory_1:
 
     scene afterstory_1_33 with tstmgr
 
-    a "*Asking Senning* Can... can we do that?"
+    a "*Asking Сеннин* Can... can we do that?"
 
 
 
@@ -421,7 +421,7 @@ label afterstory_1:
 
     scene afterstory_1_44 with tstmgr
 
-    a "If I can be strong enough to bear it, then I’ll become a fighter like Senning!"
+    a "If I can be strong enough to bear it, then I’ll become a fighter like Сеннин!"
 
 
 
@@ -447,13 +447,13 @@ label afterstory_1:
 
     scene afterstory_1_46 with dissolve
 
-    "Vera was studying on the laptop alone. Now let the willpower training begin~"
+    "Вера was studying on the laptop alone. Now let the willpower training begin~"
 
 
 
     scene afterstory_1_47 with tstmgr
 
-    player "Are you ready for the training, Vera?"
+    player "Are you ready for the training, Вера?"
 
 
 
@@ -463,7 +463,7 @@ label afterstory_1:
 
 
 
-    a "... ... I’ll do everything to become a fighter of studying like Senning... ..."
+    a "... ... I’ll do everything to become a fighter of studying like Сеннин... ..."
 
 
 
@@ -657,7 +657,7 @@ label afterstory_1:
 
 
 
-    player "Vera... ..."
+    player "Вера... ..."
 
 
 
@@ -671,7 +671,7 @@ label afterstory_1:
 
 
 
-    player "You are doing such a great job, Vera. Now I have only one last challenge for you today~"
+    player "You are doing such a great job, Вера. Now I have only one last challenge for you today~"
 
 
 
@@ -945,7 +945,7 @@ label afterstory_1:
 
     scene afterstory_1_83 with tstmgr
 
-    a "I will not let you and Senning down. I will... trying my best to concentrate on studying every second!"
+    a "I will not let you and Сеннин down. I will... trying my best to concentrate on studying every second!"
 
 
 
@@ -1039,7 +1039,7 @@ label afterstory_1:
 
     scene afterstory_1_91 with tstmgr
 
-    a "Now I have even more respect for Senning. I can’t imagine how she was able to hold herself every time she studied with you... ..."
+    a "Now I have even more respect for Сеннин. I can’t imagine how she was able to hold herself every time she studied with you... ..."
 
 
 
@@ -1097,15 +1097,15 @@ label afterstory_1:
 
 
 
-    "Wow... ... The way Vera moved her ass... was so professional~ She has really learned a lot about how to please a man with her sexy body~"
+    "Wow... ... The way Вера moved her ass... was so professional~ She has really learned a lot about how to please a man with her sexy body~"
 
 
 
-    player "Vera... ... You’ve gone from being a novice at sex to a master in only months. I believe you will do well in your study too~"
+    player "Вера... ... You’ve gone from being a novice at sex to a master in only months. I believe you will do well in your study too~"
 
 
 
-    a "I... I had good teachers... ... Theo... Uno... and Senning... ... They’ve taught me so much about sex~"
+    a "I... I had good teachers... ... Theo... Уно... and Сеннин... ... They’ve taught me so much about sex~"
 
 
 
@@ -1135,7 +1135,7 @@ label afterstory_1:
 
 
 
-    player "Well, ask Irene about it~ She will go to college next semester as well~"
+    player "Well, ask Айрин about it~ She will go to college next semester as well~"
 
 
 
@@ -1157,7 +1157,7 @@ label afterstory_1:
 
 
 
-    player "Vera... you are so amazing... ..."
+    player "Вера... you are so amazing... ..."
 
 
 
@@ -1189,7 +1189,7 @@ label afterstory_1:
 
     scene afterstory_1_99 with tstmgr
 
-    a "Now... now I know how Senning managed to study so hard... ... You must have given her... a lot of rewards like this~~~"
+    a "Now... now I know how Сеннин managed to study so hard... ... You must have given her... a lot of rewards like this~~~"
 
 
 
@@ -1197,13 +1197,13 @@ label afterstory_1:
 
 
 
-    "At this moment, someone entered the livingroom. It was Senning..."
+    "At this moment, someone entered the livingroom. It was Сеннин..."
 
 
 
     scene afterstory_1_101 with tstmgr
 
-    b "Hi, Vera!~ How did your willpower training go?"
+    b "Hi, Вера!~ How did your willpower training go?"
 
 
 
@@ -1219,7 +1219,7 @@ label afterstory_1:
 
     scene afterstory_1_100 with tstmgr
 
-    player "No, you are just in time, Sen~ Vera just finished today’s training~ Now come and join us~"
+    player "No, you are just in time, Sen~ Вера just finished today’s training~ Now come and join us~"
 
 
 
@@ -1247,11 +1247,11 @@ label afterstory_1:
 
     scene afterstory_1_103 with dissolve
 
-    "In Vera’s room, my two lovely wives and I were having a threesome again. It’s a pity that Теодора and Uno were not at home at this time, otherwise it would be a sex party until midnight~"
+    "In Вера’s room, my two lovely wives and I were having a threesome again. It’s a pity that Теодора and Уно were not at home at this time, otherwise it would be a sex party until midnight~"
 
 
 
-    "Senning was sitting across one of my legs in a lewd way, rubbing her tender labia back and forth on my thigh."
+    "Сеннин was sitting across one of my legs in a lewd way, rubbing her tender labia back and forth on my thigh."
 
 
 
@@ -1307,7 +1307,7 @@ label afterstory_1:
 
     scene afterstory_1_108 with tstmgr
 
-    b "I envy Vera so much. I want to taste your toes too... ..."
+    b "I envy Вера so much. I want to taste your toes too... ..."
 
 
 
@@ -1317,11 +1317,11 @@ label afterstory_1:
 
 
 
-    "Eh... yeah, Vera was using her wheatish tits to hold up the foot of my other leg and licking my toes like a puppy."
+    "Eh... yeah, Вера was using her wheatish tits to hold up the foot of my other leg and licking my toes like a puppy."
 
 
 
-    "This is something that Senning and Uno love to do, but it looks like Vera’s starting to get the fun of it too~"
+    "This is something that Сеннин and Уно love to do, but it looks like Вера’s starting to get the fun of it too~"
 
 
 
@@ -1394,7 +1394,7 @@ label afterstory_1:
 
 
 
-    b "No... not at all~~ Vera’s mouth is just sweet and minty... ..."
+    b "No... not at all~~ Вера’s mouth is just sweet and minty... ..."
 
 
 
@@ -1456,7 +1456,7 @@ label afterstory_1:
 
 
 
-    a "Senning... ..."
+    a "Сеннин... ..."
 
 
 
@@ -1470,7 +1470,7 @@ label afterstory_1:
 
 
 
-    "I easily fed my dick into Senning’s tight, tender pussy and made her moan out loud. I could feel every inch of her pussy muscles welcoming my penetration and keeping sucking me in."
+    "I easily fed my dick into Сеннин’s tight, tender pussy and made her moan out loud. I could feel every inch of her pussy muscles welcoming my penetration and keeping sucking me in."
 
 
 
@@ -1478,7 +1478,7 @@ label afterstory_1:
 
 
 
-    b "The hard penis behind me... ... and Vera’s soft body before me... ... Awwwwww~~~"
+    b "The hard penis behind me... ... and Вера’s soft body before me... ... Awwwwww~~~"
 
 
 
@@ -1490,7 +1490,7 @@ label afterstory_1:
 
 
 
-    "The harder I pushed her, the harder she would push Vera, and then the more she would be bounced back by Vera’s soft flesh. She must be enjoying the pleasure from both sides of her body so much~"
+    "The harder I pushed her, the harder she would push Вера, and then the more she would be bounced back by Вера’s soft flesh. She must be enjoying the pleasure from both sides of her body so much~"
 
 
     stop sound
@@ -1500,15 +1500,15 @@ label afterstory_1:
 
 
 
-    a "Senning... ... looks so horny~~"
+    a "Сеннин... ... looks so horny~~"
 
 
 
-    "Vera always takes Senning as a teacher and admires her wisdom and insights,and she would always be surprised at how an elegant, well-educated lady like Senning could be so horny during sex."
+    "Вера always takes Сеннин as a teacher and admires her wisdom and insights,and she would always be surprised at how an elegant, well-educated lady like Сеннин could be so horny during sex."
 
 
 
-    b "Sorry, Vera~~ Sorry for keeping pressing you... ... Your body is so soft~~~"
+    b "Sorry, Вера~~ Sorry for keeping pressing you... ... Your body is so soft~~~"
 
 
 
@@ -1520,7 +1520,7 @@ label afterstory_1:
 
 
 
-    b "Awwwww~~ Love you~~ Vera... ... Love you, [P]~~"
+    b "Awwwww~~ Love you~~ Вера... ... Love you, [P]~~"
 
 
 
@@ -1542,7 +1542,7 @@ label afterstory_1:
 
     scene afterstory_1_123 with tstmgr
 
-    player "Now it’s your turn, Vera~"
+    player "Now it’s your turn, Вера~"
 
 
 
@@ -1558,7 +1558,7 @@ label afterstory_1:
 
     scene void with tstmgr
 
-    "Senning was exhausted after sex, so I left her to rest on the bed and put Vera on her desk."
+    "Сеннин was exhausted after sex, so I left her to rest on the bed and put Вера on her desk."
 
 
 
@@ -1684,7 +1684,7 @@ label afterstory_1:
 
 
 
-    "I had the greatest orgasm of today under the dual stimulation of Vera’s tight pussy and Senning’s warm tongue."
+    "I had the greatest orgasm of today under the dual stimulation of Вера’s tight pussy and Сеннин’s warm tongue."
 
 
 
@@ -1712,7 +1712,7 @@ label afterstory_1:
 
 
 
-    "Months later, the new semester started and Vera officially became a college student. Her biggest dream has come true."
+    "Months later, the new semester started and Вера officially became a college student. Her biggest dream has come true."
 
 
 
@@ -1740,7 +1740,7 @@ label afterstory_1:
 
     scene afterstory_1_133 with tstmgr
 
-    c "Vera is not at home. From now on she will only make lunch for us on weekends."
+    c "Вера is not at home. From now on she will only make lunch for us on weekends."
 
 
 
@@ -1808,7 +1808,7 @@ label afterstory_1:
 
     scene afterstory_1_141 with tstmgr
 
-    g "Uno is childish?"
+    g "Уно is childish?"
 
 
 
@@ -1824,7 +1824,7 @@ label afterstory_1:
 
     scene afterstory_1_143 with tstmgr
 
-    g "Theo doesn’t like Uno?"
+    g "Theo doesn’t like Уно?"
 
 
 
@@ -1836,7 +1836,7 @@ label afterstory_1:
 
     scene afterstory_1_145 with tstmgr
 
-    c "I’ll make lunch, but don’t expect it to be as good as Vera’s."
+    c "I’ll make lunch, but don’t expect it to be as good as Вера’s."
 
 
 
@@ -1870,7 +1870,7 @@ label afterstory_1:
 
 
 
-    g "Vera... ... Help~~~~~~~"
+    g "Вера... ... Help~~~~~~~"
 
 
 
@@ -1884,25 +1884,25 @@ label afterstory_1:
 
 
 
-    "It took quite a while for Uno and Теодора to get used to being without Vera during the day, but they soon dealt with it and began to support Vera in their own ways."
+    "It took quite a while for Уно and Теодора to get used to being without Вера during the day, but they soon dealt with it and began to support Вера in their own ways."
 
 
 
     scene afterstory_1_153 with dissolve
 
-    g "Hee hee~ Vera, let me be your backrest~~ My plumpy body feels better than the bean bag, right?~"
+    g "Hee hee~ Вера, let me be your backrest~~ My plumpy body feels better than the bean bag, right?~"
 
 
 
     scene afterstory_1_154 with tstmgr
 
-    a "Eh... ... yes, absolutely, thank you, Uno... ..."
+    a "Eh... ... yes, absolutely, thank you, Уно... ..."
 
 
 
     scene afterstory_1_155 with tstmgr
 
-    a "But Senning said I shouldn’t make myself too comfortable during studying."
+    a "But Сеннин said I shouldn’t make myself too comfortable during studying."
 
 
 
@@ -1912,7 +1912,7 @@ label afterstory_1:
 
     scene afterstory_1_154 with tstmgr
 
-    a "Whatever~ I’ve always wanted to lie my back on your soft huge boobs~ Thanks again, Uno~"
+    a "Whatever~ I’ve always wanted to lie my back on your soft huge boobs~ Thanks again, Уно~"
 
 
 
@@ -1974,7 +1974,7 @@ label afterstory_1:
 
 
 
-    "And of course, I was helping Vera in my own way too~"
+    "And of course, I was helping Вера in my own way too~"
 
 
 
@@ -2078,7 +2078,7 @@ label afterstory_1:
 
     scene afterstory_1_160 with tstmgr
 
-    player "Fine, don’t worry, Vera~ you will have your reward tomorrow~ Just go~"
+    player "Fine, don’t worry, Вера~ you will have your reward tomorrow~ Just go~"
 
 
 
@@ -2112,7 +2112,7 @@ label afterstory_1:
 
 
 
-    "Boy B" "We are thinking about discussing the extra credits paper today. Have you thought of a topic yet, Vera?"
+    "Boy B" "We are thinking about discussing the extra credits paper today. Have you thought of a topic yet, Вера?"
 
 
 
@@ -2134,7 +2134,7 @@ label afterstory_1:
 
     scene void with tstmgr
 
-    "In fact, the three boys in the study group are indeed just some good ‘nerdy’ students. They didn’t have a crush on Vera and they invited her here simply to discuss some course materials."
+    "In fact, the three boys in the study group are indeed just some good ‘nerdy’ students. They didn’t have a crush on Вера and they invited her here simply to discuss some course materials."
 
 
 
@@ -2148,7 +2148,7 @@ label afterstory_1:
 
 
 
-    "As soon as Vera starts studying, she will stay 100%% focused and take no notice of anything else until she can’t restrain the desire for a ‘reward’. She didn’t realize how sexy she looks right now."
+    "As soon as Вера starts studying, she will stay 100%% focused and take no notice of anything else until she can’t restrain the desire for a ‘reward’. She didn’t realize how sexy she looks right now."
 
 
 
@@ -2164,7 +2164,7 @@ label afterstory_1:
 
     scene afterstory_1_169 with tstmgr
 
-    "But Vera was completely unaware of it..."
+    "But Вера was completely unaware of it..."
 
 
 
@@ -2206,11 +2206,11 @@ label afterstory_1:
 
     scene afterstory_1_171 with dissolve
 
-    "The reason was that everyone got harder to concentrate on studying. For Vera, she was desperately in need of [P]’s reward since it has become a habit of hers."
+    "The reason was that everyone got harder to concentrate on studying. For Вера, she was desperately in need of [P]’s reward since it has become a habit of hers."
 
 
 
-    "As for the boys... ... they just couldn’t move their eyes from Vera’s sexy sweaty body anymore."
+    "As for the boys... ... they just couldn’t move their eyes from Вера’s sexy sweaty body anymore."
 
 
 
@@ -2250,7 +2250,7 @@ label afterstory_1:
 
 
 
-    "Boy A" "Tommy, you were so wise to invite Vera to the study group."
+    "Boy A" "Tommy, you were so wise to invite Вера to the study group."
 
 
 
@@ -2296,7 +2296,7 @@ label afterstory_1:
 
     scene afterstory_1_175 with tstmgr
 
-    a "Putting tits on the table... ... Isn’t it a normal thing? Theo, Uno, and Senning... ... We all put tits on the table every time we sit together~"
+    a "Putting tits on the table... ... Isn’t it a normal thing? Theo, Уно, and Сеннин... ... We all put tits on the table every time we sit together~"
 
 
 
@@ -2344,7 +2344,7 @@ label afterstory_1:
 
 
 
-    "Vera orgasmed slightly with great joy as soon as I slid my dick into her wet pussy. This girl has been waiting for this all afternoon. Now she finally got what she wanted~"
+    "Вера orgasmed slightly with great joy as soon as I slid my dick into her wet pussy. This girl has been waiting for this all afternoon. Now she finally got what she wanted~"
 
 
 
@@ -2396,7 +2396,7 @@ label afterstory_1:
 
 
 
-    player "Vera~~ I love you!~~"
+    player "Вера~~ I love you!~~"
 
 
 
@@ -2416,7 +2416,7 @@ label afterstory_1:
 
 
 
-    player "Vera... ... my horny wife... ..."
+    player "Вера... ... my horny wife... ..."
 
 
 

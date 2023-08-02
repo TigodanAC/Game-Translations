@@ -3,13 +3,13 @@ label D_love_4:
     scene void with tstmgr
     play music happy
 
-    "I am worrying about Irene. She doesn’t seem to care about her studies lately."
+    "I am worrying about Айрин. She doesn’t seem to care about her studies lately."
 
 
 
     scene d_daily6_7 with tstmgr
 
-    "She had a party with Uno the other day, didn’t do her homework on time, and skipped her tutoring class the next day due to the hangover."
+    "She had a party with Уно the other day, didn’t do her homework on time, and skipped her tutoring class the next day due to the hangover."
 
 
 
@@ -21,7 +21,7 @@ label D_love_4:
 
     scene d_love_4_1 with dissolve
 
-    player "Irene, we don’t have time for this. You should start doing your homework right now."
+    player "Айрин, we don’t have time for this. You should start doing your homework right now."
 
 
 
@@ -99,7 +99,7 @@ label D_love_4:
 
 
 
-    player "I am very upset about you, Irene."
+    player "I am very upset about you, Айрин."
 
 
 

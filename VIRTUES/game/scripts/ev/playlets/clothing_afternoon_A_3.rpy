@@ -2,7 +2,7 @@ label clothing_afternoon_A_3:
 
     scene dressstore_background with tstmgr
 
-    "I came to Vera's workplace in the afternoon, but couldn't find her."
+    "I came to Вера's workplace in the afternoon, but couldn't find her."
 
 
 

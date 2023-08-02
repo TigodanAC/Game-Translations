@@ -7,7 +7,7 @@ label F_love_7:
 
 
 
-    "*The following plot is from Rachel’s perspective.*"
+    "*The following plot is from Рэйчел’s perspective.*"
 
 
 
@@ -99,17 +99,17 @@ label F_love_7:
 
 
 
-    "Uno then wrote several websites down on a piece of paper and gave it to Rachel."
+    "Уно then wrote several websites down on a piece of paper and gave it to Рэйчел."
 
 
 
     scene f_love_7_10 with tstmgr
 
-    f "Yeah! Thank you so much! It’s so nice to meet you, sis! My name is Rachel!"
+    f "Yeah! Thank you so much! It’s so nice to meet you, sis! My name is Рэйчел!"
 
 
 
-    g "Oh, hi, I’m Uno~"
+    g "Oh, hi, I’m Уно~"
 
 
 
@@ -143,7 +143,7 @@ label F_love_7:
 
 
 
-    "Later, in Rachel’s room..."
+    "Later, in Рэйчел’s room..."
 
 
 
@@ -159,17 +159,17 @@ label F_love_7:
 
 
 
-    f "But it doesn’t feel right to use Senning’s laptop to do such a thing... ..."
+    f "But it doesn’t feel right to use Сеннин’s laptop to do such a thing... ..."
 
 
 
     scene f_love_6_17 with tstmgr
 
-    f "Sorry, Senning, please forgive me on this..."
+    f "Sorry, Сеннин, please forgive me on this..."
 
 
 
-    "Rachel typed the website that Uno gave her in the browser and clicked Enter button after some hesitation."
+    "Рэйчел typed the website that Уно gave her in the browser and clicked Enter button after some hesitation."
 
 
 
@@ -292,27 +292,27 @@ label F_love_7:
 
 
 
-    g "Master~ master~ Fuck... fuck Uno more with your huge dick~"
+    g "Master~ master~ Fuck... fuck Уно more with your huge dick~"
 
 
 
-    g "Uno loves it... loves it so much~"
+    g "Уно loves it... loves it so much~"
 
 
 
-    player "Ahhh... Uno, I wish I can see your horny face right now..."
+    player "Ahhh... Уно, I wish I can see your horny face right now..."
 
 
 
-    g "Uno... can’t see your face, either~ But Uno can imagine it in my mind~"
+    g "Уно... can’t see your face, either~ But Уно can imagine it in my mind~"
 
 
 
-    g "Uno’s master’s... ... handsome sexy face~"
+    g "Уно’s master’s... ... handsome sexy face~"
 
 
 
-    player "Ohhhh~~ My lovely Uno... ..."
+    player "Ohhhh~~ My lovely Уно... ..."
 
 
 
@@ -324,7 +324,7 @@ label F_love_7:
 
 
 
-    g "Oh, no, I mean, yes, master can do whatever he wants to Uno~"
+    g "Oh, no, I mean, yes, master can do whatever he wants to Уно~"
 
 
 
@@ -351,7 +351,7 @@ label F_love_7:
 
     scene f_love_7_21 with tstmgr
 
-    player "Ohhhhhh... ... Uno, you are just... amazing... ..."
+    player "Ohhhhhh... ... Уно, you are just... amazing... ..."
 
 
 

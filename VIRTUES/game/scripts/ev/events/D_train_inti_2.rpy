@@ -3,7 +3,7 @@ label D_train_inti_2:
     scene void with tstmgr
     play music happy
 
-    "A few days later, in Irene’s room... ..."
+    "A few days later, in Айрин’s room... ..."
 
 
 
@@ -133,7 +133,7 @@ label D_train_inti_2:
 
 
 
-    "Nope, I am a jealous man. It drives me crazy just to imagine a picture of Irene dancing with another man with a smile on her face."
+    "Nope, I am a jealous man. It drives me crazy just to imagine a picture of Айрин dancing with another man with a smile on her face."
 
 
 
@@ -145,7 +145,7 @@ label D_train_inti_2:
 
 
 
-    "As a tradition, the boy came to Aunt Elisa’s house and picked Irene up."
+    "As a tradition, the boy came to Aunt Элиза’s house and picked Айрин up."
 
 
 
@@ -177,7 +177,7 @@ label D_train_inti_2:
 
 
 
-    "Irene and the boy soon left... ..."
+    "Айрин and the boy soon left... ..."
 
 
 
@@ -211,7 +211,7 @@ label D_train_inti_2:
 
 
 
-    e "Are you worrying about Irene? That boy looks like a nice kid~"
+    e "Are you worrying about Айрин? That boy looks like a nice kid~"
 
 
 
@@ -275,7 +275,7 @@ label D_train_inti_2:
 
 
 
-    "I successfully sneaked into Irene’s highschool and pretended myself as a student. Well, I may be a little bit too old to act as a highschool boy, but luckily, the light is dim there, no one paid any attention to me."
+    "I successfully sneaked into Айрин’s highschool and pretended myself as a student. Well, I may be a little bit too old to act as a highschool boy, but luckily, the light is dim there, no one paid any attention to me."
 
 
 
@@ -293,7 +293,7 @@ label D_train_inti_2:
 
 
 
-    "Ah, damn, Irene is dancing with that guy. This really feels bad... ..."
+    "Ah, damn, Айрин is dancing with that guy. This really feels bad... ..."
 
 
 
@@ -333,7 +333,7 @@ label D_train_inti_2:
 
 
 
-    "The boy followed my gaze and realized that I was looking at Irene."
+    "The boy followed my gaze and realized that I was looking at Айрин."
 
 
 
@@ -353,7 +353,7 @@ label D_train_inti_2:
 
 
 
-    "Soon, Irene stopped dancing and went out for a drink. Her dancing partner tried to talk with her, but I got a jump on him."
+    "Soon, Айрин stopped dancing and went out for a drink. Her dancing partner tried to talk with her, but I got a jump on him."
 
 
 
@@ -561,7 +561,7 @@ label D_train_inti_2:
 
 
 
-    player "I am indeed a possessive man and you are so precious to me. Sorry, Irene, sorry... ..."
+    player "I am indeed a possessive man and you are so precious to me. Sorry, Айрин, sorry... ..."
 
 
 
@@ -595,7 +595,7 @@ label D_train_inti_2:
 
 
 
-    d "And Irene is like a helpless sheep~"
+    d "And Айрин is like a helpless sheep~"
 
 
 
@@ -607,11 +607,11 @@ label D_train_inti_2:
 
 
 
-    d "Let Irene know... how important I am to you~"
+    d "Let Айрин know... how important I am to you~"
 
 
 
-    player "Irene, I’m cumming!!"
+    player "Айрин, I’m cumming!!"
 
 
     stop sound
@@ -641,7 +641,7 @@ label D_train_inti_2:
 
 
 
-    player "Irene... ... ... ..."
+    player "Айрин... ... ... ..."
 
 
 
@@ -659,7 +659,7 @@ label D_train_inti_2:
 
 
 
-    player "I... ... Sorry, Irene, I was being childish and selfish and... I ruined your prom... ..."
+    player "I... ... Sorry, Айрин, I was being childish and selfish and... I ruined your prom... ..."
 
 
 
@@ -681,7 +681,7 @@ label D_train_inti_2:
 
     scene d_train_inti_2_48 with dissolve
 
-    "Sometime later, Irene went back to the auditorium and began dancing again."
+    "Sometime later, Айрин went back to the auditorium and began dancing again."
 
 
 

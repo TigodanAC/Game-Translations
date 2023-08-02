@@ -14,13 +14,13 @@ label d2_5:
 
 
 
-    "Senning’s picture suddenly came up in my head."
+    "Сеннин’s picture suddenly came up in my head."
 
 
 
     scene d2_5_1 with tstmgr
 
-    "Senning, that lovely long-hair girl... ... We are close friends and she seems to like me. Should I go after her?"
+    "Сеннин, that lovely long-hair girl... ... We are close friends and she seems to like me. Should I go after her?"
 
 
 

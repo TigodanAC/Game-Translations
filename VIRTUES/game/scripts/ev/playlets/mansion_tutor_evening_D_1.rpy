@@ -2,7 +2,7 @@ label mansion_tutor_evening_D_1:
 
     scene void with tstmgr
 
-    "This evening, I was tutoring Irene in her room... ..."
+    "This evening, I was tutoring Айрин in her room... ..."
 
 
 

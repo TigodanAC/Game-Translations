@@ -2,11 +2,11 @@ label bookstore_afternoon_F_1:
 
     scene bookstore_afternoon_f_1_1 with tstmgr
 
-    player "Rachel? What are you doing here?"
+    player "Рэйчел? What are you doing here?"
 
 
 
-    f "I... I’m just here to ask Uno a few things... ..."
+    f "I... I’m just here to ask Уно a few things... ..."
 
 
 

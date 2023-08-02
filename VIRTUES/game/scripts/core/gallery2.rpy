@@ -74,7 +74,7 @@ screen gallery():
 
     default notified = False
 
-    default tab = "Vera"
+    default tab = "Вера"
 
     use game_menu("Gallery")
 
@@ -84,7 +84,7 @@ screen gallery():
         xoffset 240
 
         hbox spacing 12:
-            for k in ["Vera", "Irene", "Rachel", "Теодора", "Uno", "Elisa", "Senning", "Other"]:
+            for k in ["Вера", "Айрин", "Рэйчел", "Теодора", "Уно", "Элиза", "Сеннин", "Other"]:
                 textbutton k action SetScreenVariable("tab", k)
 
         vpgrid:

@@ -12,7 +12,7 @@ label bookstore_afternoon_G_1:
 
 
 
-    player "Eh, hello, Uno."
+    player "Eh, hello, Уно."
 
 
 

@@ -3,11 +3,11 @@ label F_love_6:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Rachel’s room..."
+    "Late night, in Рэйчел’s room..."
 
 
 
-    "*The following plot is from Rachel’s perspective.*"
+    "*The following plot is from Рэйчел’s perspective.*"
 
 
 
@@ -21,7 +21,7 @@ label F_love_6:
 
 
 
-    f "That lady, Vera, is such a positive and gentle woman, but... ..."
+    f "That lady, Вера, is such a positive and gentle woman, but... ..."
 
 
 
@@ -99,7 +99,7 @@ label F_love_6:
 
 
 
-    b "Rachel? You haven’t gone to sleep yet? Ah! Are you here to watch my favorite late night show with me?"
+    b "Рэйчел? You haven’t gone to sleep yet? Ah! Are you here to watch my favorite late night show with me?"
 
 
 
@@ -141,7 +141,7 @@ label F_love_6:
 
 
 
-    f "You are... so kind, thank you, Senning..."
+    f "You are... so kind, thank you, Сеннин..."
 
 
 
@@ -161,7 +161,7 @@ label F_love_6:
 
     scene f_love_6_11 with tstmgr
 
-    "Rachel then left Senning’s room..."
+    "Рэйчел then left Сеннин’s room..."
 
 
 
@@ -185,7 +185,7 @@ label F_love_6:
 
 
 
-    "Sometime later, in Rachel’s room..."
+    "Sometime later, in Рэйчел’s room..."
 
 
 
@@ -201,7 +201,7 @@ label F_love_6:
 
 
 
-    f "I forgot that Senning is an international student and English is not her first language! Her operating system is in Chinese. I can’t understand anything on her computer at all!"
+    f "I forgot that Сеннин is an international student and English is not her first language! Her operating system is in Chinese. I can’t understand anything on her computer at all!"
 
 
 
@@ -313,7 +313,7 @@ label F_love_6:
 
     scene f_love_7_15 with tstmgr
 
-    f "Wait, Senning? In [P]’s bedroom? What are they doing?"
+    f "Wait, Сеннин? In [P]’s bedroom? What are they doing?"
 
 
 
@@ -387,7 +387,7 @@ label F_love_6:
 
 
 
-    f "Senning... ... What happened to her?"
+    f "Сеннин... ... What happened to her?"
 
 
 
@@ -395,7 +395,7 @@ label F_love_6:
 
 
 
-    f "She looks like a totally different person! Just like Vera!"
+    f "She looks like a totally different person! Just like Вера!"
 
 
 
@@ -445,7 +445,7 @@ label F_love_6:
 
 
 
-    "Senning went into a convulsion and kept squirting water out from her pussy..."
+    "Сеннин went into a convulsion and kept squirting water out from her pussy..."
 
 
 
@@ -489,7 +489,7 @@ label F_love_6:
 
     scene f_love_6_31 with dissolve
 
-    f "Owwww... Senning... ..."
+    f "Owwww... Сеннин... ..."
 
 
 
@@ -513,7 +513,7 @@ label F_love_6:
 
     scene void with tstmgr
 
-    "Rachel then shut the computer down, fled to her bed, and buried her head in the pillow like she just watched a horror movie."
+    "Рэйчел then shut the computer down, fled to her bed, and buried her head in the pillow like she just watched a horror movie."
 
 
 
@@ -527,11 +527,11 @@ label F_love_6:
 
     scene f_love_6_33 with dissolve
 
-    f "Hi, Senning... ..."
+    f "Hi, Сеннин... ..."
 
 
 
-    b "Good morning, Rachel. Thanks for bringing my laptop back~ How is everything?"
+    b "Good morning, Рэйчел. Thanks for bringing my laptop back~ How is everything?"
 
 
 
@@ -555,7 +555,7 @@ label F_love_6:
 
     scene f_love_6_33 with tstmgr
 
-    b "Anyway, I’m going to a class now, see you later, Rachel~"
+    b "Anyway, I’m going to a class now, see you later, Рэйчел~"
 
 
 
@@ -565,7 +565,7 @@ label F_love_6:
 
     scene void with tstmgr
 
-    f "(I still can’t believe that... the Senning in front of me and the Senning in that video... are the same person... ...)"
+    f "(I still can’t believe that... the Сеннин in front of me and the Сеннин in that video... are the same person... ...)"
 
 
 

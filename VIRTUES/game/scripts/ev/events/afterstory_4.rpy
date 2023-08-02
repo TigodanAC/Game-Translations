@@ -90,7 +90,7 @@ label afterstory_4:
 
     scene afterstory_4_11 with tstmgr
 
-    b "He stayed with Rachel the day before yesterday, with Irene yesterday. And today will be my turn to enjoy his caress~"
+    b "He stayed with Рэйчел the day before yesterday, with Айрин yesterday. And today will be my turn to enjoy his caress~"
 
 
 
@@ -288,7 +288,7 @@ label afterstory_4:
 
     scene afterstory_4_10 with tstmgr
 
-    b "Oh, yeah, Mama, mama, I did something extremely bold a few days ago, with Uno, and of course with [P] too!"
+    b "Oh, yeah, Mama, mama, I did something extremely bold a few days ago, with Уно, and of course with [P] too!"
 
 
 
@@ -298,7 +298,7 @@ label afterstory_4:
 
 
 
-    "A few days ago, in the men’s bathroom of Senning’s apartment..."
+    "A few days ago, in the men’s bathroom of Сеннин’s apartment..."
 
 
 
@@ -472,7 +472,7 @@ label afterstory_4:
 
     scene afterstory_4_8 with tstmgr
 
-    b "Oh, yesterday Rachel tried to teach me one thing or two about self-defense and she asked [P] to have a wrestling fight with her to show me an example."
+    b "Oh, yesterday Рэйчел tried to teach me one thing or two about self-defense and she asked [P] to have a wrestling fight with her to show me an example."
 
 
 
@@ -496,7 +496,7 @@ label afterstory_4:
 
 
 
-    f "Oh, please fight me with all you got so Senning can have an idea about the average fighting ability of an adult male."
+    f "Oh, please fight me with all you got so Сеннин can have an idea about the average fighting ability of an adult male."
 
 
 
@@ -514,7 +514,7 @@ label afterstory_4:
 
 
 
-    b "Eh... ... Rachel, do you really think I should wrestle with a man like this when I get attacked?"
+    b "Eh... ... Рэйчел, do you really think I should wrestle with a man like this when I get attacked?"
 
 
 
@@ -532,7 +532,7 @@ label afterstory_4:
 
 
 
-    "Rachel tried to overpower [P] with her wrist, but to no avail."
+    "Рэйчел tried to overpower [P] with her wrist, but to no avail."
 
 
 
@@ -564,7 +564,7 @@ label afterstory_4:
 
 
 
-    player "As I said, Rachel, I’ve grown a lot since the last time."
+    player "As I said, Рэйчел, I’ve grown a lot since the last time."
 
 
 
@@ -588,7 +588,7 @@ label afterstory_4:
 
 
 
-    "[P] strangled Rachel with his arms..."
+    "[P] strangled Рэйчел with his arms..."
 
 
 
@@ -612,7 +612,7 @@ label afterstory_4:
 
 
 
-    "After that, [P] showed Senning what would happen when a girl loses the fight with an attacker..."
+    "After that, [P] showed Сеннин what would happen when a girl loses the fight with an attacker..."
 
 
 
@@ -626,7 +626,7 @@ label afterstory_4:
 
 
 
-    player "Oh my... ... Rachel’s throat is so fucking tight~~"
+    player "Oh my... ... Рэйчел’s throat is so fucking tight~~"
 
 
 
@@ -815,7 +815,7 @@ label afterstory_4:
 
     scene afterstory_4_50 with tstmgr
 
-    player "Did you see it, Lady Minna? Senning is doing fine here and she is happy every day~"
+    player "Did you see it, Lady Minna? Сеннин is doing fine here and she is happy every day~"
 
 
 

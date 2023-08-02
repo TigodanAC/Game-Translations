@@ -85,7 +85,7 @@ label B_daily_9:
 
 
 
-    "Sometime later, in Senning’s apartment."
+    "Sometime later, in Сеннин’s apartment."
 
 
 

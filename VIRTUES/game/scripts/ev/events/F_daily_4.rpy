@@ -195,7 +195,7 @@ label F_daily_4:
 
 
 
-        player "Nothing, Rachel. And... eh, again, I am very sorry for what I did to you earlier. I promise I’ll make up for you."
+        player "Nothing, Рэйчел. And... eh, again, I am very sorry for what I did to you earlier. I promise I’ll make up for you."
 
 
 
@@ -223,7 +223,7 @@ label F_daily_4:
 
 
 
-        player "Bye, Rachel."
+        player "Bye, Рэйчел."
 
 
 
@@ -260,7 +260,7 @@ label F_daily_4:
 
 
 
-        player "Oh, hi, Rachel. I didn’t even hear your footsteps."
+        player "Oh, hi, Рэйчел. I didn’t even hear your footsteps."
 
 
 
@@ -322,7 +322,7 @@ label F_daily_4:
 
 
 
-        player "Nothing, Rachel. And... eh, I’ll find you in your room again when I have time."
+        player "Nothing, Рэйчел. And... eh, I’ll find you in your room again when I have time."
 
 
 
@@ -336,7 +336,7 @@ label F_daily_4:
 
 
 
-        player "Bye, Rachel."
+        player "Bye, Рэйчел."
 
 
 

@@ -3,7 +3,7 @@ label A_train_sha_1:
     scene void with tstmgr
     play music happy
 
-    "It has been a while since Vera was asked to dress in a maid outfit at work. The result seems good. The cafe is much more popular than before."
+    "It has been a while since Вера was asked to dress in a maid outfit at work. The result seems good. The cafe is much more popular than before."
 
 
 
@@ -39,7 +39,7 @@ label A_train_sha_1:
 
 
 
-    "Guest A" "Vera, isn’t it? You look Gorgeous today and... eh... ..."
+    "Guest A" "Вера, isn’t it? You look Gorgeous today and... eh... ..."
 
 
 
@@ -51,7 +51,7 @@ label A_train_sha_1:
 
     scene a_train_sha_1_4 with tstmgr
 
-    "Vera quickly headed back to the checkout counter to avoid further conversation."
+    "Вера quickly headed back to the checkout counter to avoid further conversation."
 
 
 

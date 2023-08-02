@@ -52,7 +52,7 @@ label mansion_toilet_morning_E_1:
 
 
 
-    player "Ohhh... Elisa!"
+    player "Ohhh... Элиза!"
 
 
 
