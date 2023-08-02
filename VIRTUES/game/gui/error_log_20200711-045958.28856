@@ -1,0 +1,4 @@
+Log file created at: 2020/07/11 04:59:58
+Running on machine: DESKTOP-OBQQGQ3
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+F0711 04:59:58.692226 30152 syncedmem.hpp:33] Check failed: *ptr host allocation of size 250905600 failed

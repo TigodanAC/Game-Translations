@@ -1,0 +1,2153 @@
+[
+   {
+      "name": "d1_1",
+      "duration": 0,
+      "proceed_to": ["Monday", "LateNight"]
+   },
+   {
+      "name": "d2_1",
+      "duration": 0,
+      "proceed_to": ["Tuesday", "Evening"]
+   },
+   {
+      "name": "d2_5",
+      "duration": 0,
+      "proceed_to": ["Wednesday", "Morning"]
+   },
+   {
+      "name": "d3_1",
+      "duration": 0,
+      "proceed_to": ["Thursday", "Morning"]
+   },
+   {
+      "name": "d3_1_bLine",
+      "no_label": true,
+      "condition": "False"
+   },
+   {
+      "name": "d4_1",
+      "duration": 0,
+      "proceed_to": ["Thursday", "Afternoon"],
+      "ifs": ["not bLine"]
+   },
+   {
+      "name": "d4_1_bLine",
+      "duration": 0,
+      "proceed_to": ["Thursday", "Afternoon"],
+      "ifs": ["bLine"]
+   },
+   {
+      "name": "d4_3",
+      "duration": 0,
+      "proceed_to": ["Thursday", "Evening"]
+   },
+   {
+      "name": "d4_4",
+      "duration": 0,
+      "proceed_to": ["Friday", "Morning"],
+      "ifs": ["not bLine"]
+   },
+   {
+      "name": "d4_4_bLine",
+      "duration": 0,
+      "proceed_to": ["Friday", "Morning"],
+      "ifs": ["bLine"]
+   },
+   {
+      "name": "d5_2",
+      "duration": 0,
+      "proceed_to": ["Friday", "Afternoon"],
+      "ifs": ["not bLine"]
+   },
+   {
+      "name": "d5_2_bLine",
+      "duration": 0,
+      "proceed_to": ["Friday", "Afternoon"],
+      "ifs": ["bLine"]
+   },
+   {
+      "name": "d5_3",
+      "duration": 0,
+      "proceed_to": ["Friday", "Evening"]
+   },
+   {
+      "name": "d5_4",
+      "duration": 0,
+      "proceed_to": ["Friday", "LateNight"],
+      "ifs": ["not bLine"]
+   },
+   {
+      "name": "d5_4_bLine",
+      "duration": 0,
+      "proceed_to": ["Friday", "LateNight"],
+      "ifs": ["bLine"]
+   },
+   {
+      "name": "d6_1",
+      "duration": 0,
+      "proceed_to": ["Saturday", "LateNight"]
+   },
+   {
+      "name": "d7_1",
+      "duration": 0,
+      "proceed_to": ["Sunday", "LateNight"]
+   },
+   {
+      "name": "d8_1",
+      "duration": 0
+   },
+   {
+      "name": "A_daily_1",
+      "action": ["find_A_restaurant"],
+      "love": 6
+   },
+   {
+      "name": "A_daily_2",
+      "action": ["find_A_cafe"],
+      "love": 11
+   },
+   {
+      "name": "A_daily_3",
+      "pre_event": ["pcsj"],
+      "day": ["Thursday"],
+      "period": ["Morning"]
+   },
+   {
+      "name": "A_daily_4",
+      "pre_event": ["A_daily_4_pre"],
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"],
+      "period": ["Morning"],
+      "condition": "t > get_event('A_daily_4_pre').date",
+      "results": ["A.harem+1", "B.harem+1"]
+   },
+   {
+      "name": "A_daily_4_pre",
+      "no_label": true,
+      "pre_event": ["A_daily_3"],
+      "love": 7,
+      "duration": 0
+   },
+   {
+      "name": "A_daily_5",
+      "action": ["A_room"],
+      "period": ["Morning", "LateNight"],
+      "love": 13
+   },
+   {
+      "name": "A_daily_6",
+      "action": ["find_A_cafe"],
+      "period": ["Morning", "Forenoon", "Afternoon"],
+      "love": 17
+   },
+   {
+      "name": "A_daily_7",
+      "action": ["A_room"],
+      "period": ["LateNight"],
+      "love": 18
+   },
+   {
+      "name": "A_daily_8",
+      "action": ["kitchen"],
+      "period": ["Morning"],
+      "love": 22
+   },
+   {
+      "name": "A_daily_9",
+      "action": ["find_A_restaurant"],
+      "period": ["Evening"],
+      "love": 23
+   },
+   {
+      "name": "A_dgsjhx",
+      "pre_event": ["A_swdgsj", "A_xwdgsj"],
+      "period": ["Forenoon"],
+      "duration": 2,
+      "condition": "is_after_completion(['A_swdgsj', 'A_xwdgsj'], 2)"
+   },
+   {
+      "name": "A_love_1",
+      "pre_event": ["A_wsdgsjhx"],
+      "period": ["Morning"],
+      "proceed_to": ["Monday", "Morning", "+Week(1)"]
+   },
+   {
+      "name": "A_love_2",
+      "action": ["find_A_clothing"],
+      "pre_event": ["pcsj"],
+      "ifs": ["not bLine"]
+   },
+   {
+      "name": "A_love_2_bLine",
+      "action": ["find_A_clothing"],
+      "pre_event": ["pcsj"],
+      "ifs": ["bLine"]
+   },
+   {
+      "name": "A_love_3",
+      "action": ["A_room"],
+      "pre_event": ["A_daily_5"],
+      "period": ["LateNight"]
+   },
+   {
+      "name": "A_love_4",
+      "pre_event": ["A_daily_6", "A_daily_7"],
+      "period": ["LateNight"],
+      "proceed_to": ["Forenoon", "+Week(1)"]
+   },
+   {
+      "name": "A_love_5",
+      "action": ["A_room"],
+      "pre_event": ["A_daily_8", "A_daily_9"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "A_swdgsj",
+      "action": ["find_A_cafe"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "A_wsdgsj",
+      "pre_event": ["A_dgsjhx"],
+      "period": ["Evening"],
+      "condition": "t > get_event('A_dgsjhx').date"
+   },
+   {
+      "name": "A_wsdgsjhx",
+      "action": ["find_A_restaurant"],
+      "pre_event": ["A_wsdgsj"],
+      "condition": "is_after_completion(['A_wsdgsj'], 2)"
+   },
+   {
+      "name": "A_xwdgsj",
+      "action": ["find_A_clothing"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "B_Beach",
+      "pre_event": ["B_love_2"],
+      "day": ["Saturday"],
+      "period": ["Morning"],
+      "duration": 4,
+      "condition": "t.week > get_event('B_date_1').date.week"
+   },
+   {
+      "name": "B_daily_1",
+      "action": ["course"],
+      "pre_event": ["B_love_1"],
+      "period": ["Forenoon", "Afternoon"],
+      "condition": "t.total_day > 8"
+   },
+   {
+      "name": "B_daily_2",
+      "action": ["campus"],
+      "pre_event": ["B_daily_1"],
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Forenoon", "Afternoon"],
+      "condition": "Date(t) >= get_event('B_daily_1').date + Day(2)"
+   },
+   {
+      "name": "B_daily_3",
+      "pre_event": ["pcsj"],
+      "day": ["Wednesday"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "B_daily_4",
+      "action": ["campus"],
+      "pre_event": ["B_daily_3", "A_daily_4"],
+      "period": ["Forenoon", "Afternoon"]
+   },
+   {
+      "name": "B_daily_5",
+      "action": ["campus"],
+      "pre_event": ["pcsj", "gysj_1"],
+      "period": ["Forenoon", "Afternoon"]
+   },
+   {
+      "name": "B_daily_6",
+      "action": ["campus"],
+      "pre_event": ["D_love_1"],
+      "period": ["Forenoon", "Afternoon"],
+      "condition": "t.week > get_event('D_love_1').date.week"
+   },
+   {
+      "name": "B_daily_7",
+      "period": ["Evening"],
+      "love": 13
+   },
+   {
+      "name": "B_date_1",
+      "pre_event": ["pcsj"],
+      "day": ["Sunday"],
+      "period": ["Morning"],
+      "duration": 4,
+      "condition": "t > get_event('pcsj').date"
+   },
+   {
+      "name": "B_love_1",
+      "action": ["campus"],
+      "period": ["Afternoon"],
+      "ifs": ["B_gift"]
+   },
+   {
+      "name": "B_love_2",
+      "action": ["campus"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "B_love_3",
+      "pre_event": ["B_daily_7"],
+      "period": ["Evening"]
+   },
+   {
+      "name": "CDE_Picnic",
+      "pre_event": ["E_love_1", "C_love_2", "D_love_2"],
+      "day": ["Saturday"],
+      "period": ["Morning"],
+      "proceed_to": ["LateNight"],
+      "results": ["C.harem+1", "D.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "C_daily_1",
+      "action": ["work"],
+      "love": 2
+   },
+   {
+      "name": "C_daily_2",
+      "action": ["work"],
+      "love": 4
+   },
+   {
+      "name": "C_daily_3",
+      "action": ["work"],
+      "love": 7
+   },
+   {
+      "name": "C_daily_4",
+      "action": ["work"],
+      "love": 8
+   },
+   {
+      "name": "C_daily_5",
+      "action": ["work"],
+      "love": 13
+   },
+   {
+      "name": "C_love_1",
+      "action": ["find_C_company"]
+   },
+   {
+      "name": "C_love_2",
+      "action": ["find_C_company"]
+   },
+   {
+      "name": "C_love_3",
+      "period": ["LateNight"]
+   },
+   {
+      "name": "D_daily_1",
+      "action": ["tutor"],
+      "period": ["Afternoon"],
+      "love": 2
+   },
+   {
+      "name": "D_daily_2",
+      "action": ["tutor"],
+      "period": ["Afternoon"],
+      "love": 4
+   },
+   {
+      "name": "D_daily_3",
+      "action": ["tutor"],
+      "period": ["Afternoon"],
+      "love": 7
+   },
+   {
+      "name": "D_daily_4",
+      "action": ["tutor"],
+      "period": ["Afternoon"],
+      "love": 11
+   },
+   {
+      "name": "D_daily_5",
+      "action": ["tutor"],
+      "period": ["Afternoon"],
+      "love": 13
+   },
+   {
+      "name": "D_dqsj",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"],
+      "ifs": ["D_gift"]
+   },
+   {
+      "name": "D_love_1",
+      "action": ["tutor"]
+   },
+   {
+      "name": "D_love_2",
+      "action": ["tutor"],
+      "period": ["Afternoon"],
+      "proceed_to": ["LateNight"]
+   },
+   {
+      "name": "D_love_3",
+      "action": ["tutor"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "E_daily_1",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"],
+      "love": 3
+   },
+   {
+      "name": "E_daily_2",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"],
+      "love": 7
+   },
+   {
+      "name": "E_love_1",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "E_love_2",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"],
+      "proceed_to": ["LateNight"]
+   },
+   {
+      "name": "F_daily_1",
+      "action": ["exercise"],
+      "period": ["Morning", "Forenoon", "Afternoon"],
+      "love": 3
+   },
+   {
+      "name": "F_love_1",
+      "action": ["hang_park"],
+      "period": ["Morning", "Forenoon", "Afternoon"]
+   },
+   {
+      "name": "G_MoveIn",
+      "condition": "is_after_completion(['se_bookstore'], 2)"
+   },
+   {
+      "name": "G_daily_1",
+      "action": ["kitchen"],
+      "period": ["Forenoon"],
+      "love": 2
+   },
+   {
+      "name": "G_daily_2",
+      "action": ["bookstore"],
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Afternoon"],
+      "love": 7,
+      "results": ["B.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "G_daily_3",
+      "period": ["LateNight"],
+      "love": 12
+   },
+   {
+      "name": "G_love_1",
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "G_love_2",
+      "action": ["G_room"],
+      "period": ["LateNight"]
+   },
+   {
+      "name": "G_love_3",
+      "action": ["G_room"],
+      "period": ["LateNight"]
+   },
+   {
+      "name": "auto_sleep_prologue",
+      "repeatable": true,
+      "period": ["TimeToSleep"],
+      "duration": 0,
+      "condition": "not seen('pcsj')",
+      "results": ["$new_day"]
+   },
+   {
+      "name": "auto_sleep",
+      "repeatable": true,
+      "period": ["TimeToSleep"],
+      "duration": 0,
+      "pre_event": ["pcsj"]
+   },
+   {
+      "name": "can_buy_B_gift",
+      "no_label": true,
+      "runnable": false,
+      "action": ["street"],
+      "pre_event": ["d8_1"],
+      "duration": 0,
+      "ifs": ["not B_gift"]
+   },
+   {
+      "name": "can_buy_D_gift",
+      "no_label": true,
+      "runnable": false,
+      "action": ["street"],
+      "pre_event": ["d8_1"],
+      "duration": 0,
+      "ifs": ["not D_gift"]
+   },
+   {
+      "name": "earn",
+      "repeatable": true,
+      "pre_event": ["pcsj"],
+      "period": ["LateNight"],
+      "duration": 0
+   },
+   {
+      "name": "gysj_1",
+      "action": ["hang_park"],
+      "period": ["Morning", "Forenoon", "Afternoon"]
+   },
+   {
+      "name": "gysj_2",
+      "action": ["hang_park"],
+      "pre_event": ["gysj_1", "B_love_1"],
+      "period": ["Morning", "Forenoon", "Afternoon"]
+   },
+   {
+      "name": "gysj_4",
+      "action": ["hang_park"],
+      "pre_event": ["B_daily_5", "gysj_2"],
+      "period": ["Morning", "Forenoon", "Afternoon"],
+      "condition": "is_after_completion(['B_daily_5', 'gysj_2'])"
+   },
+   {
+      "name": "pay_bill",
+      "repeatable": true,
+      "pre_event": ["pcsj"],
+      "day": ["Sunday"],
+      "period": ["LateNight"],
+      "duration": 0
+   },
+   {
+      "name": "pay_room",
+      "duration": 0,
+      "condition": "not seen('pcsj')"
+   },
+   {
+      "name": "pcsj",
+      "pre_event": ["A_love_1", "B_love_1", "D_dqsj"],
+      "period": ["Morning"],
+      "duration": 0,
+      "proceed_to": ["Monday", "Morning", "+Week(4)"]
+   },
+   {
+      "name": "pcsjhx",
+      "pre_event": ["pcsj"],
+      "duration": 0
+   },
+   {
+      "name": "bjsj",
+      "pre_event": ["pcsjhx"],
+      "duration": 0
+   },
+   {
+      "name": "sbsj",
+      "pre_event": ["bjsj"],
+      "duration": 0
+   },
+   {
+      "name": "jjsj",
+      "pre_event": ["sbsj"],
+      "duration": 0
+   },
+   {
+      "name": "reset_days_worked",
+      "repeatable": true,
+      "day": ["Monday"],
+      "duration": 0,
+      "pre_event": ["pcsj"]
+   },
+   {
+      "name": "se_bookstore",
+      "pre_event": ["D_daily_5", "B_daily_6"],
+      "period": ["Morning"],
+      "condition": "is_after_completion(['D_daily_5', 'B_daily_6'], 2)"
+   },
+   {
+      "name": "suicide_ending",
+      "duration": 0,
+      "ifs": ["P.cash<0"]
+   },
+   {
+      "name": "wage",
+      "repeatable": true,
+      "pre_event": ["pcsj"],
+      "day": ["Friday"],
+      "period": ["Evening"],
+      "duration": 0
+   },
+   {
+      "name": "E_daily_3",
+      "action": ["mansion_bathroom"],
+      "period": ["Evening"],
+      "love": 12
+   },
+   {
+      "name": "E_love_3",
+      "action": ["mansion_livingroom"],
+      "period": ["Evening"],
+      "love": 15,
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "F_daily_2",
+      "action": ["exercise"],
+      "period": ["Morning", "Forenoon", "Afternoon"],
+      "love": 7
+   },
+   {
+      "name": "F_love_2",
+      "action": ["exercise"],
+      "pre_event": ["F_daily_2"],
+      "period": ["Morning", "Forenoon", "Afternoon"],
+      "love": 10
+   },
+   {
+      "name": "F_daily_3",
+      "action": ["college_bathroom"],
+      "love": 12,
+      "results": ["B.harem+1", "F.harem+1"]
+   },
+   {
+      "name": "F_love_3",
+      "action": ["exercise"],
+      "pre_event": ["F_daily_3"],
+      "period": ["Morning", "Forenoon", "Afternoon"],
+      "love": 15,
+      "proceed_to": ["LateNight"]
+   },
+   {
+      "name": "B_daily_8",
+      "action": ["campus"],
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Forenoon", "Afternoon"],
+      "love": 17
+   },
+   {
+      "name": "B_daily_9",
+      "action": ["campus"],
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Afternoon"],
+      "love": 18
+   },
+   {
+      "name": "B_love_4_pre",
+      "no_label": true,
+      "love": 20,
+      "duration": 0
+   },
+   {
+      "name": "B_love_4",
+      "pre_event": ["B_daily_9"],
+      "period": ["Afternoon"],
+      "condition": "t > get_event('B_love_4_pre').date"
+   },
+   {
+      "name": "B_daily_10",
+      "action": ["campus"],
+      "love": 22
+   },
+   {
+      "name": "B_love_5",
+      "action": ["B_room"],
+      "pre_event": ["B_daily_10"],
+      "period": ["Afternoon"],
+      "love": 25
+   },
+   {
+      "name": "B_daily_11",
+      "action": ["campus"],
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Forenoon"],
+      "love": 27
+   },
+   {
+      "name": "B_daily_12",
+      "period": ["Evening"],
+      "love": 28
+   },
+   {
+      "name": "B_love_6_pre",
+      "no_label": true,
+      "love": 30,
+      "duration": 0
+   },
+   {
+      "name": "B_love_6",
+      "action": ["B_room"],
+      "pre_event": ["B_daily_12"],
+      "period": ["Afternoon"],
+      "condition": "t > get_event('B_love_6_pre').date"
+   },
+   {
+      "name": "DE_duo",
+      "action": ["mansion_pool"],
+      "day": ["Saturday", "Sunday"],
+      "period": ["Afternoon"],
+      "ifs": ["D.love>15", "E.love>15"],
+      "results": ["D.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "AG_duo",
+      "day": ["Saturday", "Sunday"],
+      "period": ["LateNight"],
+      "ifs": ["A.love>25", "G.love>15"],
+      "results": ["A.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "w2_d6_1_hint",
+      "day": ["Saturday"],
+      "period": ["Morning"],
+      "condition": "t.week == 2"
+   },
+   {
+      "name": "C_daily_6",
+      "action": ["work"],
+      "love": 17
+   },
+   {
+      "name": "C_love_4",
+      "action": ["mansion_livingroom"],
+      "period": ["Evening"],
+      "love": 20,
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "C_daily_7",
+      "action": ["work"],
+      "period": ["Forenoon"],
+      "love": 22
+   },
+   {
+      "name": "C_love_5",
+      "action": ["work"],
+      "period": ["Forenoon"],
+      "love": 25
+   },
+   {
+      "name": "C_daily_8",
+      "action": ["mansion_bathroom"],
+      "period": ["LateNight"],
+      "love": 27
+   },
+   {
+      "name": "C_love_6",
+      "action": ["work"],
+      "pre_event": ["C_daily_9"],
+      "period": ["Afternoon"],
+      "love": 30,
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "C_daily_9",
+      "action": ["work"],
+      "period": ["Forenoon"],
+      "love": 28
+   },
+   {
+      "name": "C_daily_10",
+      "action": ["work"],
+      "pre_event": ["C_love_6"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "D_daily_6",
+      "action": ["tutor"],
+      "pre_event": ["G_MoveIn"],
+      "period": ["Afternoon"],
+      "love": 17,
+      "results": ["D.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "D_love_4",
+      "action": ["tutor"],
+      "period": ["Afternoon"],
+      "love": 20
+   },
+   {
+      "name": "D_daily_7",
+      "action": ["tutor"],
+      "pre_event": ["D_love_4"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "D_daily_8",
+      "action": ["tutor"],
+      "love": 23
+   },
+   {
+      "name": "D_love_5",
+      "period": ["Morning"],
+      "love": 25
+   },
+   {
+      "name": "D_daily_9",
+      "period": ["LateNight"],
+      "love": 27,
+      "results": ["A.harem+1", "D.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "D_love_6",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"],
+      "love": 30
+   },
+   {
+      "name": "B_daily_13",
+      "action": ["campus"],
+      "period": ["Afternoon"],
+      "love": 32
+   },
+   {
+      "name": "A_daily_10",
+      "action": ["find_A_cafe"],
+      "pre_event": ["A_love_5"],
+      "period": ["Forenoon"],
+      "love": 25
+   },
+   {
+      "name": "A_daily_11",
+      "period": ["Morning"],
+      "condition": "sleep_A_count  >= 3"
+   },
+   {
+      "name": "G_daily_4",
+      "action": ["livingroom"],
+      "period": ["Afternoon"],
+      "love": 17,
+      "results": ["A.harem+1", "B.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "G_daily_5",
+      "period": ["LateNight"],
+      "love": 19
+   },
+   {
+      "name": "G_love_4",
+      "action": ["G_room"],
+      "pre_event": ["G_daily_5"],
+      "period": ["Evening"],
+      "love": 20
+   },
+   {
+      "name": "G_daily_6",
+      "action": ["livingroom"],
+      "period": ["Forenoon"],
+      "love": 22,
+      "results": ["A.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "G_love_5",
+      "action": ["G_room"],
+      "pre_event": ["G_daily_6"],
+      "period": ["Evening"],
+      "love": 25
+   },
+   {
+      "name": "G_daily_7",
+      "action": ["livingroom"],
+      "period": ["Forenoon"],
+      "love": 27,
+      "proceed_to": ["LateNight"]
+   },
+   {
+      "name": "G_love_6",
+      "period": ["Afternoon"],
+      "love": 30,
+      "proceed_to": ["Evening", "+Day(1)"]
+   },
+   {
+      "name": "E_daily_4",
+      "action": ["E_room"],
+      "period": ["Afternoon"],
+      "love": 17
+   },
+   {
+      "name": "E_love_4",
+      "action": ["beach"],
+      "pre_event": ["E_daily_4"],
+      "period": ["Afternoon"],
+      "love": 20
+   },
+   {
+      "name": "E_daily_5",
+      "action": ["hang_park"],
+      "period": ["Forenoon"],
+      "love": 22,
+      "results": ["E.harem+1", "F.harem+1"]
+   },
+   {
+      "name": "E_love_5",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"],
+      "love": 25
+   },
+   {
+      "name": "E_daily_6",
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"],
+      "condition": "is_after_completion(['E_love_5'],1)"
+   },
+   {
+      "name": "E_daily_7",
+      "action": ["mansion_guestroom"],
+      "pre_event": ["E_daily_6"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "is_after_completion(['E_daily_6'],1)"
+   },
+   {
+      "name": "E_daily_8",
+      "action": ["mansion_guestroom"],
+      "pre_event": ["E_daily_7"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "is_after_completion(['E_daily_7'],1)"
+   },
+   {
+      "name": "E_daily_9",
+      "action": ["mansion_guestroom"],
+      "pre_event": ["E_daily_8"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "is_after_completion(['E_daily_8'],1)"
+   },
+   {
+      "name": "E_daily_10",
+      "pre_event": ["E_daily_9"],
+      "period": ["Forenoon"],
+      "condition": "is_after_completion(['E_daily_9'],1)"
+   },
+   {
+      "name": "E_love_6",
+      "action": ["mansion_livingroom"],
+      "pre_event": ["E_daily_10"],
+      "period": ["Evening"],
+      "love": 30,
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "A_daily_12",
+      "action": ["livingroom"],
+      "period": ["Afternoon"],
+      "love": 32
+   },
+   {
+      "name": "D_daily_10",
+      "action": ["mansion_livingroom"],
+      "period": ["Evening"],
+      "love": 32,
+      "results": ["C.harem+1", "D.harem+1"]
+   },
+   {
+      "name": "A_train_sha_1",
+      "auto": false,
+      "training_type": "shame",
+      "love": 30,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "A.love.is_stage_locked"
+   },
+   {
+      "name": "D_train_sha_1",
+      "auto": false,
+      "training_type": "shame",
+      "love": 35,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "A_train_sexskill_1",
+      "auto": false,
+      "training_type": "skill",
+      "love": 30,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "A.love.is_stage_locked"
+   },
+   {
+      "name": "B_train_sexskill_1",
+      "auto": false,
+      "training_type": "skill",
+      "love": 35,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "B.love.is_stage_locked"
+   },
+   {"name": "B_daily_14",
+      "action": ["course"],
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Forenoon","Afternoon"],
+      "condition": "not seen('pcsj')"
+   },
+   {
+      "name": "B_train_sha_1",
+      "auto": false,
+      "training_type": "shame",
+      "love": 35,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "B.love.is_stage_locked"
+   },
+   {
+      "name": "C_train_inti_1",
+      "auto": false,
+      "training_type": "inti",
+      "love": 40,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "C_train_sexskill_1",
+      "auto": false,
+      "training_type": "skill",
+      "love": 40,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "D_train_sub_1",
+      "auto": false,
+      "training_type": "sub",
+      "love": 35,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "B_daily_15",
+      "action": ["B_room"],
+      "period": ["Afternoon"],
+      "love": 37
+   },
+   {
+      "name": "C_daily_11",
+      "action": ["work"],
+      "pre_event": ["C_daily_10"],
+      "period": ["Forenoon"],
+      "love": 32
+   },
+   {
+      "name": "C_love_7",
+      "action": ["work"],
+      "pre_event": ["C_daily_11"],
+      "period": ["Afternoon"],
+      "love": 35,
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "C_daily_12",
+      "pre_event": ["C_love_7"],
+      "period": ["Forenoon"],
+      "love": 37,
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "C_daily_13",
+      "action": ["mansion_livingroom"],
+      "pre_event": ["C_daily_12"],
+      "period": ["Evening"],
+      "love": 42
+   },
+   {
+      "name": "F_daily_4",
+      "pre_event": ["F_love_3"],
+      "period": ["Morning"]
+   },
+   {
+      "name": "F_love_4",
+      "action": ["F_room"],
+      "pre_event": ["F_daily_4"],
+      "period": ["Afternoon"],
+      "love": 20
+   },
+   {
+      "name": "F_daily_5",
+      "action": ["college_bathroom"],
+      "pre_event": ["F_love_4"],
+      "period": ["Afternoon"],
+      "love": 22
+   },
+   {
+      "name": "F_love_5",
+      "pre_event": ["F_daily_5","A_love_5"],
+      "period": ["Forenoon"],
+      "love": 25,
+      "results": ["A.harem+1", "F.harem+1"]
+   },
+   {
+      "name": "D_daily_11",
+      "action": ["tutor"],
+      "period": ["Evening"],
+      "love": 37
+   },
+   {
+      "name": "G_daily_8",
+      "action": ["G_room"],
+      "pre_event": ["G_love_6"],
+      "period": ["Forenoon"],
+      "love": 32
+   },
+   {
+      "name": "G_train_sha_2",
+      "auto": false,
+      "training_type": "shame",
+      "pre_event": ["G_daily_8"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "G.love.is_stage_locked"
+   },
+   {
+      "name": "G_daily_9",
+      "action": ["bookstore"],
+      "period": ["Afternoon"],
+      "love": 37
+   },
+   {
+      "name": "G_train_inti_1",
+      "auto": false,
+      "training_type": "inti",
+      "love": 35,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "G.love.is_stage_locked"
+   },
+   {
+      "name": "E_daily_11",
+      "action": ["my_room"],
+      "pre_event": ["E_love_6"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "E_daily_12",
+      "action": ["mansion_livingroom"],
+      "love": 33,
+      "pre_event": ["E_daily_11"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "E_love_7",
+      "action": ["mansion_guestroom"],
+      "love": 35,
+      "pre_event": ["E_daily_12"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "E_love_8",
+      "action": ["mansion_livingroom"],
+      "love": 40,
+      "pre_event": ["E_love_7"],
+      "period": ["Morning"],
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "E_daily_13",
+      "action": ["livingroom"],
+      "pre_event": ["E_love_8"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "E_train_inti_1",
+      "auto": false,
+      "training_type": "inti",
+      "love": 45,
+      "pre_event": ["E_daily_13"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "E.love.is_stage_locked"
+   },
+   {
+      "name": "B_daily_16",
+      "action": ["bookstore"],
+      "condition": "B.harem >= 10 and G.harem >= 10",
+      "results": ["B.harem+1", "G.harem+1"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "B_train_inti_1",
+      "auto": false,
+      "training_type": "inti",
+      "love": 35,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "B.love.is_stage_locked"
+   },
+   {
+      "name": "A_daily_13",
+      "action": ["livingroom"],
+      "pre_event": ["C_daily_12", "G_love_3"],
+      "condition": "A.harem >= 10",
+      "period": ["Morning"]
+   },
+   {
+      "name": "A_train_inti_1",
+      "auto": false,
+      "training_type": "inti",
+      "love": 30,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "A.love.is_stage_locked"
+   },
+   {
+      "name": "ACG_duo_1",
+      "pre_event": ["C_daily_12", "G_love_3"],
+      "condition": "A.harem >= 10 and G.harem >= 10 and C.harem >= 10",
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "store_1_cj",
+      "action": ["street"],
+      "pre_event": ["A_love_3", "B_love_2", "C_love_2", "D_love_2", "G_love_2"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "store_1_ft_firstime",
+      "condition": "false"
+   },
+   {
+      "name": "store_1_ft_playlet1",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_1_ft_playlet2",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_1_ft_playlet3",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_1_cl_firstime",
+      "condition": "false"
+   },
+   {
+      "name": "store_1_cl_playlet1",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_1_cl_playlet2",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_1_bl_firstime",
+      "condition": "false"
+   },
+   {
+      "name": "store_1_bl_playlet1",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "reset_shop",
+      "period": ["Morning"],
+      "duration": 0,
+      "repeatable": true
+   },
+   {
+      "name": "F_daily_6",
+      "pre_event": ["F_love_5"],
+      "period": ["Morning"]
+   },
+   {
+      "name": "F_love_6",
+      "love": 30,
+      "pre_event": ["F_daily_6", "B_train_inti_1"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "F_daily_7",
+      "action": ["campus"],
+      "love": 32,
+      "pre_event": ["F_love_6"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "F_love_7",
+      "action": ["bookstore"],
+      "love": 35,
+      "pre_event": ["F_daily_7", "G_train_sha_2"],
+      "period": ["Afternoon"],
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "C_daily_14",
+      "action": ["beach"],
+      "love": 47,
+      "pre_event": ["C_daily_12"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "C_daily_15",
+      "pre_event": ["C_daily_13", "G_love_4"],
+      "condition": "build_pool_count >= 3",
+      "period": ["Morning"]
+   },
+   {
+      "name": "E_daily_14",
+      "action": ["mansion_bathroom"],
+      "love": 47,
+      "period": ["LateNight"]
+   },
+   {
+      "name": "G_daily_10",
+      "love": 42,
+      "period": ["LateNight"]
+   },
+   {
+      "name": "D_daily_12",
+      "action": ["livingroom"],
+      "love": 42,
+      "period": ["Forenoon"],
+      "results": ["A.harem+1", "D.harem+1", "B.harem+1"]
+   },
+   {
+      "name": "D_daily_13",
+      "action": ["mansion_livingroom"],
+      "love": 47,
+      "pre_event": ["D_train_sub_1"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "C_train_sub_1",
+      "auto": false,
+      "training_type": "sub",
+      "love": 50,
+      "pre_event": ["C_daily_14"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "C_train_sha_1",
+      "auto": false,
+      "training_type": "shame",
+      "love": 50,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "E_train_sub_1",
+      "auto": false,
+      "training_type": "sub",
+      "love": 50,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "E.love.is_stage_locked"
+   },
+   {
+      "name": "G_train_sub_2",
+      "auto": false,
+      "training_type": "sub",
+      "pre_event": ["G_daily_10"],
+      "love": 45,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "G.love.is_stage_locked"
+   },
+   {
+      "name": "D_train_inti_1",
+      "auto": false,
+      "training_type": "inti",
+      "love": 45,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "D_train_sexskill_1",
+      "auto": false,
+      "training_type": "skill",
+      "love": 45,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "DE_duo_2",
+      "condition": "D.harem >= 10 and E.harem >= 10",
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "results": ["D.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "DG_duo_1",
+      "pre_event": ["D_train_sub_1", "G_train_sub_2"],
+      "condition": "D.harem >= 15 and G.harem >= 15",
+      "period": ["Afternoon"],
+      "results": ["D.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "found_dungeon",
+      "pre_event": ["A_daily_5"],
+      "condition": "clean_count >= 5",
+      "period": ["Morning"]
+   },
+   {
+      "name": "found_pool",
+      "pre_event": ["C_daily_13","C_train_inti_1"],
+      "condition": "build_pool_count >= 7",
+      "period": ["LateNight"]
+   },
+   {
+      "name": "A_train_sub_1",
+      "auto": false,
+      "training_type": "sub",
+      "love": 45,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "A.love.is_stage_locked"
+   },
+   {
+      "name": "B_train_sha_2",
+      "auto": false,
+      "training_type": "shame",
+      "pre_event": ["B_train_sha_1"],
+      "love": 50,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "B.love.is_stage_locked"
+   },
+   {
+      "name": "B_train_inti_2",
+      "auto": false,
+      "training_type": "inti",
+      "pre_event": ["B_train_inti_1"],
+      "love": 55,
+      "proceed_to": ["Evening", "+Day(1)"],
+      "condition": "B.love.is_stage_locked"
+   },
+   {
+      "name": "B_daily_17",
+      "pre_event": ["B_train_inti_2"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "B_daily_18",
+      "pre_event": ["B_daily_17"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "B_daily_19",
+      "pre_event": ["B_daily_18"],
+      "action": ["hotel_shop"],
+      "period": ["Evening"],
+      "proceed_to": ["Morning", "+Day(1)"]
+   },
+   {
+      "name": "C_train_sha_2",
+      "auto": false,
+      "training_type": "shame",
+      "pre_event": ["C_train_sha_1"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "E_train_sub_2",
+      "auto": false,
+      "training_type": "sub",
+      "pre_event": ["E_train_sub_1"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "E.love.is_stage_locked"
+   },
+   {
+      "name": "C_daily_16",
+      "action": ["work"],
+      "love": 57,
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "A_daily_14",
+      "action": ["library"],
+      "pre_event": ["A_train_sub_1"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "store_2_chat_1",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_2_chat_2",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_2_chat_3",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "hint_clean",
+      "condition": "clean_count >= 1",
+      "period": ["Morning"]
+   },
+   {
+      "name": "G_daily_11",
+      "action": ["bookstore"],
+      "love": 47,
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "G_train_sexskill_1",
+      "auto": false,
+      "training_type": "skill",
+      "pre_event": ["G_train_sub_2"],
+      "love": 50,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "G.love.is_stage_locked"
+   },
+   {
+      "name": "G_train_inti_2",
+      "auto": false,
+      "training_type": "inti",
+      "pre_event": ["G_train_sexskill_1","G_train_inti_1"],
+      "love": 55,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "G.love.is_stage_locked"
+   },
+   {
+      "name": "G_daily_12",
+      "action": ["livingroom"],
+      "love": 52,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "G_daily_13",
+      "action": ["bookstore"],
+      "love": 53,
+      "period": ["Afternoon"],
+      "results": ["B.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "D_train_inti_2",
+      "auto": false,
+      "training_type": "inti",
+      "pre_event": ["D_train_inti_1"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "A_train_sha_2",
+      "auto": false,
+      "training_type": "shame",
+      "pre_event": ["A_train_sha_1"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "A.love.is_stage_locked"
+   },
+   {
+      "name": "B_daily_21",
+      "action": ["campus"],
+      "pre_event": ["store_2_more_firstime","D_daily_12"],
+      "period": ["Afternoon"],
+      "results": ["B.harem+1", "C.harem+1"]
+   },
+   {
+      "name": "ACG_duo_2",
+      "condition": "A.harem >= 20 and C.harem >= 20 and G.harem >= 20",
+      "pre_event": ["C_train_sub_1"],
+      "action": ["livingroom"],
+      "period": ["Afternoon"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "ACG_duo_3",
+      "action": ["livingroom"],
+      "period": ["LateNight"],
+      "pre_event": ["ACG_duo_2"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "CDE_duo_1",
+      "condition": "C.harem >= 15 and D.harem >= 15 and E.harem >= 10",
+      "period": ["LateNight"],
+      "results": ["C.harem+1", "D.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "CDE_duo_2",
+      "condition": "C.harem >= 20 and E.harem >= 15",
+      "period": ["Afternoon"],
+      "pre_event": ["CDE_duo_1"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "results": ["C.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "found_outdoors",
+      "action": ["alley"],
+      "pre_event": ["G_love_6"],
+      "period": ["LateNight"]
+   },
+   {
+      "name": "store_2_more_firstime",
+      "action": ["hotel_shop"],
+      "condition": "hotel_shop_chat_count >= 3"
+   },
+   {
+      "name": "store_2_sex_firstime",
+      "action": ["hotel_shop"],
+      "condition": "satisfy_her_need_count >= 3"
+   },
+   {
+      "name": "store_2_more_playlet1",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "store_2_more_playlet2",
+      "condition": "false",
+      "repeatable": true
+   },
+   {
+      "name": "CDE_duo_3",
+      "pre_event": ["CDE_duo_2"],
+      "action": ["E_room"],
+      "period": ["Forenoon"],
+      "results": ["C.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "ACG_duo_4",
+      "condition": "A.harem >= 22 and G.harem >= 22",
+      "pre_event": ["ACG_duo_3"],
+      "action": ["livingroom"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "ACG_duo_5",
+      "condition": "A.harem >= 25 and C.harem >= 25 and G.harem >= 25",
+      "pre_event": ["ACG_duo_4"],
+      "action": ["my_room"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "A_train_sub_2",
+      "auto": false,
+      "training_type": "sub",
+      "pre_event": ["A_train_sub_1"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "A.love.is_stage_locked"
+   },
+   {
+      "name": "A_daily_15",
+      "love": 57,
+      "period": ["Morning"]
+   },
+   {
+      "name": "A_train_inti_2",
+      "auto": false,
+      "training_type": "inti",
+      "pre_event": ["A_train_sub_1", "A_daily_15"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "A.love.is_stage_locked"
+   },
+   {
+      "name": "E_train_sexskill_1",
+      "auto": false,
+      "training_type": "skill",
+      "pre_event": ["E_train_sub_2"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "E.love.is_stage_locked"
+   },
+   {
+      "name": "B_daily_22",
+      "pre_event": ["B_daily_19"],
+      "love": 57,
+      "period": ["Morning"]
+   },
+   {
+      "name": "B_train_sha_3",
+      "auto": false,
+      "training_type": "shame",
+      "love": 60,
+      "pre_event": ["B_daily_21", "B_daily_19"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "B.love.is_stage_locked"
+   },
+   {
+      "name": "F_daily_8",
+      "love": 40,
+      "pre_event": ["ACG_duo_4"],
+      "action": ["college_bathroom"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "F_love_8",
+      "pre_event": ["F_daily_8"],
+      "action": ["livingroom"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "trailer_1",
+      "pre_event": ["ACG_duo_5", "CDE_duo_3", "A_train_inti_2", "B_train_sha_3", "E_train_sexskill_1", "G_train_inti_2", "F_love_8"],
+      "action": ["shop"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "CDE_duo_4",
+      "pre_event": ["CDE_duo_3"],
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "CDE_duo_5",
+      "condition": "C.harem >= 22 and E.harem >= 17",
+      "action": ["mansion_bathroom"],
+      "period": ["Evening"],
+      "pre_event": ["CDE_duo_4"]
+   },
+   {
+      "name": "CDE_duo_7",
+      "condition": "C.harem >= 23 and E.harem >= 18",
+      "action": ["bungalow"],
+      "period": ["LateNight"],
+      "pre_event": ["CDE_duo_5"]
+   },
+   {
+      "name": "CDE_duo_6",
+      "condition": "C.harem >= 25 and E.harem >= 20 and D.harem >= 20",
+      "action": ["mansion_bathroom"],
+      "period": ["Evening"],
+      "pre_event": ["CDE_duo_7", "D_train_sexskill_2"]
+   },
+   {
+      "name": "CDE_duo_8",
+      "action": ["mansion_livingroom"],
+      "period": ["Forenoon"],
+      "pre_event": ["CDE_duo_6"]
+   },
+   {
+      "name": "AB_duo_1",
+      "condition": "A.harem >= 20 and B.harem >= 15",
+      "action": ["livingroom"],
+      "period": ["Afternoon"],
+      "pre_event": ["B_train_sha_3"]
+   },
+   {
+      "name": "C_train_sub_2",
+      "auto": false,
+      "training_type": "sub",
+      "love": 65,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "C_train_inti_3",
+      "auto": false,
+      "training_type": "inti",
+      "love": 70,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "D_train_sexskill_2",
+      "auto": false,
+      "training_type": "skill",
+      "love": 60,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "G_train_sub_3",
+      "auto": false,
+      "training_type": "sub",
+      "love": 60,
+      "pre_event": ["G_train_inti_2"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "G.love.is_stage_locked"
+   },
+   {
+      "name": "C_daily_17",
+      "love": 67,
+      "pre_event": ["C_train_sub_2"],
+      "action": ["bathroom"],
+      "period": ["Morning"]
+   },
+   {
+      "name": "G_daily_14",
+      "love": 57,
+      "pre_event": ["G_train_sub_2"],
+      "condition": "G.harem >= 20 and B.harem >= 15",
+      "action": ["bookstore"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "E_train_sha_2",
+      "auto": false,
+      "training_type": "shame",
+      "love": 60,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "E.love.is_stage_locked"
+   },
+   {
+      "name": "ACG_duo_6",
+      "condition": "is_after_completion(['ACG_duo_5'], 2)", 
+      "action": ["my_room"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "ACG_duo_7",
+      "condition": "is_after_completion(['ACG_duo_6'], 2)", 
+      "period": ["Morning"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "G_daily_15",
+      "love": 60,
+      "pre_event": ["G_train_sub_3"],
+      "action": ["G_room"],
+      "period": ["Evening"]
+   },
+   {
+      "name": "Special_1",
+      "condition": "C.harem >= 20 and B.harem >= 15 and is_after_completion(['B_daily_21'], 2)", 
+      "pre_event": ["E_train_sub_1"],
+      "action": ["mansion_livingroom"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "Special_2",
+      "condition": "C.harem >= 22 and B.harem >= 17 and is_after_completion(['Special_1'], 2)", 
+      "action": ["beach"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "Special_3",
+      "condition": "is_after_completion(['Special_2'], 2)", 
+      "action": ["livingroom"],
+      "period": ["Forenoon"]
+   },
+   {
+      "name": "Special_4",
+      "pre_event": ["Special_3"],
+      "action": ["my_room"],
+      "period": ["Evening"]
+   },  
+   {
+      "name": "Special_5",
+      "condition": "C.harem >= 25 and B.harem >= 20 and is_after_completion(['Special_4'], 2)", 
+      "action": ["my_room"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "CD_duo_1",
+      "condition": "is_after_completion(['CDE_duo_8'], 2)", 
+      "period": ["Evening"],
+      "results": ["C.harem+1", "D.harem+1"]
+   },
+   {
+      "name": "AB_duo_2",
+      "condition": "A.harem >= 22 and B.harem >= 20",
+      "pre_event": ["AB_duo_1"],
+      "period": ["Afternoon"],
+      "results": ["A.harem+1", "B.harem+1"]
+   },
+   {
+      "name": "ACG_duo_8",
+      "condition": "is_after_completion(['ACG_duo_7'], 2)", 
+      "pre_event": ["C_train_inti_3"],
+      "action": ["A_room"],
+      "period": ["LateNight"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "F_daily_9",
+      "love": 42,
+      "pre_event": ["F_love_8"],
+      "action": ["hang_park"],
+      "period": ["Morning"]
+   },
+   {
+      "name": "F_love_9",
+      "love": 45,
+      "pre_event": ["F_daily_9"],
+      "action": ["F_room"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "F_daily_10",
+      "love": 47,
+      "pre_event": ["F_love_9"],
+      "condition": "B.harem >= 15",
+      "action": ["hang_park"],
+      "period": ["Morning"]
+   },
+   {
+      "name": "F_love_10",
+      "love": 50,
+      "pre_event": ["F_daily_10"],
+      "action": ["F_room"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "B_train_inti_3",
+      "auto": false,
+      "training_type": "inti",
+      "love": 65,
+      "pre_event": ["B_train_inti_2"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "B.love.is_stage_locked"
+   },
+   {
+      "name": "C_train_sexskill_2",
+      "auto": false,
+      "training_type": "skill",
+      "love": 75,
+      "pre_event": ["C_train_inti_3"],
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "C.love.is_stage_locked"
+   },
+   {
+      "name": "Minna_store_badge",
+      "no_label": true,
+      "runnable": false,
+      "duration": 0,
+      "action": ["hotel_shop"],
+      "condition": "not seen ('store_2_more_firstime', 'store_2_sex_firstime')"
+   },
+   {
+      "name": "Posia_store_badge",
+      "no_label": true,
+      "runnable": false,
+      "duration": 0,
+      "action": ["shop"],
+      "condition": "not seen ('store_1_cl_firstime', 'store_1_bl_firstime')"
+   },
+   {
+      "name": "D_daily_14",
+      "love": 62,
+      "action": ["beach"],
+      "period": ["Afternoon"]
+   },
+   {
+      "name": "D_train_sha_2",
+      "auto": false,
+      "training_type": "shame",
+      "love": 65,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "ACG_duo_9",
+      "condition": "is_after_completion(['ACG_duo_8'], 2)", 
+      "action": ["livingroom"],
+      "period": ["Afternoon"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "CDE_duo_9",
+      "action": ["mansion_pool"],
+      "period": ["Afternoon"],
+      "pre_event": ["CDE_duo_8","C_train_sub_2"],
+      "results": ["C.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "BDG_duo_1",
+      "action": ["bookstore"],
+      "condition": "G.harem >= 22 and B.harem >= 20",
+      "period": ["Afternoon"],
+      "pre_event": ["B_daily_16","G_daily_14"],
+      "results": ["G.harem+1", "B.harem+1"]
+   },
+   {
+      "name": "BDG_duo_2",
+      "action": ["livingroom"],
+      "condition": "G.harem >= 24 and B.harem >= 20",
+      "period": ["Afternoon"],
+      "pre_event": ["BDG_duo_1","Special_6"],
+      "results": ["G.harem+1", "B.harem+1"]
+   },
+   {
+      "name": "CE_duo_1",
+      "action": ["work"],
+      "period": ["Forenoon"],
+      "condition": "is_after_completion(['CDE_duo_9'], 3)",
+      "pre_event": ["E_train_sha_2","C_train_sub_2","CDE_duo_9"],
+      "results": ["C.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "CE_duo_2",
+      "action": ["work"],
+      "condition": "is_after_completion(['CE_duo_1'], 2)",
+      "period": ["Forenoon"],
+      "results": ["C.harem+1", "E.harem+1"]
+   },
+   {
+      "name": "B_final_1",
+      "action": ["B_room"],
+      "period": ["Afternoon"],
+      "pre_event": ["Special_6","B_train_inti_3"],
+      "condition": "is_after_completion(['Special_5'], 3)"
+   },
+   {
+      "name": "Special_6",
+      "action": ["mansion_pool"],
+      "period": ["Afternoon"],
+      "condition": "is_after_completion(['Special_5'], 3)",
+      "pre_event": ["B_train_inti_3","D_daily_12"]
+   },
+   {
+      "name": "D_train_sexskill_3",
+      "auto": false,
+      "training_type": "skill",
+      "love": 70,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "D.love.is_stage_locked"
+   },
+   {
+      "name": "G_train_inti_3",
+      "auto": false,
+      "training_type": "inti",
+      "love": 65,
+      "proceed_to": ["Morning", "+Day(1)"],
+      "condition": "G.love.is_stage_locked"
+   },
+   {
+      "name": "G_daily_16",
+      "love": 62,
+      "action": ["G_room"],
+      "period": ["LateNight"]
+   },
+   {
+      "name": "ACG_final_1",
+      "action": ["my_room"],
+      "period": ["Morning"],
+      "pre_event": ["ACG_duo_9","A_train_inti_2","C_train_inti_3","G_train_inti_3"],
+      "condition": "C.harem >= 30 and A.harem >= 30 and G.harem >= 30 and is_after_completion(['ACG_duo_9'], 2)"
+   },
+   {
+      "name": "ACG_duo_10",
+      "condition": "C.harem >= 27 and A.harem >= 27 and G.harem >= 27 and is_after_completion(['ACG_duo_9'], 2)", 
+      "action": ["livingroom"],
+      "period": ["LateNight"],
+      "results": ["A.harem+1", "C.harem+1", "G.harem+1"]
+   },
+   {
+      "name": "CDE_final",
+      "action": ["beach"],
+      "period": ["Afternoon"],
+      "pre_event": ["CDE_duo_9","CE_duo_2","C_train_inti_3","D_train_inti_2","E_train_sub_2"],
+      "condition": "C.harem >= 30 and D.harem >= 25 and E.harem >= 25 and is_after_completion(['CE_duo_2'], 2)"
+   },
+   {
+      "name": "B_final_2",
+      "period": ["Evening"],
+      "pre_event": ["B_final_1"],
+      "condition": "B.harem >= 25 and is_after_completion(['B_final_1'], 2)"
+   },
+   {
+      "name": "A_final",
+      "action": ["my_room"],
+      "period": ["Morning"],
+      "pre_event": ["A_train_inti_2"],
+      "love": 65
+   },
+   {
+      "name": "C_final",
+      "action": ["work"],
+      "period": ["Afternoon"],
+      "pre_event": ["C_train_inti_3"],
+      "love": 80
+   },
+   {
+      "name": "Final_final",
+      "period": ["Morning"],
+      "pre_event": ["CDE_final","ACG_final_1","B_final_2","F_love_10"],
+      "condition": "is_after_completion(['CDE_final'], 2) and is_after_completion(['B_final_2'], 2) and is_after_completion(['ACG_final_1'], 2) and is_after_completion(['F_love_10'], 2)"
+   },
+   {
+      "name": "trailor_final",
+      "period": ["Forenoon"],
+      "action": ["shop"],
+      "pre_event": ["Final_final","trailer_1"]
+   },
+   {
+      "name": "D_final",
+      "period": ["Afternoon"],
+      "action": ["D_room"],
+      "love": 75,
+      "pre_event": ["D_train_sexskill_3"]
+   },
+   {
+      "name": "E_final",
+      "period": ["Forenoon"],
+      "action": ["E_room"],
+      "love": 70,
+      "pre_event": ["E_train_sha_2"]
+   },
+   {
+      "name": "afterstory_1",
+      "period": ["Forenoon"],
+      "action": ["livingroom"],
+      "pre_event": ["ACG_final_1","B_final_2","A_final"],
+      "condition": "is_after_completion(['ACG_final_1'], 3) and is_after_completion(['B_final_2'], 3) and is_after_completion(['A_final'], 2)"
+   },
+   {
+      "name": "afterstory_2",
+      "period": ["Afternoon"],
+      "action": ["work"],
+      "pre_event": ["CDE_final","C_final","E_final"],
+      "condition": "is_after_completion(['CDE_final'], 3) and is_after_completion(['C_final'], 3) and is_after_completion(['E_final'], 3)"
+   },
+   {
+      "name": "afterstory_3",
+      "period": ["Afternoon"],
+      "action": ["livingroom"],
+      "pre_event": ["ACG_final_1"],
+      "condition": "is_after_completion(['ACG_final_1'], 3)"
+   },
+   {
+      "name": "afterstory_4",
+      "period": ["Afternoon"],
+      "action": ["B_room"],
+      "pre_event": ["B_final_2"],
+      "condition": "is_after_completion(['B_final_2'], 3)"
+   },
+   {
+      "name": "F_train_sha_2",
+      "auto": false,
+      "condition": "false"
+   },
+   {
+      "name": "B_train_sub_2",
+      "auto": false,
+      "condition": "false"
+   },
+   {
+      "name": "D_train_sub_2",
+      "auto": false,
+      "condition": "false"
+   },
+   {
+      "name": "E_train_inti_2",
+      "auto": false,
+      "condition": "false"
+   },
+   {
+      "name": "F_train_inti_2",
+      "auto": false,
+      "condition": "false"
+   },
+   {
+      "name": "F_train_sub_2",
+      "auto": false,
+      "condition": "false"
+   },
+   {
+      "name": "C_train_inti_2",
+      "auto": false,
+      "condition": "false"
+   }
+]   

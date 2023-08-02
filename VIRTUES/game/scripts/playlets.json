@@ -1,0 +1,1375 @@
+[
+  {
+    "label": "clothing_afternoon_A_1",
+    "nz": "A",
+    "action": ["find_A_clothing"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "alley_latenight_A_1",
+    "nz": "A",
+    "action": ["alley"],
+    "period": ["LateNight"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "bnb_livingroom_morning_A_1",
+    "nz": "A",
+    "action": ["livingroom"],
+    "period": ["Morning"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "bnb_bathroom_morning_A_1",
+    "nz": "A",
+    "action": ["bathroom"],
+    "period": ["Morning"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "cafe_forenoon_A_2",
+    "nz": "A",
+    "action": ["find_A_cafe"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "company_forenoon_A_1",
+    "nz": "A",
+    "action": ["work"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "clothing_afternoon_A_2",
+    "nz": "A",
+    "action": ["find_A_clothing"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "school_campus_forenoon_A_1",
+    "nz": "A",
+    "action": ["campus"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "find_A_restaurant_evening_A_2",
+    "nz": "A",
+    "action": ["find_A_restaurant"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "bnb_livingroom_latenight_A_1",
+    "nz": "A",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "alley_latenight_A_2",
+    "nz": "A",
+    "action": ["alley"],
+    "period": ["LateNight"],
+    "in_event": ["pcsj"],
+    "out_event": ["A_love_4"]
+  },
+  {
+    "label": "bnb_livingroom_morning_A_2",
+    "nz": "A",
+    "action": ["livingroom"],
+    "period": ["Morning"],
+    "in_event": ["A_love_4"],
+    "out_event": ["A_love_5"]
+  },
+  {
+    "label": "cafe_forenoon_A_3",
+    "nz": "A",
+    "action": ["find_A_cafe"],
+    "period": ["Forenoon"],
+    "in_event": ["A_love_4"],
+    "out_event": ["A_love_5"]
+  },
+  {
+    "label": "clothing_afternoon_A_3",
+    "nz": "A",
+    "action": ["find_A_clothing"],
+    "period": ["Afternoon"],
+    "in_event": ["A_love_4"],
+    "out_event": ["A_love_5"]
+  },
+  {
+    "label": "find_A_restaurant_evening_A_3",
+    "nz": "A",
+    "action": ["find_A_restaurant"],
+    "period": ["Evening"],
+    "in_event": ["A_love_4"],
+    "out_event": ["A_love_5"]
+  },
+  {
+    "label": "bnb_livingroom_morning_A_3",
+    "nz": "A",
+    "action": ["livingroom"],
+    "period": ["Morning"],
+    "in_event": ["A_love_5"]
+  },
+  {
+    "label": "cafe_forenoon_A_4",
+    "nz": "A",
+    "action": ["find_A_cafe"],
+    "period": ["Forenoon"],
+    "in_event": ["A_love_5"]
+  },
+  {
+    "label": "clothing_afternoon_A_4",
+    "nz": "A",
+    "action": ["find_A_clothing"],
+    "period": ["Afternoon"],
+    "in_event": ["A_love_5"]
+  },
+  {
+    "label": "bnb_livingroom_latenight_A_2",
+    "nz": "A",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "in_event": ["A_love_5"],
+    "out_event": ["A_train_inti_1"]
+  },
+  {
+    "label": "alley_latenight_A_3",
+    "nz": "A",
+    "action": ["alley"],
+    "period": ["LateNight"],
+    "in_event": ["A_love_5"]
+  },
+  {
+    "label": "park_stroll_morning_B_2",
+    "nz": "B",
+    "action": ["hang_park"],
+    "period": ["Morning"],
+    "in_event": ["gysj_2"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "school_campus_morning_B_1",
+    "nz": "B",
+    "action": ["campus"],
+    "period": ["Morning"],
+    "in_event": ["pcsj"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "school_campus_forenoon_B_2",
+    "nz": "B",
+    "action": ["campus"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "school_class_forenoon_B_1",
+    "nz": "B",
+    "action": ["course"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["B_love_4"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "school_library_afternoon_B_1",
+    "nz": "B",
+    "action": ["library"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "downtown_afternoon_B_1",
+    "nz": "B",
+    "action": ["street"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "park_stroll_evening_B_1",
+    "nz": "B",
+    "action": ["hang_park"],
+    "period": ["Evening"],
+    "in_event": ["gysj_2"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "bnb_bathroom_evening_B_1",
+    "nz": "B",
+    "action": ["bathroom"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "bookstore_afternoon_B_1",
+    "nz": "B",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["se_bookstore"],
+    "out_event": ["B_love_4"]
+  },
+  {
+    "label": "school_class_forenoon_B_3",
+    "nz": "B",
+    "action": ["course"],
+    "period": ["Forenoon"],
+    "in_event": ["B_love_4"],
+    "out_event": ["B_love_5"]
+  },
+  {
+    "label": "park_stroll_afternoon_B_1",
+    "nz": "B",
+    "action": ["hang_park"],
+    "period": ["Afternoon"],
+    "in_event": ["B_love_4"],
+    "out_event": ["B_love_5"]
+  },
+  {
+    "label": "school_campus_evening_B_2",
+    "nz": "B",
+    "action": ["campus"],
+    "period": ["Evening"],
+    "in_event": ["B_love_4"],
+    "out_event": ["B_love_5"]
+  },
+  {
+    "label": "park_stroll_morning_B_3",
+    "nz": "B",
+    "action": ["hang_park"],
+    "period": ["Morning"],
+    "in_event": ["B_love_5"]
+  },
+  {
+    "label": "bnb_frontyard_morning_B_1",
+    "nz": "B",
+    "action": ["frontyard"],
+    "period": ["Morning"],
+    "in_event": ["B_love_5"],
+    "out_event": ["B_train_sha_2"]
+  },
+  {
+    "label": "school_class_forenoon_B_2",
+    "nz": "B",
+    "action": ["course"],
+    "period": ["Forenoon"],
+    "in_event": ["B_love_5"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "school_campus_forenoon_B_4",
+    "nz": "B",
+    "action": ["campus"],
+    "period": ["Forenoon"],
+    "in_event": ["B_daily_11"]
+  },
+  {
+    "label": "bnb_bathroom_latenight_B_1",
+    "nz": "B",
+    "action": ["bathroom"],
+    "period": ["LateNight"],
+    "in_event": ["B_love_5", "A_daily_4"],
+    "out_event": ["B_train_sha_2"]
+  },
+  {
+    "label": "school_library_afternoon_B_2",
+    "nz": "B",
+    "action": ["library"],
+    "period": ["Afternoon"],
+    "in_event": ["B_love_5"],
+    "out_event": ["B_love_6"]
+  },
+  {
+    "label": "downtown_evening_B_1",
+    "nz": "B",
+    "action": ["street"],
+    "period": ["Evening"],
+    "in_event": ["B_love_5", "se_bookstore"]
+  },
+  {
+    "label": "broom_evening_B_1",
+    "nz": "B",
+    "action": ["B_room"],
+    "period": ["Evening"],
+    "in_event": ["B_love_5"]
+  },
+  {
+    "label": "bnb_frontyard_morning_C_1",
+    "nz": "C",
+    "action": ["frontyard"],
+    "period": ["Morning"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "company_forenoon_C_1",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "company_forenoon_C_2",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "company_afternoon_C_1",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "downtown_afternoon_C_1",
+    "nz": "C",
+    "action": ["street"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"]
+  },
+  {
+    "label": "mansion_tutor_afternoon_C_1",
+    "nz": "C",
+    "action": ["tutor"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"]
+  },
+  {
+    "label": "mansion_livingroom_evening_C_1",
+    "nz": "C",
+    "action": ["mansion_livingroom"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"]
+  },
+  {
+    "label": "company_evening_C_1",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "mansion_swimpool_latenight_C_1",
+    "nz": "C",
+    "action": ["mansion_pool"],
+    "period": ["LateNight"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"]
+  },
+  {
+    "label": "mansion_croom_latenight_C_1",
+    "nz": "C",
+    "action": ["C_room"],
+    "period": ["LateNight"],
+    "in_event": ["pcsj"],
+    "out_event": ["C_love_4"]
+  },
+  {
+    "label": "bnb_livingroom_morning_C_1",
+    "nz": "C",
+    "action": ["livingroom"],
+    "period": ["Morning"],
+    "in_event": ["C_love_4"],
+    "out_event": ["C_love_7"]
+  },
+  {
+    "label": "company_forenoon_C_3",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Forenoon"],
+    "in_event": ["C_love_4"],
+    "out_event": ["C_train_inti_1"]
+  },
+  {
+    "label": "company_afternoon_C_2",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Afternoon"],
+    "in_event": ["C_love_4"],
+    "out_event": ["C_love_7"]
+  },
+  {
+    "label": "downtown_afternoon_C_2",
+    "nz": "C",
+    "action": ["street"],
+    "period": ["Afternoon"],
+    "in_event": ["C_love_4"],
+    "out_event": ["C_love_7"]
+  },
+  {
+    "label": "alley_evening_C_1",
+    "nz": "C",
+    "action": ["alley"],
+    "period": ["Evening"],
+    "in_event": ["C_love_4"],
+    "out_event": ["C_love_7"]
+  },
+  {
+    "label": "mansion_bathroom_latenight_C_1",
+    "nz": "C",
+    "action": ["mansion_bathroom"],
+    "period": ["LateNight"],
+    "in_event": ["C_love_4"],
+    "out_event": ["C_daily_12"]
+  },
+  {
+    "label": "park_stroll_morning_D_1",
+    "nz": "D",
+    "action": ["hang_park"],
+    "period": ["Morning"],
+    "in_event": ["pcsj"],
+    "out_event": ["D_love_6"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "mansion_tutor_afternoon_D_1",
+    "nz": "D",
+    "action": ["tutor"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["D_love_5"]
+  },
+  {
+    "label": "mansion_tutor_afternoon_D_2",
+    "nz": "D",
+    "action": ["tutor"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["D_love_5"]
+  },
+  {
+    "label": "mansion_swimpool_afternoon_D_1",
+    "nz": "D",
+    "action": ["mansion_pool"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["D_love_6"]
+  },
+  {
+    "label": "mansion_tutor_evening_D_1",
+    "nz": "D",
+    "action": ["tutor"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["D_love_5"]
+  },
+  {
+    "label": "mansion_tutor_evening_D_2",
+    "nz": "D",
+    "action": ["tutor"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["D_love_5"]
+  },
+  {
+    "label": "bookstore_afternoon_D_1",
+    "nz": "D",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["se_bookstore"],
+    "out_event": ["D_love_6"]
+  },
+  {
+    "label": "mansion_tutor_afternoon_D_3",
+    "nz": "D",
+    "action": ["tutor"],
+    "period": ["Afternoon"],
+    "in_event": ["D_love_5"]
+  },
+  {
+    "label": "mansion_tutor_evening_D_3",
+    "nz": "D",
+    "action": ["tutor"],
+    "period": ["Evening"],
+    "in_event": ["D_love_5"],
+    "out_event": ["D_train_sub_1"]
+  },
+  {
+    "label": "mansion_livingroom_forenoon_E_1",
+    "nz": "E",
+    "action": ["mansion_livingroom"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["E_love_3"]
+  },
+  {
+    "label": "company_forenoon_E_1",
+    "nz": "E",
+    "action": ["work"],
+    "period": ["Forenoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["E_love_5"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "mansion_swimpool_afternoon_E_1",
+    "nz": "E",
+    "action": ["mansion_pool"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["E_love_5"]
+  },
+  {
+    "label": "mansion_tutor_afternoon_E_1",
+    "nz": "E",
+    "action": ["tutor"],
+    "period": ["Afternoon"],
+    "in_event": ["pcsj"],
+    "out_event": ["E_love_3"]
+  },
+  {
+    "label": "mansion_bathroom_evening_E_1",
+    "nz": "E",
+    "action": ["mansion_bathroom"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["E_love_5"]
+  },
+  {
+    "label": "find_A_restaurant_evening_E_1",
+    "nz": "E",
+    "action": ["find_A_restaurant"],
+    "period": ["Evening"],
+    "in_event": ["pcsj"],
+    "out_event": ["E_love_3"]
+  },
+  {
+    "label": "park_exercise_morning_F_1",
+    "nz": "F",
+    "action": ["exercise"],
+    "period": ["Morning"],
+    "in_event": ["gysj_4"],
+    "out_event": ["F_love_3"]
+  },
+  {
+    "label": "school_campus_forenoon_F_1",
+    "nz": "F",
+    "action": ["campus"],
+    "period": ["Forenoon"],
+    "in_event": ["gysj_4"],
+    "out_event": ["F_love_3"]
+  },
+  {
+    "label": "park_exercise_afternoon_F_1",
+    "nz": "F",
+    "action": ["exercise"],
+    "period": ["Afternoon"],
+    "in_event": ["gysj_4"],
+    "out_event": ["F_love_3"]
+  },
+  {
+    "label": "school_campus_afternoon_F_1",
+    "nz": "F",
+    "action": ["campus"],
+    "period": ["Afternoon"],
+    "in_event": ["gysj_4"],
+    "out_event": ["F_love_5"]
+  },
+  {
+    "label": "alley_evening_F_1",
+    "nz": "F",
+    "action": ["alley"],
+    "period": ["Evening"],
+    "in_event": ["gysj_4"]
+  },
+  {
+    "label": "park_exercise_morning_F_2",
+    "nz": "F",
+    "action": ["exercise"],
+    "period": ["Morning"],
+    "in_event": ["gysj_4"],
+    "out_event": ["F_love_3"]
+  },
+  {
+    "label": "bnb_livingroom_forenoon_G_1",
+    "nz": "G",
+    "action": ["livingroom"],
+    "period": ["Forenoon"],
+    "in_event": ["G_MoveIn"],
+    "out_event": ["G_love_3"]
+  },
+  {
+    "label": "bnb_livingroom_forenoon_G_2",
+    "nz": "G",
+    "action": ["livingroom"],
+    "period": ["Forenoon"],
+    "in_event": ["G_MoveIn"],
+    "out_event": ["G_love_3"]
+  },
+  {
+    "label": "bookstore_afternoon_G_1",
+    "nz": "G",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["G_MoveIn"],
+    "out_event": ["G_love_3"]
+  },
+  {
+    "label": "bnb_bathroom_evening_G_1",
+    "nz": "G",
+    "action": ["bathroom"],
+    "period": ["Evening"],
+    "in_event": ["G_MoveIn"],
+    "out_event": ["G_love_3"]
+  },
+  {
+    "label": "bnb_livingroom_latenight_G_1",
+    "nz": "G",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "in_event": ["G_MoveIn"],
+    "out_event": ["G_love_3"]
+  },
+  {
+    "label": "bnb_livingroom_morning_G_1",
+    "nz": "G",
+    "action": ["livingroom"],
+    "period": ["Morning"],
+    "in_event": ["G_daily_1"],
+    "out_event": ["G_love_3"]
+  },
+  {
+    "label": "beach_afternoon_A_1",
+    "nz": "A",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["A_love_5"]
+  },
+  {
+    "label": "beach_afternoon_D_1",
+    "nz": "D",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["D_love_6"]
+  },
+  {
+    "label": "beach_afternoon_E_1",
+    "nz": "E",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["E_love_4"],
+    "out_event": ["E_love_5"]
+  },
+  {
+    "label": "beach_afternoon_G_1",
+    "nz": "G",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["G_love_3"],
+    "out_event": ["G_love_6"]
+  },
+  {
+    "label": "college_campus_forenoon_E_1",
+    "nz": "E",
+    "action": ["campus"],
+    "period": ["Forenoon"],
+    "in_event": ["E_love_3"],
+    "out_event": ["E_love_5"]
+  },
+  {
+    "label": "mansion_swimpool_evening_E_1",
+    "nz": "E",
+    "action": ["mansion_pool"],
+    "period": ["Evening"],
+    "in_event": ["E_love_3"],
+    "out_event": ["E_love_5"]
+  },
+  {
+    "label": "mansion_croom_latenight_E_1",
+    "nz": "E",
+    "action": ["C_room"],
+    "period": ["LateNight"],
+    "in_event": ["E_love_3"],
+    "out_event": ["E_love_5"]
+  },
+  {
+    "label": "downtown_evening_E_1",
+    "nz": "E",
+    "action": ["street"],
+    "period": ["Evening"],
+    "in_event": ["E_love_3"],
+    "out_event": ["E_love_5"]
+  },
+  {
+    "label": "mansion_guestroom_latenight_D_1",
+    "nz": "D",
+    "action": ["mansion_guestroom"],
+    "period": ["LateNight"],
+    "in_event": ["D_love_6"]
+  },
+  {
+    "label": "park_stroll_morning_D_2",
+    "nz": "D",
+    "action": ["hang_park"],
+    "period": ["Morning"],
+    "in_event": ["D_love_6"]
+  },
+  {
+    "label": "bnb_livingroom_afternoon_G_1",
+    "nz": "G",
+    "action": ["livingroom"],
+    "period": ["Afternoon"],
+    "in_event": ["G_love_3"]
+  },
+  {
+    "label": "bnb_groom_evening_G_1",
+    "nz": "G",
+    "action": ["G_room"],
+    "period": ["Evening"],
+    "in_event": ["G_love_3"],
+    "out_event": ["G_love_6"]
+  },
+  {
+    "label": "bnb_livingroom_latenight_G_2",
+    "nz": "G",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "in_event": ["G_love_3"]
+  },
+  {
+    "label": "bookstore_afternoon_G_2",
+    "nz": "G",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["G_love_3"],
+    "out_event":["G_train_sub_2"]
+  },
+  {
+    "label": "bnb_groom_morning_G_1",
+    "nz": "G",
+    "action": ["G_room"],
+    "period": ["Morning"],
+    "in_event": ["G_love_3"],
+    "out_event": ["G_love_6"]
+  },
+  {
+    "label": "downtown_forenoon_G_1",
+    "nz": "G",
+    "action": ["street"],
+    "period": ["Forenoon"],
+    "in_event": ["G_love_3"],
+    "out_event": ["G_love_6"]
+  },
+  {
+    "label": "alley_evening_G_1",
+    "nz": "G",
+    "action": ["alley"],
+    "period": ["Evening"],
+    "in_event": ["G_love_3"],
+    "out_event": ["G_love_6"]
+  },
+  {
+    "label": "bnb_bathroom_morning_G_1",
+    "nz": "G",
+    "action": ["bathroom"],
+    "period": ["Morning"],
+    "in_event": ["G_love_3"],
+    "out_event": ["G_love_6"]
+  },
+  {
+    "label": "beach_forenoon_B_1",
+    "nz": "B",
+    "action": ["beach"],
+    "period": ["Forenoon"],
+    "in_event": ["B_love_6"]
+  },
+  {
+    "label": "beach_forenoon_C_1",
+    "nz": "C",
+    "action": ["beach"],
+    "period": ["Forenoon"],
+    "in_event": ["C_love_7"]
+  },
+  {
+    "label": "beach_forenoon_F_1",
+    "nz": "F",
+    "action": ["beach"],
+    "period": ["Forenoon"],
+    "in_event": ["F_daily_4"],
+    "out_event": ["F_love_5"]
+  },
+  {
+    "label": "bnb_bathroom_latenight_C_1",
+    "nz": "C",
+    "action": ["bathroom"],
+    "period": ["LateNight"],
+    "in_event": ["C_daily_12"]
+  },
+  {
+    "label": "bnb_bathroom_forenoon_G_1",
+    "nz": "G",
+    "action": ["bathroom"],
+    "period": ["Forenoon"],
+    "in_event": ["G_MoveIn"],
+    "out_event": ["G_love_6"]
+  },
+  {
+    "label": "bnb_bathroom_morning_A_2",
+    "nz": "A",
+    "action": ["bathroom"],
+    "period": ["Morning"],
+    "in_event": ["pcsj"]
+  },
+  {
+    "label": "bnb_frontyard_forenoon_B_1",
+    "nz": "B",
+    "action": ["frontyard"],
+    "period": ["Forenoon"],
+    "in_event": ["B_love_6"]
+  },
+  {
+    "label": "bnb_livingroom_afternoon_C_1",
+    "nz": "C",
+    "action": ["livingroom"],
+    "period": ["Afternoon"],
+    "in_event": ["C_daily_12"]
+  },
+  {
+    "label": "bnb_livingroom_evening_C_1",
+    "nz": "C",
+    "action": ["livingroom"],
+    "period": ["Evening"],
+    "in_event": ["C_daily_12"],
+    "out_event": ["C_train_inti_1"]
+  },
+  {
+    "label": "bnb_myroom_morning_C_1",
+    "nz": "C",
+    "action": ["my_room"],
+    "period": ["Morning"],
+    "in_event": ["C_daily_12"]
+  },
+  {
+    "label": "downtown_afternoon_F_1",
+    "nz": "F",
+    "action": ["street"],
+    "period": ["Afternoon"],
+    "in_event": ["F_love_3"],
+    "out_event": ["F_love_5"]
+  },
+  {
+    "label": "mansion_bathroom_evening_D_1",
+    "nz": "D",
+    "action": ["mansion_bathroom"],
+    "period": ["Evening"],
+    "in_event": ["D_love_6"]
+  },
+  {
+    "label": "park_exercise_morning_F_3",
+    "nz": "F",
+    "action": ["exercise"],
+    "period": ["Morning"],
+    "in_event": ["F_love_3"],
+    "out_event": ["F_love_5"]
+  },
+  {
+    "label": "park_stroll_evening_F_1",
+    "nz": "F",
+    "action": ["hang_park"],
+    "period": ["Evening"],
+    "in_event": ["F_love_3"],
+    "out_event": ["F_love_5"]
+  },
+  {
+    "label": "harem_AB_1",
+    "nz": "X",
+    "action": ["bathroom"],
+    "period": ["Evening"],
+    "in_event": ["A_love_5", "B_love_6"],
+    "results": ["A.harem+1", "B.harem+1"]
+  },
+  {
+    "label": "harem_AC_1",
+    "nz": "X",
+    "action": ["alley"],
+    "period": ["LateNight"],
+    "in_event": ["A_love_5", "C_daily_12"],
+    "out_event": ["ACG_duo_3"],
+    "results": ["A.harem+1", "C.harem+1"]
+  },
+  {
+    "label": "harem_AG_1",
+    "nz": "X",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "in_event": ["A_love_5", "G_love_6"],
+    "condition": "A.harem < 10 or G.harem < 10",
+    "results": ["A.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "harem_BG_1",
+    "nz": "X",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["G_love_6", "B_love_6"],
+    "condition": "B.harem < 10 or G.harem < 10",
+    "results": ["G.harem+1", "B.harem+1"]
+  },
+  {
+    "label": "harem_CD_1",
+    "nz": "X",
+    "action": ["street"],
+    "period": ["Afternoon"],
+    "in_event": ["C_love_7", "D_love_6"],
+    "results": ["C.harem+1", "D.harem+1"]
+  },
+  {
+    "label": "harem_CD_2",
+    "nz": "X",
+    "action": ["D_room"],
+    "period": ["Evening"],
+    "in_event": ["C_love_7", "D_love_6"],
+    "results": ["C.harem+1", "D.harem+1"]
+  },
+  {
+    "label": "bnb_bathroom_forenoon_C_1",
+    "nz": "C",
+    "action": ["bathroom"],
+    "period": ["Forenoon"],
+    "in_event": ["C_daily_12"]
+  },
+  {
+    "label": "harem_CG_1",
+    "nz": "X",
+    "action": ["my_room"],
+    "period": ["LateNight"],
+    "in_event": ["C_daily_12", "G_love_6"],
+    "condition": "C.harem < 10 or G.harem < 10",
+    "results": ["C.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "harem_AB_2",
+    "nz": "X",
+    "action": ["livingroom"],
+    "period": ["Forenoon"],
+    "condition": "A.harem >= 10 and B.harem >= 10",
+    "results": ["A.harem+1", "B.harem+1"]
+  },
+  {
+    "label": "harem_CE_1",
+    "nz": "X",
+    "action": ["mansion_bathroom"],
+    "period": ["Evening"],
+    "in_event": ["C_daily_12", "E_love_8"],
+    "out_event": ["CDE_duo_3"],
+    "results": ["C.harem+1", "E.harem+1"]
+  },
+  {
+    "label": "harem_DE_1",
+    "nz": "X",
+    "action": ["beach"],
+    "period": ["Forenoon"],
+    "in_event": ["D_love_6", "E_love_8"],
+    "results": ["D.harem+1", "E.harem+1"]
+  },
+  {
+    "label": "harem_DG_1",
+    "nz": "X",
+    "action": ["D_room"],
+    "period": ["Afternoon"],
+    "in_event": ["D_love_6", "G_love_6"],
+    "out_event": ["DG_duo_1"],
+    "results": ["D.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "mansion_guestroom_latenight_E_1",
+    "nz": "E",
+    "action": ["mansion_guestroom"],
+    "period": ["LateNight"],
+    "in_event": ["E_love_6"],
+    "out_event": ["E_love_8"]
+  },
+  {
+    "label": "mansion_livingroom_forenoon_E_2",
+    "nz": "E",
+    "action": ["mansion_livingroom"],
+    "period": ["Forenoon"],
+    "in_event": ["E_love_6"],
+    "out_event": ["E_love_8"]
+  },
+  {
+    "label": "downtown_morning_E_1",
+    "nz": "E",
+    "action": ["street"],
+    "period": ["Morning"],
+    "in_event": ["E_love_6"],
+    "out_event": ["E_love_8"]
+  },
+  {
+    "label": "beach_afternoon_E_2",
+    "nz": "E",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["E_love_8"]
+  },
+  {
+    "label": "bungalow_latenight_E_1",
+    "nz": "E",
+    "action": ["bungalow"],
+    "period": ["LateNight"],
+    "in_event": ["E_daily_13"]
+  },
+  {
+    "label": "mansion_eroom_evening_E_1",
+    "nz": "E",
+    "action": ["E_room"],
+    "period": ["Evening"],
+    "in_event": ["E_love_8"]
+  },
+  {
+    "label": "beach_afternoon_G_2",
+    "nz": "G",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["G_love_6"]
+  },
+  {
+    "label": "bnb_bathroom_morning_G_2",
+    "nz": "G",
+    "action": ["bathroom"],
+    "period": ["Morning"],
+    "in_event": ["G_love_6"]
+  },
+  {
+    "label": "bnb_groom_evening_G_2",
+    "nz": "G",
+    "action": ["G_room"],
+    "period": ["Evening"],
+    "in_event": ["G_love_6"],
+    "out_event":["G_train_sub_2"]
+  },
+  {
+    "label": "bnb_livingroom_latenight_A_3",
+    "nz": "A",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "in_event": ["A_train_inti_1"]
+  },
+  {
+    "label": "school_library_afternoon_B_3",
+    "nz": "B",
+    "action": ["library"],
+    "period": ["Afternoon"],
+    "in_event": ["B_love_6"]
+  },
+  {
+    "label": "mansion_tutor_afternoon_E_2",
+    "nz": "E",
+    "action": ["D_room"],
+    "period": ["Afternoon"],
+    "in_event": ["E_love_6"],
+    "out_event": ["E_love_8"]
+  },
+  {
+    "label": "harem_AG_2",
+    "nz": "X",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "condition": "A.harem >= 10 and G.harem >= 10",
+    "out_event": ["ACG_duo_3"],
+    "results": ["A.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "harem_BG_2",
+    "nz": "X",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "condition": "B.harem >= 10 and G.harem >= 10",
+    "results": ["B.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "harem_CG_2",
+    "nz": "X",
+    "action": ["my_room"],
+    "period": ["LateNight"],
+    "condition": "C.harem >= 10 and G.harem >= 10",
+    "out_event": ["ACG_duo_3"],
+    "results": ["C.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "harem_DG_2",
+    "nz": "X",
+    "action": ["D_room"],
+    "period": ["Afternoon"],
+    "in_event": ["DG_duo_1"],
+    "results": ["D.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "beach_forenoon_F_2",
+    "nz": "F",
+    "action": ["beach"],
+    "period": ["Forenoon"],
+    "in_event": ["F_love_5"]
+  },
+  {
+    "label": "downtown_afternoon_F_2",
+    "nz": "F",
+    "action": ["street"],
+    "period": ["Afternoon"],
+    "in_event": ["F_love_5"]
+  },
+  {
+    "label": "park_exercise_morning_F_4",
+    "nz": "F",
+    "action": ["exercise"],
+    "period": ["Morning"],
+    "in_event": ["F_love_5"]
+  },
+  {
+    "label": "school_bathroom_evening_F_1",
+    "nz": "F",
+    "action": ["college_bathroom"],
+    "period": ["Evening"],
+    "in_event": ["F_love_5"]
+  },
+  {
+    "label": "bnb_frontyard_evening_C_1",
+    "nz": "C",
+    "action": ["frontyard"],
+    "period": ["Evening"],
+    "in_event": ["C_train_inti_1"],
+    "out_event": ["ACG_duo_3"]
+  },
+  {
+    "label": "company_afternoon_C_3",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Afternoon"],
+    "in_event": ["C_train_inti_1"]
+  },
+  {
+    "label": "company_forenoon_C_4",
+    "nz": "C",
+    "action": ["work"],
+    "period": ["Forenoon"],
+    "in_event": ["C_train_sexskill_1"]
+  },
+  {
+    "label": "bnb_livingroom_forenoon_D_1",
+    "nz": "D",
+    "action": ["livingroom"],
+    "period": ["Forenoon"],
+    "in_event": ["D_train_sub_1"],
+    "condition": "is_weekday()"
+  },
+  {
+    "label": "mansion_tutor_evening_D_4",
+    "nz": "D",
+    "action": ["tutor"],
+    "period": ["Evening"],
+    "in_event": ["D_train_sub_1"]
+  },
+  {
+    "label": "bungalow_afternoon_E_1",
+    "nz": "E",
+    "action": ["bungalow"],
+    "period": ["Afternoon"],
+    "in_event": ["E_daily_13"]
+  },
+  {
+    "label": "bnb_groom_latenight_G_1",
+    "nz": "G",
+    "action": ["G_room"],
+    "period": ["LateNight"],
+    "in_event": ["G_train_sha_2"],
+    "out_event": ["G_train_sexskill_1"]
+  },
+  {
+    "label": "mansion_toilet_morning_E_1",
+    "nz": "E",
+    "action": ["mansion_toilet"],
+    "period": ["Morning"],
+    "in_event": ["E_love_8"]
+  },
+  {
+    "label": "downtown_latenight_B_1",
+    "nz": "B",
+    "action": ["street"],
+    "period": ["LateNight"],
+    "in_event": ["B_train_sha_1"]
+  },
+  {
+    "label": "bnb_myroom_afternoon_B_1",
+    "nz": "B",
+    "action": ["my_room"],
+    "period": ["Afternoon"],
+    "in_event": ["B_train_inti_1"]
+  },
+  {
+    "label": "bungalow_evening_E_1",
+    "nz": "E",
+    "action": ["bungalow"],
+    "period": ["Evening"],
+    "in_event": ["E_daily_13"]
+  },
+  {
+    "label": "park_exercise_forenoon_G_1",
+    "nz": "G",
+    "action": ["exercise"],
+    "period": ["Forenoon"],
+    "in_event": ["G_train_sub_2"]
+  },
+  {
+    "label": "bnb_groom_evening_G_3",
+    "nz": "G",
+    "action": ["G_room"],
+    "period": ["Evening"],
+    "in_event": ["G_train_sub_2"],
+    "out_event": ["G_train_inti_2"]
+  },
+  {
+    "label": "bookstore_afternoon_G_3",
+    "nz": "G",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["G_train_sub_2"],
+    "out_event": ["G_train_inti_2"]
+  },
+  {
+    "label": "harem_CG_3",
+    "nz": "X",
+    "action": ["my_room"],
+    "period": ["Evening"],
+    "in_event": ["ACG_duo_3"],
+    "results": ["C.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "harem_CG_4",
+    "nz": "X",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["ACG_duo_3"],
+    "results": ["C.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "harem_AC_2",
+    "nz": "X",
+    "action": ["bathroom"],
+    "period": ["LateNight"],
+    "in_event": ["ACG_duo_3", "A_train_inti_1"],
+    "results": ["C.harem+1", "A.harem+1"]
+  },
+  {
+    "label": "harem_AC_3",
+    "nz": "X",
+    "action": ["frontyard"],
+    "period": ["LateNight"],
+    "in_event": ["ACG_duo_3"],
+    "results": ["C.harem+1", "A.harem+1"]
+  },
+  {
+    "label": "harem_AG_3",
+    "nz": "X",
+    "action": ["livingroom"],
+    "period": ["LateNight"],
+    "in_event": ["ACG_duo_3"],
+    "results": ["A.harem+1", "G.harem+1"]
+  },
+  {
+    "label": "bookstore_afternoon_G_4",
+    "nz": "G",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["G_train_inti_2"]
+  },
+  {
+    "label": "bnb_groom_evening_G_4",
+    "nz": "G",
+    "action": ["G_room"],
+    "period": ["Evening"],
+    "in_event": ["G_train_inti_2"]
+  },
+  {
+    "label": "mansion_guestroom_evening_C_1",
+    "nz": "C",
+    "action": ["mansion_guestroom"],
+    "period": ["Evening"],
+    "in_event": ["C_train_sub_2"]
+  },
+  {
+    "label": "mansion_droom_afternoon_D_1",
+    "nz": "D",
+    "action": ["D_room"],
+    "period": ["Afternoon"],
+    "in_event": ["D_train_sexskill_1"]
+  },
+  {
+    "label": "harem_BD_1",
+    "nz": "X",
+    "action": ["livingroom"],
+    "period": ["Afternoon"],
+    "in_event": ["D_daily_12"],
+    "results": ["B.harem+1", "D.harem+1"]
+  },
+  {
+    "label": "harem_CE_2",
+    "nz": "X",
+    "action": ["work"],
+    "period": ["Afternoon"],
+    "in_event": ["CDE_duo_3"],
+    "results": ["C.harem+1", "E.harem+1"]
+  },
+  {
+    "label": "harem_CE_3",
+    "nz": "X",
+    "action": ["mansion_bathroom"],
+    "period": ["LateNight"],
+    "in_event": ["CDE_duo_3"],
+    "results": ["C.harem+1", "E.harem+1"]
+  },
+  {
+    "label": "harem_BC_1",
+    "nz": "X",
+    "action": ["livingroom"],
+    "period": ["Afternoon"],
+    "in_event": ["special_2","found_pool"],
+    "results": ["C.harem+1", "B.harem+1"]
+  },
+  {
+    "label": "bookstore_afternoon_F_1",
+    "nz": "F",
+    "action": ["bookstore"],
+    "period": ["Afternoon"],
+    "in_event": ["F_love_9"]
+  },
+  {
+    "label": "beach_afternoon_F_1",
+    "nz": "F",
+    "action": ["beach"],
+    "period": ["Afternoon"],
+    "in_event": ["F_love_8"]
+  }
+]

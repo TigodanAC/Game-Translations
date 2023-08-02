@@ -1,0 +1,366 @@
+[
+    {
+      "nz": "AG",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "a_livingroom_1",
+      "period": ["LateNight"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Vera and Uno are having a good conversation.", "... ... ... ..."]
+    },
+    {
+      "nz": "AG",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "a_livingroom_1",
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Evening"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "a_livingroom_2",
+      "period": ["LateNight"],
+      "text": ["Vera is having a nap on the couch. Maybe she is too tired.", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "a_livingroom_3",
+      "period": ["Morning", "LateNight"],
+      "text": ["Vera is watching TV and looks a little nervous. Perhaps a thriller movie", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "a_livingroom_3",
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Evening"], 
+      "text": ["... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "g_livingroom_1",
+      "period": ["Morning", "Evening"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is reading a book. I wonder what book that is...", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "g_livingroom_2",
+      "period": ["Morning", "Evening"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is having a conversation with a guest. She doesn't talk much, but everybody likes to talk with her.", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["livingroom"],
+      "cg": "g_livingroom_3",
+      "period": ["Morning", "Evening", "LateNight"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is shooting another video about her breasts again. Shit, why is she doing this in the public livingroom", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "a_bathroom_night_1",
+      "period": ["Morning", "LateNight"],
+      "text": ["Vera is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "a_bathroom_night_2",
+      "period": ["Morning", "LateNight"],
+      "text": ["Vera is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "a_bathroom_night_3",
+      "period": ["Morning", "LateNight"],
+      "text": ["Vera is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "g_bathroom_day_1",
+      "period": ["Morning"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "g_bathroom_day_2",
+      "period": ["Morning"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "g_bathroom_day_3",
+      "period": ["Morning"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "g_bathroom_night_1",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "g_bathroom_night_2",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["bathroom"],
+      "cg": "g_bathroom_night_3",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is taking a bath...", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["toilet"],
+      "cg": "a_toilet_1",
+      "period": ["LateNight"],
+      "text": ["Vera is in the restroom.", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["toilet"],
+      "cg": "a_toilet_1",
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Evening"],
+      "text": ["... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["toilet"],
+      "cg": "a_toilet_2",
+      "period": ["LateNight"],
+      "text": ["Vera is sleeping in the toilet  Maybe she is too tired.", "... ... ... ..."]
+    },
+    {
+      "nz": "A",
+      "screen": "bnb",
+      "action": ["toilet"],
+      "cg": "a_toilet_2",
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Evening"], 
+      "text": ["... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["toilet"],
+      "cg": "g_toilet_1",
+      "period": ["Morning", "Evening"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is in the restroom.", "... ... ... ..."]
+    },
+    {
+      "nz": "G",
+      "screen": "bnb",
+      "action": ["toilet"],
+      "cg": "g_toilet_2",
+      "day": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "period": ["Morning", "Evening"],
+      "pre_event": ["G_MoveIn"],
+      "text": ["Uno is shooting another video about her breasts in the toilet. Fine...", "... ... ... ..."]
+    },
+    {
+      "nz": "D",
+      "screen": "mansion",
+      "action": ["mansion_bathroom"],
+      "cg": "d_bathroom_1",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Irene is taking a bath…", "... ... ... ..."]
+    },
+    {
+      "nz": "D",
+      "screen": "mansion",
+      "action": ["mansion_bathroom"],
+      "cg": "d_bathroom_2",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Irene is taking a bath… Wait, did she notice me?", "... ... ... ..."]
+    },
+    {
+      "nz": "D",
+      "screen": "mansion",
+      "action": ["mansion_bathroom"],
+      "cg": "d_bathroom_3",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Irene is taking a bath…", "... ... ... ..."]
+    },
+    {
+      "nz": "E",
+      "screen": "mansion",
+      "action": ["mansion_bathroom"],
+      "cg": "e_bathroom_1",
+      "period": ["Morning", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Aunt Elisa is taking a bath…", "... ... ... ..."]
+    },
+    {
+      "nz": "E",
+      "screen": "mansion",
+      "action": ["mansion_bathroom"],
+      "cg": "e_bathroom_2",
+      "period": ["Morning", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Aunt Elisa is taking a bath…", "... ... ... ..."]
+    },
+    {
+      "nz": "E",
+      "screen": "mansion",
+      "action": ["mansion_bathroom"],
+      "cg": "e_bathroom_3",
+      "period": ["Morning", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Aunt Elisa is taking a bath…", "... ... ... ..."]
+    },
+    {
+      "nz": "D",
+      "screen": "mansion",
+      "action": ["mansion_toilet"],
+      "cg": "d_toilet_#_1",
+      "period": ["Morning", "Afternoon", "Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Irene is in the restroom...", "... ... ... ..."]
+    },
+    {
+      "nz": "D",
+      "screen": "mansion",
+      "action": ["mansion_toilet"],
+      "cg": "d_toilet_#_2",
+      "period": ["Morning", "Afternoon", "Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Well, this is quite a weird position...", "... ... ... ..."]
+    },
+    {
+      "nz": "E",
+      "screen": "mansion",
+      "action": ["mansion_toilet"],
+      "cg": "e_toilet_#_1",
+      "period": ["Forenoon", "Afternoon", "Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Aunt Elisa is in the restroom…", "... ... ... ..."]
+    },
+    {
+      "nz": "E",
+      "screen": "mansion",
+      "action": ["mansion_toilet"],
+      "cg": "e_toilet_#_2",
+      "period": ["Forenoon", "Afternoon", "Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["What is she doing? Can't see it clearly from this location", "... ... ... ..."]
+    },
+    {
+      "nz": "D",
+      "screen": "mansion",
+      "action": ["mansion_pool"],
+      "cg": "d_swimpool_1",
+      "period": ["Afternoon"],
+      "pre_event": ["pcsj"],
+      "text": ["Irene is in the swimming pool…", "... ... ... ..."]
+    },
+    {
+      "nz": "D",
+      "screen": "mansion",
+      "action": ["mansion_pool"],
+      "cg": "d_swimpool_2",
+      "period": ["Afternoon"],
+      "pre_event": ["pcsj"],
+      "text": ["Irene is having a nap on the beach chair…", "... ... ... ..."]
+    },
+    {
+      "nz": "E",
+      "screen": "mansion",
+      "action": ["mansion_pool"],
+      "cg": "e_swimpool_1",
+      "period": ["Afternoon"],
+      "pre_event": ["pcsj"],
+      "text": ["Aunt Elisa is in the swimming pool…", "... ... ... ..."]
+    },
+    {
+      "nz": "E",
+      "screen": "mansion",
+      "action": ["mansion_pool"],
+      "cg": "e_swimpool_2",
+      "period": ["Afternoon"],
+      "pre_event": ["pcsj"],
+      "text": ["Aunt Elisa is smiling at me…", "... ... ... ..."]
+    },
+    {
+      "nz": "B",
+      "screen": "college",
+      "action": ["college_bathroom"],
+      "cg": "b_bathroom_1",
+      "period": ["Morning", "Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Senning is having a shower…", "... ... ... ..."]
+    },
+    {
+      "nz": "B",
+      "screen": "college",
+      "action": ["college_bathroom"],
+      "cg": "b_bathroom_2",
+      "period": ["Morning", "Evening", "LateNight"],
+      "pre_event": ["pcsj"],
+      "text": ["Senning is having a shower…", "... ... ... ..."]
+    },
+    {
+      "nz": "F",
+      "screen": "college",
+      "action": ["college_bathroom"],
+      "cg": "f_bathroom_1",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["gysj_4"],
+      "text": ["Rachel is having a shower…", "... ... ... ..."]
+    },
+    {
+      "nz": "F",
+      "screen": "college",
+      "action": ["college_bathroom"],
+      "cg": "f_bathroom_2",
+      "period": ["Evening", "LateNight"],
+      "pre_event": ["gysj_4"],
+      "text": ["Rachel is having a shower…", "... ... ... ..."]
+    }
+  ]
