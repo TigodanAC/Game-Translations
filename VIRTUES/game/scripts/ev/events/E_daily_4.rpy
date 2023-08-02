@@ -141,7 +141,7 @@ label E_daily_4:
 
     scene e_daily4_6 with tstmgr
 
-    e "Just... remember to stop by and pay me a visit with Theodora when you are free."
+    e "Just... remember to stop by and pay me a visit with Теодора when you are free."
 
 
 
@@ -251,7 +251,7 @@ label E_daily_4:
 
 
 
-    player "Oh, no, I mean, it will be great if Theodora and Irene can come as well."
+    player "Oh, no, I mean, it will be great if Теодора and Irene can come as well."
 
 
 

@@ -121,7 +121,7 @@ label E_train_sexskill_1:
 
 
 
-    "Theodora walked back to her office alone..."
+    "Теодора walked back to her office alone..."
 
 
 
@@ -159,7 +159,7 @@ label E_train_sexskill_1:
 
 
 
-    e "You are... indeed professional as Theodora said. Where did you learn this skill?"
+    e "You are... indeed professional as Теодора said. Where did you learn this skill?"
 
 
 
@@ -169,7 +169,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_14 with tstmgr
 
-    e "In order to serve women like me and Theodora who are bothered by the weight of huge breasts?"
+    e "In order to serve women like me and Теодора who are bothered by the weight of huge breasts?"
 
 
 
@@ -205,7 +205,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_17 with tstmgr
 
-    e "Yes, Theodora needs to be carefully cared for. She is like a rose, beautiful, thorny, but vulnerable too."
+    e "Yes, Теодора needs to be carefully cared for. She is like a rose, beautiful, thorny, but vulnerable too."
 
 
 

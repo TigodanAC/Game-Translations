@@ -2,7 +2,7 @@ label C_action_inti_1_fiancee:
 
     scene void with tstmgr
 
-    "Afternoon, in Theodora’s office..."
+    "Afternoon, in Теодора’s office..."
 
 
 
@@ -98,7 +98,7 @@ label C_action_inti_1_fiancee:
 
             scene void with tstmgr
 
-            "I stayed in Theodora’s office until the dusk."
+            "I stayed in Теодора’s office until the dusk."
         "Ask for a hug" if True:
 
 
@@ -156,7 +156,7 @@ label C_action_inti_1_fiancee:
 
             scene c_action_inti_1_16 with tstmgr
 
-            player "Theodora!~~~~"
+            player "Теодора!~~~~"
 
             c "Oh, eh, this is... ... something new..."
 
@@ -190,7 +190,7 @@ label C_action_inti_1_fiancee:
 
             scene void with tstmgr
 
-            "I stayed in Theodora’s office until dusk."
+            "I stayed in Теодора’s office until dusk."
 
 
 

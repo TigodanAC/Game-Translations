@@ -66,7 +66,7 @@ label CDE_duo_6:
 
 
 
-    "Theodora’s vagina has remarkable tightness. That meat hole is like a flytrap plant, beautiful, but dangerous as well. I feel like my dick is dissolving in her pussy every time during our sex."
+    "Теодора’s vagina has remarkable tightness. That meat hole is like a flytrap plant, beautiful, but dangerous as well. I feel like my dick is dissolving in her pussy every time during our sex."
 
 
 

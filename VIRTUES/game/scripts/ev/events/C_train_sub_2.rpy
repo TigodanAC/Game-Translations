@@ -6,7 +6,7 @@ label C_train_sub_2:
 
 
 
-    "Ever since that indoor swimming pool in the basement was built, Theodora has been going there for hours almost every day."
+    "Ever since that indoor swimming pool in the basement was built, Теодора has been going there for hours almost every day."
 
 
 
@@ -286,7 +286,7 @@ label C_train_sub_2:
 
             scene c_train_sub_2_26 with tstmgr
 
-            "I untied Theodora... ..."
+            "I untied Теодора... ..."
 
             scene c_train_sub_2_27 with tstmgr
 
@@ -475,7 +475,7 @@ label C_train_sub_2:
 
             c "Ohhhh~~~ Ahhhh~~~ Ohhhhhaaahhh~~~"
 
-            player "Theodora, look at your filthy tits. They are dancing and welcoming me like whores~"
+            player "Теодора, look at your filthy tits. They are dancing and welcoming me like whores~"
 
             c "My tits... my pussy... my entire body... are all welcoming you... ... because..."
 
@@ -723,7 +723,7 @@ label C_train_sub_2:
 
             c "My second pussy~~ my second pussy~~~ Awwwwww~~~~~"
 
-            "Theodora’s moaning is getting weaker. It seems like she will faint in pleasure any second."
+            "Теодора’s moaning is getting weaker. It seems like she will faint in pleasure any second."
 
             "And I am also about to... ..."
 
@@ -906,7 +906,7 @@ label C_train_sub_2:
 
 
 
-    "*Find out how [P] hurt Theodora in the Extra chapters — Young Theo Trilogy~*"
+    "*Find out how [P] hurt Теодора in the Extra chapters — Young Theo Trilogy~*"
 
 
 

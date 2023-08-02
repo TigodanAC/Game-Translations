@@ -2,7 +2,7 @@ label C_action_sexskill_1:
 
     scene void with tstmgr
 
-    "Afternoon, in Theodora’s office. I was doing her a massage as usual..."
+    "Afternoon, in Теодора’s office. I was doing her a massage as usual..."
 
 
 
@@ -196,7 +196,7 @@ label C_action_sexskill_1:
 
             c "I was supposed to... be the one in charge... ..."
 
-            player "(Buried head in Theodora’s breasts and breathing heavily) Aummmmmmm~~~~~~~"
+            player "(Buried head in Теодора’s breasts and breathing heavily) Aummmmmmm~~~~~~~"
 
             scene c_action_sexskill_1_25 with tstmgr
 

@@ -6,7 +6,7 @@ label suicide_ending:
 
     narrator "No matter how hard I tried, I still could not afford my bills."
 
-    narrator "Aunt Elisa is now totally disappointed at me. Theodora has fired me for my incapability. Even Senning and Irene started to look down on me."
+    narrator "Aunt Elisa is now totally disappointed at me. Теодора has fired me for my incapability. Even Senning and Irene started to look down on me."
 
     narrator "Fuck my pathetic life."
 

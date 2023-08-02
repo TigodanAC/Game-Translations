@@ -6,7 +6,7 @@ label mansion_croom_latenight_C_1:
 
 
 
-    player "Emm? Why does Theodora's room have lights on? Is she home tonight?"
+    player "Emm? Why does Теодора's room have lights on? Is she home tonight?"
 
 
 

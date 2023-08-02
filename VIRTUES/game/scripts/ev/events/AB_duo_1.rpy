@@ -86,7 +86,7 @@ label AB_duo_1:
 
     scene ab_duo_1_8 with tstmgr
 
-    "Lady Minna" "That girl might not be as lascivious as that Theodora, but she looks like a diligent girl who is good at houseworks. That makes her She a strong opponent for you."
+    "Lady Minna" "That girl might not be as lascivious as that Теодора, but she looks like a diligent girl who is good at houseworks. That makes her She a strong opponent for you."
 
 
 
@@ -124,7 +124,7 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "She might be an even stronger opponent than that Theodora... ..."
+    "Lady Minna" "She might be an even stronger opponent than that Теодора... ..."
 
 
 
@@ -196,7 +196,7 @@ label AB_duo_1:
 
     scene ab_duo_1_17 with tstmgr
 
-    b "Vera is not my enemy, nor is Theodora. They are all super nice people!"
+    b "Vera is not my enemy, nor is Теодора. They are all super nice people!"
 
 
 
@@ -224,7 +224,7 @@ label AB_duo_1:
 
     scene ab_duo_1_19 with tstmgr
 
-    "Lady Minna" "Nope, I’m just here to see that Vera in person and I have gotten what I wanted. Now I’m going to meet Theodora’s mother, that blonde lady. That’s a really interesting woman~"
+    "Lady Minna" "Nope, I’m just here to see that Vera in person and I have gotten what I wanted. Now I’m going to meet Теодора’s mother, that blonde lady. That’s a really interesting woman~"
 
 
 
@@ -274,7 +274,7 @@ label AB_duo_1:
 
 
 
-    b "She wasn’t angry, Vera. She left because she has a meeting with Theodora’s mother later."
+    b "She wasn’t angry, Vera. She left because she has a meeting with Теодора’s mother later."
 
 
 

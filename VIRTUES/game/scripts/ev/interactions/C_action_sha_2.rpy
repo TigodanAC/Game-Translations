@@ -134,7 +134,7 @@ label C_action_sha_2:
 
 
 
-    "Staff B" "I hope our departmental manager... that Theodora won’t find us here... ..."
+    "Staff B" "I hope our departmental manager... that Теодора won’t find us here... ..."
 
 
 
@@ -172,7 +172,7 @@ label C_action_sha_2:
 
 
 
-    "Staff A" "Why? None of them is going to fall in love with you anyway. I’m actually tired of seeing Theodora’s bitchy face."
+    "Staff A" "Why? None of them is going to fall in love with you anyway. I’m actually tired of seeing Теодора’s bitchy face."
 
 
 
@@ -270,11 +270,11 @@ label C_action_sha_2:
 
 
 
-    "I kept caressing and fucking Theodora for the last 20 minutes and I sealed her mouth with the tape that I found in this cabinet in case she moaned out loud."
+    "I kept caressing and fucking Теодора for the last 20 minutes and I sealed her mouth with the tape that I found in this cabinet in case she moaned out loud."
 
 
 
-    "But that looks like unnecessary at all because Theodora managed to stay quiet for the whole time."
+    "But that looks like unnecessary at all because Теодора managed to stay quiet for the whole time."
 
 
 
@@ -294,7 +294,7 @@ label C_action_sha_2:
 
 
 
-    "Staff A" "Let’s hope Manager Theodora won’t find out this... ..."
+    "Staff A" "Let’s hope Manager Теодора won’t find out this... ..."
 
 
 
@@ -308,7 +308,7 @@ label C_action_sha_2:
 
 
 
-    "After making sure they wouldn’t come back, I took Theodora out of the cabinet... ..."
+    "After making sure they wouldn’t come back, I took Теодора out of the cabinet... ..."
 
 
 
@@ -432,7 +432,7 @@ label C_action_sha_2:
 
 
 
-    "Theodora is now completely in her wild mode. Her big boobs were flopping around like two pendulums. How magnificent~"
+    "Теодора is now completely in her wild mode. Her big boobs were flopping around like two pendulums. How magnificent~"
 
 
 
@@ -440,7 +440,7 @@ label C_action_sha_2:
 
 
 
-    player "Those men will be surprised to death if they know the Manage Theodora they are afraid of is actually her secretary’s sex slave~"
+    player "Those men will be surprised to death if they know the Manage Теодора they are afraid of is actually her secretary’s sex slave~"
 
 
 

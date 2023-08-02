@@ -38,7 +38,7 @@ label d2_1:
 
     scene day2_c1 with dissolve
 
-    "This woman, Theodora, daughter of ShinyRost Inc's president. ShinyRost is one of the biggest companies in this city."
+    "This woman, Теодора, daughter of ShinyRost Inc's president. ShinyRost is one of the biggest companies in this city."
 
 
 
@@ -58,7 +58,7 @@ label d2_1:
 
 
 
-    "Now Theodora is still on my potential-true-love list. I know she is a workaholic with apathy to sex, a cold untouchable woman that no one can really get into her heart, but... she was my first crush and the first crush is always special."
+    "Now Теодора is still on my potential-true-love list. I know she is a workaholic with apathy to sex, a cold untouchable woman that no one can really get into her heart, but... she was my first crush and the first crush is always special."
 
 
 
@@ -168,13 +168,13 @@ label d2_1:
 
 
 
-    "Sometime later, Theodora and I arrived at the party location, an upscale indoor swimming pool. It would cost a lot of money to book this whole place for an afternoon, whoever hosted it must be a super-rich dude."
+    "Sometime later, Теодора and I arrived at the party location, an upscale indoor swimming pool. It would cost a lot of money to book this whole place for an afternoon, whoever hosted it must be a super-rich dude."
 
 
 
     scene day2_c6 with tstmgr
 
-    "Theodora changed her cold face at the first second when we got there. She smiled to the others with politeness and passion, and acted a lot more conversable than when she was with me."
+    "Теодора changed her cold face at the first second when we got there. She smiled to the others with politeness and passion, and acted a lot more conversable than when she was with me."
 
 
 
@@ -190,7 +190,7 @@ label d2_1:
 
 
 
-    "Ha, these poor guys are all fooled. Theodora is not as adorable as she looks."
+    "Ha, these poor guys are all fooled. Теодора is not as adorable as she looks."
 
 
 
@@ -232,7 +232,7 @@ label d2_1:
 
     scene day2_c11 with dissolve
 
-    "Sometime later, Theodora came to me and sat beside me."
+    "Sometime later, Теодора came to me and sat beside me."
 
 
 
@@ -264,7 +264,7 @@ label d2_1:
 
     scene day2_c13 with tstmgr
 
-    "Some men came to us at this moment. They basically ignored me and started talking to Theodora."
+    "Some men came to us at this moment. They basically ignored me and started talking to Теодора."
 
 
 
@@ -332,7 +332,7 @@ label d2_1:
 
             scene day2_c16 with tstmgr
 
-            player "Yeah, I’m Theodora’s fiance. Is there a problem?"
+            player "Yeah, I’m Теодора’s fiance. Is there a problem?"
 
 
 
@@ -502,7 +502,7 @@ label d2_1:
 
 
 
-    "After that, I drove Theodora back to her mother’s mansion and had dinner with her family together."
+    "After that, I drove Теодора back to her mother’s mansion and had dinner with her family together."
 
 
 

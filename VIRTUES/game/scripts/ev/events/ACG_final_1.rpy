@@ -25,7 +25,7 @@ label ACG_final_1:
 
     scene acg_final_1_1 with dissolve
 
-    "Theodora... ..."
+    "Теодора... ..."
 
 
 
@@ -264,7 +264,7 @@ label ACG_final_1:
 
     scene acg_final_1_23 with tstmgr
 
-    "Theodora then left the room too, nakedly, of course."
+    "Теодора then left the room too, nakedly, of course."
 
 
 
@@ -834,7 +834,7 @@ label ACG_final_1:
 
     scene acg_final_1_58 with tstmgr
 
-    "Theodora and Uno then left for doing dishes together..."
+    "Теодора and Uno then left for doing dishes together..."
 
 
 
@@ -866,7 +866,7 @@ label ACG_final_1:
 
 
 
-    "I took Theodora’s position in the Shinyrost Inc after she quit. The work is heavy but there is nothing to complain about."
+    "I took Теодора’s position in the Shinyrost Inc after she quit. The work is heavy but there is nothing to complain about."
 
 
 
@@ -1291,7 +1291,7 @@ label ACG_final_1:
 
 
 
-    "Theodora's beauty and sexiness have not declined because of her pregnancy at all. She is as gorgeous as she used to be."
+    "Теодора's beauty and sexiness have not declined because of her pregnancy at all. She is as gorgeous as she used to be."
 
 
     player "Come here, Theo~"
@@ -1392,7 +1392,7 @@ label ACG_final_1:
 
 
 
-    "The master of the house is resting his head on Vera’s huge tits and sucking Theodora’s nipple at the same time."
+    "The master of the house is resting his head on Vera’s huge tits and sucking Теодора’s nipple at the same time."
 
 
 
@@ -1732,7 +1732,7 @@ label ACG_final_1:
 
 
 
-    "Theodora’s sexual desire became extremely high after she got pregnant. She doesn’t need any foreplay to turn herself on, so I just skipped that part and began fucking straightforwardly."
+    "Теодора’s sexual desire became extremely high after she got pregnant. She doesn’t need any foreplay to turn herself on, so I just skipped that part and began fucking straightforwardly."
 
 
 
@@ -1997,7 +1997,7 @@ label ACG_final_1:
 
 
 
-    "Theodora and Uno took Vera’s hands while I started fucking her. It’s not because they want to restrict her from escaping, they just want to feel what Vera feels."
+    "Теодора and Uno took Vera’s hands while I started fucking her. It’s not because they want to restrict her from escaping, they just want to feel what Vera feels."
 
 
 

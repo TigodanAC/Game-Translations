@@ -36,9 +36,9 @@ label jjsj:
 
     e "That would be the best. You are truly grown up, [P.name]."
 
-    e "I hope you can impress Theodora at work. She will be happier than me when she sees your growth."
+    e "I hope you can impress Теодора at work. She will be happier than me when she sees your growth."
 
-    narrator "Theodora will be happy for me? Well, I doubt it."
+    narrator "Теодора will be happy for me? Well, I doubt it."
 
     e "So, are you here to be my little daughter's private teacher today?"
 
@@ -76,7 +76,7 @@ label jjsj:
 
     scene e_mansion_inside_tease with tstmgr
 
-    e "You were only a high school student back then, a little boy who was so curious about sex and gender. You lifted Theodora's dress at school in public, and the principal asked me to school to deal with the situation."
+    e "You were only a high school student back then, a little boy who was so curious about sex and gender. You lifted Теодора's dress at school in public, and the principal asked me to school to deal with the situation."
 
     player "(Feeling awkward) Haha... ha..."
 

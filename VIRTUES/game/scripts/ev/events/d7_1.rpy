@@ -16,7 +16,7 @@ label d7_1:
 
     player "Hmm?!?"
 
-    narrator "What the hell? Who's there? Is Theodora in my room again? This is the second time this week. Damn it, I can't stand it anymore. I swear I will..."
+    narrator "What the hell? Who's there? Is Теодора in my room again? This is the second time this week. Damn it, I can't stand it anymore. I swear I will..."
 
     $ openeyes("day7_d1")
 
@@ -24,13 +24,13 @@ label d7_1:
 
     narrator "I opened my eyes."
 
-    narrator "There is a girl lying on my bed and she looks just like Theodora's younger version. They both have emerald pupils and silver hair, but they are definitely not the same person."
+    narrator "There is a girl lying on my bed and she looks just like Теодора's younger version. They both have emerald pupils and silver hair, but they are definitely not the same person."
 
     player "Irene?"
 
     d "Ah! You are finally awake, [P.name]."
 
-    narrator "This is Irene, Theodora's little sister. They look similar, but their personalities are remarkably different. Unlike her bad-temper older sister, Irene seems to be much sweeter and cuter. We are very close since we were kids."
+    narrator "This is Irene, Теодора's little sister. They look similar, but their personalities are remarkably different. Unlike her bad-temper older sister, Irene seems to be much sweeter and cuter. We are very close since we were kids."
 
     narrator "Maybe... a little bit too close? I mean, she is now lying on the same bed with me and acts like nothing happened."
 
@@ -176,7 +176,7 @@ label d7_1:
 
     scene day2_c1 with tstmgr
 
-    narrator "This time it was Theodora."
+    narrator "This time it was Теодора."
 
     c "What did you do to that little imp? She looks angry."
 
@@ -210,7 +210,7 @@ label d7_1:
 
     narrator "... ... ... ..."
 
-    narrator "I stayed with Theodora's family for the rest of today."
+    narrator "I stayed with Теодора's family for the rest of today."
 
     narrator "... ... ... ..."
 

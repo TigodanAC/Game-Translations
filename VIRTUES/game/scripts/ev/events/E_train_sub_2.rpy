@@ -450,7 +450,7 @@ label E_train_sub_2:
 
             e "Awwww... ... That’s a good name. I am indeed a bad mother... ..."
 
-            e "Theodora and Irene... I can’t let them see me like this~"
+            e "Теодора and Irene... I can’t let them see me like this~"
 
             scene e_train_sub_2_37 with tstmgr
 

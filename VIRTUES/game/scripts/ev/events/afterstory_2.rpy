@@ -29,7 +29,7 @@ label afterstory_2:
 
 
 
-    "Elisa and Theodora" "... ... ... ..."
+    "Elisa and Теодора" "... ... ... ..."
 
 
 
@@ -455,7 +455,7 @@ label afterstory_2:
 
 
 
-    player "(Is she in trouble? This is making me worried. Maybe I should call Theodora, see if she knows anything... ...)"
+    player "(Is she in trouble? This is making me worried. Maybe I should call Теодора, see if she knows anything... ...)"
 
 
 
@@ -465,7 +465,7 @@ label afterstory_2:
 
 
 
-    "To my surprise, Theodora didn’t answer my call either. This made me even more anxious."
+    "To my surprise, Теодора didn’t answer my call either. This made me even more anxious."
 
 
 
@@ -603,7 +603,7 @@ label afterstory_2:
 
 
 
-    "A 40-year-old woman’s stamina during sex is insane. Theodora couldn’t compare with her at all."
+    "A 40-year-old woman’s stamina during sex is insane. Теодора couldn’t compare with her at all."
 
 
 
@@ -655,7 +655,7 @@ label afterstory_2:
 
 
 
-    "Theodora slowly walked to me while breathing heavily. She was almost exhausted from the double-ended dildo play with her mother, but she was still willing to do whatever I asked."
+    "Теодора slowly walked to me while breathing heavily. She was almost exhausted from the double-ended dildo play with her mother, but she was still willing to do whatever I asked."
 
 
 
@@ -793,7 +793,7 @@ label afterstory_2:
 
     scene afterstory_2_52 with tstmgr
 
-    "Theodora collapsed on the ground and fainted away, but I wasn’t satisfied at all."
+    "Теодора collapsed on the ground and fainted away, but I wasn’t satisfied at all."
 
 
 
@@ -825,7 +825,7 @@ label afterstory_2:
 
 
 
-    "Theodora was right. Her mother does have a huge ass and I’m fucking loving pounding it with my crotch so much~"
+    "Теодора was right. Her mother does have a huge ass and I’m fucking loving pounding it with my crotch so much~"
 
 
 
@@ -877,7 +877,7 @@ label afterstory_2:
 
 
 
-    "I put the exhausted Elisa on Theodora’s body so she could at least rest her head on her daughter’s meaty ass."
+    "I put the exhausted Elisa on Теодора’s body so she could at least rest her head on her daughter’s meaty ass."
 
 
 
@@ -923,7 +923,7 @@ label afterstory_2:
 
 
 
-    "Sometime later, after Elisa and Theodora recovered from exhaustion... ..."
+    "Sometime later, after Elisa and Теодора recovered from exhaustion... ..."
 
 
 
@@ -1107,7 +1107,7 @@ label afterstory_2:
 
 
 
-    "Theodora reached the climax in the midst of the constant intense pleasure coming from her nipple."
+    "Теодора reached the climax in the midst of the constant intense pleasure coming from her nipple."
 
 
 

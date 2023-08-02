@@ -34,7 +34,7 @@ label d2_5:
 
     scene d2_5_2 with tstmgr
 
-    "Can I really let go of Theodora?"
+    "Can I really let go of Теодора?"
 
 
 

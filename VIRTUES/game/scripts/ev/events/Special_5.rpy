@@ -27,7 +27,7 @@ label Special_5:
 
 
 
-    e "I made a replica of Theodora’s key~"
+    e "I made a replica of Теодора’s key~"
 
 
 
@@ -546,7 +546,7 @@ label Special_5:
 
     scene special_5_41 with tstmgr
 
-    b "[P]’s big penis is getting so wet by the fluid coming out from Theodora’s pussy~~~~~"
+    b "[P]’s big penis is getting so wet by the fluid coming out from Теодора’s pussy~~~~~"
 
 
 
@@ -600,7 +600,7 @@ label Special_5:
 
 
 
-    b "Miss Theodora is lying under me... My sweat is spilling on her... ..."
+    b "Miss Теодора is lying under me... My sweat is spilling on her... ..."
 
 
 
@@ -740,7 +740,7 @@ label Special_5:
 
 
 
-    b "[P]... ... is fucking Theodora so hard... ... oh dear... did I just say ‘fuck’?... ..."
+    b "[P]... ... is fucking Теодора so hard... ... oh dear... did I just say ‘fuck’?... ..."
 
 
 
@@ -830,7 +830,7 @@ label Special_5:
 
     scene special_5_57 with dissolve
 
-    "Senning and Theodora went to shower together. They asked me to go with them, but well, I have to stay here because... ..."
+    "Senning and Теодора went to shower together. They asked me to go with them, but well, I have to stay here because... ..."
 
 
 

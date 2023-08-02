@@ -44,7 +44,7 @@ init python:
 
     Action.current_parent = "mansion"
     mansion_rooms = Action("mansion_rooms", _("Elisa's Mansion"), displaying="seen('d7_1')", has_children=True, rename=[("Elisa's Mansion", "seen('D_dqsj')")], pos=(950, 485))
-    C_room = Action("C_room", _("Theodora's Room"), "t.period in (Forenoon, Afternoon, Evening, LateNight)", displaying="seen('pcsj')")
+    C_room = Action("C_room", _("Теодора's Room"), "t.period in (Forenoon, Afternoon, Evening, LateNight)", displaying="seen('pcsj')")
     D_room = Action("D_room", _("Find Irene"), "t.period in (Afternoon, Evening)", to_map=False, training_nz="D")
     E_room = Action("E_room", _("Find Elisa"), "t.period in (Forenoon, Afternoon, Evening)", displaying="seen('pcsj', 'D_dqsj')", to_map=False, training_nz="E")
     mansion_pool = Action("mansion_pool", _("Swimming Pool"))
@@ -63,7 +63,7 @@ init python:
     Action.current_parent = "map"
     company = Action("company", _("ShinyRost Building"), has_children=True, pos=(676, 378-60))
     work = Action("work", _("Work"), "seen('pcsj') and t.period in (Forenoon, Afternoon) and Monday <= t.day <= Friday"),
-    find_C_company = Action("find_C_company", _("Find Theodora"), "seen('pcsj') and t.period in (Forenoon, Afternoon) and Monday <= t.day <= Friday", to_map=False, training_nz="C")
+    find_C_company = Action("find_C_company", _("Find Теодора"), "seen('pcsj') and t.period in (Forenoon, Afternoon) and Monday <= t.day <= Friday", to_map=False, training_nz="C")
 
     Action.current_parent = "map"
     find_A_restaurant = Action("find_A_restaurant", _("Restaurant"), "t.period is Evening and Monday<=t.day<=Saturday and seen('A_wsdgsj')", pos=(500, 713-60))
@@ -136,7 +136,7 @@ init python:
 
     G_room = Action("G_room", _("Find Uno"), "is_G_home()", hover_message=G_room_hover, to_map=False, training_nz="G")
     A_room = Action("A_room", _("Find Vera"), "is_A_home()", hover_message=A_room_hover, to_map=False, training_nz="A")
-    C_room_2 = Action("C_room_2", ("Theodora's room"))
+    C_room_2 = Action("C_room_2", ("Теодора's room"))
 
     Action.current_parent = None
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

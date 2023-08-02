@@ -231,7 +231,7 @@ label ACG_duo_8:
 
 
 
-    g "Keep going, Theodora! She is almost cumming!"
+    g "Keep going, Теодора! She is almost cumming!"
 
 
 
@@ -247,7 +247,7 @@ label ACG_duo_8:
 
 
 
-    "Theodora and Vera, two of my favorite girls, are rubbing each other’s pussy with their own."
+    "Теодора and Vera, two of my favorite girls, are rubbing each other’s pussy with their own."
 
 
 
@@ -291,7 +291,7 @@ label ACG_duo_8:
 
     scene acg_duo_8_20 with tstmgr
 
-    "Theodora and Vera stopped after hearing me shouting."
+    "Теодора and Vera stopped after hearing me shouting."
 
 
 
@@ -363,7 +363,7 @@ label ACG_duo_8:
 
     scene acg_duo_8_24 with tstmgr
 
-    "To my surprise, Theodora groveled like Uno without any complaint. It seems like she was afraid that I might be really angry too."
+    "To my surprise, Теодора groveled like Uno without any complaint. It seems like she was afraid that I might be really angry too."
 
 
 
@@ -958,7 +958,7 @@ label ACG_duo_8:
 
 
 
-    "Theodora is always like the leader among the three of them because she is the eldest and maturest one, but sometimes she would reveal her childlike side in the middle of sex like now~"
+    "Теодора is always like the leader among the three of them because she is the eldest and maturest one, but sometimes she would reveal her childlike side in the middle of sex like now~"
 
 
 
@@ -1014,7 +1014,7 @@ label ACG_duo_8:
 
     scene acg_duo_8_66 with tstmgr
 
-    player "It looks like Theodora has been fully aware of her mistake~"
+    player "It looks like Теодора has been fully aware of her mistake~"
 
 
 

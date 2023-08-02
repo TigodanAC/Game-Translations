@@ -105,13 +105,13 @@ label ACG_duo_6:
 
 
 
-    "Theodora had a great orgasm... ... Ah, I almost came too, it was so close~"
+    "Теодора had a great orgasm... ... Ah, I almost came too, it was so close~"
 
 
 
     scene acg_duo_6_3 with tstmgr
 
-    a "Theodora was quivering so violently... ..."
+    a "Теодора was quivering so violently... ..."
 
 
 

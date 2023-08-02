@@ -127,7 +127,7 @@ label B_train_sha_3:
 
     scene b_train_sha_3_13 with tstmgr
 
-    b "Oh, Miss Theodora?"
+    b "Oh, Miss Теодора?"
 
 
 
@@ -149,7 +149,7 @@ label B_train_sha_3:
 
 
 
-    "Lady Minna" "But it never hurts to improve your charm further and learn one trick or two to compete with western girls like that Theodora."
+    "Lady Minna" "But it never hurts to improve your charm further and learn one trick or two to compete with western girls like that Теодора."
 
 
 
@@ -159,7 +159,7 @@ label B_train_sha_3:
 
     scene b_train_sha_3_15 with tstmgr
 
-    "Lady Minna" "That Theodora has bigger breasts than you and she acts wilder too, just look at her dressing style. She reveals her bra and half of her breasts to people all the time."
+    "Lady Minna" "That Теодора has bigger breasts than you and she acts wilder too, just look at her dressing style. She reveals her bra and half of her breasts to people all the time."
 
 
 

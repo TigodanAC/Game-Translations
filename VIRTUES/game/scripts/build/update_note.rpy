@@ -11,7 +11,7 @@ v17:
 - Harem afterstory: Vera as a college student
 - Harem afterstory: Uno's real family 
 - Harem afterstory: Senning's video report
-- Harem afterstory: Theodora & Elisa's male worship
+- Harem afterstory: Теодора & Elisa's male worship
 - General proofreading
 - More than 1000+ new pictures
 - More than 70+ animated scenes
@@ -30,7 +30,7 @@ define past_update_note_text = '''v16:
 
 v15:
     - New personal plots for Uno and Irene
-    - New harem plots for "Theo&Uno&Vera", "Uno&Senning&Irene", "Theodora&Elisa"
+    - New harem plots for "Theo&Uno&Vera", "Uno&Senning&Irene", "Теодора&Elisa"
     - New scene for Lady Minna
     - The happy harem ending for "Theo&Uno&Vera"
     - 450 new pictures &animated scenes
@@ -38,14 +38,14 @@ v15:
 v14.5:
     - New submissive training option for Elisa: Bondage training
     - New sexskill training option for Elisa: Mother roleplay
-    - New shameless training option for Theodora: Cabinet sex
+    - New shameless training option for Теодора: Cabinet sex
     - New submissive training option for Uno: Pet training 
     - New personal plots for Irene
     - New harem plots for Vera&Uno&Theo, Theo&Elisa, Uno&Senning
     - Now there will be red dot guidance in Minna's store and Posia's store
 
 v14:
-    - New personal plots for Theodora, Senning, Rachel
+    - New personal plots for Теодора, Senning, Rachel
     - New harem plots for "Theo&Uno&Vera", "Theo&Irene", "Vera&Senning"
     - New storyline for Lady Minna, try raise Senning's harem acceptance point to unlock
     -600 new pictures & animated scenes
@@ -62,8 +62,8 @@ v13.5:
     - Several bugs/typoes fixed
 
 v13:
-    - You can now take Theodora to the dungeon
-    - New personal plots for Theodora, Irene, and Uno
+    - You can now take Теодора to the dungeon
+    - New personal plots for Теодора, Irene, and Uno
     - New harem plots for 'mother & daughters'
     - New 'sleeping with' option: Girls in your house
     - 590 new pictures & animated scenes
@@ -80,7 +80,7 @@ v12:
 
 v11:
     - Rollbacked the version of Renpy engine from 7.4.2 to 7.3.5
-    - You can take Uno and Theodora outdoors after their shamelessness levels reach 2
+    - You can take Uno and Теодора outdoors after their shamelessness levels reach 2
     - You can take Irene to the basement pool after her intimacy level reaches 2
     - New interactions with Lady Minna
     - New personal plots for Vera, Irene, and Uno
@@ -92,14 +92,14 @@ v10:
     - New gameplay: You can now take girls to certain areas and have fun with them
     - New location: Minna's Shop.
     - Added an alternative ending for Senning.
-    - Vera, Senning, Theodora, Elisa now have new plots.
+    - Vera, Senning, Теодора, Elisa now have new plots.
     - 692 new pictures & animated scenes
     - 24 new plots & events
     
 v9:
     - Added a new sound effect for spanking.
     - Reduced the price for Posia's services from $500/$1000/$2000 to $200/$500/$800.
-    - Theodora, Irene, Elisa, Rachel, Uno now have new plots.
+    - Теодора, Irene, Elisa, Rachel, Uno now have new plots.
     - Rewrote two Prologue events. 
     - 18 new main story events & plots
     - 2 new training options
@@ -132,7 +132,7 @@ v7:
     The event of "Irene and Elisa in the swimming pool"
     The event of "Vera and Uno in the bikini fighter dresses"
     The event of "go to the beach with Senning"
-    - Senning, Theodora, Irene, Rachel will have new plots. And you can now improve your relationship with Theodora
+    - Senning, Теодора, Irene, Rachel will have new plots. And you can now improve your relationship with Теодора
     - 22 new short events with 95 new pictures
     - 14 New main story events & plots with 425 new pictures
     - 5 New Training events with 107 pictures
@@ -168,7 +168,7 @@ V0.5:
     - You can now improve your relationship with Irene.
     - 101 new short events as I mentioned above.
     - 540 new pictures & animations. 
-    - 20 new plots with Vera, Senning, Irene, and Theodora. 
+    - 20 new plots with Vera, Senning, Irene, and Теодора. 
     - 10 new animated scenes. 
     - Bugs fixed
 
@@ -180,7 +180,7 @@ V0.4:
     - Temporarily removed the MC's Studying & Working & Sporting levels. They will be back in the future after a total rework.
     - School & Elisa's Mansion will now play similar roles to your B&B house.
     - Reworked 12 old pictures. 
-    - Now it is easier to increase the love of Vera, Senning, Theodora, and Rachel.
+    - Now it is easier to increase the love of Vera, Senning, Теодора, and Rachel.
     - New outfit for Senning.
     - You can now change the relationship with Senning.
     - You can now observe girls' actions in school and in Elisa's mansion. 
@@ -208,14 +208,14 @@ V0.30:
     - Reworked 32 old pictures.
     - Rewrote a subsequence plot about Vera if you chose to get her with force at that drunk night.
     - You will now spend 25% less time on unlocking Senning's plots.
-    - You will now spend 25% less time on unlocking Theodora's plots.
+    - You will now spend 25% less time on unlocking Теодора's plots.
     - 372 new pictures.
-    - 18 new events & interactions with Vera, Theodora, and Uno
+    - 18 new events & interactions with Vera, Теодора, and Uno
 
 v0.21:
     - Added "General Hints" button in the game.
     - Now when you unlock a new "Weekend Event", a badge will show up on "Weekend Plan" button. 
-    - Optimized Theodora's anime icon.
+    - Optimized Теодора's anime icon.
     - New app icon for Android version.
     - Optimized UIs in Android version.
     - Fixed bugs & minor changes in dialogs.
@@ -232,7 +232,7 @@ v0.2:
     - Reworked 61 old images.
     - New branch route at that drunken night with Vera.
     - 19 new events.
-    - Theodora, Irene and Elisa now have their first interaction option.
+    - Теодора, Irene and Elisa now have their first interaction option.
     - Introduce the 7th girl: Uno.
 '''
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

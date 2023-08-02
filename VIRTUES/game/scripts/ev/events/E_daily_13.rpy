@@ -109,7 +109,7 @@ label E_daily_13:
 
 
 
-    e "I need to go to meet with Theodora now. So... ..."
+    e "I need to go to meet with Теодора now. So... ..."
 
 
 

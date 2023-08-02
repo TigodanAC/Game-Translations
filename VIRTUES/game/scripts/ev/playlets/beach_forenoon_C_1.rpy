@@ -2,7 +2,7 @@ label beach_forenoon_C_1:
 
     scene beach_forenoon_c_1_1 with tstmgr
 
-    "Theodora and I are walking on the beach."
+    "Теодора and I are walking on the beach."
 
 
 

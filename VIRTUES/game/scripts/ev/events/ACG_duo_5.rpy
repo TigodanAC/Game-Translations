@@ -23,7 +23,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_2 with tstmgr
 
-    c "My name is Theodora and it’s my pleasure to take the chair in this first meeting. Nice to meet you all, attendees."
+    c "My name is Теодора and it’s my pleasure to take the chair in this first meeting. Nice to meet you all, attendees."
 
 
 
@@ -53,7 +53,7 @@ label ACG_duo_5:
 
 
 
-    g "Yes, Theodora looks so professional~"
+    g "Yes, Теодора looks so professional~"
 
 
 
@@ -203,7 +203,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_22 with tstmgr
 
-    "At this moment, Theodora raised her hand too."
+    "At this moment, Теодора raised her hand too."
 
 
 
@@ -249,7 +249,7 @@ label ACG_duo_5:
 
 
 
-    "Awwww~~ I think I’m gonna cry. Theodora is a real angel!"
+    "Awwww~~ I think I’m gonna cry. Теодора is a real angel!"
 
 
 
@@ -261,7 +261,7 @@ label ACG_duo_5:
 
     scene acg_duo_5_27 with tstmgr
 
-    g "How are we going to live without Theodora’s instruction?... ..."
+    g "How are we going to live without Теодора’s instruction?... ..."
 
 
 
@@ -449,7 +449,7 @@ label ACG_duo_5:
 
 
 
-    "Hmmmmm... ... Vera and Uno seemed to become more excited after hearing Theodora’s humiliation."
+    "Hmmmmm... ... Vera and Uno seemed to become more excited after hearing Теодора’s humiliation."
 
 
 
@@ -641,7 +641,7 @@ label ACG_duo_5:
 
     $ flashlight()
 
-    "Vera and Uno pinned Theodora down on the bed..."
+    "Vera and Uno pinned Теодора down on the bed..."
 
 
 
@@ -710,7 +710,7 @@ label ACG_duo_5:
     c "*Moaning with lust* Ahh~ huhh~ Please~~ stop... ... I... I will~~ Ohhhh~~~ huuuuhhh~"
 
 
-    a "Theodora is so cute~~"
+    a "Теодора is so cute~~"
 
 
 
@@ -739,7 +739,7 @@ label ACG_duo_5:
 
 
 
-    "Theodora came in the midst of violent trembling and her dirty fluid squirted out of pussy like a fountain~"
+    "Теодора came in the midst of violent trembling and her dirty fluid squirted out of pussy like a fountain~"
 
 
 

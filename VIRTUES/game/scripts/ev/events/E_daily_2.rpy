@@ -91,7 +91,7 @@ label E_daily_2:
 
     player "(... ... ... ...)"
 
-    player "(Wait... who is in it? There are only 3 people living in this place besides me. Aunt Elisa, Theodora, and Irene. So whoever in this room must be a girl.)"
+    player "(Wait... who is in it? There are only 3 people living in this place besides me. Aunt Elisa, Теодора, and Irene. So whoever in this room must be a girl.)"
 
     narrator "I can feel that my face flushed. "
 

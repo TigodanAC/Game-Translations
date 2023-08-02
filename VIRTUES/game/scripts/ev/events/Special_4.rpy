@@ -7,7 +7,7 @@ label Special_4:
 
 
 
-    "Well, Senning and Theodora want me to talk with their mothers, so... ..."
+    "Well, Senning and Теодора want me to talk with their mothers, so... ..."
 
 
 
@@ -33,7 +33,7 @@ label Special_4:
 
 
 
-    player "Eh... ... Theodora and Senning are worried about you. They don’t know why their mothers suddenly become hostile to each other."
+    player "Eh... ... Теодора and Senning are worried about you. They don’t know why their mothers suddenly become hostile to each other."
 
 
 
@@ -97,7 +97,7 @@ label Special_4:
 
 
 
-    e "Which of them do you think will have this position? Theodora, or Senning."
+    e "Which of them do you think will have this position? Теодора, or Senning."
 
 
 
@@ -207,7 +207,7 @@ label Special_4:
 
     scene special_4_20 with tstmgr
 
-    e "Actually I don’t really care if you are going to make Theodora your lawful wife or not..."
+    e "Actually I don’t really care if you are going to make Теодора your lawful wife or not..."
 
 
 

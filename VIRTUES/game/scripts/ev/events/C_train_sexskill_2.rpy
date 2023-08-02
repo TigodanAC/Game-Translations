@@ -51,7 +51,7 @@ label C_train_sexskill_2:
 
     scene void with tstmgr
 
-    "Suddenly, the bathroom door was opened and Theodora walked inside nakedly."
+    "Suddenly, the bathroom door was opened and Теодора walked inside nakedly."
 
 
 
@@ -251,7 +251,7 @@ label C_train_sexskill_2:
 
 
 
-    "Theodora’s body trembled violently, but to my surprise, she didn’t have an orgasm yet."
+    "Теодора’s body trembled violently, but to my surprise, she didn’t have an orgasm yet."
 
 
 
@@ -483,7 +483,7 @@ label C_train_sexskill_2:
 
 
 
-    "Theodora is trying her best to make me cum, just look at how hard her boobs are bouncing. But unfortunately, she is messing with the wrong dick~"
+    "Теодора is trying her best to make me cum, just look at how hard her boobs are bouncing. But unfortunately, she is messing with the wrong dick~"
 
 
 
@@ -511,7 +511,7 @@ label C_train_sexskill_2:
 
 
 
-    "Theodora orgasmed violently and lost her strength... ..."
+    "Теодора orgasmed violently and lost her strength... ..."
 
 
 
@@ -591,7 +591,7 @@ label C_train_sexskill_2:
 
 
 
-    "Theodora has lost all her strength. She failed to conquer my dick, so now she became the conquered."
+    "Теодора has lost all her strength. She failed to conquer my dick, so now she became the conquered."
 
 
 

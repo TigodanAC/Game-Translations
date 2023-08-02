@@ -143,7 +143,7 @@ label E_love_1:
 
     scene e_love1_4 with tstmgr
 
-    e "And you too, Theodora, are grounded for the rest of the month! "
+    e "And you too, Теодора, are grounded for the rest of the month! "
 
     scene e_love1_8 with tstmgr
 
@@ -171,7 +171,7 @@ label E_love_1:
 
     scene e_love1_4 with tstmgr
 
-    e "Mind your own business, Theodora. Get back to your room, now!"
+    e "Mind your own business, Теодора. Get back to your room, now!"
 
     scene e_love1_8 with tstmgr
 

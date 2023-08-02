@@ -3,7 +3,7 @@ label C_love_5:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, in Theodora’s office."
+    "Afternoon, in Теодора’s office."
 
 
 

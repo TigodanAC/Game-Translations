@@ -177,7 +177,7 @@ label E_love_4:
 
 
 
-    "I was half-forced to go with Irene and Theodora. We then played beach volleyball for some time."
+    "I was half-forced to go with Irene and Теодора. We then played beach volleyball for some time."
 
 
 

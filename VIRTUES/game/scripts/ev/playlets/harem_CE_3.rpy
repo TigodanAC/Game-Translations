@@ -12,7 +12,7 @@ label harem_CE_3:
 
 
 
-    "I’m being flanked by Elisa and Theodora’s lewd boobs. My stomach and back are being pressed by boobs at the same time and my dick was held by Elisa’s soft hand too. Nothing can be better than this~"
+    "I’m being flanked by Elisa and Теодора’s lewd boobs. My stomach and back are being pressed by boobs at the same time and my dick was held by Elisa’s soft hand too. Nothing can be better than this~"
 
 
 

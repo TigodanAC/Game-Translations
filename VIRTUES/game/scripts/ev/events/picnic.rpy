@@ -61,7 +61,7 @@ label CDE_Picnic:
 
     narrator "What kind of question is that? How am I able to answer it? "
 
-    narrator "I saw Aunt Elisa and Theodora looking at Irene with surprise. They must have realized how ridiculous it is. I think they are going to stop her. "
+    narrator "I saw Aunt Elisa and Теодора looking at Irene with surprise. They must have realized how ridiculous it is. I think they are going to stop her. "
 
     scene cde_date1_3 with tstmgr
 
@@ -81,14 +81,14 @@ label CDE_Picnic:
 
 
     menu:
-        "Theodora":
+        "Теодора":
 
             scene cde_date1_5 with tstmgr
 
             c "Me?"
             scene cde_date1_6 with tstmgr
 
-            e "Ha~ I know how [P] likes Theodora~"
+            e "Ha~ I know how [P] likes Теодора~"
             d "Theo blushed! Theo blushed!"
             scene cde_date1_7 with tstmgr
 
@@ -166,7 +166,7 @@ label CDE_Picnic:
 
 
     menu:
-        "Defend for Theodora":
+        "Defend for Теодора":
 
 
             scene cde_date1_19 with tstmgr
@@ -353,7 +353,7 @@ label CDE_Picnic:
 
     scene cde_date1_17 with tstmgr
 
-    narrator "The topic of the conversation has moved from \"family and life\" to \"business and company\". Aunt Elisa and Theodora are leading the conversation. Sometimes I would also jump in and give some opinions."
+    narrator "The topic of the conversation has moved from \"family and life\" to \"business and company\". Aunt Elisa and Теодора are leading the conversation. Sometimes I would also jump in and give some opinions."
 
     scene cde_date1_38 with tstmgr
 
@@ -367,13 +367,13 @@ label CDE_Picnic:
 
     scene cde_date1_40 with tstmgr
 
-    narrator "And she started to move to Theodora. What is she trying to do?"
+    narrator "And she started to move to Теодора. What is she trying to do?"
 
     scene cde_date1_41 with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I think she is going to do a prank on her sister. Should I warn Theodora?"
+    narrator "I think she is going to do a prank on her sister. Should I warn Теодора?"
 
 
     menu:
@@ -381,7 +381,7 @@ label CDE_Picnic:
 
             scene cde_date1_42 with tstmgr
 
-            narrator "I tried to deliver the message to Theodora through my eyes and she seemed to realize it."
+            narrator "I tried to deliver the message to Теодора through my eyes and she seemed to realize it."
             scene cde_date1_43 with tstmgr
 
             c "Stop, Irene. "
@@ -395,7 +395,7 @@ label CDE_Picnic:
             d "I hate you!"
             scene cde_date1_46 with tstmgr
 
-            narrator "Irene walked back to her seat and didn't look at Theodora again."
+            narrator "Irene walked back to her seat and didn't look at Теодора again."
             narrator "... ... ... ..."
             e "Now who is thirsty? I brought some beers. "
             scene cde_date1_47 with tstmgr
@@ -415,8 +415,8 @@ label CDE_Picnic:
             narrator "I am actually curious about what she is gonna do..."
             scene cde_date1_50 with tstmgr
 
-            narrator "And at the next second, she jumped out and grabbed Theodora's breasts with her hands. "
-            narrator "Theodora shivered a little, and moaned out with surprise."
+            narrator "And at the next second, she jumped out and grabbed Теодора's breasts with her hands. "
+            narrator "Теодора shivered a little, and moaned out with surprise."
             scene cde_date1_51 with tstmgr
 
             c "What do you think you are doing?"
@@ -444,7 +444,7 @@ label CDE_Picnic:
             scene cde_date1_56 with tstmgr
 
             c "Wait, what are you doing?"
-            narrator "The emotion of fear and panic showed up in Theodora's voice."
+            narrator "The emotion of fear and panic showed up in Теодора's voice."
             scene cde_date1_57 with tstmgr
 
             c "Stop right there, stop!"
@@ -453,13 +453,13 @@ label CDE_Picnic:
             scene cde_date1_58 with tstmgr
 
             d "Her nipples."
-            narrator "She suddenly stuck her fingers in Theodora's breasts. It seems like she has found the right place where Theodora's nipples are located. "
-            narrator "And now, Theodora's nipples are heavily stimulated by her sister's fingers. She trembled like she was taking an electric shock."
+            narrator "She suddenly stuck her fingers in Теодора's breasts. It seems like she has found the right place where Теодора's nipples are located. "
+            narrator "And now, Теодора's nipples are heavily stimulated by her sister's fingers. She trembled like she was taking an electric shock."
             scene cde_date1_59 with tstmgr
 
             c "Ahhhhhhhh!!!!!!!"
             c "Stop! Stop! Stop!!!!!"
-            narrator "Theodora screams out. She sounds like she is about to break into tears."
+            narrator "Теодора screams out. She sounds like she is about to break into tears."
             narrator "I never saw her pratfall like this..."
             scene cde_date1_61 with tstmgr
 
@@ -476,7 +476,7 @@ label CDE_Picnic:
             scene cde_date1_63 with tstmgr
 
             c "Please! Please! Please! Just release me!"
-            narrator "No, way. That is insane. Theodora is begging people? I thought that would only happen in my dreams."
+            narrator "No, way. That is insane. Теодора is begging people? I thought that would only happen in my dreams."
             d "Not good enough. Keep begging me."
             c "Hmm!!! ... ... Ah!!! ... ..."
             e "That's it, Irene. Don't embarrass your sister."
@@ -492,7 +492,7 @@ label CDE_Picnic:
 
             c "B, I, T, C, H!"
             c "I'm gonna kill you!"
-            narrator "Annnnd that's how Theodora would fight back..."
+            narrator "Annnnd that's how Теодора would fight back..."
             scene cde_date1_67 with tstmgr
 
             d "Wait... No..."
@@ -503,7 +503,7 @@ label CDE_Picnic:
             d "Nooooooooo!!! ... ... ... ..."
             scene cde_date1_68 with tstmgr
 
-            narrator "Theodora dragged Irene behind the tent. I can still hear Irene's screeching all the time."
+            narrator "Теодора dragged Irene behind the tent. I can still hear Irene's screeching all the time."
             narrator "I am a little curious about what is going on there..."
             player "Uh... Won't you stop them?"
             e "Why should I? "

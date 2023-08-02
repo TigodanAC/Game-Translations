@@ -47,7 +47,7 @@ label D_love_6:
 
     scene d_love_6_4 with tstmgr
 
-    e "(Why did I start to worry about Theodora all of a sudden?)"
+    e "(Why did I start to worry about Теодора all of a sudden?)"
 
 
 

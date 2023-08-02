@@ -87,7 +87,7 @@ label Final_final:
 
 
 
-    "As for Theodora, she can choose to stay in either my house or her mother’s house as she likes, just like before."
+    "As for Теодора, she can choose to stay in either my house or her mother’s house as she likes, just like before."
 
 
 
@@ -363,7 +363,7 @@ label Final_final:
 
     scene final_final_16 with tstmgr
 
-    "It used to be impossible for girls to orgasm simply by nipple touching except for Theodora, but thanks to my caressing and training every day, now all the girls’ breasts are way more sensitive than before."
+    "It used to be impossible for girls to orgasm simply by nipple touching except for Теодора, but thanks to my caressing and training every day, now all the girls’ breasts are way more sensitive than before."
 
 
 
@@ -381,7 +381,7 @@ label Final_final:
 
     scene final_final_17 with tstmgr
 
-    "Theodora and Uno" "Ohhhhhhh~~~~~"
+    "Теодора and Uno" "Ohhhhhhh~~~~~"
 
 
 
@@ -403,7 +403,7 @@ label Final_final:
 
 
 
-    g "Take this lunge, Theodora~ Ha~"
+    g "Take this lunge, Теодора~ Ha~"
 
 
 
@@ -445,11 +445,11 @@ label Final_final:
 
     scene final_final_22 with tstmgr
 
-    d "*Taking both Theodora and Uno’s nipples in mouth* Huuuuuummmmmmm~~~~~~~~"
+    d "*Taking both Теодора and Uno’s nipples in mouth* Huuuuuummmmmmm~~~~~~~~"
 
 
 
-    "Theodora and Uno" "Ohhhhhhhhhhhhhh!!~~~~~"
+    "Теодора and Uno" "Ohhhhhhhhhhhhhh!!~~~~~"
 
 
 
@@ -463,7 +463,7 @@ label Final_final:
 
 
 
-    g "Just... just give up and this will be over, Theodora!~~"
+    g "Just... just give up and this will be over, Теодора!~~"
 
 
 
@@ -481,7 +481,7 @@ label Final_final:
 
 
 
-    a "... ...Theodora really doesn’t want to buy snacks for Uno... ..."
+    a "... ...Теодора really doesn’t want to buy snacks for Uno... ..."
 
 
 
@@ -503,11 +503,11 @@ label Final_final:
 
     scene final_final_25 with tstmgr
 
-    "Theodora and Uno" "Ohhhhhhhhhhhhhhhhhhhhhhhh!!!!~~~~~~"
+    "Теодора and Uno" "Ohhhhhhhhhhhhhhhhhhhhhhhh!!!!~~~~~~"
 
 
 
-    "Theodora and Uno couldn’t bear Irene’s sucking and biting anymore. They had a great orgasm together~"
+    "Теодора and Uno couldn’t bear Irene’s sucking and biting anymore. They had a great orgasm together~"
 
 
 
@@ -1374,7 +1374,7 @@ label Final_final:
 
     scene void with tstmgr
 
-    "I gently put Rachel on the ground, and then I asked Vera to lie on the floor while Theodora lied on top of her."
+    "I gently put Rachel on the ground, and then I asked Vera to lie on the floor while Теодора lied on top of her."
 
 
 
@@ -1384,7 +1384,7 @@ label Final_final:
 
 
 
-    "This is such an embarrassing pose, but both Vera and Theodora have gotten used to obeying my command no matter how shameless it is."
+    "This is such an embarrassing pose, but both Vera and Теодора have gotten used to obeying my command no matter how shameless it is."
 
 
 
@@ -1966,7 +1966,7 @@ label Final_final:
 
 
 
-    a "*Squeezing Theodora’s breast* Wow, your breasts look so soft like a sponge ball, It feels like you can squeeze water out from them~"
+    a "*Squeezing Теодора’s breast* Wow, your breasts look so soft like a sponge ball, It feels like you can squeeze water out from them~"
 
 
 
@@ -2508,11 +2508,11 @@ label Final_final:
 
     scene final_final_161 with tstmgr
 
-    player "And Theodora... ..."
+    player "And Теодора... ..."
 
 
 
-    "Theodora has the most sensitive nipples among all the girls. That is her weakness... and what makes her more lovely~"
+    "Теодора has the most sensitive nipples among all the girls. That is her weakness... and what makes her more lovely~"
 
 
 
@@ -3266,7 +3266,7 @@ label Final_final:
 
 
 
-    "Father" "So, it is my son’s family party, and you are here too... ... Oh my, is my son married to Theodora? Hahaha, I knew they would be together~"
+    "Father" "So, it is my son’s family party, and you are here too... ... Oh my, is my son married to Теодора? Hahaha, I knew they would be together~"
 
 
 
@@ -3334,7 +3334,7 @@ label Final_final:
 
 
 
-    e "Both Theodora and Irene are now his wives... ..."
+    e "Both Теодора and Irene are now his wives... ..."
 
 
 

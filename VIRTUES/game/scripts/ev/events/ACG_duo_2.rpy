@@ -103,7 +103,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_10 with tstmgr
 
-    player "*Looking to Theodora* ... ... ... ..."
+    player "*Looking to Теодора* ... ... ... ..."
 
 
 
@@ -173,7 +173,7 @@ label ACG_duo_2:
 
     scene void with tstmgr
 
-    "Vera then got up and left with Theodora..."
+    "Vera then got up and left with Теодора..."
 
 
 
@@ -263,7 +263,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_26 with tstmgr
 
-    "Theodora went in the bathroom again..."
+    "Теодора went in the bathroom again..."
 
 
 
@@ -527,7 +527,7 @@ label ACG_duo_2:
 
 
 
-    "Theodora... ... she is like the leader of this harem. What am I gonna do if she is not here?~"
+    "Теодора... ... she is like the leader of this harem. What am I gonna do if she is not here?~"
 
 
 
@@ -849,7 +849,7 @@ label ACG_duo_2:
 
 
 
-    player "Alright, Theodora, are you willing to be another titty slave of mine like Uno?"
+    player "Alright, Теодора, are you willing to be another titty slave of mine like Uno?"
 
 
 
@@ -865,7 +865,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_77 with tstmgr
 
-    a "Wow... This is... unbelievable. I never knew Theodora can be so... shameless... ..."
+    a "Wow... This is... unbelievable. I never knew Теодора can be so... shameless... ..."
 
 
 

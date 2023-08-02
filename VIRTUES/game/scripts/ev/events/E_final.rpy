@@ -174,7 +174,7 @@ label E_final:
 
     scene e_final_13 with tstmgr
 
-    e "(Humph~ I wish I have a son like him... ... Theodora and Irene can really need a thoughtful brother~)"
+    e "(Humph~ I wish I have a son like him... ... Теодора and Irene can really need a thoughtful brother~)"
 
 
 
@@ -2403,7 +2403,7 @@ label E_final:
 
             scene e_final_195 with tstmgr
 
-            e "You want Theodora and Irene to... ... change their family name... from mine to yours?"
+            e "You want Теодора and Irene to... ... change their family name... from mine to yours?"
 
 
 
@@ -4493,7 +4493,7 @@ label E_final:
 
 
 
-            e "You want Theodora and Irene to... ... change their family name from mine to yours?"
+            e "You want Теодора and Irene to... ... change their family name from mine to yours?"
 
 
 

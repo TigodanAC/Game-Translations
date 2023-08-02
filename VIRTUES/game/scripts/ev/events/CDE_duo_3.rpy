@@ -313,13 +313,13 @@ label CDE_duo_3:
 
             scene cde_duo_3_34 with tstmgr
 
-            e "Theodora, you mean... ..."
+            e "Теодора, you mean... ..."
 
             scene cde_duo_3_35 with tstmgr
 
             c "No one will leave, nothing will change, and our family will still maintain in harmony like before. Let’s just... immerse into this deviant love and form a perverted family together... ..."
 
-            "Theodora said those words calmly and peacefully as if she was just stating an ordinary issue."
+            "Теодора said those words calmly and peacefully as if she was just stating an ordinary issue."
 
             scene cde_duo_3_36 with tstmgr
 
@@ -778,7 +778,7 @@ label CDE_duo_3:
 
             "I opened my eyes again after a long time and saw that Elisa was the only one that stayed."
 
-            "Where is Theodora?... ... Whatever, the answer is obvious. She has made her decision and I have no position to ask her to change her mind no matter how much I love her."
+            "Where is Теодора?... ... Whatever, the answer is obvious. She has made her decision and I have no position to ask her to change her mind no matter how much I love her."
 
             player "Elisa... ... You chose me... instead of your daughters?"
 
@@ -786,11 +786,11 @@ label CDE_duo_3:
 
             e "This is... my redemption."
 
-            e "I am a sinful woman, I will never forgive myself for what I have done to you and Theodora."
+            e "I am a sinful woman, I will never forgive myself for what I have done to you and Теодора."
 
             scene cde_duo_3_88 with tstmgr
 
-            e "I will leave my company to Theodora as compensation. And... for you, my honey... ..."
+            e "I will leave my company to Теодора as compensation. And... for you, my honey... ..."
 
             e "I can only use the rest of my life to repay."
 

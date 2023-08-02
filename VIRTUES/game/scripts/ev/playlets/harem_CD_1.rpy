@@ -68,7 +68,7 @@ label harem_CD_1:
 
     scene harem_cd_1_8 with tstmgr
 
-    player "(Noticed The look in Theodora's eyes) ... ... ... ..."
+    player "(Noticed The look in Теодора's eyes) ... ... ... ..."
 
 
 

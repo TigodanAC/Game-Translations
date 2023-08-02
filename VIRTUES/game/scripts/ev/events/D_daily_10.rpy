@@ -3,7 +3,7 @@ label D_daily_10:
     scene void with tstmgr
     play music sorrow
 
-    "Theodora came back to Aunt Elisa’s house tonight."
+    "Теодора came back to Aunt Elisa’s house tonight."
 
 
 
@@ -21,7 +21,7 @@ label D_daily_10:
 
     scene d_daily10_3 with tstmgr
 
-    "Irene jumped at Theodora and hugged her intimately like they are best friends."
+    "Irene jumped at Теодора and hugged her intimately like they are best friends."
 
 
 
@@ -73,7 +73,7 @@ label D_daily_10:
 
     scene d_daily10_7 with tstmgr
 
-    "Theodora turned to look at me."
+    "Теодора turned to look at me."
 
 
 
@@ -107,7 +107,7 @@ label D_daily_10:
 
     scene d_daily10_10 with tstmgr
 
-    "Theodora then left and headed to Aunt Elisa’s room."
+    "Теодора then left and headed to Aunt Elisa’s room."
 
 
 

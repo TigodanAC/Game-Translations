@@ -111,7 +111,7 @@ label shop:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["b_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
-                "Theodora's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["c_store_1"].is_shop_unlocked:
+                "Теодора's Astrologer Suit Wallpaper ($500)" if not BackgroundSystem.data["c_store_1"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["c_store_1"].unlock_from_shop()
                     jump shop.buy_wallpaper
@@ -219,7 +219,7 @@ label hotel_shop:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["b_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
-                "Theodora in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["c_store_2"].is_shop_unlocked:
+                "Теодора in Cheongsam Wallpaper ($500)" if not BackgroundSystem.data["c_store_2"].is_shop_unlocked:
                     if P.buy(500, _("Wallpaper")):
                         $ BackgroundSystem.data["c_store_2"].unlock_from_shop()
                     jump hotel_shop.buy_wallpaper
@@ -395,7 +395,7 @@ label C_room:
     else:
         scene croom_night_background with tstmgr
 
-    "This is Theodora's old room. Nobody lives here after she moved out from this mansion. But Aunt Elisa still keeps this room nice and clean."
+    "This is Теодора's old room. Nobody lives here after she moved out from this mansion. But Aunt Elisa still keeps this room nice and clean."
     jump action_post
 
 label D_room:
@@ -558,11 +558,11 @@ label A_room:
 label C_room_2:
     if is_day():
         scene bnb_croom_background with tstmgr
-        "Theodora is not in her room."
+        "Теодора is not in her room."
         "... ... ... ..."
     else:
         scene void with tstmgr
-        "Theodora has locked her door. Maybe she doesn't want others to know what she is doing."
+        "Теодора has locked her door. Maybe she doesn't want others to know what she is doing."
         "... ... ... ..."
     jump action_post
 

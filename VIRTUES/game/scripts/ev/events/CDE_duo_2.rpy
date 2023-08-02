@@ -3,7 +3,7 @@ label CDE_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, in Theodora’s office..."
+    "Later today, in Теодора’s office..."
 
 
 
@@ -43,7 +43,7 @@ label CDE_duo_2:
 
 
 
-    "Elisa then left Theodora’s office."
+    "Elisa then left Теодора’s office."
 
 
 
@@ -55,7 +55,7 @@ label CDE_duo_2:
 
     scene void with tstmgr
 
-    "Theodora soon got up and followed Elisa out of the company, of course, without getting her attention."
+    "Теодора soon got up and followed Elisa out of the company, of course, without getting her attention."
 
 
 
@@ -101,11 +101,11 @@ label CDE_duo_2:
 
     scene cde_duo_2_7 with tstmgr
 
-    "Theodora hesitated at the door for a long time and still couldn’t make up her mind to go inside."
+    "Теодора hesitated at the door for a long time and still couldn’t make up her mind to go inside."
 
 
 
-    c "Okay, Theodora, calm down, don’t let your curiosity get the better of you. Think carefully... ..."
+    c "Okay, Теодора, calm down, don’t let your curiosity get the better of you. Think carefully... ..."
 
 
 

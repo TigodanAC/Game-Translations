@@ -6,7 +6,7 @@ label company_evening_C_1:
 
 
 
-    "Theodora is still working while everyone else had gone home."
+    "Теодора is still working while everyone else had gone home."
 
 
 

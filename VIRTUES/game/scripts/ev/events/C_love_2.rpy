@@ -3,7 +3,7 @@ label C_love_2:
     scene void with tstmgr
     play music happy
 
-    "Later this afternoon, I came to Theodora’s office for a report."
+    "Later this afternoon, I came to Теодора’s office for a report."
 
 
 
@@ -343,7 +343,7 @@ label C_love_2:
 
             scene c_love_2_23 with tstmgr
 
-            "I successfully controlled my desire, and then walked out of Theodora’s office quietly."
+            "I successfully controlled my desire, and then walked out of Теодора’s office quietly."
 
             "... ... ... ..."
 

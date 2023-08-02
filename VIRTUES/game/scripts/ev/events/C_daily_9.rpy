@@ -3,7 +3,7 @@ label C_daily_9:
     scene void with tstmgr
     play music happy
 
-    "Later this afternoon, Theodora took me to a half-abandoned lumber room."
+    "Later this afternoon, Теодора took me to a half-abandoned lumber room."
 
 
 
@@ -323,7 +323,7 @@ label C_daily_9:
 
     scene c_daily9_18 with tstmgr
 
-    "Bale" "What? Shit, don’t you know that dude is Theodora Shinyrost’s boyfriend?"
+    "Bale" "What? Shit, don’t you know that dude is Теодора Shinyrost’s boyfriend?"
 
 
 

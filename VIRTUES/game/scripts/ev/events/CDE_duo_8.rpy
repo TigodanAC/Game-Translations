@@ -67,7 +67,7 @@ label CDE_duo_8:
 
     scene cde_duo_8_6 with tstmgr
 
-    d "Wuuuummm... ... Bad Theodora!"
+    d "Wuuuummm... ... Bad Теодора!"
 
 
 

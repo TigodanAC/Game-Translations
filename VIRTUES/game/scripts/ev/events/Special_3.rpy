@@ -8,7 +8,7 @@ label Special_3:
 
 
 
-    b "My mom talked with Theodora’s mother on the phone last night and they had a super heated argument."
+    b "My mom talked with Теодора’s mother on the phone last night and they had a super heated argument."
 
 
 

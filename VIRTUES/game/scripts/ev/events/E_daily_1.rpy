@@ -5,7 +5,7 @@ label E_daily_1:
 
     e "Hi, [P], It's so good to see you today."
 
-    e "You know, after Theodora moved out, this house became... empty. Thanks for coming and making this place lively again."
+    e "You know, after Теодора moved out, this house became... empty. Thanks for coming and making this place lively again."
 
     player "Don't mention it, Aunt Elisa. This place is like the second home to me. I enjoy coming here every time."
 

@@ -2,7 +2,7 @@ label mansion_bathroom_latenight_C_1:
 
     scene void with tstmgr
 
-    "I encountered Theodora in the bathroom by an accident."
+    "I encountered Теодора in the bathroom by an accident."
 
 
 

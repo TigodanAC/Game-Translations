@@ -311,8 +311,8 @@ label B_date_1:
             narrator "Another girl's face coming into my head after Senning asked the question."
             scene day2_c10 with flashback
 
-            narrator "Theodora."
-            narrator "Although Theodora and I don't really get along with each other, I still have to admit that she is extremely charming when she wears a swimming suit. I don't think any man can resist her."
+            narrator "Теодора."
+            narrator "Although Теодора and I don't really get along with each other, I still have to admit that she is extremely charming when she wears a swimming suit. I don't think any man can resist her."
             narrator "So who is better? Senning, or Theo?"
             narrator "How should I answer her?"
 

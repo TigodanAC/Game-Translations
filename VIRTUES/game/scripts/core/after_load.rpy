@@ -1,21 +1,21 @@
 default escaped_events = []
 label escape:
     hide screen quick_navigation
-    call screen hint("This escape button is to allow you to escape from any condition that leads to inability to continue the game. You can re-enter the events you escaped from, by open this menu on the Map, or wait until it's clickable again. (Please report any situation that requires you to use this, so we can fix it!)")
+    call screen hint("Эта кнопка выхода предназначена для того, чтобы вы могли избежать любого состояния, которое приводит к невозможности продолжить игру. Вы можете повторить события, из которых вы вышли, открыв это меню на карте, или подождать, пока оно снова не станет кликабельным.")
     menu:
-        "Confirm":
+        "Подтвердить":
             if cEvent:
                 $ escaped_events.append(cEvent)
             $ show_map()
             jump pauser
-        "Re-enter escaped events" if escaped_events and is_scene("Map"):
+        "Повторный запуск событий" if escaped_events and is_scene("Map"):
             python:
                 while(escaped_events):
                     event = store.escaped_events.pop(0)
                     if event and not seen(event):
                         run_event(event)
-            "All escaped events are seen."
-        "Cancel":
+            "Все пропущенные события просмотренны."
+        "Отмена":
             return
 
 default persistent.version = config.version

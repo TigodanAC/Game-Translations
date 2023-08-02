@@ -54,7 +54,7 @@ label B_Beach:
 
     b "Really? That will be great."
 
-    narrator "The girl I was talking about is Theodora. Although she always seems cold to me, she is actually friendly to everyone else. Maybe I should set a time to let them meet once."
+    narrator "The girl I was talking about is Теодора. Although she always seems cold to me, she is actually friendly to everyone else. Maybe I should set a time to let them meet once."
 
     narrator "... ... ... ..."
 

@@ -3,7 +3,7 @@ label CDE_final:
     scene void with tstmgr
     play music sorrow
 
-    "*This is the happy harem ending for Theodora&Irene&Elisa, it happens in a route which you only have Theodora, Irene, and Elisa in your harem. You will be able to reexperience this scene in your room.*"
+    "*This is the happy harem ending for Теодора&Irene&Elisa, it happens in a route which you only have Теодора, Irene, and Elisa in your harem. You will be able to reexperience this scene in your room.*"
 
 
 
@@ -123,7 +123,7 @@ label CDE_final:
 
 
 
-    "Theodora handed me a piece of newspaper which was balled up by Elisa a few minutes ago."
+    "Теодора handed me a piece of newspaper which was balled up by Elisa a few minutes ago."
 
 
 
@@ -627,7 +627,7 @@ label CDE_final:
 
 
 
-    "Are they kissing right now? Shit, I wish I can see that in my eyes, but now my face is completely covered by Theodora’s wet meaty pussy while Elisa is riding on my dick~"
+    "Are they kissing right now? Shit, I wish I can see that in my eyes, but now my face is completely covered by Теодора’s wet meaty pussy while Elisa is riding on my dick~"
 
 
 
@@ -689,7 +689,7 @@ label CDE_final:
 
 
 
-    "The three of us came together, but actually I didn’t even realize it. I have lost my last consciousness when Theodora squirted her fluid on my face... ..."
+    "The three of us came together, but actually I didn’t even realize it. I have lost my last consciousness when Теодора squirted her fluid on my face... ..."
 
 
 
@@ -789,7 +789,7 @@ label CDE_final:
 
 
 
-    d "Wow~ I think Theodora almost cries. I have never seen her like this before~ [P] must fuck her really hard~"
+    d "Wow~ I think Теодора almost cries. I have never seen her like this before~ [P] must fuck her really hard~"
 
 
 
@@ -1241,7 +1241,7 @@ label CDE_final:
 
 
 
-    "Employ A" "[P], that’s Theodora’s husband’s name, right? It seems like Irene has quite a good relationship with him. Shit... ... I wish I can be so close with those hotties too."
+    "Employ A" "[P], that’s Теодора’s husband’s name, right? It seems like Irene has quite a good relationship with him. Shit... ... I wish I can be so close with those hotties too."
 
 
 
@@ -1365,7 +1365,7 @@ label CDE_final:
 
 
 
-    "Sometime later, in Theodora’s room... ..."
+    "Sometime later, in Теодора’s room... ..."
 
 
 
@@ -1683,7 +1683,7 @@ label CDE_final:
 
 
 
-    "She has gradually turned her daughters into women like her. She teaches them every night about how to serve me better, and instills in them the pleasure of serving. Now both Theodora and Irene have realized how joyful it is to serve a man with their body~"
+    "She has gradually turned her daughters into women like her. She teaches them every night about how to serve me better, and instills in them the pleasure of serving. Now both Теодора and Irene have realized how joyful it is to serve a man with their body~"
 
 
 
@@ -1963,7 +1963,7 @@ label CDE_final:
 
 
 
-    "Theodora... ..."
+    "Теодора... ..."
 
 
 
@@ -2015,7 +2015,7 @@ label CDE_final:
 
     scene cde_final_121 with tstmgr
 
-    player "I am trampling on Theodora’s soft melons, ohhhhh~~~~ I think I am gonna cry~"
+    player "I am trampling on Теодора’s soft melons, ohhhhh~~~~ I think I am gonna cry~"
 
 
 
@@ -2033,7 +2033,7 @@ label CDE_final:
 
     scene cde_final_122 with tstmgr
 
-    player "Theodora... Theodora... ..."
+    player "Теодора... Теодора... ..."
 
 
 
@@ -2791,7 +2791,7 @@ label CDE_final:
 
 
 
-    "Theodora, Irene, Elisa... ... Maybe the whole world will curse our love, but... nothing will divide us. We will face all the challenges together and we will face them with a smile~"
+    "Теодора, Irene, Elisa... ... Maybe the whole world will curse our love, but... nothing will divide us. We will face all the challenges together and we will face them with a smile~"
 
 
 

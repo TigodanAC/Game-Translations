@@ -79,7 +79,7 @@ label found_pool:
 
     scene void with tstmgr
 
-    "And suddenly, Theodora heard a groan coming from the basement."
+    "And suddenly, Теодора heard a groan coming from the basement."
 
 
 
@@ -107,7 +107,7 @@ label found_pool:
 
     scene void with tstmgr
 
-    "Theodora walked to the basement, and she saw... ..."
+    "Теодора walked to the basement, and she saw... ..."
 
 
 
@@ -195,7 +195,7 @@ label found_pool:
 
     scene found_pool_14 with tstmgr
 
-    "Theodora stood up and began to undress herself."
+    "Теодора stood up and began to undress herself."
 
 
 
@@ -225,7 +225,7 @@ label found_pool:
 
 
 
-    "Theodora jumped into the water like a professional swimmer."
+    "Теодора jumped into the water like a professional swimmer."
 
 
 
@@ -571,7 +571,7 @@ label found_pool:
 
     scene found_pool_38 with tstmgr
 
-    "Theodora passed out under the great pleasure."
+    "Теодора passed out under the great pleasure."
 
 
 

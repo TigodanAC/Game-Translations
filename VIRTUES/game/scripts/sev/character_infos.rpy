@@ -1,7 +1,7 @@
 default t = Time(total_period=1)
 
 define P_study = Progress("study", "Study", "B_love_meter", base=6.0, nz="Senning")
-define P_work = Progress("work", "Work", "C_love_meter", base=6.0, nz="Theodora")
+define P_work = Progress("work", "Work", "C_love_meter", base=6.0, nz="Теодора")
 
 define P_sport = Progress("sport", "Sport", "F_love_meter", base=6.0, nz="Rachel")
 
@@ -61,7 +61,7 @@ She is popular at school because of her kindness. But she is somehow introverted
     hint=B_hint
 )
 
-define C = Nz("C", "Theodora", 23,
+define C = Nz("C", "Теодора", 23,
     color="#9dc8ca",
     intro='''As the older daughter of a famous entrepreneur, she is now a manager in one of her mother's companies.
 We are engaged at our parents' wills, but there is no real love between us yet. In fact, we don't get along with each other, like the two poles of a magnet.
@@ -72,7 +72,7 @@ I don't like her cold and strong personalities.''',
 )
 define D = Nz("D", "Irene", 18,
     color="#a4d5a9",
-    intro='''She is Theodora's little sister.
+    intro='''Она младшая сестра Теодоры.
 Although she is young, she perfectly knows how to use her charm to get advantages from boys.
 She looks naïve, but that may not be her true face.  
 We grew up together and kept a close relationship until now. She takes me as her own brother.''',
@@ -82,7 +82,7 @@ We grew up together and kept a close relationship until now. She takes me as her
 )
 define E = Nz("E", "Elisa", 40,
     color="#efe2a6",
-    intro='''A famous entrepreneur, the mother of Theodora and Irene, currently single.
+    intro='''A famous entrepreneur, the mother of Теодора and Irene, currently single.
 She and my dad are close friends, and she takes me as her own son to care.
 She now lives in her big mansion with her little daughter. Sometimes she would feel lonely.''',
     like=["Soap operas", "Programming", "Body SPA"],

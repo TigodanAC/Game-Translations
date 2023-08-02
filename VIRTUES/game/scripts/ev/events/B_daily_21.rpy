@@ -131,7 +131,7 @@ label B_daily_21:
 
 
 
-    "Theodora answered with a shrug."
+    "Теодора answered with a shrug."
 
 
 
@@ -190,14 +190,14 @@ label B_daily_21:
             b "[P]~~~"
 
             c "Huh... ... ... ..."
-        "Take Theodora’s hand":
+        "Take Теодора’s hand":
 
 
 
 
             scene b_daily21_17 with tstmgr
 
-            player "*Taking Theodora’s hand* Let’s go then~"
+            player "*Taking Теодора’s hand* Let’s go then~"
 
             c "*Being slightly surprised* Huh... ..."
 

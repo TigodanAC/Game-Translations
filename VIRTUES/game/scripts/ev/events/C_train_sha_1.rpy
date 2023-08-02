@@ -3,7 +3,7 @@ label C_train_sha_1:
     scene void with tstmgr
     play music happy
 
-    "It’s lunchtime, Theodora and I left the office together and headed to a restaurant nearby."
+    "It’s lunchtime, Теодора and I left the office together and headed to a restaurant nearby."
 
 
 
@@ -57,7 +57,7 @@ label C_train_sha_1:
 
 
 
-    "The last time we were stuck here, I wished I could get out as soon as possible because I felt awkward staying with Theodora alone. But everything has changed since then... ..."
+    "The last time we were stuck here, I wished I could get out as soon as possible because I felt awkward staying with Теодора alone. But everything has changed since then... ..."
 
 
 
@@ -274,7 +274,7 @@ label C_train_sha_1:
     scene c_train_sha_1_22 with dissolve
     play sound c_train_sha_1_22 loop
 
-    player "Theodora! Theodora! Theodora!"
+    player "Теодора! Теодора! Теодора!"
 
 
 
@@ -396,7 +396,7 @@ label C_train_sha_1:
 
 
 
-    "He didn’t find anything strange except Theodora’s flushed face."
+    "He didn’t find anything strange except Теодора’s flushed face."
 
 
 

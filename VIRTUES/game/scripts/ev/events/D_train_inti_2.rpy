@@ -481,7 +481,7 @@ label D_train_inti_2:
 
 
 
-    d "I should record this and show it off to Theodora~"
+    d "I should record this and show it off to Теодора~"
 
 
 

@@ -7,9 +7,9 @@ label D_daily_12:
     if _in_replay:
         "In order to replay this plot, I need to know this first."
         menu:
-            "Theodora has moved into your house":
+            "Теодора has moved into your house":
                 jump D_daily_12.line_a
-            "Theodora hasn't moved into your house":
+            "Теодора hasn't moved into your house":
                 jump D_daily_12.line_b
     else:
         if seen("C_daily_12"):
@@ -37,7 +37,7 @@ label D_daily_12.line_a:
 
     scene d_daily12_25 with tstmgr
 
-    d "Theodora? What are you doing here?"
+    d "Теодора? What are you doing here?"
 
     c "I live here now. Didn’t mom tell you that?"
 
@@ -63,7 +63,7 @@ label D_daily_12.line_a:
 
     scene d_daily12_29 with tstmgr
 
-    d "*Hiding behind Theodora* Awwwww... ..."
+    d "*Hiding behind Теодора* Awwwww... ..."
 
     scene d_daily12_32 with tstmgr
 
@@ -75,7 +75,7 @@ label D_daily_12.line_a:
 
     c "Ah, you must be Senning. [P] has told me about you."
 
-    c "My name is Theodora, a... tenant. What I said was just a joke, don’t take it seriously."
+    c "My name is Теодора, a... tenant. What I said was just a joke, don’t take it seriously."
 
     scene d_daily12_31 with tstmgr
 
@@ -97,7 +97,7 @@ label D_daily_12.line_a:
 
     scene d_daily12_29 with tstmgr
 
-    d "*Hiding behind Theodora again* Awwwwww... ... what’s her problem?"
+    d "*Hiding behind Теодора again* Awwwwww... ... what’s her problem?"
 
     b "*Murmuring* So cute... ..."
 
@@ -163,7 +163,7 @@ label D_daily_12.line_a:
 
     "... ... ... ..."
 
-    "*Senning has become friends with Theodora and Irene.*"
+    "*Senning has become friends with Теодора and Irene.*"
 
     "... ... ... ..."
 

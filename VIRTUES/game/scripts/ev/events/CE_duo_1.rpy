@@ -61,11 +61,11 @@ label CE_duo_1:
 
     scene ce_duo_1_5 with tstmgr
 
-    e "You are not here for vacation! Theodora’s position is very important for the company, she needs to take more responsibility!"
+    e "You are not here for vacation! Теодора’s position is very important for the company, she needs to take more responsibility!"
 
 
 
-    "Ah... shit... ... She is right, maybe Theodora and I went too far lately."
+    "Ah... shit... ... She is right, maybe Теодора and I went too far lately."
 
 
 
@@ -77,7 +77,7 @@ label CE_duo_1:
 
     scene ce_duo_1_5 with tstmgr
 
-    e "Yes, you should disturb Theodora less often. If you really get too bored at work, you can... come to me instead... ..."
+    e "Yes, you should disturb Теодора less often. If you really get too bored at work, you can... come to me instead... ..."
 
 
 
@@ -227,13 +227,13 @@ label CE_duo_1:
 
     scene ce_duo_1_22 with tstmgr
 
-    player "From now on I will come to you every day... with Theodora. Let’s have fun together all the time!~"
+    player "From now on I will come to you every day... with Теодора. Let’s have fun together all the time!~"
 
 
 
     scene ce_duo_1_23 with tstmgr
 
-    e "Theodora? No, Theo has a lot of work to do. I want her to have my position after I retire, but this company is not my private kingdom, I can’t just give her the throne."
+    e "Теодора? No, Theo has a lot of work to do. I want her to have my position after I retire, but this company is not my private kingdom, I can’t just give her the throne."
 
 
 
@@ -461,7 +461,7 @@ label CE_duo_1:
 
 
 
-    e "I just be successfully fertilized. We are going to have a baby~ Theodora and Irene are going to have a brother or a sister~"
+    e "I just be successfully fertilized. We are going to have a baby~ Теодора and Irene are going to have a brother or a sister~"
 
 
 
@@ -483,7 +483,7 @@ label CE_duo_1:
 
 
 
-    e "But I really began to worry about Theodora. Where do you think she is?"
+    e "But I really began to worry about Теодора. Where do you think she is?"
 
 
 
@@ -540,7 +540,7 @@ label CE_duo_1:
 
 
 
-    player "Theodora is addicted to this play. She has fallen in love with the feeling of hiding herself nakedly in a closed dark environment of the public."
+    player "Теодора is addicted to this play. She has fallen in love with the feeling of hiding herself nakedly in a closed dark environment of the public."
 
 
 

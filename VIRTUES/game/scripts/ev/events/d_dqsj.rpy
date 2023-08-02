@@ -27,13 +27,13 @@ label D_dqsj:
 
     e "[P.name]? Good afternoon."
 
-    narrator "The lady's name is Elisa, she is Theodora and Irene's mother. Both three of them have a pair of beautiful emerald eyes. But unlike her daughters who inherited silver hair color from their father, Aunt Elisa is actually a blonde."
+    narrator "The lady's name is Elisa, she is Теодора and Irene's mother. Both three of them have a pair of beautiful emerald eyes. But unlike her daughters who inherited silver hair color from their father, Aunt Elisa is actually a blonde."
 
     narrator "She is probably twice my age, you can see the slight wrinkles on her face. But her beauty is not affected by her age. I think she is still as beautiful as her daughters."
 
     scene ddqsj_e1 with tstmgr
 
-    narrator "Apparently, Theodora's breast size was inherited from her mother. Look at those amazing tits. My God..."
+    narrator "Apparently, Теодора's breast size was inherited from her mother. Look at those amazing tits. My God..."
 
     scene e_mansiongate_day_normal with tstmgr
 
@@ -45,7 +45,7 @@ label D_dqsj:
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "If you are looking for Theodora, she is in my company at this time."
+    e "If you are looking for Теодора, she is in my company at this time."
 
     player "Oh no, in fact, Aunt Elisa, I am looking for Irene."
 

@@ -275,7 +275,7 @@ label E_love_7:
 
     scene e_love_7_18 with tstmgr
 
-    e "It's time for Theodora to take more responsibility. I’ll gradually hand my power to her in the next few years. I’m sure she will do better than me."
+    e "It's time for Теодора to take more responsibility. I’ll gradually hand my power to her in the next few years. I’m sure she will do better than me."
 
 
 

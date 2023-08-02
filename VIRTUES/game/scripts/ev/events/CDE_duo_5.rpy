@@ -362,7 +362,7 @@ label CDE_duo_5:
 
 
 
-    "Theodora has never been so... submissive to me before. Is she doing the self-hypnosis thing as Elisa told her?"
+    "Теодора has never been so... submissive to me before. Is she doing the self-hypnosis thing as Elisa told her?"
 
 
 
@@ -538,7 +538,7 @@ label CDE_duo_5:
 
     scene cde_duo_5_43 with tstmgr
 
-    "Elisa and Theodora had to be extremely close to each other in order to press their tits as hard as they can. Their faces were almost clung together."
+    "Elisa and Теодора had to be extremely close to each other in order to press their tits as hard as they can. Their faces were almost clung together."
 
 
 

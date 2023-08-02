@@ -84,7 +84,7 @@ screen gallery():
         xoffset 240
 
         hbox spacing 12:
-            for k in ["Vera", "Irene", "Rachel", "Theodora", "Uno", "Elisa", "Senning", "Other"]:
+            for k in ["Vera", "Irene", "Rachel", "Теодора", "Uno", "Elisa", "Senning", "Other"]:
                 textbutton k action SetScreenVariable("tab", k)
 
         vpgrid:

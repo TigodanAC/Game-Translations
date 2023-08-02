@@ -3,7 +3,7 @@ label C_daily_13:
     scene void with tstmgr
     play music happy
 
-    "Theodora and I came to Aunt Elisa’s house for dinner tonight."
+    "Теодора and I came to Aunt Elisa’s house for dinner tonight."
 
 
 

@@ -130,7 +130,7 @@ label w2_d6_1_hint:
 
 
 label first_company:
-    "This company is owned by Theodora's family. I don't know why I'm here."
+    "This company is owned by Теодора's family. I don't know why I'm here."
     return
 
 label E_inspect_work:

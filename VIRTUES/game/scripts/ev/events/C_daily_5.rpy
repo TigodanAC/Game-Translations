@@ -19,7 +19,7 @@ label C_daily_5:
 
     e "And you need to come, too."
 
-    player "Uh, thanks for inviting me, Aunt Elisa. And I am going to tell Theodora right now."
+    player "Uh, thanks for inviting me, Aunt Elisa. And I am going to tell Теодора right now."
 
     e "Okay, I'll see you two tonight."
 
@@ -27,7 +27,7 @@ label C_daily_5:
 
     narrator "I hung up the phone."
 
-    narrator "Well, seems like I need to find Theodora right now. She should be in her office. "
+    narrator "Well, seems like I need to find Теодора right now. She should be in her office. "
 
     narrator "I wonder why she shut her phone off. I mean, it is essential for a department manager like her to keep the phone on 24/7, right? There might be some important calls."
 

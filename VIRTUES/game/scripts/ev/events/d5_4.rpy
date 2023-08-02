@@ -320,7 +320,7 @@ label d5_4:
 
     player "I want the house you bought in Rosco City three years ago. I know it's empty."
 
-    "Father" "Do you and Theodora finally decide to live together?"
+    "Father" "Do you and Теодора finally decide to live together?"
 
     player "... ... ... ..."
 
@@ -679,7 +679,7 @@ label d5_4_bLine:
 
     player "I want the house you bought in Rosco City three years ago. I know it's empty."
 
-    "Father" "Do you and Theodora finally decide to live together?"
+    "Father" "Do you and Теодора finally decide to live together?"
 
     player "... ... Nope."
 

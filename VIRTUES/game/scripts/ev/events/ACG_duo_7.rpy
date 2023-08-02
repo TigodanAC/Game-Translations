@@ -7,7 +7,7 @@ label ACG_duo_7:
 
 
 
-    "I’m going to the company with Theodora today, but... ..."
+    "I’m going to the company with Теодора today, but... ..."
 
 
 
@@ -17,7 +17,7 @@ label ACG_duo_7:
 
 
 
-    player "How long on earth does Theodora have to wear makeup? She has been in the bathroom for half an hour... ..."
+    player "How long on earth does Теодора have to wear makeup? She has been in the bathroom for half an hour... ..."
 
 
 
@@ -179,7 +179,7 @@ label ACG_duo_7:
 
     scene acg_duo_7_16 with tstmgr
 
-    "Theodora suddenly kissed Vera..."
+    "Теодора suddenly kissed Vera..."
 
 
 

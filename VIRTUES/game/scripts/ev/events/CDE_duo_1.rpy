@@ -3,11 +3,11 @@ label CDE_duo_1:
     scene void with tstmgr
     play music sorrow
 
-    "*The following plot is in Theodora and Irene’s perspective*"
+    "*The following plot is in Теодора and Irene’s perspective*"
 
 
 
-    "Theodora came to her mother’s mansion this evening since [P] said he had something urgent to deal with and couldn’t stay with her for tonight."
+    "Теодора came to her mother’s mansion this evening since [P] said he had something urgent to deal with and couldn’t stay with her for tonight."
 
 
 

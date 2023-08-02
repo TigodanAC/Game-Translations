@@ -6,13 +6,13 @@ label mansion_swimpool_latenight_C_1:
 
 
 
-    "It was Theodora."
+    "It was Теодора."
 
 
 
     scene mansion_swimpool_latenight_c_1_1 with tstmgr
 
-    player "Theodora?"
+    player "Теодора?"
 
 
 

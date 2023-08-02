@@ -67,7 +67,7 @@ label D_daily_1:
 
     scene rcsj_d9 with tstmgr
 
-    d "Have you ever seen Theodora's butt? I mean, without pants on?"
+    d "Have you ever seen Теодора's butt? I mean, without pants on?"
 
     player "What kind of question is that? Why do you even ask?"
 
@@ -77,7 +77,7 @@ label D_daily_1:
 
     player "... ... ... ..."
 
-    narrator "Theodora and I always pretend like a loving couple in front of people, even Aunt Elisa and Irene couldn't find the truth."
+    narrator "Теодора and I always pretend like a loving couple in front of people, even Aunt Elisa and Irene couldn't find the truth."
 
     scene rcsj_d8 with tstmgr
 

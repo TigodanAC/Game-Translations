@@ -192,7 +192,7 @@ label afterstory_3:
 
     scene afterstory_3_18 with tstmgr
 
-    "Theodora then fled the hallway... ..."
+    "Теодора then fled the hallway... ..."
 
 
 
@@ -202,7 +202,7 @@ label afterstory_3:
 
 
 
-    "As an exhibitionist, Uno didn’t really feel sorry for Theodora at all~"
+    "As an exhibitionist, Uno didn’t really feel sorry for Теодора at all~"
 
 
 
@@ -282,7 +282,7 @@ label afterstory_3:
 
 
 
-    "Theodora had my head on her lap and bent over slightly, dropping her hugely outsized tits on my face. She always knows how to use these gorgeous jellies to bring me the joy I need."
+    "Теодора had my head on her lap and bent over slightly, dropping her hugely outsized tits on my face. She always knows how to use these gorgeous jellies to bring me the joy I need."
 
 
 
@@ -306,7 +306,7 @@ label afterstory_3:
 
     scene afterstory_3_27 with tstmgr
 
-    "Theodora grinned with a teasing tongue and then fed one of her nipples into my mouth..."
+    "Теодора grinned with a teasing tongue and then fed one of her nipples into my mouth..."
 
 
 
@@ -517,7 +517,7 @@ label afterstory_3:
 
 
 
-    "My dick was caught in the deep chasm formed by Uno’s huge tits and Theodora’s wet pussy. It wasn’t being pressed hard, but I could barely hold myself from ejaculation."
+    "My dick was caught in the deep chasm formed by Uno’s huge tits and Теодора’s wet pussy. It wasn’t being pressed hard, but I could barely hold myself from ejaculation."
 
 
 
@@ -741,7 +741,7 @@ label afterstory_3:
 
 
 
-    g "And Theodora also looks happy... ... by helping master train his mare... ..."
+    g "And Теодора also looks happy... ... by helping master train his mare... ..."
 
 
 
@@ -784,7 +784,7 @@ label afterstory_3:
 
 
 
-    "As for Theodora, my silver-haired beauty has switched from the sadistic queen mode to the obedient slave mode. She was using her big bouncy tits to please me by massaging my arm."
+    "As for Теодора, my silver-haired beauty has switched from the sadistic queen mode to the obedient slave mode. She was using her big bouncy tits to please me by massaging my arm."
 
 
 
@@ -869,7 +869,7 @@ label afterstory_3:
 
 
 
-    "While I was fucking Uno, Theodora and Vera were cuddled up together kissing each other."
+    "While I was fucking Uno, Теодора and Vera were cuddled up together kissing each other."
 
 
 

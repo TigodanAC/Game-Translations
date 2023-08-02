@@ -45,7 +45,7 @@ label C_daily_15:
 
     scene void with tstmgr
 
-    "Theodora quickly got a nightgown on and went outside..."
+    "Теодора quickly got a nightgown on and went outside..."
 
 
 
@@ -139,7 +139,7 @@ label C_daily_15:
 
 
 
-    "Theodora suddenly stepped up and hugged me."
+    "Теодора suddenly stepped up and hugged me."
 
 
 

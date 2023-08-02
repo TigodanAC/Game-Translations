@@ -3,7 +3,7 @@ label C_train_sub_1:
     scene c_train_sub_1_1 with tstmgr
     play music happy
 
-    "Morning, Theodora is having a quick shower before going to work..."
+    "Morning, Теодора is having a quick shower before going to work..."
 
 
 
@@ -69,7 +69,7 @@ label C_train_sub_1:
 
     scene c_train_sub_1_8 with tstmgr
 
-    "Theodora put some of the lotions in that bottle on her body, but it didn’t make any bubbles."
+    "Теодора put some of the lotions in that bottle on her body, but it didn’t make any bubbles."
 
 
 
@@ -87,7 +87,7 @@ label C_train_sub_1:
 
 
 
-    "Sometime later, after Theodora came out from the bathroom..."
+    "Sometime later, after Теодора came out from the bathroom..."
 
 
 
@@ -137,7 +137,7 @@ label C_train_sub_1:
 
 
 
-    "Sometime later, Theodora and I were in the lift of the Shinyrost Building..."
+    "Sometime later, Теодора and I were in the lift of the Shinyrost Building..."
 
 
 
@@ -161,7 +161,7 @@ label C_train_sub_1:
 
 
 
-    "All the people in the lift have heard Theodora’s moaning. Some looked at her with surprise and some with nasty smiles..."
+    "All the people in the lift have heard Теодора’s moaning. Some looked at her with surprise and some with nasty smiles..."
 
 
 
@@ -193,7 +193,7 @@ label C_train_sub_1:
 
     scene void with tstmgr
 
-    "I could hear people whispering about us. Luckily, the lift stopped at our floor at the next second. I then took Theodora out of the crowds as fast as I could."
+    "I could hear people whispering about us. Luckily, the lift stopped at our floor at the next second. I then took Теодора out of the crowds as fast as I could."
 
 
 

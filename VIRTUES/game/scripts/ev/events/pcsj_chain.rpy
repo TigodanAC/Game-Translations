@@ -82,9 +82,9 @@ label pcsj:
 
     player "Thank you."
 
-    e "Don't thank me so quickly yet. I won't spoil you as your dad did. I can only help you by offering you a job at my company. You will work under Theodora's lead."
+    e "Don't thank me so quickly yet. I won't spoil you as your dad did. I can only help you by offering you a job at my company. You will work under Теодора's lead."
 
-    e "You have to work for a living by yourself, and it is also a chance for you to get along with Theodora. She is a prideful girl who only admires the strong. You need to prove yourself to her."
+    e "You have to work for a living by yourself, and it is also a chance for you to get along with Теодора. She is a prideful girl who only admires the strong. You need to prove yourself to her."
 
     player "... ... ... ..."
 
@@ -114,7 +114,7 @@ label pcsj:
 
     player "Alright, Aunt Elisa, I get it."
 
-    e "Great. You can come to work start from the next Monday. Theodora will tell you about the detail."
+    e "Great. You can come to work start from the next Monday. Теодора will tell you about the detail."
 
     player " I really appreciate it, Aunt Elisa."
 

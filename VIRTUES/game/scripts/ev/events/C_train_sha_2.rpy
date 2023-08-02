@@ -7,7 +7,7 @@ label C_train_sha_2:
 
 
 
-    "The next day in the afternoon, Theodora took me to the lumber room to look for some files."
+    "The next day in the afternoon, Теодора took me to the lumber room to look for some files."
 
 
 
@@ -133,7 +133,7 @@ label C_train_sha_2:
 
             scene c_train_sha_2_13 with tstmgr
 
-            player "*Holding Theodora’s soft body tight* ... ... ... ..."
+            player "*Holding Теодора’s soft body tight* ... ... ... ..."
 
             c "... ... ... ..."
 
@@ -579,7 +579,7 @@ label C_train_sha_2:
 
 
 
-    "Theodora is trying her best to lower her voice, but she just can’t help but keep moaning out with pleasure."
+    "Теодора is trying her best to lower her voice, but she just can’t help but keep moaning out with pleasure."
 
 
 
@@ -726,7 +726,7 @@ label C_train_sha_2:
 
 
 
-    "Theodora and I came at the same time with the great shame... ..."
+    "Теодора and I came at the same time with the great shame... ..."
 
 
 

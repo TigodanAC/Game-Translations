@@ -98,7 +98,7 @@ label pool_B.b_pool_1:
 
     scene b_pool_1_10 with tstmgr
 
-    b "I don’t want you to teach me anymore. I’m going to find Theodora. She must be a better teacher than you."
+    b "I don’t want you to teach me anymore. I’m going to find Теодора. She must be a better teacher than you."
 
 
 

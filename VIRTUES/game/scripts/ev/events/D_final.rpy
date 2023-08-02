@@ -51,7 +51,7 @@ label D_final:
 
     scene d_final_4 with tstmgr
 
-    d "Awwww... I’m almost 19, how long do I have to take to have the same height as Theodora!?"
+    d "Awwww... I’m almost 19, how long do I have to take to have the same height as Теодора!?"
 
 
 
@@ -2453,7 +2453,7 @@ label D_final:
 
             scene d_final_88 with tstmgr
 
-            player "Theodora used to be a princess in the castle too, but she grew a lot after 4 years in Avana University."
+            player "Теодора used to be a princess in the castle too, but she grew a lot after 4 years in Avana University."
 
 
 
@@ -2717,7 +2717,7 @@ label D_final:
 
 
 
-            "She has made a lot of friends here. Although the two Shinyrost girls are equally beautiful and sexy, Irene is actually much more popular in this college than Theodora once was. She is more outgoing and active, always willing to be involved in campus and off-campus activities."
+            "She has made a lot of friends here. Although the two Shinyrost girls are equally beautiful and sexy, Irene is actually much more popular in this college than Теодора once was. She is more outgoing and active, always willing to be involved in campus and off-campus activities."
 
 
 

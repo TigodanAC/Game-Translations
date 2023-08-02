@@ -65,7 +65,7 @@ label ACG_duo_9:
 
     scene acg_duo_9_9 with tstmgr
 
-    g "Theodora is too greedy~"
+    g "Теодора is too greedy~"
 
 
 
@@ -119,7 +119,7 @@ label ACG_duo_9:
 
 
 
-    g "Theodora and Irene have such a great relationship~"
+    g "Теодора and Irene have such a great relationship~"
 
 
 
@@ -195,7 +195,7 @@ label ACG_duo_9:
 
 
 
-    a "Theodora, say something... ..."
+    a "Теодора, say something... ..."
 
 
 

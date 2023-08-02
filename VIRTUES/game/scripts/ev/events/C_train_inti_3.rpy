@@ -6,7 +6,7 @@ label C_train_inti_3:
 
 
 
-    "Some days later, afternoon, I was working with Theodora in her office."
+    "Some days later, afternoon, I was working with Теодора in her office."
 
 
 
@@ -32,7 +32,7 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    "*Theodora’s phone ringing* Dududududu~~~~~~"
+    "*Теодора’s phone ringing* Dududududu~~~~~~"
 
 
 
@@ -144,7 +144,7 @@ label C_train_inti_3:
 
     scene c_train_inti_3_14 with tstmgr
 
-    "Theodora then left the room..."
+    "Теодора then left the room..."
 
 
 
@@ -184,7 +184,7 @@ label C_train_inti_3:
 
 
 
-    e "If you are looking for Theodora, she is in her room right now~"
+    e "If you are looking for Теодора, she is in her room right now~"
 
 
 
@@ -224,7 +224,7 @@ label C_train_inti_3:
 
 
 
-    "I walked to Theodora’s room. The door was not locked so I just went inside directly... ..."
+    "I walked to Теодора’s room. The door was not locked so I just went inside directly... ..."
 
 
 
@@ -416,7 +416,7 @@ label C_train_inti_3:
 
 
 
-    "Theodora... ... she has really changed."
+    "Теодора... ... she has really changed."
 
 
 
@@ -444,7 +444,7 @@ label C_train_inti_3:
 
     scene c_train_inti_3_37 with tstmgr
 
-    player "Alright, I’ll do it now~ Do you want to marry me, Theodora?"
+    player "Alright, I’ll do it now~ Do you want to marry me, Теодора?"
 
 
 
@@ -498,7 +498,7 @@ label C_train_inti_3:
 
     $ flashlight()
 
-    "I pushed Theodora on the table rudely..."
+    "I pushed Теодора on the table rudely..."
 
 
 
@@ -646,7 +646,7 @@ label C_train_inti_3:
 
 
 
-    player "Theodora, I’m about to..."
+    player "Теодора, I’m about to..."
 
 
 

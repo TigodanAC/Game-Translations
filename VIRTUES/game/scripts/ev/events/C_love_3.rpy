@@ -5,7 +5,7 @@ label C_love_3:
 
     "Midnight, in Elisa's mansion."
 
-    "*The following plot is from Theodora's perspective*"
+    "*The following plot is from Теодора's perspective*"
 
     scene c_love_3_1 with tstmgr
 

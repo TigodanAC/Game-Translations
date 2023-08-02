@@ -3,7 +3,7 @@ label C_daily_14:
     scene void with tstmgr
     play music happy
 
-    "I came to the beach with Theodora today because she wanted to swim."
+    "I came to the beach with Теодора today because she wanted to swim."
 
 
 
@@ -131,7 +131,7 @@ label C_daily_14:
 
 
 
-    "Theodora seemed to be in a good mood after swimming."
+    "Теодора seemed to be in a good mood after swimming."
 
 
 
@@ -171,7 +171,7 @@ label C_daily_14:
 
     scene c_daily14_12 with tstmgr
 
-    player "(What a fool I am. I don’t need this lotion at all. This lotion... is not for true lovers like Theodora and me. I’ll just ask her when I want to have sex with her.)"
+    player "(What a fool I am. I don’t need this lotion at all. This lotion... is not for true lovers like Теодора and me. I’ll just ask her when I want to have sex with her.)"
 
 
 

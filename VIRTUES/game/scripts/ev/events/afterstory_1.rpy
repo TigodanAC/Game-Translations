@@ -1247,7 +1247,7 @@ label afterstory_1:
 
     scene afterstory_1_103 with dissolve
 
-    "In Vera’s room, my two lovely wives and I were having a threesome again. It’s a pity that Theodora and Uno were not at home at this time, otherwise it would be a sex party until midnight~"
+    "In Vera’s room, my two lovely wives and I were having a threesome again. It’s a pity that Теодора and Uno were not at home at this time, otherwise it would be a sex party until midnight~"
 
 
 
@@ -1884,7 +1884,7 @@ label afterstory_1:
 
 
 
-    "It took quite a while for Uno and Theodora to get used to being without Vera during the day, but they soon dealt with it and began to support Vera in their own ways."
+    "It took quite a while for Uno and Теодора to get used to being without Vera during the day, but they soon dealt with it and began to support Vera in their own ways."
 
 
 
