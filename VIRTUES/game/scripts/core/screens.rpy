@@ -278,43 +278,43 @@ screen navigation():
 
         if main_menu:
 
-            textbutton _("New Game") action Start()
+            textbutton _("Новая Игра") action Start()
 
         else:
 
-            textbutton _("History") action ShowMenu("history")
+            textbutton _("История") action ShowMenu("history")
 
-            textbutton _("Save") action ShowMenu("save")
+            textbutton _("Сохранить") action ShowMenu("save")
 
-        textbutton _("Load") action ShowMenu("load")
+        textbutton _("Загрузить") action ShowMenu("load")
 
-        textbutton _("Settings") action ShowMenu("preferences")
+        textbutton _("Настройки") action ShowMenu("preferences")
 
-        textbutton _("Gallery") action ShowMenu("gallery"):
+        textbutton _("Галлерея") action ShowMenu("gallery"):
             sensitive not _in_replay
 
         if _in_replay:
 
-            textbutton _("End Replay") action EndReplay(confirm=True)
+            textbutton _("Закончить Просмотр") action EndReplay(confirm=True)
 
         elif not main_menu:
 
-            textbutton _("Main Menu") action MainMenu()
+            textbutton _("Главное Меню") action MainMenu()
 
-        textbutton _("About") action ShowMenu("about")
+        textbutton _("Информация") action ShowMenu("about")
 
         if renpy.variant("mobile"):
-            textbutton _("Escape") action Call("escape")
+            textbutton _("Выход") action Call("escape")
 
         if renpy.variant("pc"):
 
 
-            textbutton _("Help") action ShowMenu("help")
+            textbutton _("Помощь") action ShowMenu("help")
 
         if renpy.variant("pc") or renpy.variant("android"):
 
 
-            textbutton _("Quit") action Quit(confirm=not main_menu)
+            textbutton _("ВЫход") action Quit(confirm=not main_menu)
 
 
 style navigation_button is gui_button
