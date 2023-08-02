@@ -14,7 +14,7 @@ label escape:
                     event = store.escaped_events.pop(0)
                     if event and not seen(event):
                         run_event(event)
-            "Все пропущенные события просмотренны."
+            "Все пропущенные события просмотрены."
         "Отмена":
             return
 
