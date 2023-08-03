@@ -3,107 +3,107 @@ label A_daily_5:
     scene a_room_night_smile with tstmgr
     play music sorrow
 
-    a "You want to join me with the housekeeping?"
+    a "Хочешь помочь мне с уборкой?"
 
-    player "In fact, I would like you to have a rest. I can handle it alone."
+    player "На самом деле, я хотел бы, чтобы ты отдохнула. Я могу справиться с ней один."
 
-    player "You are already exhausted from your other jobs. I don't want you to overwork."
+    player "Ты уже устала от других своих работ. Я не хочу, чтобы ты переутомлялась."
 
     scene a_room_night_normal with tstmgr
 
     a "... ... ... ..."
 
-    a "I don't mean to doubt you, but do you still remember the last time when you cleaned the living room, you broke a vase by accident?"
+    a "Я не хочу сомневаться в тебе, но ты же помнишь, что в прошлый раз, убирая гостиную, ты случайно разбил вазу?"
 
-    player "... ... Yes, I still remember that."
+    player "... ... Да, я всё ещё помню это."
 
     scene a_room_night_smile with tstmgr
 
-    a "So... I think we'd better do the cleaning together in case something happens again, don't you think?"
+    a "Так что... я думаю, нам лучше убираться вместе, чтобы что-нибудь не случилось снова, не так ли?"
 
-    player "You sound like I'm a three-year-old kid..."
+    player "Ты говоришь, как будто я трёхлетний ребенок..."
 
-    player "Nevermind, fine. Let's do this together. I promise that I won't make mistakes again."
+    player "Неважно, хорошо. Давай сделаем это вместе. Обещаю, что больше не совершу ошибок."
 
-    a " I'm sure that you will be a great help."
+    a "Уверена, ты сильно мне поможешь."
 
-    a "Let's try not to wake the guests. We need to be careful and quiet."
+    a "Постараемся не разбудить гостей. Нам нужно быть осторожными и тихими."
 
-    player "No problem, madam."
+    player "Без проблем, мадам."
 
     scene home_livingroom_night_background with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Вера and I started to do the housekeeping work together."
+    narrator "Мы с Верой начали вместе заниматься уборкой."
 
-    narrator "But soon, I realized it was not a good idea. My work efficiency became very low after I teamed up with her."
+    narrator "Но вскоре я понял, что это было не очень хорошей идеей. Эффективность моей работы стала очень низкой после того, как я объединился с ней."
 
-    narrator "As for the reason..."
+    narrator "Что насчёт причины..."
 
-    narrator "It was because I had put all my attention on her body instead of working."
+    narrator "Это было потому, что я сосредоточил всё своё внимание на её теле вместо того, чтобы работать."
 
     scene gssj_a1 with tstmgr
 
-    narrator "Just take a look at her when she is cleaning the table. Her breasts look so marvelous at this angle, and they are jiggling along with her action."
+    narrator "Только взгляни на неё, когда она убирает со стола. Её грудь выглядит так чудесно под этим углом, и она покачивается вместе с её движениями."
 
     scene gssj_a2 with tstmgr
 
-    narrator "She must feel very tired when doing this. Her shoulder must be sore from supporting those huge tits."
+    narrator "Она, вероятно, очень устаёт, делая это. Должно быть, её плечи болят от поддержки этих огромных сисек."
 
     narrator "... ... ... ..."
 
-    narrator "I should definitely suggest to her not to do this in front of the guests again."
+    narrator "Я определённо должен предложить ей больше не делать этого перед гостями."
 
     narrator "... ... ... ..."
 
     scene gssj_a5 with tstmgr
 
-    narrator "She then started to sweep the floor after finished cleaning the table."
+    narrator "После уборки стола она начала подметать пол."
 
     scene gssj_a6 with tstmgr
 
-    narrator "Those legs, man... ..."
+    narrator "Эти ноги, чувак... ..."
 
-    narrator "I would like to see her wearing stockings."
+    narrator "Я хотел бы увидеть её в чулках."
 
-    narrator "Ah, damn it, how am I able to do my work under such a temptation."
+    narrator "Ах, чёрт возьми, как я могу работать при таком соблазне."
 
     narrator "... ... ... ..."
 
     scene gssj_a3 with tstmgr
 
-    narrator "A few moments later, she came to the bathroom and started to clean the bathtub."
+    narrator "Через несколько секунд она пошла в ванную комнату и начала мыть ванну."
 
-    narrator "Ah... That sitting posture is sexy as well, not to mention those cute white socks."
+    narrator "Ах... Эта сидячая поза тоже сексуальна, не говоря уже о тех милых белых носочках."
 
     scene gssj_a4 with tstmgr
 
-    narrator "Let's change an angle and take a closer look at it."
+    narrator "Давай-ка изменим угол и посмотрим на это поближе."
 
     narrator "... ... ... ..."
 
     scene gssj_a7 with tstmgr
 
-    a "Why are you staring at me?"
+    a "Почему ты пялишься на меня?"
 
-    a "And... your face looks weird."
+    a "И... у тебя странное лицо."
 
     scene gssj_a8 with tstmgr
 
-    a "Aren't you supposed to be cleaning the toilet now?"
+    a "Разве ты не должен сейчас мыть туалет?"
 
-    player "Oh, I..."
+    player "О, я..."
 
-    player " I'm on my way."
+    player "Я уже иду."
 
-    player "I was just... Eh, I was just observing your cleaning technique."
+    player "Я просто... Ээ, я просто наблюдал за твоей техникой уборки."
 
-    narrator "I left the bathroom in a hurry."
+    narrator "Я в спешке вышел из ванной."
 
     a "... ... ... ..."
 
-    a "Cleaning... technique?"
+    a "Техникой... уборки?"
 
     scene void with tstmgr
 
