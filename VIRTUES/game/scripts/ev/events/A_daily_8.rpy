@@ -3,49 +3,49 @@ label A_daily_8:
     scene void with tstmgr
     play music sorrow
 
-    "After what happened that night in the laundry room, me and Вера, things are getting strange between us. "
+    "После того, что произошло у нас с Верой той ночью в прачечной, между нами всё стало странно."
 
-    "She always dodges my eyes when we are talking, and in fact, she doesn't even actively talk with me anymore. Every time when we are together, she would keep silent and stare at the ground like a frightened sheep."
+    "Она всегда отводит взгляд, когда мы разговариваем, и на самом деле, она даже толком не разговаривает со мной. Каждый раз, когда мы вместе, она молчит и смотрит в землю, как испуганная овечка."
 
-    "This is not good, really not good."
+    "Это нехорошо, действительно нехорошо."
 
-    "I need to find a way to fix it, but how? "
+    "Мне нужно найти способ исправить это, но как?"
 
     "... ... ... ..."
 
     scene a_daily8_1 with tstmgr
 
-    player "Hey, Вера. Do you want me to help you with breakfast?"
+    player "Привет, Вера. Хочешь, я помогу тебе с завтраком?"
 
     a "[P]... ..."
 
-    a "No, I think... I can handle it."
+    a "Нет, я думаю... Я справлюсь."
 
     scene a_daily8_2 with tstmgr
 
-    player "Come on, you only slept for 4 hours last night. I think you should go get some rest, I'll do the kitchen stuff."
+    player "Да брось, ты спала только 4 часа прошлой ночью. Думаю, тебе стоит пойти отдохнуть, а я займусь кухней."
 
     scene a_daily8_3 with tstmgr
 
-    a "Don't, don't get closer to me."
+    a "Нет, не приближайся ко мне."
 
-    a "Leave me alone!"
+    a "Оставь меня в покое!"
 
     scene a_daily8_4 with tstmgr
 
     player "... ... ... ..."
 
-    a "Sorry, [P]. I shouldn't yell at you. "
+    a "Извини, [P]. Я не должна была кричать на тебя. "
 
-    a "It's just... I don't know what's going on between us."
+    a "Просто... я не знаю, что между нами происходит."
 
     scene a_daily8_5 with tstmgr
 
-    a "I need time... to think."
+    a "Мне нужно время... подумать."
 
-    a "You... you can have the kitchen if you want. I'll go get some sleep."
+    a "Ты... можешь заняться кухней, если хочешь. Я пойду посплю."
 
-    "She then left in a hurry."
+    "Сказав это, она в спешке вышла."
 
     scene void with tstmgr
 
