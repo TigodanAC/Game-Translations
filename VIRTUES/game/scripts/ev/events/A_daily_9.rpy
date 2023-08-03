@@ -3,51 +3,51 @@ label A_daily_9:
     scene bar_background with tstmgr
     play music sorrow
 
-    "Restaurateur" "Hey, [P]. Do you know what happened to Вера? She hasn't been herself lately."
+    "Ресторатор" "Привет, [P]. Ты не знаешь, что случилось с Верой? В последнее время она сама не своя."
 
-    "Restaurateur" "I'm worried about her."
+    "Ресторатор" "Я беспокоюсь о ней."
 
-    player "Uh... she and I, we... had some issues lately."
+    player "Ух... она и я, у нас... недавно были некоторые проблемы."
 
-    "Restaurateur" "What did you do to her?"
+    "Ресторатор" "Что ты с ней сделал?"
 
     player "... ... ... ..."
 
-    "Restaurateur" "I see... ..."
+    "Ресторатор" "Понимаю... ..."
 
-    "Restaurateur" "You know, she always came to me and asked about you. "
+    "Ресторатор" "Знаешь, она всегда подходила ко мне и спрашивала о тебе."
 
-    player "For real?"
+    player "Серьёзно?"
 
-    "Restaurateur" "Yeah, and she would be very happy every time I'd tell a joke about you or simply praise you for something."
+    "Ресторатор" "Да, и она была очень рада каждый раз, когда я рассказывал шутку про тебя или просто хвалил тебя за что-то."
 
-    "Restaurateur" "She likes you, kid, even a fool can see that, but what do you think of her exactly? Do you like her as well?"
+    "Ресторатор" "Ты ей нравишься, пацан, это видно даже дураку, но что ты о ней думаешь? Она тоже тебе нравится?"
 
-    "Restaurateur" "You two now live together and you come to pick her up every time when she gets off work, but you kept telling me that she is only a normal friend to you. That's confusing, don't you think?"
+    "Ресторатор" "Теперь вы двое живёте вместе, и ты приезжаешь забирать её каждый раз, когда она уходит с работы, но ты продолжааешь говорить мне, что она для тебя всего лишь просто подруга. Это сбивает с толку, тебе не кажется?"
 
-    "Restaurateur" "You can't just maintain this ambiguous relationship with her forever. That's irresponsible for both of you. If you like her, then tell her. If you don't, then stop acting like you do."
+    "Ресторатор" "Ты не можешь вечно поддерживать с ней эти двусмысленные отношения. Это легкомысленно для вас обоих. Если она тебе нравится, то скажи ей. Если нет, то перестань вести себя таким образом."
 
-    player "I... ..."
+    player "Я... ..."
 
-    "He is right. I need to tell Вера what I think."
+    "Он прав. Мне нужно рассказать Вере о своих мыслях."
 
-    "But, what do I think of Вера, exactly?"
+    "Но что именно я думаю о Вере?"
 
 
     menu:
-        "I think I love her":
+        "Я думаю, что люблю её":
             pass
-        "I think I simply desire her body":
+        "Я думаю, что просто хочу её":
 
             pass
 
     player "... ... ... ..."
 
-    player "Thanks, my friend. You are really helpful. "
+    player "Спасибо, приятель. Ты действительно помог мне."
 
-    player "I will talk to her... when I get the chance."
+    player "Я поговорю с ней... когда у меня будет возможность."
 
-    "Restaurateur" "You'd better hurry. "
+    "Ресторатор" "Тебе лучше поторопиться."
 
     scene void with tstmgr
 
