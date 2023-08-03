@@ -5,47 +5,47 @@ label A_daily_4:
 
     narrator "... ... ... ..."
 
-    narrator "The next morning..."
+    narrator "Следующим утром..."
 
-    narrator "{b}the following plot is from Вера's perspective{/b}"
+    narrator "{b}следующий сюжет с точки зрения Веры{/b}"
 
-    narrator "(Door knocking) Knock, knock..."
+    narrator "(Стук в дверь) Тук, тук..."
 
-    narrator "(Door knocking) Knock, knock..."
+    narrator "(Стук в дверь) Тук, тук..."
 
-    a "(Who would come at such an early time?)"
+    a "(Кто мог прийти в такую рань?)"
 
-    narrator "I came and opened the door. There is a pretty girl outside. I don't know who she is."
+    narrator "Я подошла и открыла дверь. За ней стояла красивая девушка. Я не знаю её."
 
     scene rcsj_a8 with tstmgr
 
-    a "Hello there..."
+    a "Привет..."
 
-    a "Are you a reserved guest? I didn't know you would come so early today."
+    a "Вы гостья? Я не знала, что Вы сегодня придёте так рано."
 
     scene rcsj_a9 with tstmgr
 
-    b "(Surprised) Guest? No, there must be some mistake."
+    b "(удивлённо) Гостья? Нет, это, должно быть, какая-то ошибка."
 
-    b "Is this place a B&B house?"
+    b "Это отель типа \"постель и завтрак\"?"
 
-    a "Yes, it is."
+    a "Да, это он."
 
     scene rcsj_a10 with tstmgr
 
-    b "(Is [P.name] living here after he lost his financial support?)"
+    b "(Живёт ли здесь [P.name] после того, как потерял финансовую поддержку?)"
 
-    b "(But... he said he was living in a house his father left him.)"
+    b "(Но... он сказал, что живёт в доме, который оставил ему отец.)"
 
     scene rcsj_a9 with tstmgr
 
-    b " I'm sorry to bother you, Miss. I am here to find my classmate. He missed two classes earlier this week, and I thought he might need my note to review what he has missed."
+    b "Простите, что беспокою Вас, мисс. Я здесь, чтобы найти своего одноклассника. На этой неделе он пропустил два занятия, и я подумала, что ему может понадобиться мой конспект, чтобы просмотреть то, что он пропустил."
 
-    b "He gave me this address a few weeks ago. I think he might be one of your guests?"
+    b "Он дал мне этот адрес несколько недель назад. Думаю, он может быть одним из Ваших гостей?"
 
     scene rcsj_a11 with tstmgr
 
-    a " What's his name?"
+    a "Как его зовут?"
 
     b "[P.name]."
 
@@ -53,33 +53,33 @@ label A_daily_4:
 
     a "... ... ... ..."
 
-    a "Oh..."
+    a "О..."
 
-    b "He...... is not living in here?"
+    b "Он... не живёт здесь?"
 
-    a "Oh, no. You are at the right place. He does live here."
+    a "О, нет. Вы находитесь в нужном месте. Он живёт здесь."
 
-    a "But he is not one of my guests. In fact, he is my boss, sort of."
+    a "Но он не один из моих гостей. На самом деле, он мой босс, что-то в этом роде."
 
     scene rcsj_a13 with tstmgr
 
-    b "Your boss? He owns this place?"
+    b "Ваш босс? Он владеет этим местом?"
 
-    a "Indeed. He is the owner of this house."
+    a "Да, так и есть. Он хозяин этого дома."
 
-    b "So he is now running a B&B house? That's... something beyond my expectations."
+    b "Значит, теперь он управляет отелем? Это... несколько выше моих ожиданий."
 
     scene rcsj_a12 with tstmgr
 
     b "... ... ... ..."
 
-    b "Thank you for telling me that."
+    b "Спасибо, что сказали мне это."
 
     scene rcsj_a14 with tstmgr
 
-    a "You are welcome. Would you like to come inside and wait for him? He is about to finish his shower."
+    a "Пожалуйста. Хотите зайти внутрь и подождать его? Он скоро выйдет из душа."
 
-    b "Yes, I would like to, thanks."
+    b "Да, хотелось бы, спасибо."
 
     scene void with tstmgr
 
@@ -87,151 +87,151 @@ label A_daily_4:
 
     scene rcsj_a15 with tstmgr
 
-    narrator "Вера and Сеннин entered the living room together."
+    narrator "Вера и Сеннин вместе прошли в гостиную."
 
     scene rcsj_a16 with tstmgr
 
-    a "Well..."
+    a "В общем..."
 
-    a " I'm Вера, [P.name]'s... assistant. It's nice to meet you."
+    a "Я Вера, помощница [P.name]. Приятно познакомиться."
 
     scene rcsj_a17 with tstmgr
 
-    b "Nice to meet you too, Miss Вера. I am Сеннин, an international student from China."
+    b "Я тоже рада познакомиться с Вами, мисс Вера. Я Сеннин, иностранная студентка из Китая."
 
-    narrator "Miss Вера? That sounds weird. Вера is my given name, not my surname. Maybe she's just being polite or traditional..."
+    narrator "Мисс Вера? Звучит странно. Вера - это моё имя, а не фамилия. Может быть, она просто вежлива или придерживается традиций..."
 
-    narrator "It was actually a cute grammar mistake. I kinda like the name \"Miss Вера.\""
+    narrator "На самом деле, эта грамматическая ошибка милая. Мне нравится имя \"мисс Вера\"."
 
     scene rcsj_a18 with tstmgr
 
-    a "I had some Chinese lessons back in high school. Сеннин means \"forest\" in Chinese, right?"
+    a "У меня были уроки китайского в старшей школе. Сеннин на китайском означает \"лес\", верно?"
 
     scene rcsj_a19 with tstmgr
 
-    b "You surprised me, Miss Вера. You are the first one I've met in this country who knows the Chinese language."
+    b "Вы меня удивили, мисс Вера. Из всех, кого я встретила в этой стране, Вы первая, кто знает китайский язык."
 
-    b "And your interpretation of my name is quite close. In fact, the full meaning of my name is \"lemon in the forest.\""
+    b "И Ваша интерпретация моего имени довольно близка. На самом деле, полное значение моего имени —  \"лимон в лесу\"."
 
-    a "Wow, such a poetic name you have."
+    a "Ого, какое у Вас поэтичное имя."
 
-    b "Thank you."
+    b "Спасибо."
 
     scene rcsj_a17 with tstmgr
 
-    b "If you don't mind, Miss Вера, I have a question."
+    b "Если Вы не возражаете, мисс Вера, у меня есть вопрос."
 
-    a "Please say it."
+    a "Пожалуйста, задавайте."
 
-    b "You just said you are his assistant, so what do you do for work exactly?"
+    b "Вы только что сказали, что Вы его помощница, так чем именно Вы занимаетесь по работе?"
 
     scene rcsj_a16 with tstmgr
 
-    a "Nothing but cleaning, cooking, and checking in guests when I have time. I'm basically a housekeeper."
+    a "Ничего, кроме уборки, готовки и регистрации гостей, когда у меня есть время. Фактически, я домработница."
 
     scene rcsj_a21 with tstmgr
 
-    b "That sounds like a lot of work."
+    b "Похоже, у Вас много работы."
 
-    a "Yeah, but I like this job, so no big deal."
+    a "Да, но мне нравится эта работа, так что ничего страшного."
 
-    b "That's... good to hear."
+    b "Это... приятно слышать."
 
-    b "So, does [P.name] live with the guests?"
+    b "Итак, [P.name] живёт с гостями?"
 
-    a "Yes, but not exactly. All the guest bedrooms are on the ground floor. [P.name] and I are living upstairs."
+    a "Да, но не совсем. Все гостевые спальни находятся на первом этаже. Мы с [P.name] живём наверху."
 
     scene rcsj_a22 with tstmgr
 
-    b "What? You live here, too? You... You and [P.name], live together?"
+    b "Что? Вы тоже здесь живёте? Вы... Вы и [P.name] живёте вместе?"
 
     scene rcsj_a20 with tstmgr
 
-    a "Eh... yes?"
+    a "Э... да?"
 
     b "... ... ... ..."
 
     a "... ... ... ..."
 
-    narrator "The awkward silence..."
+    narrator "Неловкое молчание..."
 
-    narrator "This Chinese girl seems to care about [P.name] very much. I wonder what her relationship with him is. Is she his girlfriend? I don't dare to ask."
+    narrator "Видимо, эта китаянка очень беспокоится за [P.name]. Интересно, какие у неё с ним отношения. Она его девушка? Я не решаюсь спросить."
 
-    narrator "If they really are a couple, perhaps I should speak less. I don't want her to take me as her rival in love or something."
+    narrator "Если они действительно пара, возможно, мне следует меньше говорить. Я не хочу, чтобы она воспринимала меня как соперницу или что-то в этом роде."
 
-    narrator "But... why am I feeling a little upset When I know that she might be [P.name]'s girlfriend... ..."
+    narrator "Но... почему мне немного грустно от того, что она может быть девушкой [P.name]... ..."
 
-    b "I think, I, I should probably go."
+    b "Думаю, мне, наверное, пора идти."
 
-    a "You don't want to wait for him?"
+    a "Вы не хотите подождать его?"
 
     scene rcsj_a17 with tstmgr
 
-    b "No, no. I have a class in an hour. I can't stay long."
+    b "Нет-нет, через час у меня урок. Я не могу больше задерживаться."
 
-    b "I will leave my notebook here, please hand it to him. It's so nice to meet you, Miss Вера."
+    b "Я оставлю свой конспект здесь. Пожалуйста, передайте его ему. Было очень приятно познакомиться с Вами, мисс Вера."
 
-    a "Nice to meet you too..."
+    a "Мне тоже было приятно познакомиться..."
 
     scene void with tstmgr
 
-    narrator "She left in a hurry."
+    narrator "Она второпях ушла."
 
-    narrator "A few minutes later, [P.name] came out from the bathroom."
+    narrator "Через несколько минут [P.name] вышел из ванной."
 
     scene rcsj_a24 with tstmgr
 
     player "... ... ... ..."
 
-    player " What's the matter?"
+    player "В чём дело?"
 
     scene rcsj_a25 with tstmgr
 
-    a "A Chinese girl was there a few minutes ago. She left her notebook to you."
+    a "Несколько минут назад тут была китаянка. Она оставила тебе свой конспект."
 
-    player "Oh, that must be Сеннин. How do you like her?"
+    player "О, скорее всего, это Сеннин. Как она тебе?"
 
-    a "She is adorable."
+    a "Она милашка."
 
-    player "But you don't look so well. Did you two have an argument?"
+    player "Но ты не очень хорошо выглядишь. Вы двое поссорились?"
 
     scene rcsj_a26 with tstmgr
 
-    a "No, it's not about her..."
+    a "Нет, это не из-за неё..."
 
-    a "Is she your girlfriend?"
+    a "Она твоя девушка?"
 
-    player "What?"
+    player "Что?"
 
-    player "No, but she is one of the best friends I have in college."
+    player "Нет, но она одна из моих лучших друзей в колледже."
 
-    player "Why do you ask? Did she have any action that makes you feel \"she loves me\"?"
+    player "Почему ты спрашиваешь? Она сделала что-то, что заставило почувствовать тебя, что \"она любит меня\"?"
 
     scene rcsj_a24 with tstmgr
 
-    a "I am not sure. But she definitely cares about you very much."
+    a "Я не уверена. Но она определённо очень волнуется за тебя."
 
-    a "I was just hoping... she would not take me as her rival if she really loves you."
+    a "Я просто надеялась... она не восприняла меня как соперницу, если действительно любит тебя."
 
-    player "Ha!"
+    player "Ха!"
 
     scene rcsj_a27 with tstmgr
 
-    a " What's that \"Ha!\" for? Why do you look excited?"
+    a "Что значит \"Ха!\"? Почему ты выглядишь взволнованным?"
 
-    player "It's fun to imagine two beauties like you and Сеннин falling in love with the same dude and getting jealous at each other. It's just like a Japanese harem galgame."
+    player "Забавно представлять, как две красавицы вроде тебя и Сеннин влюбляются в одного и того же чувака и ревнуют друг к другу. Это как японская гаремная игра."
 
     scene rcsj_a28 with tstmgr
 
     a "... ... ... ..."
 
-    a "Unbelievable. You must be crazy."
+    a "Невероятно. Ты, наверное, сошёл с ума."
 
     scene rcsj_a26 with tstmgr
 
     narrator "... ... ... ..."
 
-    a "(Japanese harem galgame? What kind of game is that?)"
+    a "(Японская гаремная игра? Что это за игра?)"
 
     scene void with tstmgr
 
