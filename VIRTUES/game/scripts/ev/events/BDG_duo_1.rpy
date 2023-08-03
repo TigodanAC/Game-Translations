@@ -5,7 +5,7 @@ label BDG_duo_1:
     scene bdg_duo_1_1 with dissolve
     play music happy
 
-    b "Mmmmmm... ... Уно, you are wearing that collar again... ..."
+    b "Mmmmmm... ... Uno, you are wearing that collar again... ..."
 
 
 
@@ -35,7 +35,7 @@ label BDG_duo_1:
 
 
 
-    g "Come on, Сеннин, just admit that you are jealous~"
+    g "Come on, Senning, just admit that you are jealous~"
 
 
 
@@ -85,7 +85,7 @@ label BDG_duo_1:
 
     scene bdg_duo_1_11 with tstmgr
 
-    g "Don’t you want to have a cat girl like Уно as your pet? Meow~ meow~~"
+    g "Don’t you want to have a cat girl like Uno as your pet? Meow~ meow~~"
 
 
 
@@ -101,7 +101,7 @@ label BDG_duo_1:
 
     scene bdg_duo_1_13 with tstmgr
 
-    g "Сеннин~~ Сеннин~~ Nya~~~~"
+    g "Senning~~ Senning~~ Nya~~~~"
 
 
 
@@ -135,7 +135,7 @@ label BDG_duo_1:
 
 
 
-    g "Sen? Сеннин? Are you okay?"
+    g "Sen? Senning? Are you okay?"
 
 
 

@@ -17,11 +17,11 @@ label F_daily_6:
 
     scene f_daily6_1 with tstmgr
 
-    a "Eh... Рэйчел?"
+    a "Eh... Rachel?"
 
 
 
-    f "Hello, Вера..."
+    f "Hello, Vera..."
 
 
 
@@ -71,13 +71,13 @@ label F_daily_6:
 
 
 
-    a "Okay, Рэйчел, I forgive you. It’s not really your fault anyway."
+    a "Okay, Rachel, I forgive you. It’s not really your fault anyway."
 
 
 
     scene f_daily6_4 with tstmgr
 
-    f "Really? Thank you, Вера!"
+    f "Really? Thank you, Vera!"
 
 
 
@@ -125,7 +125,7 @@ label F_daily_6:
 
     scene f_daily6_8 with tstmgr
 
-    player "Hmm, Рэйчел? It’s good to see you."
+    player "Hmm, Rachel? It’s good to see you."
 
 
 

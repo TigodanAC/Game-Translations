@@ -7,7 +7,7 @@ label D_love_3:
 
     player "... ... ... ... ... ..."
 
-    narrator "Айрин told me to wait in her room for a few minutes while she was on her way home. But how long have I waited? 30 minutes? I don't know."
+    narrator "Irene told me to wait in her room for a few minutes while she was on her way home. But how long have I waited? 30 minutes? I don't know."
 
     narrator "This girl has absolutely no notion of time."
 
@@ -129,9 +129,9 @@ label D_love_3:
 
     scene void with tstmgr
 
-    narrator "Aunt Элиза then left the room quietly and closed the door."
+    narrator "Aunt Elisa then left the room quietly and closed the door."
 
-    narrator "Me and Айрин slept together till the sunset."
+    narrator "Me and Irene slept together till the sunset."
 
     narrator "... ... ... ..."
 

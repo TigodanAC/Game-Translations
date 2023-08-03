@@ -13,13 +13,13 @@ label D_daily_13:
 
     scene d_daily13_2 with tstmgr
 
-    e "Thank you so much for helping Айрин, honey~"
+    e "Thank you so much for helping Irene, honey~"
 
 
 
     scene d_daily13_3 with tstmgr
 
-    e "Wmmmm... ... Айрин’s grades went down a little recently. I am a little worried about that. Could you please be harder on her?"
+    e "Wmmmm... ... Irene’s grades went down a little recently. I am a little worried about that. Could you please be harder on her?"
 
 
 
@@ -31,7 +31,7 @@ label D_daily_13:
 
 
 
-    "Ah damn, I feel so guilty right now. Ever since I established the intimate relationship with Айрин, the tutoring class was not about tutoring anymore."
+    "Ah damn, I feel so guilty right now. Ever since I established the intimate relationship with Irene, the tutoring class was not about tutoring anymore."
 
 
 
@@ -49,7 +49,7 @@ label D_daily_13:
 
 
 
-    "I walked into Айрин’s room and she was already waiting for me..."
+    "I walked into Irene’s room and she was already waiting for me..."
 
 
 
@@ -127,7 +127,7 @@ label D_daily_13:
 
             d "Awwwwwwww... ... Fine, I’ll do it... ..."
 
-            "Айрин then went to her desk and began doing her homework."
+            "Irene then went to her desk and began doing her homework."
 
             scene d_daily13_17 with tstmgr
 
@@ -145,7 +145,7 @@ label D_daily_13:
 
             "... ... ... ..."
 
-            "I then spent the next three hours on tutoring and successfully restricted myself from doing anything lewd with Айрин~"
+            "I then spent the next three hours on tutoring and successfully restricted myself from doing anything lewd with Irene~"
         "Ahhh... fuck the tutoring!":
 
 

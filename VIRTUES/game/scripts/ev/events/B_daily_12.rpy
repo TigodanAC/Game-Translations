@@ -115,7 +115,7 @@ label B_daily_12:
 
 
 
-    "Sometime later, in Сеннин’s room."
+    "Sometime later, in Senning’s room."
 
 
 
@@ -133,7 +133,7 @@ label B_daily_12:
 
 
 
-    b "He must think I am playing hard to get. Oh... you are such a silly girl, Сеннин..."
+    b "He must think I am playing hard to get. Oh... you are such a silly girl, Senning..."
 
 
 

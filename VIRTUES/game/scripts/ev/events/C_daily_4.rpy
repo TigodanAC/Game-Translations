@@ -3,7 +3,7 @@ label C_daily_4:
     scene rcsj_c6 with tstmgr
     play music happy
 
-    narrator "I came to Теодора's office to return a file."
+    narrator "I came to Theodora's office to return a file."
 
     c "Thanks, just leave it on the table and you can go."
 

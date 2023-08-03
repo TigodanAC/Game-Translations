@@ -1,9 +1,9 @@
 default t = Time(total_period=1)
 
-define P_study = Progress("study", "Study", "B_love_meter", base=6.0, nz="Сеннин")
-define P_work = Progress("work", "Work", "C_love_meter", base=6.0, nz="Теодора")
+define P_study = Progress("study", "Study", "B_love_meter", base=6.0, nz="Senning")
+define P_work = Progress("work", "Work", "C_love_meter", base=6.0, nz="Theodora")
 
-define P_sport = Progress("sport", "Sport", "F_love_meter", base=6.0, nz="Рэйчел")
+define P_sport = Progress("sport", "Sport", "F_love_meter", base=6.0, nz="Rachel")
 
 define P = Player("P", state="P_state", color=color.cream)
 
@@ -41,7 +41,7 @@ define color.E = "#efe2a6"
 define color.F = "#0b654f"
 define color.G = "#ffbfbf"
 
-define A = Nz("A", "Вера", 22,
+define A = Nz("A", "Vera", 22,
     color="#d29881",
     intro='''A poor young countryside girl who came to this city alone with a dream of making a better life. She can only do the low-paid menial jobs now due to the lack of higher education.
 She is super hardworking and she embraces this society with a golden heart no matter how bad it is.
@@ -51,7 +51,7 @@ I took her virginity on a drunken night.''',
     zone=["Feet", "Mouth",  "Vagina"]
 )
 
-define B = Nz("B", "Сеннин", 21,
+define B = Nz("B", "Senning", 21,
     color="#aaaaaa",
     intro='''She is my best friend in college, also the only daughter of a couple of Chinese billionaires.
 She is talented at academic studies. Her GPA maintains 3.8 for the last two years. 
@@ -61,7 +61,7 @@ She is popular at school because of her kindness. But she is somehow introverted
     hint=B_hint
 )
 
-define C = Nz("C", "Теодора", 23,
+define C = Nz("C", "Theodora", 23,
     color="#9dc8ca",
     intro='''As the older daughter of a famous entrepreneur, she is now a manager in one of her mother's companies.
 We are engaged at our parents' wills, but there is no real love between us yet. In fact, we don't get along with each other, like the two poles of a magnet.
@@ -70,9 +70,9 @@ I don't like her cold and strong personalities.''',
     zone=["Nipples"],
     hint=C_hint
 )
-define D = Nz("D", "Айрин", 18,
+define D = Nz("D", "Irene", 18,
     color="#a4d5a9",
-    intro='''Она младшая сестра Теодоры.
+    intro='''She is Theodora's little sister.
 Although she is young, she perfectly knows how to use her charm to get advantages from boys.
 She looks naïve, but that may not be her true face.  
 We grew up together and kept a close relationship until now. She takes me as her own brother.''',
@@ -80,16 +80,16 @@ We grew up together and kept a close relationship until now. She takes me as her
     zone=["Anus"],
     hint=D_hint
 )
-define E = Nz("E", "Элиза", 40,
+define E = Nz("E", "Elisa", 40,
     color="#efe2a6",
-    intro='''A famous entrepreneur, the mother of Теодора and Айрин, currently single.
+    intro='''A famous entrepreneur, the mother of Theodora and Irene, currently single.
 She and my dad are close friends, and she takes me as her own son to care.
 She now lives in her big mansion with her little daughter. Sometimes she would feel lonely.''',
     like=["Soap operas", "Programming", "Body SPA"],
     zone=["Breasts"],
     hint=E_hint
 )
-define F = Nz("F", "Рэйчел", 20,
+define F = Nz("F", "Rachel", 20,
     color="#0b654f",
     intro='''A member of university track team, the strongest girl I have ever met in my life. 
 She is not aware of her beauty and being a little unconfident about her face.''',
@@ -97,7 +97,7 @@ She is not aware of her beauty and being a little unconfident about her face.'''
     zone=["Unknown"],
     hint=F_hint
 )
-define G = Nz("G", "Уно", 19,
+define G = Nz("G", "Uno", 19,
     color="#ffbfbf",
     intro=G_intro,
     like=["Cosplay", "Manga", "Shooting short videos"],
@@ -108,7 +108,7 @@ define G = Nz("G", "Уно", 19,
 init -1 python:
 
     def G_intro():
-        intro = '''A famous coser, Айрин's friend.
+        intro = '''A famous coser, Irene's friend.
 I don't know her very well yet.'''
         if seen("G_MoveIn"):
             intro = '''A famous coser, an amateur porn shooter, a bookstore clerk. This girl is full of mystery.
@@ -158,7 +158,7 @@ She doesn't talk much, but she has the ability to get along with strangers in a 
     def A_hint():
         hint = "Try go to her workplaces and talk with her to get along with her."
         if seen("A_love_2") and not seen("pcsj"):
-            hint = "I have found Вера for too many times recently, perhaps I should spend some time on Сеннин."
+            hint = "I have found Vera for too many times recently, perhaps I should spend some time on Senning."
         return hint
 
     def B_hint():
@@ -168,7 +168,7 @@ She doesn't talk much, but she has the ability to get along with strangers in a 
         if seen("B_love_1"):
             hint = "She admires people who are good at studying. You should go study at school and try to impress her."
         if seen("B_love_2"):
-            hint = "I have found Сеннин for too many times recently, perhaps I should spend some time on Вера."
+            hint = "I have found Senning for too many times recently, perhaps I should spend some time on Vera."
         if seen("pcsj"):
             hint = "She admires people who are good at studying. You should go study at school and try to impress her."
         return hint

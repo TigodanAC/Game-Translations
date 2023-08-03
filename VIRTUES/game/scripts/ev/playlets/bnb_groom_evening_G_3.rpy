@@ -2,7 +2,7 @@ label bnb_groom_evening_G_3:
 
     scene bnb_groom_evening_g_3_1 with tstmgr
 
-    player "What are you doing, Уно?"
+    player "What are you doing, Uno?"
 
 
 

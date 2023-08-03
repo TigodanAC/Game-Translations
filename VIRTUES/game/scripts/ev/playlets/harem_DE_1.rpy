@@ -30,7 +30,7 @@ label harem_DE_1:
 
     scene harem_de_1_2 with tstmgr
 
-    player "I can carry Айрин like this for the whole day~"
+    player "I can carry Irene like this for the whole day~"
 
 
 

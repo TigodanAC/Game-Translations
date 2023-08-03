@@ -7,7 +7,7 @@ label C_train_sha_2:
 
 
 
-    "The next day in the afternoon, Теодора took me to the lumber room to look for some files."
+    "The next day in the afternoon, Theodora took me to the lumber room to look for some files."
 
 
 
@@ -133,7 +133,7 @@ label C_train_sha_2:
 
             scene c_train_sha_2_13 with tstmgr
 
-            player "*Holding Теодора’s soft body tight* ... ... ... ..."
+            player "*Holding Theodora’s soft body tight* ... ... ... ..."
 
             c "... ... ... ..."
 
@@ -579,7 +579,7 @@ label C_train_sha_2:
 
 
 
-    "Теодора is trying her best to lower her voice, but she just can’t help but keep moaning out with pleasure."
+    "Theodora is trying her best to lower her voice, but she just can’t help but keep moaning out with pleasure."
 
 
 
@@ -657,7 +657,7 @@ label C_train_sha_2:
 
 
 
-    "Элиза put her hands on the handles and... ..."
+    "Elisa put her hands on the handles and... ..."
 
 
 
@@ -726,7 +726,7 @@ label C_train_sha_2:
 
 
 
-    "Теодора and I came at the same time with the great shame... ..."
+    "Theodora and I came at the same time with the great shame... ..."
 
 
 
@@ -748,7 +748,7 @@ label C_train_sha_2:
 
     scene c_train_sha_2_62 with tstmgr
 
-    e "I... I didn't see anything. I’m going to pick Айрин up from school now. You two... have fun... ..."
+    e "I... I didn't see anything. I’m going to pick Irene up from school now. You two... have fun... ..."
 
 
 
@@ -762,7 +762,7 @@ label C_train_sha_2:
 
     scene c_train_sha_2_63 with tstmgr
 
-    "Элиза left the room awkwardly... ..."
+    "Elisa left the room awkwardly... ..."
 
 
 
@@ -772,7 +772,7 @@ label C_train_sha_2:
 
 
 
-    player "Well, I’d rather choose Aunt Элиза than a stranger."
+    player "Well, I’d rather choose Aunt Elisa than a stranger."
 
 
 
@@ -786,11 +786,11 @@ label C_train_sha_2:
 
 
 
-    player "You called Aunt Элиза ‘mommy’ and cried like a spoiled little girl with a high-pitched voice. You were acting like... ... Айрин."
+    player "You called Aunt Elisa ‘mommy’ and cried like a spoiled little girl with a high-pitched voice. You were acting like... ... Irene."
 
 
 
-    c "I... I didn’t... ... I am not... Айрин."
+    c "I... I didn’t... ... I am not... Irene."
 
 
 

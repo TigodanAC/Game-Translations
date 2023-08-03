@@ -3,7 +3,7 @@ label D_train_sexskill_1:
     scene void with tstmgr
     play music happy
 
-    "The next afternoon, in Айрин's room..."
+    "The next afternoon, in Irene's room..."
 
 
 
@@ -27,7 +27,7 @@ label D_train_sexskill_1:
 
 
 
-    player "I... no, I mean, wow, congratulation, Айрин!"
+    player "I... no, I mean, wow, congratulation, Irene!"
 
 
 
@@ -93,7 +93,7 @@ label D_train_sexskill_1:
 
     scene d_train_sexskill_1_8 with tstmgr
 
-    d "Alright, now I’m going to show you what I learned from Уно~"
+    d "Alright, now I’m going to show you what I learned from Uno~"
 
 
 
@@ -101,7 +101,7 @@ label D_train_sexskill_1:
 
 
 
-    player "Уно? Damn... what has she taught you?"
+    player "Uno? Damn... what has she taught you?"
 
 
 
@@ -237,7 +237,7 @@ label D_train_sexskill_1:
 
 
 
-    player "Aunt Элиза’s... dildo?"
+    player "Aunt Elisa’s... dildo?"
 
 
 
@@ -245,7 +245,7 @@ label D_train_sexskill_1:
 
 
 
-    d "I’m going to buy a dildo myself and practice harder~ Уно said it is a great exercise to do and it may even make my boobs bigger~"
+    d "I’m going to buy a dildo myself and practice harder~ Uno said it is a great exercise to do and it may even make my boobs bigger~"
 
 
 
@@ -283,7 +283,7 @@ label D_train_sexskill_1:
 
 
 
-    player "Sorry, Айрин. I should have warned you before I came... ... But I was just too hyped to do that."
+    player "Sorry, Irene. I should have warned you before I came... ... But I was just too hyped to do that."
 
 
 
@@ -293,7 +293,7 @@ label D_train_sexskill_1:
 
 
 
-    player "You know, Айрин, you don’t need to buy any dildo for practicing this. You can... practice those tricks with my dick every day~"
+    player "You know, Irene, you don’t need to buy any dildo for practicing this. You can... practice those tricks with my dick every day~"
 
 
 

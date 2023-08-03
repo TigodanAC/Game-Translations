@@ -2,7 +2,7 @@ label mansion_bathroom_evening_E_1:
 
     scene void with tstmgr
 
-    "Aunt Элиза was calling me in the bathroom."
+    "Aunt Elisa was calling me in the bathroom."
 
 
 
@@ -12,7 +12,7 @@ label mansion_bathroom_evening_E_1:
 
 
 
-    player "Eh, sure, Aunt Элиза."
+    player "Eh, sure, Aunt Elisa."
 
 
 

@@ -43,7 +43,7 @@ label CDE_duo_9:
 
     scene void with tstmgr
 
-    "Теодора searched around the house but still couldn’t find Элиза, eventually she came near the swimming pool and surprisedly saw... ..."
+    "Theodora searched around the house but still couldn’t find Elisa, eventually she came near the swimming pool and surprisedly saw... ..."
 
 
 
@@ -143,7 +143,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_13 with tstmgr
 
-    "Теодора then sat down beside Элиза..."
+    "Theodora then sat down beside Elisa..."
 
 
 
@@ -251,7 +251,7 @@ label CDE_duo_9:
 
     scene void with tstmgr
 
-    "Теодора then stood up from the ground."
+    "Theodora then stood up from the ground."
 
 
 
@@ -423,7 +423,7 @@ label CDE_duo_9:
 
 
 
-    "To be honest, the reverse titfuck didn’t give me greater sexual pleasure than the normal titfuck. I have to move very carefully and slowly since my ass is rubbing Элиза’s face all the time. It will make her suffer if I move hard."
+    "To be honest, the reverse titfuck didn’t give me greater sexual pleasure than the normal titfuck. I have to move very carefully and slowly since my ass is rubbing Elisa’s face all the time. It will make her suffer if I move hard."
 
 
 
@@ -479,7 +479,7 @@ label CDE_duo_9:
 
 
 
-    "I immersed my head into Теодора’s huge tits and sniffed hard to feel the natural fragrance..."
+    "I immersed my head into Theodora’s huge tits and sniffed hard to feel the natural fragrance..."
 
 
 
@@ -613,7 +613,7 @@ label CDE_duo_9:
 
     scene cde_duo_9_47 with tstmgr
 
-    "I roughly gaged Теодора’s mouth with my dick and had my glans down her throat."
+    "I roughly gaged Theodora’s mouth with my dick and had my glans down her throat."
 
 
 
@@ -641,7 +641,7 @@ label CDE_duo_9:
 
 
 
-    "Теодора was incontinent at the same time when I orgasmed, but unfortunately I couldn’t see it with my eyes, what a pity~"
+    "Theodora was incontinent at the same time when I orgasmed, but unfortunately I couldn’t see it with my eyes, what a pity~"
 
 
 

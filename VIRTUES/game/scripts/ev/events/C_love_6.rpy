@@ -3,7 +3,7 @@ label C_love_6:
     scene void with tstmgr
     play music sorrow
 
-    "Afternoon, at Теодора’s office."
+    "Afternoon, at Theodora’s office."
 
 
 
@@ -91,7 +91,7 @@ label C_love_6:
 
 
 
-    "Sometime later, In Теодора’s car. We are on our way to the dinner party."
+    "Sometime later, In Theodora’s car. We are on our way to the dinner party."
 
 
 
@@ -202,7 +202,7 @@ label C_love_6:
 
     scene c_love_6_9 with tstmgr
 
-    "Теодора is a different person when she gets to a public occasion. She talks more, smiles more, and acts flirty in order to get advantages in a conversation."
+    "Theodora is a different person when she gets to a public occasion. She talks more, smiles more, and acts flirty in order to get advantages in a conversation."
 
 
 
@@ -888,7 +888,7 @@ label C_love_6:
 
     scene c_love_6_53 with tstmgr
 
-    "Теодора was already gone by the time I woke up. What happened last night was so unreal to me."
+    "Theodora was already gone by the time I woke up. What happened last night was so unreal to me."
 
 
 

@@ -8,7 +8,7 @@ label BC_harem_1:
 
     scene bc_harem_1_1 with dissolve
 
-    b "Can I ask a question, Miss Теодора?"
+    b "Can I ask a question, Miss Theodora?"
 
 
 

@@ -6,7 +6,7 @@ label mansion_swimpool_afternoon_E_1:
 
 
 
-    e "[P]? Aren't you supposed to help Айрин with her homework right now?"
+    e "[P]? Aren't you supposed to help Irene with her homework right now?"
 
 
 

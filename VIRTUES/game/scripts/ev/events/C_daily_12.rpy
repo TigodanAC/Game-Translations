@@ -23,7 +23,7 @@ label C_daily_12:
 
     scene c_daily12_2 with tstmgr
 
-    a "Теодора! I’m so happy you decided to move in!"
+    a "Theodora! I’m so happy you decided to move in!"
 
 
 
@@ -129,7 +129,7 @@ label C_daily_12:
 
     scene c_daily12_12 with tstmgr
 
-    a "Sorry, Теодора. I’m sure [P] will show you the rest of the house well~"
+    a "Sorry, Theodora. I’m sure [P] will show you the rest of the house well~"
 
 
 
@@ -139,7 +139,7 @@ label C_daily_12:
 
     scene c_daily12_13 with tstmgr
 
-    "Вера then left the room..."
+    "Vera then left the room..."
 
 
 
@@ -213,7 +213,7 @@ label C_daily_12:
 
 
 
-    "*Теодора has moved into your house.*"
+    "*Theodora has moved into your house.*"
 
     stop music fadeout 1.0
 

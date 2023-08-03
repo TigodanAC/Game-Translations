@@ -2,7 +2,7 @@ label CDE_duo_5:
 
     scene void with tstmgr
     play music sorrow
-    "Late night, in the bathroom of Элиза’s house..."
+    "Late night, in the bathroom of Elisa’s house..."
 
 
 
@@ -138,7 +138,7 @@ label CDE_duo_5:
 
     scene cde_duo_5_14 with tstmgr
 
-    c "Okay, that’s definitely chicanery. Don’t ever mention that in front of Айрин, please, mom. She will really believe it because she is dumb."
+    c "Okay, that’s definitely chicanery. Don’t ever mention that in front of Irene, please, mom. She will really believe it because she is dumb."
 
 
 
@@ -164,7 +164,7 @@ label CDE_duo_5:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -244,7 +244,7 @@ label CDE_duo_5:
 
 
 
-    "I sucked greedily on one of Элиза’s nipples while pulling the other one wantonly."
+    "I sucked greedily on one of Elisa’s nipples while pulling the other one wantonly."
 
 
 
@@ -362,7 +362,7 @@ label CDE_duo_5:
 
 
 
-    "Теодора has never been so... submissive to me before. Is she doing the self-hypnosis thing as Элиза told her?"
+    "Theodora has never been so... submissive to me before. Is she doing the self-hypnosis thing as Elisa told her?"
 
 
 
@@ -488,7 +488,7 @@ label CDE_duo_5:
 
 
 
-    "It’s true that double titfuck is short at direct stimulation, but Элиза and Theo are pressing their tits as hard as they can to give me some more stimulation. Awww... these two lovely angels... ..."
+    "It’s true that double titfuck is short at direct stimulation, but Elisa and Theo are pressing their tits as hard as they can to give me some more stimulation. Awww... these two lovely angels... ..."
 
 
 
@@ -538,7 +538,7 @@ label CDE_duo_5:
 
     scene cde_duo_5_43 with tstmgr
 
-    "Элиза and Теодора had to be extremely close to each other in order to press their tits as hard as they can. Their faces were almost clung together."
+    "Elisa and Theodora had to be extremely close to each other in order to press their tits as hard as they can. Their faces were almost clung together."
 
 
 
@@ -594,7 +594,7 @@ label CDE_duo_5:
 
 
 
-    e "Now that you are satisfied, you’d better dress up and leave the room now. We have been in here for too long. Айрин will definitely notice something if we stay here for another 5 minutes~"
+    e "Now that you are satisfied, you’d better dress up and leave the room now. We have been in here for too long. Irene will definitely notice something if we stay here for another 5 minutes~"
 
 
 

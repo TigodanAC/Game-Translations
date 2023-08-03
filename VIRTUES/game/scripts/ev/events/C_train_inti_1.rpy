@@ -3,7 +3,7 @@ label C_train_inti_1:
     scene void with tstmgr
     play music happy
 
-    "A few days later, in Теодора’s office..."
+    "A few days later, in Theodora’s office..."
 
 
 

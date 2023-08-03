@@ -34,7 +34,7 @@ label harem_BD_1:
 
     scene harem_bd_1_5 with tstmgr
 
-    b "Sorry, Айрин... ... I lost myself again..."
+    b "Sorry, Irene... ... I lost myself again..."
 
 
 

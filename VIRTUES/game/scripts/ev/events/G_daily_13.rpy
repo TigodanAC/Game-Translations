@@ -9,7 +9,7 @@ label G_daily_13:
 
     scene g_daily11_1 with tstmgr
 
-    "Female clerk A" "Pss, pss, Сеннин, come here."
+    "Female clerk A" "Pss, pss, Senning, come here."
 
 
 
@@ -19,7 +19,7 @@ label G_daily_13:
 
 
 
-    "Female clerk B" "Have you heard the gossip about Уно?"
+    "Female clerk B" "Have you heard the gossip about Uno?"
 
 
 
@@ -59,13 +59,13 @@ label G_daily_13:
 
     scene g_daily13_5 with tstmgr
 
-    b "It is very impolite to talk about people behind their backs. We will not be friends anymore if I hear you say bad things about Уно again!"
+    b "It is very impolite to talk about people behind their backs. We will not be friends anymore if I hear you say bad things about Uno again!"
 
 
 
     scene g_daily11_1 with tstmgr
 
-    "Сеннин walked away angrily."
+    "Senning walked away angrily."
 
 
 

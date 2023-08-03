@@ -3,7 +3,7 @@ label B_final_2:
     scene void with tstmgr
     play music sorrow
 
-    "Evening, I am staying with Lady Minna and Сеннин in Сеннин’s room... ..."
+    "Evening, I am staying with Lady Minna and Senning in Senning’s room... ..."
 
 
 
@@ -119,13 +119,13 @@ label B_final_2:
 
 
 
-    "It must be hard for Сеннин to choose me instead of her family. I really wish I could help... ..."
+    "It must be hard for Senning to choose me instead of her family. I really wish I could help... ..."
 
 
 
     scene bm_final_11 with tstmgr
 
-    player "Could you please stay for some days more, Lady Minna? Сеннин really needs your company right now."
+    player "Could you please stay for some days more, Lady Minna? Senning really needs your company right now."
 
 
 
@@ -171,11 +171,11 @@ label B_final_2:
 
 
 
-    "That was a happy night for everyone. Lady Minna chose to stay for one more week and Сеннин didn’t go heartbroken. As for me, well, I was happy because Сеннин was happy~"
+    "That was a happy night for everyone. Lady Minna chose to stay for one more week and Senning didn’t go heartbroken. As for me, well, I was happy because Senning was happy~"
 
 
 
-    "Lady Minna kept her word and delayed her return date for a week, however... ... one week later, she still couldn’t say no to Сеннин when Сеннин asked her to stay for a bit longer again."
+    "Lady Minna kept her word and delayed her return date for a week, however... ... one week later, she still couldn’t say no to Senning when Senning asked her to stay for a bit longer again."
 
 
 
@@ -185,11 +185,11 @@ label B_final_2:
 
     scene bm_final_18 with dissolve
 
-    "During this year, Сеннин and I became even more intimate than before. We helped each other in college and took care of each other in life. We were like the most perfect college couple everyone can ever imagine."
+    "During this year, Senning and I became even more intimate than before. We helped each other in college and took care of each other in life. We were like the most perfect college couple everyone can ever imagine."
 
 
 
-    "Сеннин has become more outgoing and optimistic. I think it was because she had her mother with her in this foreign country throughout the year."
+    "Senning has become more outgoing and optimistic. I think it was because she had her mother with her in this foreign country throughout the year."
 
 
 
@@ -231,7 +231,7 @@ label B_final_2:
 
 
 
-    "One morning, in Сеннин’s room..."
+    "One morning, in Senning’s room..."
 
 
 
@@ -345,7 +345,7 @@ label B_final_2:
 
 
 
-    "Сеннин is still not fertilized yet."
+    "Senning is still not fertilized yet."
 
 
 
@@ -357,7 +357,7 @@ label B_final_2:
 
 
 
-    "Well, that’s right. Сеннин was insanely busy during her last year in college since she got two majors. We basically had sex only three times a week or even less."
+    "Well, that’s right. Senning was insanely busy during her last year in college since she got two majors. We basically had sex only three times a week or even less."
 
 
 
@@ -419,7 +419,7 @@ label B_final_2:
 
 
 
-    "Сеннин has become... quite naughty during this year. Is it because I spoiled her too hard? But anyway, I like this change of hers. It makes her even more lovely than before~"
+    "Senning has become... quite naughty during this year. Is it because I spoiled her too hard? But anyway, I like this change of hers. It makes her even more lovely than before~"
 
 
 
@@ -633,7 +633,7 @@ label B_final_2:
 
     scene void with tstmgr
 
-    "Сеннин then walked to her phone while my dick is still inside her body..."
+    "Senning then walked to her phone while my dick is still inside her body..."
 
 
 
@@ -700,7 +700,7 @@ label B_final_2:
     label BM_final_choice_1:
 
     menu:
-        "Yes (Сеннин&Minna harem ending)":
+        "Yes (Senning&Minna harem ending)":
 
 
 
@@ -733,7 +733,7 @@ label B_final_2:
 
 
 
-            "Сеннин must be really upset right now, I should just leave her alone for a while."
+            "Senning must be really upset right now, I should just leave her alone for a while."
 
 
 
@@ -755,7 +755,7 @@ label B_final_2:
 
 
 
-            "I came to Сеннин’s apartment as I promised yesterday. By the time I was there, Lady Minna has already arrived."
+            "I came to Senning’s apartment as I promised yesterday. By the time I was there, Lady Minna has already arrived."
 
 
 
@@ -835,7 +835,7 @@ label B_final_2:
 
 
 
-            player "Сеннин, you... ... are okay with this?"
+            player "Senning, you... ... are okay with this?"
 
 
 
@@ -937,7 +937,7 @@ label B_final_2:
 
 
 
-            "Lady Minna" "So don’t be the last girl, Сеннин, act competitively when he is deciding who he wants to fuck first."
+            "Lady Minna" "So don’t be the last girl, Senning, act competitively when he is deciding who he wants to fuck first."
 
 
 
@@ -1117,7 +1117,7 @@ label B_final_2:
 
 
 
-            "I can’t believe Сеннин really asked that. She really has become as slutty as her mother~"
+            "I can’t believe Senning really asked that. She really has become as slutty as her mother~"
 
 
 
@@ -1206,7 +1206,7 @@ label B_final_2:
 
 
 
-            "Сеннин had an orgasm as soon as I penetrated her with my dick. But, now there is no time for her to catch a breath~"
+            "Senning had an orgasm as soon as I penetrated her with my dick. But, now there is no time for her to catch a breath~"
 
 
 
@@ -1272,7 +1272,7 @@ label B_final_2:
 
 
 
-            "Сеннин has lost all her strength. Now she doesn’t even have the strength to talk. The only thing she can do right now is moaning with her instinct~"
+            "Senning has lost all her strength. Now she doesn’t even have the strength to talk. The only thing she can do right now is moaning with her instinct~"
 
 
 
@@ -1300,7 +1300,7 @@ label B_final_2:
 
 
 
-            player "Embrace my cum, Сеннин!"
+            player "Embrace my cum, Senning!"
 
 
             stop sound
@@ -1368,7 +1368,7 @@ label B_final_2:
 
 
 
-            "I suddenly got up from Сеннин’s body and then pushed Lady Minna on the bed with force."
+            "I suddenly got up from Senning’s body and then pushed Lady Minna on the bed with force."
 
 
 
@@ -1526,7 +1526,7 @@ label B_final_2:
 
 
 
-            "After the sex party, my dick is completely covered in cum. Now Lady Minna and Сеннин are cleaning it with their mouth... like serving a king."
+            "After the sex party, my dick is completely covered in cum. Now Lady Minna and Senning are cleaning it with their mouth... like serving a king."
 
 
 
@@ -1594,7 +1594,7 @@ label B_final_2:
 
 
 
-            player "Сеннин doesn’t have to be the one who makes the sacrifice for our relationship. I can be the one, too."
+            player "Senning doesn’t have to be the one who makes the sacrifice for our relationship. I can be the one, too."
 
 
 
@@ -1618,11 +1618,11 @@ label B_final_2:
 
 
 
-            player "I have seriously thought about it, and I think this is the best for us. In this way, Сеннин will have a great reunion with her family after all these years, and I will have my chance to earn Сеннин’s father recognition."
+            player "I have seriously thought about it, and I think this is the best for us. In this way, Senning will have a great reunion with her family after all these years, and I will have my chance to earn Senning’s father recognition."
 
 
 
-            player "Think about it, if Сеннин chooses to stay here and have kids with me, maybe her father will eventually accept our love, but I’m sure he will never like me. He will always take me as a foreign thief who steals her daughter from him."
+            player "Think about it, if Senning chooses to stay here and have kids with me, maybe her father will eventually accept our love, but I’m sure he will never like me. He will always take me as a foreign thief who steals her daughter from him."
 
 
 
@@ -1630,7 +1630,7 @@ label B_final_2:
 
 
 
-            player "It is never good to be enemies with your parent-in-law. It will only make things difficult for Сеннин."
+            player "It is never good to be enemies with your parent-in-law. It will only make things difficult for Senning."
 
 
 
@@ -1652,7 +1652,7 @@ label B_final_2:
 
             scene bm_final_105 with tstmgr
 
-            "Lady Minna" "I’m so happy to see you think so much of my daughter. You are right, my husband is very likely to hate you forever if Сеннин stays here and gets pregnant without his blessing."
+            "Lady Minna" "I’m so happy to see you think so much of my daughter. You are right, my husband is very likely to hate you forever if Senning stays here and gets pregnant without his blessing."
 
 
 
@@ -1682,13 +1682,13 @@ label B_final_2:
 
 
 
-            player "Eh... ... Will Сеннин’s father hate me forever if he knows about our... affair?"
+            player "Eh... ... Will Senning’s father hate me forever if he knows about our... affair?"
 
 
 
             scene bm_final_109 with tstmgr
 
-            "Lady Minna" "Nope~ As I said, he and I are in an open relationship, he doesn’t care about who I fuck with. He may feel strange after he knows, but he won’t hate you for this as long as Сеннин doesn’t."
+            "Lady Minna" "Nope~ As I said, he and I are in an open relationship, he doesn’t care about who I fuck with. He may feel strange after he knows, but he won’t hate you for this as long as Senning doesn’t."
 
 
 
@@ -1696,7 +1696,7 @@ label B_final_2:
 
 
 
-            "Сеннин’s family is no doubt the most perverted one I have ever known... ..."
+            "Senning’s family is no doubt the most perverted one I have ever known... ..."
 
 
 
@@ -1736,7 +1736,7 @@ label B_final_2:
 
 
 
-            "A journey to a foreign country, a new beginning of my love story with Сеннин. This is gonna be great~"
+            "A journey to a foreign country, a new beginning of my love story with Senning. This is gonna be great~"
 
 
 
@@ -1783,8 +1783,8 @@ label B_final_2:
 
             "... ... ... ... ... ..."
 
-            "*Сеннин&Minna harem ending achieved!*"
-        "No (Сеннин’s good end)":
+            "*Senning&Minna harem ending achieved!*"
+        "No (Senning’s good end)":
 
 
 
@@ -1795,7 +1795,7 @@ label B_final_2:
 
 
 
-            "*This is Сеннин’s solo end, it happens in a route in which you only fell in love with Сеннин.*"
+            "*This is Senning’s solo end, it happens in a route in which you only fell in love with Senning.*"
 
             player "I think it will be better to leave the last day to you and your mother alone, don’t you think?"
 
@@ -1885,7 +1885,7 @@ label B_final_2:
 
             "... ... ... ..."
 
-            "I then comforted Сеннин for an hour in the airport before she finally stopped crying..."
+            "I then comforted Senning for an hour in the airport before she finally stopped crying..."
 
             "... ... ... ..."
 
@@ -1947,7 +1947,7 @@ label B_final_2:
 
             "... ... ... ... ... ..."
 
-            "*Сеннин good end achieved!*"
+            "*Senning good end achieved!*"
 
     stop music fadeout 1.0
 

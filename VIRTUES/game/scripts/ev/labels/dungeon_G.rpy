@@ -1,8 +1,8 @@
 label dungeon_G:
     menu:
-        "Get her on the wooden horse" if True:
+        "Get her on the wooden horse":
             jump dungeon_G.g_dungeon_1
-        "Cell her in the cage" if True:
+        "Cell her in the cage":
 
             jump dungeon_G.g_dungeon_2
 
@@ -17,7 +17,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "Уно is just an innocent kitty!~"
+    g "Uno is just an innocent kitty!~"
 
 
 
@@ -33,7 +33,7 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "You don’t have to... caress Уно on a wooden horse. You are a bad master."
+    g "You don’t have to... caress Uno on a wooden horse. You are a bad master."
 
 
 
@@ -193,20 +193,20 @@ label dungeon_G.g_dungeon_1:
 
 
 
-    g "Уно can’t take it anymore... ..."
+    g "Uno can’t take it anymore... ..."
 
 
 
     label dungeon_G.choice_1:
 
     menu:
-        "Okay" if True:
+        "Okay":
 
 
             player "Alright kitty, you have done a good job."
 
             player "I will get you out of the horse now... ..."
-        "Not yet" if True:
+        "Not yet":
 
 
 
@@ -279,7 +279,7 @@ label dungeon_G.g_dungeon_2:
 
 
 
-    player "Hmmmm... Уно, it doesn’t work like that. You should act... hmmm... sadder."
+    player "Hmmmm... Uno, it doesn’t work like that. You should act... hmmm... sadder."
 
 
 
@@ -315,7 +315,7 @@ label dungeon_G.g_dungeon_2:
 
     scene g_dungeon_2_4 with tstmgr
 
-    player "*Lifting up Уно’s head with penis* What do you say, kitty?"
+    player "*Lifting up Uno’s head with penis* What do you say, kitty?"
 
 
 
@@ -479,7 +479,7 @@ label dungeon_G.g_dungeon_2:
 
     scene g_dungeon_2_15 with tstmgr
 
-    g "Уно will be a good kitty, so don’t get mad~ Meow~"
+    g "Uno will be a good kitty, so don’t get mad~ Meow~"
 
 
 

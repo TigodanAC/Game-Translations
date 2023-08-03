@@ -3,7 +3,7 @@ label A_love_2_bLine:
     scene void with tstmgr
     play music sorrow
 
-    narrator "The following plot is from Вера's perspective."
+    narrator "The following plot is from Vera's perspective."
 
     narrator "... ... ... ..."
 
@@ -13,7 +13,7 @@ label A_love_2_bLine:
 
     a "Welcome to our store."
 
-    "Woman" "You must be kidding me. Вера? Is that you?"
+    "Woman" "You must be kidding me. Vera? Is that you?"
 
     scene a_love3_2 with tstmgr
 
@@ -87,17 +87,17 @@ label A_love_2_bLine:
 
     player "... ... ... ..."
 
-    player "(I've been here since that woman arrived and heard everything they talked about. It seems like Вера needs some help)"
+    player "(I've been here since that woman arrived and heard everything they talked about. It seems like Vera needs some help)"
 
-    player "(Emm... I need to find a way to embarrass that arrogant woman and save Вера's face)"
+    player "(Emm... I need to find a way to embarrass that arrogant woman and save Vera's face)"
 
     player "(How should I do?)"
 
     menu:
-        "Pretend Вера is a social elite":
+        "Pretend Vera is a social elite":
 
 
-            player "Hi there, Вера."
+            player "Hi there, Vera."
 
             scene a_love3_10 with tstmgr
 
@@ -123,11 +123,11 @@ label A_love_2_bLine:
 
             "Woman" "Eh... "
 
-            "Woman" " I'm, I'm Jolin. Me and Вера, we were classmates back in middle school."
+            "Woman" " I'm, I'm Jolin. Me and Vera, we were classmates back in middle school."
 
             player "Oh, okay."
 
-            player "Mind if I borrow Вера for a moment? We have some business things to discuss."
+            player "Mind if I borrow Vera for a moment? We have some business things to discuss."
 
             "Woman" "Oh, sure, sure..."
 
@@ -184,7 +184,7 @@ label A_love_2_bLine:
             a "... ... ... ..."
 
             a "(Why do I feel a little sorry for her?)"
-        "Pretend Вера is your girlfriend":
+        "Pretend Vera is your girlfriend":
 
 
             "Woman" "Oh... He is coming to me, he is coming to me, Oh my Gods, he is even smiling at me."
@@ -289,7 +289,7 @@ label A_love_2_bLine:
 
             "Woman" "Hello..."
 
-            "Woman" "Hi there, I'm Jolin. Me and Вера, we were classmates back in middle school. "
+            "Woman" "Hi there, I'm Jolin. Me and Vera, we were classmates back in middle school. "
 
             player "Oh, okay."
 
@@ -313,11 +313,11 @@ label A_love_2_bLine:
 
             narrator " (The following plot is back to [P]'s perspective again)."
 
-            narrator "After a while, Вера got off work. I walked with her, but She seemed very angry."
+            narrator "After a while, Vera got off work. I walked with her, but She seemed very angry."
 
             scene a_love3_16 with tstmgr
 
-            player "That was my fault, Вера. That kiss was not supposed to happen. I was just trying to help you deal with that arrogant woman."
+            player "That was my fault, Vera. That kiss was not supposed to happen. I was just trying to help you deal with that arrogant woman."
 
             a "... ... ... ..."
 

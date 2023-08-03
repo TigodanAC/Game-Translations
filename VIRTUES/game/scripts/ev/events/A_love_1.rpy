@@ -5,7 +5,7 @@ label A_love_1:
 
     narrator "... ... ... ..."
 
-    narrator "Вера has officially moved into my house. It's good news for me. Although I am not living there, I will get a lot of opportunities to get closer to her."
+    narrator "Vera has officially moved into my house. It's good news for me. Although I am not living there, I will get a lot of opportunities to get closer to her."
 
     narrator "Our relationship has improved a lot during these days. She has basically walked out of the unpleasant memory. Now she takes me as a friend. And in fact, I may be her only friend in this city."
 
@@ -23,7 +23,7 @@ label A_love_1:
 
     narrator "I am here at the house gate."
 
-    narrator "Actually, this is my first time visiting this house. My dad has owned it for over three years, but Вера is the first to actually live in it."
+    narrator "Actually, this is my first time visiting this house. My dad has owned it for over three years, but Vera is the first to actually live in it."
 
     narrator "Obviously, my dad did not renovate this house. It looks a little bit out-of-style from the outside, but I can take that."
 
@@ -69,7 +69,7 @@ label A_love_1:
 
     scene home_livingroom_day_background with tstmgr
 
-    narrator "Well, the furnishings and the decorations inside the house are clean and simple. Вера seems like a nice housekeeper."
+    narrator "Well, the furnishings and the decorations inside the house are clean and simple. Vera seems like a nice housekeeper."
 
     narrator "... ... ... ..."
 
@@ -95,7 +95,7 @@ label A_love_1:
         "Take a peek":
             narrator "A virtuous man like me should never do such a thing, but... ..."
 
-            narrator "Sorry, Вера. I just can't fight it right now."
+            narrator "Sorry, Vera. I just can't fight it right now."
 
             narrator "I quietly cracked the door open just a bit."
 
@@ -155,7 +155,7 @@ label A_love_1:
 
             scene a_love2_8 with tstmgr
 
-            a "You should be ashamed, Вера. You are so dirty..."
+            a "You should be ashamed, Vera. You are so dirty..."
 
             a "... ... ... ..."
 

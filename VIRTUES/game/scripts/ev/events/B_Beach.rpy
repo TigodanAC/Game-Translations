@@ -4,11 +4,11 @@ label B_Beach:
     scene map_day with dissolve
     play music happy
 
-    narrator "What a sunny weekend! I should ask Сеннин out for another beach trip."
+    narrator "What a sunny weekend! I should ask Senning out for another beach trip."
 
     narrator "... ... ... ..."
 
-    player "(Speaking on the phone) Hello, Сеннин, do you have time today?"
+    player "(Speaking on the phone) Hello, Senning, do you have time today?"
 
     b "Today? I don't have many things to do. What's your plan?"
 
@@ -54,7 +54,7 @@ label B_Beach:
 
     b "Really? That will be great."
 
-    narrator "The girl I was talking about is Теодора. Although she always seems cold to me, she is actually friendly to everyone else. Maybe I should set a time to let them meet once."
+    narrator "The girl I was talking about is Theodora. Although she always seems cold to me, she is actually friendly to everyone else. Maybe I should set a time to let them meet once."
 
     narrator "... ... ... ..."
 

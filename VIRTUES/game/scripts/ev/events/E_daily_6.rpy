@@ -3,11 +3,11 @@ label E_daily_6:
     scene void with tstmgr
     play music sorrow
 
-    "Afternoon, I came to Aunt Элиза’s house for the tutoring, as always."
+    "Afternoon, I came to Aunt Elisa’s house for the tutoring, as always."
 
 
 
-    "However, I am a little afraid of seeing Aunt Элиза after yesterday..."
+    "However, I am a little afraid of seeing Aunt Elisa after yesterday..."
 
 
 
@@ -19,7 +19,7 @@ label E_daily_6:
 
     scene e_love_5_34 with flashback
 
-    "and Aunt Элиза’s lewd face... ..."
+    "and Aunt Elisa’s lewd face... ..."
 
 
 
@@ -39,7 +39,7 @@ label E_daily_6:
 
 
 
-    player "Aunt Элиза..."
+    player "Aunt Elisa..."
 
 
 

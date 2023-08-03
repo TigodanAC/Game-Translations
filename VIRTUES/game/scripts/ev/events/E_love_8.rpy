@@ -3,7 +3,7 @@ label E_love_8:
     scene e_love_8_1 with dissolve
     play music sorrow
 
-    "I came to Aunt Элиза’s house in the morning for a visit."
+    "I came to Aunt Elisa’s house in the morning for a visit."
 
 
 
@@ -43,7 +43,7 @@ label E_love_8:
 
 
 
-    player "Aunt Элиза, can I go with you?"
+    player "Aunt Elisa, can I go with you?"
 
 
 
@@ -127,7 +127,7 @@ label E_love_8:
 
 
 
-    player "This is not a good place, this is not a good place at all! Aunt Элиза, I can’t let you live in a place like this!"
+    player "This is not a good place, this is not a good place at all! Aunt Elisa, I can’t let you live in a place like this!"
 
 
 
@@ -159,7 +159,7 @@ label E_love_8:
 
 
 
-    player "Aunt Элиза..."
+    player "Aunt Elisa..."
 
 
 
@@ -269,7 +269,7 @@ label E_love_8:
 
     scene e_love_8_19 with tstmgr
 
-    player "Aunt Элиза!"
+    player "Aunt Elisa!"
 
 
 
@@ -297,7 +297,7 @@ label E_love_8:
 
 
 
-    player "Sorry, Aunt Элиза... ... I thought I could do this in a better situation..."
+    player "Sorry, Aunt Elisa... ... I thought I could do this in a better situation..."
 
 
 
@@ -347,7 +347,7 @@ label E_love_8:
 
 
 
-    player "(Her body... Aunt Элиза’s mature body... is so damn hot... ...)"
+    player "(Her body... Aunt Elisa’s mature body... is so damn hot... ...)"
 
 
 
@@ -365,7 +365,7 @@ label E_love_8:
 
 
 
-    player "(Aunt Элиза... ... I have seen her naked body in that video before, but... it still shocks me so much when looking at it in the real world...)"
+    player "(Aunt Elisa... ... I have seen her naked body in that video before, but... it still shocks me so much when looking at it in the real world...)"
 
 
 
@@ -395,13 +395,13 @@ label E_love_8:
 
     scene e_love_8_26 with tstmgr
 
-    player "(I‘ll... ... warm you up with my body temperature, Элиза.)"
+    player "(I‘ll... ... warm you up with my body temperature, Elisa.)"
 
 
 
     scene e_love_8_28 with tstmgr
 
-    "I took off my wet clothes too, then lied down on the tatami mats and held Aunt Элиза tightly in my arms ."
+    "I took off my wet clothes too, then lied down on the tatami mats and held Aunt Elisa tightly in my arms ."
 
 
 
@@ -431,7 +431,7 @@ label E_love_8:
 
     scene e_love_8_31 with tstmgr
 
-    "I hope by the time I wake up, Aunt Элиза will recover... ... ... ..."
+    "I hope by the time I wake up, Aunt Elisa will recover... ... ... ..."
 
 
 
@@ -557,11 +557,11 @@ label E_love_8:
 
 
 
-    "Элиза closed her eyes and started to respond to my kiss."
+    "Elisa closed her eyes and started to respond to my kiss."
 
 
 
-    player "Could you please sit up, Элиза?"
+    player "Could you please sit up, Elisa?"
 
 
 
@@ -643,7 +643,7 @@ label E_love_8:
 
 
 
-    player "You need a man to take care of you and I want to be that man. Just please... rely on me, Элиза... ..."
+    player "You need a man to take care of you and I want to be that man. Just please... rely on me, Elisa... ..."
 
 
 
@@ -665,7 +665,7 @@ label E_love_8:
 
     scene e_love_8_47 with tstmgr
 
-    player "No, Элиза, you know I am being serious."
+    player "No, Elisa, you know I am being serious."
 
 
 
@@ -761,7 +761,7 @@ label E_love_8:
 
 
 
-    "I was surprised to notice the change in Aunt Элиза’s tone. Her sadness and hesitation have been replaced by happiness and expectancy."
+    "I was surprised to notice the change in Aunt Elisa’s tone. Her sadness and hesitation have been replaced by happiness and expectancy."
 
 
 
@@ -781,7 +781,7 @@ label E_love_8:
 
 
 
-    player "Элиза... ... ... ..."
+    player "Elisa... ... ... ..."
 
 
 
@@ -809,7 +809,7 @@ label E_love_8:
 
     $ flashlight()
 
-    player "Aunt Элиза!"
+    player "Aunt Elisa!"
 
 
 
@@ -831,7 +831,7 @@ label E_love_8:
 
 
 
-    player "Aunt Элиза! Aunt Элиза!"
+    player "Aunt Elisa! Aunt Elisa!"
 
 
 
@@ -882,7 +882,7 @@ label E_love_8:
 
 
 
-    player "Aunt Элиза!"
+    player "Aunt Elisa!"
 
 
 
@@ -916,7 +916,7 @@ label E_love_8:
 
 
 
-    player "I love you, Aunt Элиза."
+    player "I love you, Aunt Elisa."
 
 
 
@@ -944,7 +944,7 @@ label E_love_8:
 
 
 
-    player "I just want you to be happy, Элиза."
+    player "I just want you to be happy, Elisa."
 
 
 
@@ -996,7 +996,7 @@ label E_love_8:
 
 
 
-    e "You can just call me Элиза when there are only two of us~"
+    e "You can just call me Elisa when there are only two of us~"
 
 
 
@@ -1004,7 +1004,7 @@ label E_love_8:
 
 
 
-    player "Okay, Элиза."
+    player "Okay, Elisa."
 
 
 
@@ -1058,7 +1058,7 @@ label E_love_8:
 
 
 
-    player "You don’t need to tell me anything, Элиза. Nothing matters anymore. Let’s just enjoy this moment and listen to the songs of the countryside together."
+    player "You don’t need to tell me anything, Elisa. Nothing matters anymore. Let’s just enjoy this moment and listen to the songs of the countryside together."
 
 
 
@@ -1082,11 +1082,11 @@ label E_love_8:
 
 
 
-    "Thus, we held each other in that position for the entire night. This was the first time in 20 years that Aunt Элиза spent a night with a man. She slept soundly like a baby in my arms and held me so tight."
+    "Thus, we held each other in that position for the entire night. This was the first time in 20 years that Aunt Elisa spent a night with a man. She slept soundly like a baby in my arms and held me so tight."
 
 
 
-    "I guess she was afraid of losing me. Well, Элиза, no one will leave you anymore... ..."
+    "I guess she was afraid of losing me. Well, Elisa, no one will leave you anymore... ..."
 
 
 

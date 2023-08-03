@@ -6,11 +6,11 @@ label suicide_ending:
 
     narrator "No matter how hard I tried, I still could not afford my bills."
 
-    narrator "Aunt Элиза is now totally disappointed at me. Теодора has fired me for my incapability. Even Сеннин and Айрин started to look down on me."
+    narrator "Aunt Elisa is now totally disappointed at me. Theodora has fired me for my incapability. Even Senning and Irene started to look down on me."
 
     narrator "Fuck my pathetic life."
 
-    narrator "Fortunately, I still have Вера by my side."
+    narrator "Fortunately, I still have Vera by my side."
 
     scene bjsj_a13 with tstmgr
 

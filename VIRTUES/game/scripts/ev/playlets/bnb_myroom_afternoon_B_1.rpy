@@ -10,7 +10,7 @@ label bnb_myroom_afternoon_B_1:
 
 
 
-    "Сеннин has fell in love with my room after she came here for the first time."
+    "Senning has fell in love with my room after she came here for the first time."
 
 
 

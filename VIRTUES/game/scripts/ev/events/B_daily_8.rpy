@@ -3,7 +3,7 @@ label B_daily_8:
     scene void with tstmgr
     play music happy
 
-    "There is something about Сеннин that bothers me these days."
+    "There is something about Senning that bothers me these days."
 
 
 
@@ -81,7 +81,7 @@ label B_daily_8:
 
 
 
-    player "Сеннин?"
+    player "Senning?"
 
 
 

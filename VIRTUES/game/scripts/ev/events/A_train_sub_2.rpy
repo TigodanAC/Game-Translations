@@ -7,7 +7,7 @@ label A_train_sub_2:
 
 
 
-    "Morning, Вера is working at the restaurant as always..."
+    "Morning, Vera is working at the restaurant as always..."
 
 
 
@@ -95,11 +95,11 @@ label A_train_sub_2:
 
     scene a_train_sub_2_8 with tstmgr
 
-    "Вера left the table and didn’t look back."
+    "Vera left the table and didn’t look back."
 
 
 
-    "Waitress A" "*Discussing with another waitress* Wow... ... The way Вера rejected that man was so cool!"
+    "Waitress A" "*Discussing with another waitress* Wow... ... The way Vera rejected that man was so cool!"
 
 
 
@@ -115,7 +115,7 @@ label A_train_sub_2:
 
 
 
-    "Waitress B" "You know how bad the food is here, but a lot of people are still willing to come here every day only to talk with Вера and get her service."
+    "Waitress B" "You know how bad the food is here, but a lot of people are still willing to come here every day only to talk with Vera and get her service."
 
 
 
@@ -129,11 +129,11 @@ label A_train_sub_2:
 
 
 
-    "Waitress A" "Wow... ... Вера is so cool!"
+    "Waitress A" "Wow... ... Vera is so cool!"
 
 
 
-    "Waitress A" "From now on Вера is my idol!"
+    "Waitress A" "From now on Vera is my idol!"
 
 
 
@@ -153,7 +153,7 @@ label A_train_sub_2:
 
 
 
-    "Waitress A" "I can be one if Вера agrees to be my girlfriend!"
+    "Waitress A" "I can be one if Vera agrees to be my girlfriend!"
 
 
 
@@ -189,7 +189,7 @@ label A_train_sub_2:
 
 
 
-    "Well, this little fan of Вера would be so surprised if she knows Вера’s dirty secret... ..."
+    "Well, this little fan of Vera would be so surprised if she knows Vera’s dirty secret... ..."
 
 
 
@@ -265,7 +265,7 @@ label A_train_sub_2:
 
 
 
-    player "Are you alright, Вера? Just shake your head if you think you can’t take it anymore."
+    player "Are you alright, Vera? Just shake your head if you think you can’t take it anymore."
 
 
 
@@ -431,7 +431,7 @@ label A_train_sub_2:
 
 
 
-    player "Вера... ... ... ..."
+    player "Vera... ... ... ..."
 
 
 
@@ -463,7 +463,7 @@ label A_train_sub_2:
 
             $ flashlight()
 
-            player "*Kicking on Вера's hip* ... ..."
+            player "*Kicking on Vera's hip* ... ..."
 
             a "Ohhhhhhhhhh~~~"
 
@@ -481,7 +481,7 @@ label A_train_sub_2:
 
             player "I guess I am... ..."
 
-            player "You are doing very well, Вера~"
+            player "You are doing very well, Vera~"
 
             scene a_train_sub_2_34 with tstmgr
 
@@ -523,7 +523,7 @@ label A_train_sub_2:
 
 
 
-    player "Alright, Вера, be prepared~"
+    player "Alright, Vera, be prepared~"
 
 
 

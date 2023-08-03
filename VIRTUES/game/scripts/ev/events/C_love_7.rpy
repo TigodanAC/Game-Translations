@@ -27,13 +27,13 @@ label C_love_7:
 
 
 
-    player "Hmmmm? Why is there still a dim light in Теодора's office?"
+    player "Hmmmm? Why is there still a dim light in Theodora's office?"
 
 
 
     scene void with tstmgr
 
-    "I approached Теодора's office and..."
+    "I approached Theodora's office and..."
 
 
 
@@ -168,7 +168,7 @@ label C_love_7:
 
     scene c_love_7_5 with dissolve
 
-    "Sometime later, Теодора and I were on the way to her apartment..."
+    "Sometime later, Theodora and I were on the way to her apartment..."
 
 
 
@@ -530,7 +530,7 @@ label C_love_7:
 
 
 
-    c "There is already a woman living in your house, right? That little girlfriend of yours, Вера."
+    c "There is already a woman living in your house, right? That little girlfriend of yours, Vera."
 
 
 
@@ -747,7 +747,7 @@ label C_love_7:
 
 
 
-    c "How dare you! I am Теодора Shinyrost, the eldest daughter of the Shinyrost family and the youngest executive of ShinyRost Inc.! I’m worth millions! And now you are asking ME to join your harem?"
+    c "How dare you! I am Theodora Shinyrost, the eldest daughter of the Shinyrost family and the youngest executive of ShinyRost Inc.! I’m worth millions! And now you are asking ME to join your harem?"
 
 
 

@@ -2,7 +2,7 @@ label mansion_livingroom_forenoon_E_1:
 
     scene void with tstmgr
 
-    "I came to Aunt Элиза's mansion in the morning."
+    "I came to Aunt Elisa's mansion in the morning."
 
 
 
@@ -12,7 +12,7 @@ label mansion_livingroom_forenoon_E_1:
 
 
 
-    player "Eh, hi, Aunt Элиза. Do you have any news of my dad?"
+    player "Eh, hi, Aunt Elisa. Do you have any news of my dad?"
 
 
 
@@ -40,7 +40,7 @@ label mansion_livingroom_forenoon_E_1:
 
 
 
-    player "I'd love to, Aunt Элиза."
+    player "I'd love to, Aunt Elisa."
 
 
 

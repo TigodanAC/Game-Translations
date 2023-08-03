@@ -17,7 +17,7 @@ label B_daily_11:
 
 
 
-    "Except that I’m holding Сеннин’s hand for the first time in my life."
+    "Except that I’m holding Senning’s hand for the first time in my life."
 
 
 

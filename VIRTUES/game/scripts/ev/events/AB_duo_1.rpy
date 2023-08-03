@@ -6,7 +6,7 @@ label AB_duo_1:
 
 
 
-    "Later today, Сеннин and Lady Minna came to my house together while I wasn’t there."
+    "Later today, Senning and Lady Minna came to my house together while I wasn’t there."
 
 
 
@@ -22,7 +22,7 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "It’s so nice to finally meet you, Вера. Сеннин has told me a lot about you~"
+    "Lady Minna" "It’s so nice to finally meet you, Vera. Senning has told me a lot about you~"
 
 
 
@@ -60,7 +60,7 @@ label AB_duo_1:
 
     scene ab_duo_1_5 with tstmgr
 
-    "Вера then ran to the kitchen... ..."
+    "Vera then ran to the kitchen... ..."
 
 
 
@@ -74,7 +74,7 @@ label AB_duo_1:
 
 
 
-    b "Ah? You mean... Вера is in love with [P] too?"
+    b "Ah? You mean... Vera is in love with [P] too?"
 
 
 
@@ -86,7 +86,7 @@ label AB_duo_1:
 
     scene ab_duo_1_8 with tstmgr
 
-    "Lady Minna" "That girl might not be as lascivious as that Теодора, but she looks like a diligent girl who is good at houseworks. That makes her She a strong opponent for you."
+    "Lady Minna" "That girl might not be as lascivious as that Theodora, but she looks like a diligent girl who is good at houseworks. That makes her She a strong opponent for you."
 
 
 
@@ -106,7 +106,7 @@ label AB_duo_1:
 
 
 
-    b "Yeah, Вера is indeed diligent and good at housework... ..."
+    b "Yeah, Vera is indeed diligent and good at housework... ..."
 
 
 
@@ -124,7 +124,7 @@ label AB_duo_1:
 
 
 
-    "Lady Minna" "She might be an even stronger opponent than that Теодора... ..."
+    "Lady Minna" "She might be an even stronger opponent than that Theodora... ..."
 
 
 
@@ -166,7 +166,7 @@ label AB_duo_1:
 
     scene ab_duo_1_14 with tstmgr
 
-    b "But... ... how am I going to compete with Вера? I can’t cook as good as her and I’m not as skilled as her in housework either."
+    b "But... ... how am I going to compete with Vera? I can’t cook as good as her and I’m not as skilled as her in housework either."
 
 
 
@@ -186,7 +186,7 @@ label AB_duo_1:
 
     scene ab_duo_1_16 with tstmgr
 
-    b "Maybe I should find Вера directly and ask her to teach me~"
+    b "Maybe I should find Vera directly and ask her to teach me~"
 
 
 
@@ -196,7 +196,7 @@ label AB_duo_1:
 
     scene ab_duo_1_17 with tstmgr
 
-    b "Вера is not my enemy, nor is Теодора. They are all super nice people!"
+    b "Vera is not my enemy, nor is Theodora. They are all super nice people!"
 
 
 
@@ -224,7 +224,7 @@ label AB_duo_1:
 
     scene ab_duo_1_19 with tstmgr
 
-    "Lady Minna" "Nope, I’m just here to see that Вера in person and I have gotten what I wanted. Now I’m going to meet Теодора’s mother, that blonde lady. That’s a really interesting woman~"
+    "Lady Minna" "Nope, I’m just here to see that Vera in person and I have gotten what I wanted. Now I’m going to meet Theodora’s mother, that blonde lady. That’s a really interesting woman~"
 
 
 
@@ -258,7 +258,7 @@ label AB_duo_1:
 
     scene ab_duo_1_24 with tstmgr
 
-    a "Hmmmm? Сеннин, where is your mother?"
+    a "Hmmmm? Senning, where is your mother?"
 
 
 
@@ -274,7 +274,7 @@ label AB_duo_1:
 
 
 
-    b "She wasn’t angry, Вера. She left because she has a meeting with Теодора’s mother later."
+    b "She wasn’t angry, Vera. She left because she has a meeting with Theodora’s mother later."
 
 
 
@@ -302,7 +302,7 @@ label AB_duo_1:
 
     scene ab_duo_1_30 with tstmgr
 
-    b "Вера, may I ask you a question?"
+    b "Vera, may I ask you a question?"
 
 
 
@@ -314,7 +314,7 @@ label AB_duo_1:
 
 
 
-    "Вера’s action froze for a second, and then..."
+    "Vera’s action froze for a second, and then..."
 
 
 
@@ -374,7 +374,7 @@ label AB_duo_1:
 
 
 
-    "*Вера and Сеннин have come to an agreement on the relationship with you.*"
+    "*Vera and Senning have come to an agreement on the relationship with you.*"
 
     stop music fadeout 1.0
     jump event_post

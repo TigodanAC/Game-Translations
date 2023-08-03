@@ -3,7 +3,7 @@ label Special_6:
     scene void with tstmgr
     play music happy
 
-    "It has been a few days since Элиза and Minna make peace with each other. Элиза invited Minna and Сеннин to her house this afternoon."
+    "It has been a few days since Elisa and Minna make peace with each other. Elisa invited Minna and Senning to her house this afternoon."
 
 
 
@@ -63,13 +63,13 @@ label Special_6:
 
 
 
-    player "Hi Айрин~"
+    player "Hi Irene~"
 
 
 
     scene special_6_1_5 with tstmgr
 
-    d "Hello!~ [P]!~ And Сеннин!~ And Mommy!~ And... the beautiful lady I don’t know!~"
+    d "Hello!~ [P]!~ And Senning!~ And Mommy!~ And... the beautiful lady I don’t know!~"
 
 
 
@@ -79,11 +79,11 @@ label Special_6:
 
 
 
-    e "This is my little daughter Айрин~"
+    e "This is my little daughter Irene~"
 
 
 
-    e "And Айрин, this is Lady Minna, Сеннин’s mother."
+    e "And Irene, this is Lady Minna, Senning’s mother."
 
 
 
@@ -99,7 +99,7 @@ label Special_6:
 
     scene special_6_1_8 with tstmgr
 
-    d "Сеннин, are you alright? You look... pale."
+    d "Senning, are you alright? You look... pale."
 
 
 
@@ -113,7 +113,7 @@ label Special_6:
 
 
 
-    b "Айрин... in that swimsuit... ... so... so cute... ..."
+    b "Irene... in that swimsuit... ... so... so cute... ..."
 
 
 
@@ -135,7 +135,7 @@ label Special_6:
 
     scene special_6_1_12 with tstmgr
 
-    "I stepped up and held Сеннин before she fell."
+    "I stepped up and held Senning before she fell."
 
 
 
@@ -159,7 +159,7 @@ label Special_6:
 
     scene special_6_1_13 with tstmgr
 
-    b "I’m so sorry to make you worry, mama, [P], lady Shinyrost, and Айрин... ..."
+    b "I’m so sorry to make you worry, mama, [P], lady Shinyrost, and Irene... ..."
 
 
 
@@ -177,7 +177,7 @@ label Special_6:
 
 
 
-    player "You... didn’t know that? Sometimes Сеннин would pass out when being too excited."
+    player "You... didn’t know that? Sometimes Senning would pass out when being too excited."
 
 
 
@@ -197,13 +197,13 @@ label Special_6:
 
     scene special_6_1_19 with tstmgr
 
-    d "Sorry... I really feel bad about this. Is there anything I can do to make up for you, Сеннин?"
+    d "Sorry... I really feel bad about this. Is there anything I can do to make up for you, Senning?"
 
 
 
     scene special_6_1_16 with tstmgr
 
-    b "It’s not your fault, Айрин. I am the one who should be sorry... ..."
+    b "It’s not your fault, Irene. I am the one who should be sorry... ..."
 
 
 
@@ -241,11 +241,11 @@ label Special_6:
 
     scene special_6_1_22 with dissolve
 
-    b "*Rubbing, rubbing* Hee hee~~ hee hee~~ Айрин~~ Hee hee~~"
+    b "*Rubbing, rubbing* Hee hee~~ hee hee~~ Irene~~ Hee hee~~"
 
 
 
-    b "Айрин is so so so so cute~~~~~~"
+    b "Irene is so so so so cute~~~~~~"
 
 
 
@@ -253,11 +253,11 @@ label Special_6:
 
 
 
-    "Сеннин entered the hysteria mode as soon as she laid her hand on Айрин’s head. Now she has immersed herself into her own world and she is rubbing Айрин’s head like crazy."
+    "Senning entered the hysteria mode as soon as she laid her hand on Irene’s head. Now she has immersed herself into her own world and she is rubbing Irene’s head like crazy."
 
 
 
-    "But even though she has lost herself, she is still rubbing Айрин very gently, that’s why Айрин hasn’t gotten angry yet."
+    "But even though she has lost herself, she is still rubbing Irene very gently, that’s why Irene hasn’t gotten angry yet."
 
 
 
@@ -265,7 +265,7 @@ label Special_6:
 
 
 
-    b "Айрин is the cutest girl in the world!"
+    b "Irene is the cutest girl in the world!"
 
 
 
@@ -281,7 +281,7 @@ label Special_6:
 
 
 
-    b "Awwwwww~~~ How could there be such a perfect cutie like Айрин in this world~~~"
+    b "Awwwwww~~~ How could there be such a perfect cutie like Irene in this world~~~"
 
 
 
@@ -317,7 +317,7 @@ label Special_6:
 
     scene special_6_1_30 with tstmgr
 
-    b "Yaaaaaah! Айрин is so cute when yelling too!"
+    b "Yaaaaaah! Irene is so cute when yelling too!"
 
 
 
@@ -339,7 +339,7 @@ label Special_6:
 
     scene special_6_1_33 with tstmgr
 
-    "I went to Сеннин's side and gently took her head in my arms."
+    "I went to Senning's side and gently took her head in my arms."
 
 
 
@@ -349,7 +349,7 @@ label Special_6:
 
     scene special_6_1_35 with tstmgr
 
-    b "Айрин is so cute!~~~~"
+    b "Irene is so cute!~~~~"
 
 
 
@@ -373,7 +373,7 @@ label Special_6:
 
     scene special_6_1_39 with tstmgr
 
-    b "Sorry, Айрин, I didn’t mean to... ..."
+    b "Sorry, Irene, I didn’t mean to... ..."
 
 
 
@@ -393,17 +393,17 @@ label Special_6:
 
 
 
-    "Sometime later, after Lady Minna and Сеннин left Элиза’s house..."
+    "Sometime later, after Lady Minna and Senning left Elisa’s house..."
 
 
 
     scene special_6_1_41 with dissolve
 
-    "Lady Minna" "I have to say I was amazed... ... How did you calm Сеннин down exactly?"
+    "Lady Minna" "I have to say I was amazed... ... How did you calm Senning down exactly?"
 
 
 
-    player "Сеннин will always calm down if she smells my body scent, so all I have to do is to hold her in my arms."
+    player "Senning will always calm down if she smells my body scent, so all I have to do is to hold her in my arms."
 
 
 

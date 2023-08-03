@@ -2,7 +2,7 @@ label mansion_bathroom_evening_D_1:
 
     scene mansion_bathroom_evening_d_1_1 with dissolve
 
-    "I was having a bath in Aunt Элиза's house."
+    "I was having a bath in Aunt Elisa's house."
 
 
 
@@ -14,11 +14,11 @@ label mansion_bathroom_evening_D_1:
 
 
 
-    e "Sorry to bother, [P], but do you know where Айрин is? I couldn't find her anywhere."
+    e "Sorry to bother, [P], but do you know where Irene is? I couldn't find her anywhere."
 
 
 
-    player "Eh... I don't know, sorry, Aunt Элиза. Maybe she is playing hide-and-seek with me again. This house is just too big. You won't be able to find her unless she wants to be found."
+    player "Eh... I don't know, sorry, Aunt Elisa. Maybe she is playing hide-and-seek with me again. This house is just too big. You won't be able to find her unless she wants to be found."
 
 
 
@@ -26,7 +26,7 @@ label mansion_bathroom_evening_D_1:
 
 
 
-    player "Don't worry, Aunt Элиза."
+    player "Don't worry, Aunt Elisa."
 
 
 

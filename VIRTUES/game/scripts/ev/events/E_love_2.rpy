@@ -3,7 +3,7 @@ label E_love_2:
     scene mansion_inside_background with tstmgr
     play music sorrow
 
-    narrator "Айрин's midterm is near, and I have to be here today to help her review."
+    narrator "Irene's midterm is near, and I have to be here today to help her review."
 
     narrator "But... I don't feel so good. My head hurts, and I feel dizzy as hell. "
 
@@ -27,7 +27,7 @@ label E_love_2:
 
     d "Mom, [P] doesn't look so well. "
 
-    narrator "Aunt Элиза came out from her study."
+    narrator "Aunt Elisa came out from her study."
 
     scene e_mansion_inside_normal2 with tstmgr
 
@@ -49,7 +49,7 @@ label E_love_2:
 
     narrator "... ... ... ..."
 
-    narrator "I basically lost my consciousness right after Aunt Элиза said that..."
+    narrator "I basically lost my consciousness right after Aunt Elisa said that..."
 
     narrator "... ... ... ..."
 
@@ -65,7 +65,7 @@ label E_love_2:
 
     narrator "... ... ... ..."
 
-    player "Hi... Aunt Элиза..."
+    player "Hi... Aunt Elisa..."
 
     scene e_love2_3 with tstmgr
 
@@ -77,7 +77,7 @@ label E_love_2:
 
     player "O... Okay..."
 
-    narrator "My feeling is correct. My head is on Aunt Элиза's legs now. No wonder it has that great smell."
+    narrator "My feeling is correct. My head is on Aunt Elisa's legs now. No wonder it has that great smell."
 
     narrator "Wait... so she is serving me a lap pillow? Well, that's... something."
 
@@ -96,7 +96,7 @@ label E_love_2:
 
     scene e_love2_2 with tstmgr
 
-    player "I feel so tired, Aunt Элиза."
+    player "I feel so tired, Aunt Elisa."
 
     e "It's okay, [P], just sleep. I got you here."
 
@@ -106,7 +106,7 @@ label E_love_2:
 
     narrator "I closed my eyes again. But actually I'm not trying to sleep."
 
-    narrator "You see, now I am a fever patient, my mind is supposed to be messed up by my high body temperature, though it isn't, Aunt Элиза doesn't know that."
+    narrator "You see, now I am a fever patient, my mind is supposed to be messed up by my high body temperature, though it isn't, Aunt Elisa doesn't know that."
 
     narrator "And that means, she is most likely not going to judge my actions because she will believe that I'm doing them unconsciously."
 
@@ -116,7 +116,7 @@ label E_love_2:
 
     narrator "After pretending to sleep for a while, I turned my head aside. It was a well-calculated move and the angle is perfect. My nose is now contacting her right breast."
 
-    narrator "Aunt Элиза quivered for a second, and that's all. She didn't do anything to me, neither wake me up nor move my head away."
+    narrator "Aunt Elisa quivered for a second, and that's all. She didn't do anything to me, neither wake me up nor move my head away."
 
     scene e_love2_8 with tstmgr
 
@@ -142,7 +142,7 @@ label E_love_2:
 
             narrator "I put my hand on her right breast. God, my hand can't even cover half of it. What's her breast size?"
 
-            narrator "Aunt Элиза suddenly shouted out with surprise."
+            narrator "Aunt Elisa suddenly shouted out with surprise."
 
             e "What... what are you doing?"
 
@@ -194,7 +194,7 @@ label E_love_2:
 
             e "Ah... ... Emm... ..."
 
-            narrator "Aunt Элиза moaned out with restraint."
+            narrator "Aunt Elisa moaned out with restraint."
 
             e "Emm... ... ... Emm... ..."
 

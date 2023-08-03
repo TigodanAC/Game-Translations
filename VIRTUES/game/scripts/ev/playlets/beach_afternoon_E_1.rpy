@@ -2,7 +2,7 @@ label beach_afternoon_E_1:
 
     scene beach_afternoon_e_1_1 with tstmgr
 
-    player "Aunt Элиза, how do you like my massage?"
+    player "Aunt Elisa, how do you like my massage?"
 
 
 
@@ -34,7 +34,7 @@ label beach_afternoon_E_1:
 
 
 
-    player "Are you alright, Aunt Элиза?"
+    player "Are you alright, Aunt Elisa?"
 
 
 

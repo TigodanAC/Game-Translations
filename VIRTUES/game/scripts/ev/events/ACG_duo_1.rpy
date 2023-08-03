@@ -33,7 +33,7 @@ label ACG_duo_1:
 
 
 
-    "Colleague X" "(Oh man, the rumor is real, this intern guy and Теодора Shinyrost are living together!)"
+    "Colleague X" "(Oh man, the rumor is real, this intern guy and Theodora Shinyrost are living together!)"
 
 
 
@@ -67,7 +67,7 @@ label ACG_duo_1:
 
     scene acg_duo_4 with tstmgr
 
-    "Теодора then took [P]’s body from the colleague."
+    "Theodora then took [P]’s body from the colleague."
 
 
 
@@ -93,7 +93,7 @@ label ACG_duo_1:
 
     scene acg_duo_7 with tstmgr
 
-    player "*Putting a hand on Теодора’s breast* Come~~~ drink with me~~~"
+    player "*Putting a hand on Theodora’s breast* Come~~~ drink with me~~~"
 
 
 
@@ -105,7 +105,7 @@ label ACG_duo_1:
 
 
 
-    "Colleague X" "(What a lucky bastard! He can do anything to that Теодора Shinyrost, the sexist girl in the company! I wish I was him... ...)"
+    "Colleague X" "(What a lucky bastard! He can do anything to that Theodora Shinyrost, the sexist girl in the company! I wish I was him... ...)"
 
 
 
@@ -147,7 +147,7 @@ label ACG_duo_1:
 
     scene acg_duo_12 with tstmgr
 
-    "Two girls came out from the livingroom after hearing Теодора’s words, a red-haired girl and a girl with brown skin, both are rare beauties that can easily grab everyone’s sight on the street."
+    "Two girls came out from the livingroom after hearing Theodora’s words, a red-haired girl and a girl with brown skin, both are rare beauties that can easily grab everyone’s sight on the street."
 
 
 
@@ -181,13 +181,13 @@ label ACG_duo_1:
 
     scene acg_duo_16 with tstmgr
 
-    "Уно answered even before Вера could react. She stepped up and carried one of [P]’s arms, just like Теодора did."
+    "Uno answered even before Vera could react. She stepped up and carried one of [P]’s arms, just like Theodora did."
 
 
 
     scene acg_duo_17 with tstmgr
 
-    player "Hmmmmmmmmmmm... ... ... ... Уно? Is that you?"
+    player "Hmmmmmmmmmmm... ... ... ... Uno? Is that you?"
 
 
 
@@ -209,7 +209,7 @@ label ACG_duo_1:
 
     scene acg_duo_20 with tstmgr
 
-    player "*Putting a hand on Уно’s breast* Come~~~ drink with me~~~"
+    player "*Putting a hand on Uno’s breast* Come~~~ drink with me~~~"
 
 
 
@@ -323,7 +323,7 @@ label ACG_duo_1:
 
     scene acg_duo_30 with tstmgr
 
-    player "Вера, Theo, and Уно... ... What a lovely picture~"
+    player "Vera, Theo, and Uno... ... What a lovely picture~"
 
 
 

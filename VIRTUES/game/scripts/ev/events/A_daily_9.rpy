@@ -3,7 +3,7 @@ label A_daily_9:
     scene bar_background with tstmgr
     play music sorrow
 
-    "Restaurateur" "Hey, [P]. Do you know what happened to Вера? She hasn't been herself lately."
+    "Restaurateur" "Hey, [P]. Do you know what happened to Vera? She hasn't been herself lately."
 
     "Restaurateur" "I'm worried about her."
 
@@ -29,9 +29,9 @@ label A_daily_9:
 
     player "I... ..."
 
-    "He is right. I need to tell Вера what I think."
+    "He is right. I need to tell Vera what I think."
 
-    "But, what do I think of Вера, exactly?"
+    "But, what do I think of Vera, exactly?"
 
 
     menu:

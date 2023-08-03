@@ -15,9 +15,9 @@ label B_daily_5:
 
     scene f_school_day_wink with tstmgr
 
-    f "Oh, okay. Anyway, I am Рэйчел, glad to meet you."
+    f "Oh, okay. Anyway, I am Rachel, glad to meet you."
 
-    player "Me too, Рэйчел."
+    player "Me too, Rachel."
 
     scene f_school_day_smile2 with tstmgr
 
@@ -59,13 +59,13 @@ label B_daily_5:
 
     narrator "Suddenly, I realized someone was pulling my shirt. So I turned around."
 
-    narrator "It was Сеннин."
+    narrator "It was Senning."
 
     scene b_school_day_frown with tstmgr
 
     b "Who was that girl?"
 
-    player "Her name is Рэйчел. Does that ring the bell?"
+    player "Her name is Rachel. Does that ring the bell?"
 
     b "No, never heard of it."
 
@@ -83,7 +83,7 @@ label B_daily_5:
 
     scene school_day_background with tstmgr
 
-    narrator "I spent some time with Сеннин on campus... ... ... ..."
+    narrator "I spent some time with Senning on campus... ... ... ..."
 
     stop music fadeout 1.0
 

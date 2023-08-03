@@ -2,7 +2,7 @@ label mansion_livingroom_forenoon_E_2:
 
     scene mansion_livingroom_forenoon_e_2_1 with tstmgr
 
-    e "What will Айрин like for today's dinner?"
+    e "What will Irene like for today's dinner?"
 
 
 
@@ -30,7 +30,7 @@ label mansion_livingroom_forenoon_E_2:
 
 
 
-    player "Hi, Aunt Элиза..."
+    player "Hi, Aunt Elisa..."
 
 
 

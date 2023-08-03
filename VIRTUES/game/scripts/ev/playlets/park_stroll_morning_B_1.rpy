@@ -2,7 +2,7 @@ label park_stroll_morning_B_1:
 
     scene park_stroll_morning_b_1_1 with tstmgr
 
-    player "Сеннин? I didn't expect to see you here so early in the morning."
+    player "Senning? I didn't expect to see you here so early in the morning."
 
 
 

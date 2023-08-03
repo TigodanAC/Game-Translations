@@ -16,7 +16,7 @@ label d7_1:
 
     player "Hmm?!?"
 
-    narrator "What the hell? Who's there? Is Теодора in my room again? This is the second time this week. Damn it, I can't stand it anymore. I swear I will..."
+    narrator "What the hell? Who's there? Is Theodora in my room again? This is the second time this week. Damn it, I can't stand it anymore. I swear I will..."
 
     $ openeyes("day7_d1")
 
@@ -24,13 +24,13 @@ label d7_1:
 
     narrator "I opened my eyes."
 
-    narrator "There is a girl lying on my bed and she looks just like Теодора's younger version. They both have emerald pupils and silver hair, but they are definitely not the same person."
+    narrator "There is a girl lying on my bed and she looks just like Theodora's younger version. They both have emerald pupils and silver hair, but they are definitely not the same person."
 
-    player "Айрин?"
+    player "Irene?"
 
     d "Ah! You are finally awake, [P.name]."
 
-    narrator "This is Айрин, Теодора's little sister. They look similar, but their personalities are remarkably different. Unlike her bad-temper older sister, Айрин seems to be much sweeter and cuter. We are very close since we were kids."
+    narrator "This is Irene, Theodora's little sister. They look similar, but their personalities are remarkably different. Unlike her bad-temper older sister, Irene seems to be much sweeter and cuter. We are very close since we were kids."
 
     narrator "Maybe... a little bit too close? I mean, she is now lying on the same bed with me and acts like nothing happened."
 
@@ -50,9 +50,9 @@ label d7_1:
 
     d " What's wrong?"
 
-    player "Айрин, we are not kids anymore. You can't just lie on the same bed with me like this."
+    player "Irene, we are not kids anymore. You can't just lie on the same bed with me like this."
 
-    narrator "Do I really think it is inappropriate? Ha, not at all. No man would ever refuse to sleep on the same bed with an adorable girl like Айрин."
+    narrator "Do I really think it is inappropriate? Ha, not at all. No man would ever refuse to sleep on the same bed with an adorable girl like Irene."
 
     narrator "But I took her as my own sister. I have to say what I have to say."
 
@@ -74,7 +74,7 @@ label d7_1:
 
     narrator "These two adorable titties are right in front of my hands. If I touch them now..."
 
-    narrator "Айрин has never said no to my requests before. And for God's sake, she is now lying on my bed without any protection."
+    narrator "Irene has never said no to my requests before. And for God's sake, she is now lying on my bed without any protection."
 
     player "... ... ... ..."
 
@@ -102,7 +102,7 @@ label d7_1:
 
     narrator "Oh, no. She noticed it."
 
-    narrator "Айрин came near me like a little snake. She seems to be curious about the change in my body."
+    narrator "Irene came near me like a little snake. She seems to be curious about the change in my body."
 
     scene day7_d6 with tstmgr
 
@@ -170,13 +170,13 @@ label d7_1:
 
     player "(Is she coming back?)"
 
-    player "Hey, listen, Айрин. I am sorry about......"
+    player "Hey, listen, Irene. I am sorry about......"
 
     player "Oh..."
 
     scene day2_c1 with tstmgr
 
-    narrator "This time it was Теодора."
+    narrator "This time it was Theodora."
 
     c "What did you do to that little imp? She looks angry."
 
@@ -210,7 +210,7 @@ label d7_1:
 
     narrator "... ... ... ..."
 
-    narrator "I stayed with Теодора's family for the rest of today."
+    narrator "I stayed with Theodora's family for the rest of today."
 
     narrator "... ... ... ..."
 

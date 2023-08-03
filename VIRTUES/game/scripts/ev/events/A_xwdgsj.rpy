@@ -2,7 +2,7 @@ label A_xwdgsj:
 
     scene void with tstmgr
 
-    narrator "According to Jake, Вера works at a clothing store every afternoon. Perhaps I could encounter her there and see if I can strike up a conversation."
+    narrator "According to Jake, Vera works at a clothing store every afternoon. Perhaps I could encounter her there and see if I can strike up a conversation."
 
     narrator "... ... ... ..."
 
@@ -10,15 +10,15 @@ label A_xwdgsj:
 
     narrator "I found the store he mentioned and walked in."
 
-    narrator "Hmm... This place looks quite nice. If Вера really works here, she might get a fair wage."
+    narrator "Hmm... This place looks quite nice. If Vera really works here, she might get a fair wage."
 
-    narrator "I soon found Вера. Her face and body shape make her so conspicuous in this store."
+    narrator "I soon found Vera. Her face and body shape make her so conspicuous in this store."
 
     scene a_dressstore_unhappy with tstmgr
 
     narrator "Wow, nice uniform."
 
-    player "Вера? What a coincidence. Do you work here?"
+    player "Vera? What a coincidence. Do you work here?"
 
     a "... ... ... ..."
 

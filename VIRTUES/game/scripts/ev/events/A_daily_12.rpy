@@ -9,7 +9,7 @@ label A_daily_12:
 
     scene a_daily12_1 with tstmgr
 
-    "Вера didn’t have a shift this afternoon so she came to my room and watched TV while I was in the shower."
+    "Vera didn’t have a shift this afternoon so she came to my room and watched TV while I was in the shower."
 
 
 

@@ -3,7 +3,7 @@ label E_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, I came to Aunt Элиза’s house for tutoring Айрин as usual."
+    "A few days later, I came to Aunt Elisa’s house for tutoring Irene as usual."
 
 
 
@@ -13,13 +13,13 @@ label E_train_inti_1:
 
 
 
-    player "Good afternoon, Элиза."
+    player "Good afternoon, Elisa."
 
 
 
     scene e_train_inti_1_2 with tstmgr
 
-    e "(Элиза... ... I guess I’m going to be flushed every time when he calls me that name~)"
+    e "(Elisa... ... I guess I’m going to be flushed every time when he calls me that name~)"
 
 
 
@@ -29,7 +29,7 @@ label E_train_inti_1:
 
 
 
-    e "Could you... meet me in the bungalow after you are done with Айрин today?"
+    e "Could you... meet me in the bungalow after you are done with Irene today?"
 
 
 
@@ -43,7 +43,7 @@ label E_train_inti_1:
 
 
 
-    "That bungalow, a secret between Aunt Элиза and I... ..."
+    "That bungalow, a secret between Aunt Elisa and I... ..."
 
 
 
@@ -87,7 +87,7 @@ label E_train_inti_1:
 
 
 
-    player "Элиза... ... ... ..."
+    player "Elisa... ... ... ..."
 
 
 
@@ -195,11 +195,11 @@ label E_train_inti_1:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
-    "This is really something different... ... Having sex with Aunt Элиза is different from all my previous sexual experiences."
+    "This is really something different... ... Having sex with Aunt Elisa is different from all my previous sexual experiences."
 
 
 
@@ -220,7 +220,7 @@ label E_train_inti_1:
 
 
 
-    player "Элиза... ... your pussy is wet like a stream~"
+    player "Elisa... ... your pussy is wet like a stream~"
 
 
 
@@ -265,7 +265,7 @@ label E_train_inti_1:
 
 
 
-    player "Here it goes, Элиза, I’m... ..."
+    player "Here it goes, Elisa, I’m... ..."
 
 
 
@@ -387,7 +387,7 @@ label E_train_inti_1:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -411,7 +411,7 @@ label E_train_inti_1:
 
 
 
-    "I spent a wonderful night with Aunt Элиза in the bungalow..."
+    "I spent a wonderful night with Aunt Elisa in the bungalow..."
 
 
 

@@ -7,13 +7,13 @@ label CDE_Picnic:
 
     narrator "*Phone Ringing* Dududu Dududu Dududu..."
 
-    narrator "I was woken up by my phone in the morning. It was Aunt Элиза."
+    narrator "I was woken up by my phone in the morning. It was Aunt Elisa."
 
-    player "(Yawning) Hi... Aunt Элиза. "
+    player "(Yawning) Hi... Aunt Elisa. "
 
     e "Good morning, [P]. Did I just wake you from sleeping? I'm so sorry if I did."
 
-    player "It doesn't matter, Aunt Элиза."
+    player "It doesn't matter, Aunt Elisa."
 
     player "What do you need me for?"
 
@@ -21,7 +21,7 @@ label CDE_Picnic:
 
     player "Eh, me?... "
 
-    narrator "I've known the Shinyrost family since I was born. Although we are not blood-related, Элиза always takes me as one of her family, her half-son."
+    narrator "I've known the Shinyrost family since I was born. Although we are not blood-related, Elisa always takes me as one of her family, her half-son."
 
     player "Okay, Auntie. I will be there. "
 
@@ -31,7 +31,7 @@ label CDE_Picnic:
 
     scene cde_date1_1 with tstmgr
 
-    narrator "Sometime later, I arrived at the picnic camp. Aunt Элиза and her daughters were already there."
+    narrator "Sometime later, I arrived at the picnic camp. Aunt Elisa and her daughters were already there."
 
     d "[P]!"
 
@@ -47,7 +47,7 @@ label CDE_Picnic:
 
     player "... ... ... ..."
 
-    player "(Wow... Aunt Элиза's dressing... it's kinda bold.)"
+    player "(Wow... Aunt Elisa's dressing... it's kinda bold.)"
 
     scene cde_date1_3 with tstmgr
 
@@ -61,7 +61,7 @@ label CDE_Picnic:
 
     narrator "What kind of question is that? How am I able to answer it? "
 
-    narrator "I saw Aunt Элиза and Теодора looking at Айрин with surprise. They must have realized how ridiculous it is. I think they are going to stop her. "
+    narrator "I saw Aunt Elisa and Theodora looking at Irene with surprise. They must have realized how ridiculous it is. I think they are going to stop her. "
 
     scene cde_date1_3 with tstmgr
 
@@ -81,21 +81,21 @@ label CDE_Picnic:
 
 
     menu:
-        "Теодора":
+        "Theodora":
 
             scene cde_date1_5 with tstmgr
 
             c "Me?"
             scene cde_date1_6 with tstmgr
 
-            e "Ha~ I know how [P] likes Теодора~"
+            e "Ha~ I know how [P] likes Theodora~"
             d "Theo blushed! Theo blushed!"
             scene cde_date1_7 with tstmgr
 
             c "I didn't... Shut up! I'm gonna seal your mouth!"
             d "Catch me if you can!"
             e "Quiet, girls, watch your manners."
-        "Айрин":
+        "Irene":
 
 
             scene cde_date1_8 with tstmgr
@@ -111,7 +111,7 @@ label CDE_Picnic:
             d "Because [P] likes me more!"
             c "You... ..."
             e "Quiet, girls, watch your manners."
-        "Aunt Элиза":
+        "Aunt Elisa":
 
 
             scene cde_date1_11 with tstmgr
@@ -122,7 +122,7 @@ label CDE_Picnic:
             scene cde_date1_12 with tstmgr
 
             d "Wait, [P]. Are you obsessed with my mom?"
-            e "Stop that nonsense, Айрин. "
+            e "Stop that nonsense, Irene. "
 
     scene void with tstmgr
 
@@ -154,19 +154,19 @@ label CDE_Picnic:
 
     scene cde_date1_18 with tstmgr
 
-    e "And Айрин, I knew that you have cut your school uniform skirt until it could barely cover your butt. "
+    e "And Irene, I knew that you have cut your school uniform skirt until it could barely cover your butt. "
 
     e "So both of you have no right to judge me."
 
     d "Oh... ..."
 
-    narrator "Wow, Aunt Элиза really knows how to deal with the two sisters."
+    narrator "Wow, Aunt Elisa really knows how to deal with the two sisters."
 
     narrator "What should I say?"
 
 
     menu:
-        "Defend for Теодора":
+        "Defend for Theodora":
 
 
             scene cde_date1_19 with tstmgr
@@ -184,29 +184,29 @@ label CDE_Picnic:
             scene cde_date1_22 with tstmgr
 
             d "Hmm... ... ... ..."
-        "Defend for Айрин":
+        "Defend for Irene":
 
 
             scene cde_date1_19 with tstmgr
 
-            player "I think Айрин looks gorgeous with her uniform skirt."
+            player "I think Irene looks gorgeous with her uniform skirt."
             player "She must be the most charming girl in her school."
             scene cde_date1_23 with tstmgr
 
             d "Thanks, [P]. You are the best!"
-            e "It seems like you and Айрин are getting closer, thanks to the tutoring."
+            e "It seems like you and Irene are getting closer, thanks to the tutoring."
             scene cde_date1_24 with tstmgr
 
             d "(Smile brightly) Hee Hee..."
             scene cde_date1_25 with tstmgr
 
             c "Hmm... ... ... ..."
-        "Agree with Элиза":
+        "Agree with Elisa":
 
 
             scene cde_date1_19 with tstmgr
 
-            player "Yeah, I think Aunt Элиза's dressing is cool."
+            player "Yeah, I think Aunt Elisa's dressing is cool."
             player "It looks energetic, and sexy as well."
             scene cde_date1_26 with tstmgr
 
@@ -222,7 +222,7 @@ label CDE_Picnic:
 
     scene cde_date1_27 with tstmgr
 
-    narrator "I mean, I don't have any sibling, nor a mother in my life. I didn't know how it was like to be with them until I met with Aunt Элиза's family. I really appreciate it."
+    narrator "I mean, I don't have any sibling, nor a mother in my life. I didn't know how it was like to be with them until I met with Aunt Elisa's family. I really appreciate it."
 
     narrator "I would like to sit here and listen to them talking forever. It is just so warm."
 
@@ -240,7 +240,7 @@ label CDE_Picnic:
 
 
     menu:
-        "Agree with Элиза":
+        "Agree with Elisa":
 
 
             player "Yeah, I can feel that. Theo has a soft heart. It's been a pleasure to work with her."
@@ -313,12 +313,12 @@ label CDE_Picnic:
 
             d "No, you are just being selfish."
             c "Ahhh... Whatever, I don't give a damn about what you said."
-        "I think you should stay with Aunt Элиза":
+        "I think you should stay with Aunt Elisa":
 
 
             scene cde_date1_24 with tstmgr
 
-            player "I think you should stay with Aunt Элиза. She will be lonely if you leave."
+            player "I think you should stay with Aunt Elisa. She will be lonely if you leave."
             scene cde_date1_33 with tstmgr
 
             d "Oh, you are right."
@@ -343,7 +343,7 @@ label CDE_Picnic:
 
     narrator "The two sisters then stopped arguing and glared at each other."
     narrator " "
-    narrator "Well, they don't get along so well since they were little, but they all listen to their mother. Aunt Элиза can always stop them from fighting with only a few words. "
+    narrator "Well, they don't get along so well since they were little, but they all listen to their mother. Aunt Elisa can always stop them from fighting with only a few words. "
 
     scene void with tstmgr
 
@@ -353,27 +353,27 @@ label CDE_Picnic:
 
     scene cde_date1_17 with tstmgr
 
-    narrator "The topic of the conversation has moved from \"family and life\" to \"business and company\". Aunt Элиза and Теодора are leading the conversation. Sometimes I would also jump in and give some opinions."
+    narrator "The topic of the conversation has moved from \"family and life\" to \"business and company\". Aunt Elisa and Theodora are leading the conversation. Sometimes I would also jump in and give some opinions."
 
     scene cde_date1_38 with tstmgr
 
-    narrator "As for Айрин, she is quite bored right now since she doesn't know a thing we are talking about."
+    narrator "As for Irene, she is quite bored right now since she doesn't know a thing we are talking about."
 
     scene cde_date1_39 with tstmgr
 
     narrator "Hmm?"
 
-    narrator "Айрин suddenly stood up. "
+    narrator "Irene suddenly stood up. "
 
     scene cde_date1_40 with tstmgr
 
-    narrator "And she started to move to Теодора. What is she trying to do?"
+    narrator "And she started to move to Theodora. What is she trying to do?"
 
     scene cde_date1_41 with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "I think she is going to do a prank on her sister. Should I warn Теодора?"
+    narrator "I think she is going to do a prank on her sister. Should I warn Theodora?"
 
 
     menu:
@@ -381,10 +381,10 @@ label CDE_Picnic:
 
             scene cde_date1_42 with tstmgr
 
-            narrator "I tried to deliver the message to Теодора through my eyes and she seemed to realize it."
+            narrator "I tried to deliver the message to Theodora through my eyes and she seemed to realize it."
             scene cde_date1_43 with tstmgr
 
-            c "Stop, Айрин. "
+            c "Stop, Irene. "
             scene cde_date1_44 with tstmgr
 
             d "What? How do you know I'm behind you?"
@@ -395,7 +395,7 @@ label CDE_Picnic:
             d "I hate you!"
             scene cde_date1_46 with tstmgr
 
-            narrator "Айрин walked back to her seat and didn't look at Теодора again."
+            narrator "Irene walked back to her seat and didn't look at Theodora again."
             narrator "... ... ... ..."
             e "Now who is thirsty? I brought some beers. "
             scene cde_date1_47 with tstmgr
@@ -415,8 +415,8 @@ label CDE_Picnic:
             narrator "I am actually curious about what she is gonna do..."
             scene cde_date1_50 with tstmgr
 
-            narrator "And at the next second, she jumped out and grabbed Теодора's breasts with her hands. "
-            narrator "Теодора shivered a little, and moaned out with surprise."
+            narrator "And at the next second, she jumped out and grabbed Theodora's breasts with her hands. "
+            narrator "Theodora shivered a little, and moaned out with surprise."
             scene cde_date1_51 with tstmgr
 
             c "What do you think you are doing?"
@@ -424,7 +424,7 @@ label CDE_Picnic:
             d "I won't until you say \"please\"."
             scene cde_date1_52 with tstmgr
 
-            c "I'm not in the mood for playing right now, Айрин."
+            c "I'm not in the mood for playing right now, Irene."
             c "And [P] is watching... You should watch your behavior."
             scene cde_date1_53 with tstmgr
 
@@ -434,7 +434,7 @@ label CDE_Picnic:
             scene cde_date1_54 with tstmgr
 
             d "Do you want me to show you?"
-            c "Stop, Айрин. You are going too far. "
+            c "Stop, Irene. You are going too far. "
             player "Well... ... ... ..."
             scene cde_date1_55 with tstmgr
 
@@ -444,22 +444,22 @@ label CDE_Picnic:
             scene cde_date1_56 with tstmgr
 
             c "Wait, what are you doing?"
-            narrator "The emotion of fear and panic showed up in Теодора's voice."
+            narrator "The emotion of fear and panic showed up in Theodora's voice."
             scene cde_date1_57 with tstmgr
 
             c "Stop right there, stop!"
-            narrator "But Айрин didn't listen."
+            narrator "But Irene didn't listen."
             d "The most sensitive part of her body is..."
             scene cde_date1_58 with tstmgr
 
             d "Her nipples."
-            narrator "She suddenly stuck her fingers in Теодора's breasts. It seems like she has found the right place where Теодора's nipples are located. "
-            narrator "And now, Теодора's nipples are heavily stimulated by her sister's fingers. She trembled like she was taking an electric shock."
+            narrator "She suddenly stuck her fingers in Theodora's breasts. It seems like she has found the right place where Theodora's nipples are located. "
+            narrator "And now, Theodora's nipples are heavily stimulated by her sister's fingers. She trembled like she was taking an electric shock."
             scene cde_date1_59 with tstmgr
 
             c "Ahhhhhhhh!!!!!!!"
             c "Stop! Stop! Stop!!!!!"
-            narrator "Теодора screams out. She sounds like she is about to break into tears."
+            narrator "Theodora screams out. She sounds like she is about to break into tears."
             narrator "I never saw her pratfall like this..."
             scene cde_date1_61 with tstmgr
 
@@ -476,15 +476,15 @@ label CDE_Picnic:
             scene cde_date1_63 with tstmgr
 
             c "Please! Please! Please! Just release me!"
-            narrator "No, way. That is insane. Теодора is begging people? I thought that would only happen in my dreams."
+            narrator "No, way. That is insane. Theodora is begging people? I thought that would only happen in my dreams."
             d "Not good enough. Keep begging me."
             c "Hmm!!! ... ... Ah!!! ... ..."
-            e "That's it, Айрин. Don't embarrass your sister."
+            e "That's it, Irene. Don't embarrass your sister."
             scene cde_date1_64 with tstmgr
 
             d "Oh... "
             d "Okay, mom."
-            narrator "Айрин released her sister. "
+            narrator "Irene released her sister. "
             scene cde_date1_65 with tstmgr
 
             d "See, [P]. That's how you should treat Theo."
@@ -492,7 +492,7 @@ label CDE_Picnic:
 
             c "B, I, T, C, H!"
             c "I'm gonna kill you!"
-            narrator "Annnnd that's how Теодора would fight back..."
+            narrator "Annnnd that's how Theodora would fight back..."
             scene cde_date1_67 with tstmgr
 
             d "Wait... No..."
@@ -503,7 +503,7 @@ label CDE_Picnic:
             d "Nooooooooo!!! ... ... ... ..."
             scene cde_date1_68 with tstmgr
 
-            narrator "Теодора dragged Айрин behind the tent. I can still hear Айрин's screeching all the time."
+            narrator "Theodora dragged Irene behind the tent. I can still hear Irene's screeching all the time."
             narrator "I am a little curious about what is going on there..."
             player "Uh... Won't you stop them?"
             e "Why should I? "

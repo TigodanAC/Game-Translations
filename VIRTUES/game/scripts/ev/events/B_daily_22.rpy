@@ -9,7 +9,7 @@ label B_daily_22:
 
     scene b_daily22_1 with dissolve
 
-    "I was watching TV with Сеннин in her room..."
+    "I was watching TV with Senning in her room..."
 
 
 

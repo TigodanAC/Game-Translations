@@ -6,7 +6,7 @@ label cafe_forenoon_A_2:
 
 
 
-    player "Hello, Вера."
+    player "Hello, Vera."
 
 
 

@@ -6,7 +6,7 @@ label d6_1:
 
     narrator "The next morning..."
 
-    narrator "Today is Saturday, maybe I should go find Сеннин. I hope she is not angry anymore."
+    narrator "Today is Saturday, maybe I should go find Senning. I hope she is not angry anymore."
 
     narrator "... ... ... ..."
 
@@ -14,7 +14,7 @@ label d6_1:
 
     narrator "I came to the campus."
 
-    player "Hi, Сеннин."
+    player "Hi, Senning."
 
     scene b_school_day_unhappy with tstmgr
 
@@ -28,7 +28,7 @@ label d6_1:
 
     player "(I should prove to her that I am not)"
 
-    call screen hint("To make Сеннин stop being mad at you, you'd better go to class more often to convice her that you are still a good student")
+    call screen hint("To make Senning stop being mad at you, you'd better go to class more often to convice her that you are still a good student")
 
     call screen hint("From now on, there will be more available locations and actions showing on the map. Try to work out your daily schedule wisely.")
 

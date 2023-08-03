@@ -12,7 +12,7 @@ label downtown_afternoon_F_2:
 
 
 
-    player "Рэйчел? Is that you?"
+    player "Rachel? Is that you?"
 
 
 

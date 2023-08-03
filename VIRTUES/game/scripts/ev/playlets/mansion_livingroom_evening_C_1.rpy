@@ -6,7 +6,7 @@ label mansion_livingroom_evening_C_1:
 
 
 
-    player "Yeah, I just finished tutoring Айрин."
+    player "Yeah, I just finished tutoring Irene."
 
 
 

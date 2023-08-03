@@ -5,9 +5,9 @@ label F_daily_1:
 
     narrator "I have started doing exercise in the park for several days. I can feel that my strength is getting back. "
 
-    narrator "And today, I encountered Рэйчел again. It seems that she runs in this park every several days."
+    narrator "And today, I encountered Rachel again. It seems that she runs in this park every several days."
 
-    player "Hi, Рэйчел."
+    player "Hi, Rachel."
 
     scene f_wood_smile with tstmgr
 
@@ -53,7 +53,7 @@ label F_daily_1:
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time with Рэйчел in the park..."
+    narrator "I spent some time with Rachel in the park..."
 
     stop music fadeout 1.0
 

@@ -2,7 +2,7 @@ label bnb_bathroom_morning_G_2:
 
     scene bnb_bathroom_morning_g_2_1 with tstmgr
 
-    "Уно is having a shower... ..."
+    "Uno is having a shower... ..."
 
 
 

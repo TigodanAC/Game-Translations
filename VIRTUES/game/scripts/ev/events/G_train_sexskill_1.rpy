@@ -13,7 +13,7 @@ label G_train_sexskill_1:
 
 
 
-    player "When I get rich again, I’m gonna get a bigger bathroom and a bigger bathtub, no, not enough, I need a freaking big hot tub which is larger than my bed, like the one in Aunt Элиза’s mansion."
+    player "When I get rich again, I’m gonna get a bigger bathroom and a bigger bathtub, no, not enough, I need a freaking big hot tub which is larger than my bed, like the one in Aunt Elisa’s mansion."
 
 
 
@@ -43,7 +43,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Уно?"
+    player "Uno?"
 
 
 
@@ -103,7 +103,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Уно, you know you can talk with me about everything, right?"
+    player "Uno, you know you can talk with me about everything, right?"
 
 
 
@@ -153,7 +153,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Oh, wow, Уно... ..."
+    player "Oh, wow, Uno... ..."
 
 
 
@@ -187,7 +187,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Уно, now just give yourself to me, I will make you enjoy it..."
+    player "Uno, now just give yourself to me, I will make you enjoy it..."
 
 
 
@@ -219,7 +219,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Уно... you have never been so... actively before. What happened?"
+    player "Uno... you have never been so... actively before. What happened?"
 
 
 
@@ -231,7 +231,7 @@ label G_train_sexskill_1:
 
 
 
-    player "Уно... ... ... ..."
+    player "Uno... ... ... ..."
 
 
 
@@ -239,7 +239,7 @@ label G_train_sexskill_1:
 
 
 
-    "Уно said that she is having sex to relieve her pressure, but in fact... ... she is trying her best to please me instead of relaxing herself."
+    "Uno said that she is having sex to relieve her pressure, but in fact... ... she is trying her best to please me instead of relaxing herself."
 
 
 
@@ -257,11 +257,11 @@ label G_train_sexskill_1:
 
 
 
-    g "Only master can fuck Уно, no one else can~~~"
+    g "Only master can fuck Uno, no one else can~~~"
 
 
 
-    g "Уно’s pussy has taken the shape of master’s Peeeeeenis~~~~"
+    g "Uno’s pussy has taken the shape of master’s Peeeeeenis~~~~"
 
 
 
@@ -269,11 +269,11 @@ label G_train_sexskill_1:
 
 
 
-    player "Уно, you don’t need to... ... ohhh... this feels so good... ..."
+    player "Uno, you don’t need to... ... ohhh... this feels so good... ..."
 
 
 
-    g "Awww~~~ master~~~ Уно’s mind is all about master~~"
+    g "Awww~~~ master~~~ Uno’s mind is all about master~~"
 
 
 
@@ -289,7 +289,7 @@ label G_train_sexskill_1:
 
 
 
-    "Уно and I had a great orgasm at the same time... ..."
+    "Uno and I had a great orgasm at the same time... ..."
 
 
 
@@ -309,7 +309,7 @@ label G_train_sexskill_1:
 
     scene g_train_sexskill_1_19 with dissolve
 
-    player "Do you feel better now, Уно?"
+    player "Do you feel better now, Uno?"
 
 
 
@@ -337,13 +337,13 @@ label G_train_sexskill_1:
 
 
 
-    g "Nipple rings, tattoos, things like that... ... Уно is willing to do anything for you."
+    g "Nipple rings, tattoos, things like that... ... Uno is willing to do anything for you."
 
 
 
     scene g_train_sexskill_1_22 with tstmgr
 
-    player "I... I don’t think there is any necessary to do such a thing, Уно."
+    player "I... I don’t think there is any necessary to do such a thing, Uno."
 
 
 

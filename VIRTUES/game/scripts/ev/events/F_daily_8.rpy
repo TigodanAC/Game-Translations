@@ -3,13 +3,13 @@ label F_daily_8:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Рэйчел’s perspective.*"
+    "*The following plot is from Rachel’s perspective.*"
 
 
 
     scene f_daily8_1 with dissolve
 
-    "Evening, Рэйчел is having a shower in the public bathroom... ..."
+    "Evening, Rachel is having a shower in the public bathroom... ..."
 
 
 
@@ -49,7 +49,7 @@ label F_daily_8:
 
 
 
-    "There are two girls talking in a shower cell near Рэйчел..."
+    "There are two girls talking in a shower cell near Rachel..."
 
 
 
@@ -141,13 +141,13 @@ label F_daily_8:
 
 
 
-    f "(Вера? Yeah, it must be Вера. They are living in the same house and Вера acts like the hostess.)"
+    f "(Vera? Yeah, it must be Vera. They are living in the same house and Vera acts like the hostess.)"
 
 
 
     scene f_daily8_11 with tstmgr
 
-    f "(Awwwww... ... Poor Вера, he doesn’t know what her man has done behind her back!)"
+    f "(Awwwww... ... Poor Vera, he doesn’t know what her man has done behind her back!)"
 
 
 
@@ -173,11 +173,11 @@ label F_daily_8:
 
     scene f_daily8_13 with tstmgr
 
-    f "(You are still too insensitive to interpersonal interaction, Рэйчел!)"
+    f "(You are still too insensitive to interpersonal interaction, Rachel!)"
 
 
 
-    f "(I... I should... confess to Вера. I should let her know what happened!)"
+    f "(I... I should... confess to Vera. I should let her know what happened!)"
 
 
 

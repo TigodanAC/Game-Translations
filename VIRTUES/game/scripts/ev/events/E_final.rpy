@@ -4,7 +4,7 @@ label E_final:
     scene void with tstmgr
     play music sorrow
 
-    "*This is Элиза’s solo end, it happens in a route in which you only fell in love with Элиза.*"
+    "*This is Elisa’s solo end, it happens in a route in which you only fell in love with Elisa.*"
 
 
 
@@ -130,7 +130,7 @@ label E_final:
 
 
 
-    "Элиза suddenly realized it was inappropriate to say that to a 6-year-old, but the little [P] didn't really seem to care about it..."
+    "Elisa suddenly realized it was inappropriate to say that to a 6-year-old, but the little [P] didn't really seem to care about it..."
 
 
 
@@ -154,7 +154,7 @@ label E_final:
 
 
 
-    "The boy didn’t know what ‘despise’ meant yet, but he could still sense Элиза’s sorrow."
+    "The boy didn’t know what ‘despise’ meant yet, but he could still sense Elisa’s sorrow."
 
 
 
@@ -168,13 +168,13 @@ label E_final:
 
 
 
-    "Элиза didn’t expect to be comforted by such a little boy, but it actually felt good."
+    "Elisa didn’t expect to be comforted by such a little boy, but it actually felt good."
 
 
 
     scene e_final_13 with tstmgr
 
-    e "(Humph~ I wish I have a son like him... ... Теодора and Айрин can really need a thoughtful brother~)"
+    e "(Humph~ I wish I have a son like him... ... Theodora and Irene can really need a thoughtful brother~)"
 
 
 
@@ -184,11 +184,11 @@ label E_final:
 
 
 
-    "Just like every girl on this planet, Элиза used to dream of falling in love with a prince-like man when she was young too. Actually, many girls at her age still have this dream."
+    "Just like every girl on this planet, Elisa used to dream of falling in love with a prince-like man when she was young too. Actually, many girls at her age still have this dream."
 
 
 
-    "But for Элиза, this dream has been long gone already. Although she is still only in her early 20s, she has become a single mother of two little girls. There is no room for dreaming anymore."
+    "But for Elisa, this dream has been long gone already. Although she is still only in her early 20s, she has become a single mother of two little girls. There is no room for dreaming anymore."
 
 
 
@@ -230,7 +230,7 @@ label E_final:
 
 
 
-    "Элиза was surprised at the boy’s directness..."
+    "Elisa was surprised at the boy’s directness..."
 
 
 
@@ -244,7 +244,7 @@ label E_final:
 
     scene e_final_20 with tstmgr
 
-    player "Theo and Айрин were pretty happy when they heard that... ... I thought you would be happy too. I just want all of you to be happy."
+    player "Theo and Irene were pretty happy when they heard that... ... I thought you would be happy too. I just want all of you to be happy."
 
 
 
@@ -765,7 +765,7 @@ label E_final:
 
     scene e_final_80 with tstmgr
 
-    "A great amount of my cum poured out of her pussy when I withdrew my dick and Элиза let out a sigh of regret."
+    "A great amount of my cum poured out of her pussy when I withdrew my dick and Elisa let out a sigh of regret."
 
 
 
@@ -1017,7 +1017,7 @@ label E_final:
 
 
 
-            "Элиза’s increased lactation didn't influence our relationship at all, instead it just deepened my love for her day by day."
+            "Elisa’s increased lactation didn't influence our relationship at all, instead it just deepened my love for her day by day."
 
 
 
@@ -1067,7 +1067,7 @@ label E_final:
 
             $ flashlight()
 
-            player "*Pinching Элиза’s nipples hard* And what, Элиза?"
+            player "*Pinching Elisa’s nipples hard* And what, Elisa?"
 
 
 
@@ -1085,7 +1085,7 @@ label E_final:
 
 
 
-            "Feeling the fiery looks of the men nearby made Элиза extremely excited and more confident about her body. Now she has realized that being able to lactate is not a defect for a woman at all~"
+            "Feeling the fiery looks of the men nearby made Elisa extremely excited and more confident about her body. Now she has realized that being able to lactate is not a defect for a woman at all~"
 
 
 
@@ -1121,7 +1121,7 @@ label E_final:
 
 
 
-            player "Элиза... ..."
+            player "Elisa... ..."
 
 
 
@@ -1709,7 +1709,7 @@ label E_final:
 
 
 
-            player "Элиза!!~~~"
+            player "Elisa!!~~~"
 
 
 
@@ -1747,7 +1747,7 @@ label E_final:
 
 
 
-            player "Элиза!~ Элиза!~~"
+            player "Elisa!~ Elisa!~~"
 
 
 
@@ -1759,7 +1759,7 @@ label E_final:
 
 
 
-            player "Take it, Элиза!!~"
+            player "Take it, Elisa!!~"
 
 
 
@@ -1781,7 +1781,7 @@ label E_final:
 
 
 
-            player "That was so great, Элиза~"
+            player "That was so great, Elisa~"
 
 
 
@@ -1813,7 +1813,7 @@ label E_final:
 
 
 
-            "Nourished by love day after day, Элиза seemed to become more youthful and beautiful, and we began to date like a young couple, doing some crazy shit for excitement~"
+            "Nourished by love day after day, Elisa seemed to become more youthful and beautiful, and we began to date like a young couple, doing some crazy shit for excitement~"
 
 
 
@@ -1843,7 +1843,7 @@ label E_final:
 
 
 
-            "After buying this building for a few years, Элиза made great success in business and moved her company into a much nicer place. She sold this building and never came back... ... until now."
+            "After buying this building for a few years, Elisa made great success in business and moved her company into a much nicer place. She sold this building and never came back... ... until now."
 
 
 
@@ -1935,7 +1935,7 @@ label E_final:
 
             scene e_final_155 with tstmgr
 
-            "Элиза stood up with a smile, and then... ..."
+            "Elisa stood up with a smile, and then... ..."
 
 
 
@@ -1973,7 +1973,7 @@ label E_final:
 
 
 
-            player "Элиза... ..."
+            player "Elisa... ..."
 
 
 
@@ -2145,7 +2145,7 @@ label E_final:
 
 
 
-            "The wind on the roof was howling, but it couldn’t drown out Элиза’s moan at all, not to mention the lewd clapping sound of my crotch hitting on her butt."
+            "The wind on the roof was howling, but it couldn’t drown out Elisa’s moan at all, not to mention the lewd clapping sound of my crotch hitting on her butt."
 
 
 
@@ -2167,7 +2167,7 @@ label E_final:
 
 
 
-            "Watching the crowd on the street gave Элиза a great sense of excitement and satisfaction. She hasn’t really done any adventure like this in her life. It made her feel so... youthful."
+            "Watching the crowd on the street gave Elisa a great sense of excitement and satisfaction. She hasn’t really done any adventure like this in her life. It made her feel so... youthful."
 
 
 
@@ -2297,7 +2297,7 @@ label E_final:
 
 
 
-            "Элиза was frozen when she heard the voice of the caller."
+            "Elisa was frozen when she heard the voice of the caller."
 
 
 
@@ -2357,7 +2357,7 @@ label E_final:
 
 
 
-            "The next day, in Элиза’s bungalow... ..."
+            "The next day, in Elisa’s bungalow... ..."
 
 
 
@@ -2367,11 +2367,11 @@ label E_final:
 
 
 
-            "This feels bad. Элиза was meeting her ex-husband in the livingroom while I had to stay in the backroom alone."
+            "This feels bad. Elisa was meeting her ex-husband in the livingroom while I had to stay in the backroom alone."
 
 
 
-            "I’m a little worried about Элиза... ... I mean, that was the guy who made her feel inferior for 20 years. He hurt her so deeply... ..."
+            "I’m a little worried about Elisa... ... I mean, that was the guy who made her feel inferior for 20 years. He hurt her so deeply... ..."
 
 
 
@@ -2393,7 +2393,7 @@ label E_final:
 
             scene e_final_194 with dissolve
 
-            "Элиза was sitting across from a man with silver hair and pale skin. That was her ex-husband, the man who left her 16 years ago and never contacted her again... ... until yesterday."
+            "Elisa was sitting across from a man with silver hair and pale skin. That was her ex-husband, the man who left her 16 years ago and never contacted her again... ... until yesterday."
 
 
 
@@ -2403,11 +2403,11 @@ label E_final:
 
             scene e_final_195 with tstmgr
 
-            e "You want Теодора and Айрин to... ... change their family name... from mine to yours?"
+            e "You want Theodora and Irene to... ... change their family name... from mine to yours?"
 
 
 
-            "Элиза’s ex-husband" "Yes, and if they want, they can come with me, to Europe, to my family."
+            "Elisa’s ex-husband" "Yes, and if they want, they can come with me, to Europe, to my family."
 
 
 
@@ -2417,15 +2417,15 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "They have grown into healthy, beautiful ladies with superiorities of my noble bloodline. Look at their silver hair and ivory skin... ... They are just perfect."
+            "Elisa’s ex-husband" "They have grown into healthy, beautiful ladies with superiorities of my noble bloodline. Look at their silver hair and ivory skin... ... They are just perfect."
 
 
 
-            "Элиза’s ex-husband is from a European noble family with a long history. It is known for the silver hair of its members."
+            "Elisa’s ex-husband is from a European noble family with a long history. It is known for the silver hair of its members."
 
 
 
-            "Элиза’s ex-husband" "And what’s more important is, it seems they didn’t inherit ‘that defect’ from you. Their blood didn’t get corrupted at all."
+            "Elisa’s ex-husband" "And what’s more important is, it seems they didn’t inherit ‘that defect’ from you. Their blood didn’t get corrupted at all."
 
 
 
@@ -2439,7 +2439,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Eh... ... I see you have a much worse temper than before."
+            "Elisa’s ex-husband" "Eh... ... I see you have a much worse temper than before."
 
 
 
@@ -2449,7 +2449,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "... ... ... ..."
+            "Elisa’s ex-husband" "... ... ... ..."
 
 
 
@@ -2459,7 +2459,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Well, unfortunately, they both rejected me. I was hoping you could help me persuade them... ..."
+            "Elisa’s ex-husband" "Well, unfortunately, they both rejected me. I was hoping you could help me persuade them... ..."
 
 
 
@@ -2469,7 +2469,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "I... ... listen, it’s true that I didn’t like your lactating breasts because it always made everything slimy... ... but I did love you, otherwise I wouldn’t bear it for years and we wouldn’t have two children together."
+            "Elisa’s ex-husband" "I... ... listen, it’s true that I didn’t like your lactating breasts because it always made everything slimy... ... but I did love you, otherwise I wouldn’t bear it for years and we wouldn’t have two children together."
 
 
 
@@ -2479,7 +2479,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "It was my family that made me leave you. But now, since our girls turned out to be perfectly healthy, my family is willing to accept them, and even you too, as long as we don’t create more offspring."
+            "Elisa’s ex-husband" "It was my family that made me leave you. But now, since our girls turned out to be perfectly healthy, my family is willing to accept them, and even you too, as long as we don’t create more offspring."
 
 
 
@@ -2489,7 +2489,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Yeah, I know it sounds weird, but eh... I want to make up for you."
+            "Elisa’s ex-husband" "Yeah, I know it sounds weird, but eh... I want to make up for you."
 
 
 
@@ -2521,7 +2521,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "... ... You have a boyfriend now?"
+            "Elisa’s ex-husband" "... ... You have a boyfriend now?"
 
 
 
@@ -2531,17 +2531,17 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "... ... ... ..."
+            "Elisa’s ex-husband" "... ... ... ..."
 
 
 
-            "Элиза’s ex-husband" "You’ve really changed a lot, Элиза. I’m... ... happy to see it."
+            "Elisa’s ex-husband" "You’ve really changed a lot, Elisa. I’m... ... happy to see it."
 
 
 
             scene void with tstmgr
 
-            "The tall silver-haired man soon left with a despondent look on his face. Maybe he was telling the truth, maybe he does love Элиза and had to leave her under pressure from his family, but none of those matters anymore. The pain he brought to Элиза is irreparable."
+            "The tall silver-haired man soon left with a despondent look on his face. Maybe he was telling the truth, maybe he does love Elisa and had to leave her under pressure from his family, but none of those matters anymore. The pain he brought to Elisa is irreparable."
 
 
 
@@ -2601,7 +2601,7 @@ label E_final:
 
             scene e_final_213 with tstmgr
 
-            player "I’m so happy for you, Элиза."
+            player "I’m so happy for you, Elisa."
 
 
 
@@ -2909,11 +2909,11 @@ label E_final:
 
 
 
-            player "It was my honor, Элиза."
+            player "It was my honor, Elisa."
 
 
 
-            "She yelled and let her pussy clamp down on my dick as hard as she could as if she wanted my dick to stay inside her forever. Uhhhhh... ... Элиза~~~"
+            "She yelled and let her pussy clamp down on my dick as hard as she could as if she wanted my dick to stay inside her forever. Uhhhhh... ... Elisa~~~"
 
 
             stop sound
@@ -2931,7 +2931,7 @@ label E_final:
 
 
 
-            player "Элиза... ..."
+            player "Elisa... ..."
 
 
 
@@ -2939,7 +2939,7 @@ label E_final:
 
 
 
-            player "I love you, Элиза... ... and I’ll always love you until the end of the world~"
+            player "I love you, Elisa... ... and I’ll always love you until the end of the world~"
 
 
 
@@ -2999,7 +2999,7 @@ label E_final:
 
 
 
-            "*Элиза’s lover happy ending achieved!*"
+            "*Elisa’s lover happy ending achieved!*"
         "Try a kinkier solution (sex slave)":
 
 
@@ -3114,7 +3114,7 @@ label E_final:
 
 
 
-            "When I walked into Элиза’s room, I saw her looking at her hands with a surprised look on her face."
+            "When I walked into Elisa’s room, I saw her looking at her hands with a surprised look on her face."
 
 
 
@@ -3232,7 +3232,7 @@ label E_final:
 
 
 
-            "Элиза has introverted nipples, but I haven’t seen them introverted for quite a while. They always remained extroverted because lactating would automatically make them erect."
+            "Elisa has introverted nipples, but I haven’t seen them introverted for quite a while. They always remained extroverted because lactating would automatically make them erect."
 
 
 
@@ -3721,11 +3721,11 @@ label E_final:
 
 
 
-            "After having those rings on her nipples, the lactation problem that had been bothering Элиза for 2 decades was finally solved."
+            "After having those rings on her nipples, the lactation problem that had been bothering Elisa for 2 decades was finally solved."
 
 
 
-            "However, with the changing hormone levels in her body and the constant stimulation of static, Элиза had a dramatical change in her character."
+            "However, with the changing hormone levels in her body and the constant stimulation of static, Elisa had a dramatical change in her character."
 
 
 
@@ -3745,7 +3745,7 @@ label E_final:
 
 
 
-            player "Very well, Элиза... ..."
+            player "Very well, Elisa... ..."
 
 
 
@@ -3907,7 +3907,7 @@ label E_final:
 
             scene e_final_297 with tstmgr
 
-            "Man B" "Wait, is that... Элиза Shinyrost?"
+            "Man B" "Wait, is that... Elisa Shinyrost?"
 
 
 
@@ -4191,7 +4191,7 @@ label E_final:
 
 
 
-            "Элиза’s shameless master-slave declaration made her milfy pussy flood with love juice. Each of my thrusts could bring out a lot of it~"
+            "Elisa’s shameless master-slave declaration made her milfy pussy flood with love juice. Each of my thrusts could bring out a lot of it~"
 
 
 
@@ -4269,11 +4269,11 @@ label E_final:
 
 
 
-            "Элиза was frozen when she heard the voice of the caller."
+            "Elisa was frozen when she heard the voice of the caller."
 
 
 
-            "???" "Hi, Элиза. It has been so long... ..."
+            "???" "Hi, Elisa. It has been so long... ..."
 
 
 
@@ -4299,7 +4299,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "What? Eh... ... Are you alright?"
+            "Elisa’s ex-husband" "What? Eh... ... Are you alright?"
 
 
 
@@ -4325,7 +4325,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "It’s been years since the last time we spoke. I wonder how you are doing these days."
+            "Elisa’s ex-husband" "It’s been years since the last time we spoke. I wonder how you are doing these days."
 
 
 
@@ -4371,7 +4371,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Okay then... ... I know you are busy. Just let you know that I’m currently in the city. Can we at least have a meet when you have time? I have something to discuss with you."
+            "Elisa’s ex-husband" "Okay then... ... I know you are busy. Just let you know that I’m currently in the city. Can we at least have a meet when you have time? I have something to discuss with you."
 
 
 
@@ -4447,7 +4447,7 @@ label E_final:
 
 
 
-            "A few hours later, in Элиза’s bungalow..."
+            "A few hours later, in Elisa’s bungalow..."
 
 
 
@@ -4457,11 +4457,11 @@ label E_final:
 
 
 
-            "This feels bad. Элиза was meeting her ex-husband in the livingroom while I had to stay in the backroom alone."
+            "This feels bad. Elisa was meeting her ex-husband in the livingroom while I had to stay in the backroom alone."
 
 
 
-            "I’m a little worried about Элиза... ... I mean, that was the guy who made her feel inferior for 20 years. He hurt her so deeply... ..."
+            "I’m a little worried about Elisa... ... I mean, that was the guy who made her feel inferior for 20 years. He hurt her so deeply... ..."
 
 
 
@@ -4483,7 +4483,7 @@ label E_final:
 
             scene e_final_194 with dissolve
 
-            "Элиза was sitting across from a man with silver hair and pale skin. That was her ex-husband, the man who left her 16 years ago and never contacted her again... ... until yesterday."
+            "Elisa was sitting across from a man with silver hair and pale skin. That was her ex-husband, the man who left her 16 years ago and never contacted her again... ... until yesterday."
 
 
 
@@ -4493,11 +4493,11 @@ label E_final:
 
 
 
-            e "You want Теодора and Айрин to... ... change their family name from mine to yours?"
+            e "You want Theodora and Irene to... ... change their family name from mine to yours?"
 
 
 
-            "Элиза’s ex-husband" "Yes, and if they want, they can come with me, to Europe, to my family."
+            "Elisa’s ex-husband" "Yes, and if they want, they can come with me, to Europe, to my family."
 
 
 
@@ -4507,15 +4507,15 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "They have grown into healthy, beautiful ladies with superiorities of my noble bloodline. Look at their silver hair and ivory skin... ... They are just perfect."
+            "Elisa’s ex-husband" "They have grown into healthy, beautiful ladies with superiorities of my noble bloodline. Look at their silver hair and ivory skin... ... They are just perfect."
 
 
 
-            "Элиза’s ex-husband is from a European noble family with a long history. It is known for the silver hair of its members."
+            "Elisa’s ex-husband is from a European noble family with a long history. It is known for the silver hair of its members."
 
 
 
-            "Элиза’s ex-husband" "And what’s more important is, it seems they didn’t inherit ‘that defect’ from you. Their blood didn’t get corrupted at all."
+            "Elisa’s ex-husband" "And what’s more important is, it seems they didn’t inherit ‘that defect’ from you. Their blood didn’t get corrupted at all."
 
 
 
@@ -4531,7 +4531,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Well, unfortunately, they both rejected me."
+            "Elisa’s ex-husband" "Well, unfortunately, they both rejected me."
 
 
 
@@ -4541,7 +4541,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "So I was hoping you could help me persuade them... ..."
+            "Elisa’s ex-husband" "So I was hoping you could help me persuade them... ..."
 
 
 
@@ -4551,7 +4551,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Because I can provide them with a better life. And... if you agree to help, I may even consider remarrying you."
+            "Elisa’s ex-husband" "Because I can provide them with a better life. And... if you agree to help, I may even consider remarrying you."
 
 
 
@@ -4561,11 +4561,11 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "I mean, yeah, because it always made everything slimy... ... but I do love you, otherwise I wouldn’t bear it for years and we wouldn’t have two children together."
+            "Elisa’s ex-husband" "I mean, yeah, because it always made everything slimy... ... but I do love you, otherwise I wouldn’t bear it for years and we wouldn’t have two children together."
 
 
 
-            "Элиза’s ex-husband" "It was my family that made me leave you. They couldn’t accept you and our girls at that time because... ..."
+            "Elisa’s ex-husband" "It was my family that made me leave you. They couldn’t accept you and our girls at that time because... ..."
 
 
 
@@ -4575,7 +4575,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "But now, since our girls are all perfectly healthy, my family is willing to accept them, and even you too, as long as we don’t create more offspring."
+            "Elisa’s ex-husband" "But now, since our girls are all perfectly healthy, my family is willing to accept them, and even you too, as long as we don’t create more offspring."
 
 
 
@@ -4585,15 +4585,15 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Eh... ... Why not? You didn’t marry again all these years... ... and... ..."
+            "Elisa’s ex-husband" "Eh... ... Why not? You didn’t marry again all these years... ... and... ..."
 
 
 
-            "Элиза’s ex-husband" "*Swallowing hard* And you really look... much more attractive than before."
+            "Elisa’s ex-husband" "*Swallowing hard* And you really look... much more attractive than before."
 
 
 
-            "Элиза’s ex-husband" "We can start over and... ..."
+            "Elisa’s ex-husband" "We can start over and... ..."
 
 
 
@@ -4603,7 +4603,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "Oh, that’s even greater!"
+            "Elisa’s ex-husband" "Oh, that’s even greater!"
 
 
 
@@ -4613,7 +4613,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "What do you mean?... ..."
+            "Elisa’s ex-husband" "What do you mean?... ..."
 
 
 
@@ -4639,7 +4639,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "But... ..."
+            "Elisa’s ex-husband" "But... ..."
 
 
 
@@ -4649,17 +4649,17 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "... ... ... ..."
+            "Elisa’s ex-husband" "... ... ... ..."
 
 
 
-            "Элиза’s ex-husband" "You’ve really changed a lot, Элиза."
+            "Elisa’s ex-husband" "You’ve really changed a lot, Elisa."
 
 
 
             scene void with tstmgr
 
-            "The man didn’t choose to leave after being explicitly rejected by Элиза, instead he decided to stay and drink sake with her, trying to find a way to convince her."
+            "The man didn’t choose to leave after being explicitly rejected by Elisa, instead he decided to stay and drink sake with her, trying to find a way to convince her."
 
 
 
@@ -4673,7 +4673,7 @@ label E_final:
 
 
 
-            "Элиза’s ex-husband" "*Being completely drunk* Zzzz... zzzz... zzz... ..."
+            "Elisa’s ex-husband" "*Being completely drunk* Zzzz... zzzz... zzz... ..."
 
 
 
@@ -4705,7 +4705,7 @@ label E_final:
 
 
 
-            "He and Элиза are the same age, but now she looks at least 10 years younger than him."
+            "He and Elisa are the same age, but now she looks at least 10 years younger than him."
 
 
 
@@ -4761,7 +4761,7 @@ label E_final:
 
 
 
-            player "Элиза... ..."
+            player "Elisa... ..."
 
 
 
@@ -4787,7 +4787,7 @@ label E_final:
 
             scene e_final_344 with tstmgr
 
-            player "Элиза... ... Sometimes I’m so surprised at how slutty you’ve become~"
+            player "Elisa... ... Sometimes I’m so surprised at how slutty you’ve become~"
 
 
 
@@ -5073,7 +5073,7 @@ label E_final:
 
 
 
-            "As for Элиза, I could tell she was even more excited than I was from her extremely-wet pussy."
+            "As for Elisa, I could tell she was even more excited than I was from her extremely-wet pussy."
 
 
 
@@ -5327,7 +5327,7 @@ label E_final:
             play sound cumshot
             $ flashlight()
 
-            player "Take it, Элиза!~~"
+            player "Take it, Elisa!~~"
 
 
 
@@ -5343,7 +5343,7 @@ label E_final:
 
 
 
-            player "Are you feeling alright, Элиза?"
+            player "Are you feeling alright, Elisa?"
 
 
 
@@ -5387,7 +5387,7 @@ label E_final:
 
 
 
-            player "I’m so happy for you, Элиза."
+            player "I’m so happy for you, Elisa."
 
 
 
@@ -5405,7 +5405,7 @@ label E_final:
 
 
 
-            "*Элиза’s sex slave happy ending achieved*"
+            "*Elisa’s sex slave happy ending achieved*"
 
 
     stop music fadeout 1.0

@@ -3,7 +3,7 @@ label D_dqsj:
     scene void with tstmgr
     play music happy
 
-    player "It's time to pay Айрин a visit."
+    player "It's time to pay Irene a visit."
 
     scene mansion_background with tstmgr
 
@@ -21,19 +21,19 @@ label D_dqsj:
 
     narrator "The door suddenly opened, and a mature lady showed up in my sight."
 
-    player "Hi, Aunt Элиза, good afternoon."
+    player "Hi, Aunt Elisa, good afternoon."
 
     scene e_mansiongate_day_smile with tstmgr
 
     e "[P.name]? Good afternoon."
 
-    narrator "The lady's name is Элиза, she is Теодора and Айрин's mother. Both three of them have a pair of beautiful emerald eyes. But unlike her daughters who inherited silver hair color from their father, Aunt Элиза is actually a blonde."
+    narrator "The lady's name is Elisa, she is Theodora and Irene's mother. Both three of them have a pair of beautiful emerald eyes. But unlike her daughters who inherited silver hair color from their father, Aunt Elisa is actually a blonde."
 
     narrator "She is probably twice my age, you can see the slight wrinkles on her face. But her beauty is not affected by her age. I think she is still as beautiful as her daughters."
 
     scene ddqsj_e1 with tstmgr
 
-    narrator "Apparently, Теодора's breast size was inherited from her mother. Look at those amazing tits. My God..."
+    narrator "Apparently, Theodora's breast size was inherited from her mother. Look at those amazing tits. My God..."
 
     scene e_mansiongate_day_normal with tstmgr
 
@@ -45,21 +45,21 @@ label D_dqsj:
 
     scene e_mansiongate_day_smile with tstmgr
 
-    e "If you are looking for Теодора, she is in my company at this time."
+    e "If you are looking for Theodora, she is in my company at this time."
 
-    player "Oh no, in fact, Aunt Элиза, I am looking for Айрин."
+    player "Oh no, in fact, Aunt Elisa, I am looking for Irene."
 
     scene e_mansiongate_day_normal2 with tstmgr
 
-    e "Айрин? She just got home from school. You can come in and find her in her room."
+    e "Irene? She just got home from school. You can come in and find her in her room."
 
-    player "Thanks, Aunt Элиза."
+    player "Thanks, Aunt Elisa."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "I got in the house with Aunt Элиза, and then came towards Айрин's bedroom."
+    narrator "I got in the house with Aunt Elisa, and then came towards Irene's bedroom."
 
-    player "(Knocking on the door) Айрин, are you there?"
+    player "(Knocking on the door) Irene, are you there?"
 
     scene ddqsj_d1 with tstmgr
 
@@ -127,17 +127,17 @@ label D_dqsj:
 
     scene d_room_background with tstmgr
 
-    narrator "I took a while to help Айрин with her homework."
+    narrator "I took a while to help Irene with her homework."
 
-    narrator "Soon afterward, Aunt Элиза came inside the room."
+    narrator "Soon afterward, Aunt Elisa came inside the room."
 
     scene ddqsj_e2 with tstmgr
 
     e "Oh, I'm so happy to see you two get along with each other."
 
-    e "It is so nice of you to help Айрин with her homework, [P.name]."
+    e "It is so nice of you to help Irene with her homework, [P.name]."
 
-    player "No big deal, Aunt Элиза."
+    player "No big deal, Aunt Elisa."
 
     scene ddqsj_d1 with tstmgr
 
@@ -147,7 +147,7 @@ label D_dqsj:
 
     e "Don't say that in front of your sister. She will be upset."
 
-    e "By the way, [P.name], I really hope you can come more often and help Айрин on studying."
+    e "By the way, [P.name], I really hope you can come more often and help Irene on studying."
 
     player "Sure thing, auntie. I'm more than happy to do that."
 
@@ -157,7 +157,7 @@ label D_dqsj:
 
     scene void with tstmgr
 
-    narrator "I stayed at Aunt Элиза's house for the rest of the afternoon."
+    narrator "I stayed at Aunt Elisa's house for the rest of the afternoon."
 
     narrator "... ... ... ..."
 

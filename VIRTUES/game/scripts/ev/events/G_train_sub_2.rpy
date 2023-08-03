@@ -3,7 +3,7 @@ label G_train_sub_2:
     scene g_train_sub_2_1 with tstmgr
     play music happy
 
-    "Later this evening, Уно and I are watching TV together..."
+    "Later this evening, Uno and I are watching TV together..."
 
 
 
@@ -35,13 +35,13 @@ label G_train_sub_2:
 
     scene void with tstmgr
 
-    "I went to the front door and got the delivery for Уно."
+    "I went to the front door and got the delivery for Uno."
 
 
 
     scene g_train_sub_2_5 with dissolve
 
-    player "Seriously? Fried chicken again? This is insane, Уно. How many calories are you getting every day?"
+    player "Seriously? Fried chicken again? This is insane, Uno. How many calories are you getting every day?"
 
 
 
@@ -53,7 +53,7 @@ label G_train_sub_2:
 
 
 
-    player "You have to control yourself, Уно."
+    player "You have to control yourself, Uno."
 
 
 
@@ -149,15 +149,15 @@ label G_train_sub_2:
 
     scene void with tstmgr
 
-    "I walked up to the second floor, and saw a light coming from beneath the door of Уно’s room."
+    "I walked up to the second floor, and saw a light coming from beneath the door of Uno’s room."
 
 
 
-    player "(Уно is in her room, great~)"
+    player "(Uno is in her room, great~)"
 
 
 
-    player "*Opening the door of Уно’s room* Hey Уно!~"
+    player "*Opening the door of Uno’s room* Hey Uno!~"
 
 
 
@@ -233,7 +233,7 @@ label G_train_sub_2:
 
 
 
-    player "Are you trying to... comfort me by being cute? You and Айрин are really the same... ..."
+    player "Are you trying to... comfort me by being cute? You and Irene are really the same... ..."
 
 
 
@@ -261,7 +261,7 @@ label G_train_sub_2:
 
     scene g_train_sub_2_22 with tstmgr
 
-    g "Уно is a bad kitty and ought to be punished~"
+    g "Uno is a bad kitty and ought to be punished~"
 
 
 
@@ -271,7 +271,7 @@ label G_train_sub_2:
 
     scene g_train_sub_2_23 with dissolve
 
-    g "Уно is ready for the punishment, master~ What are you going to do?"
+    g "Uno is ready for the punishment, master~ What are you going to do?"
 
 
 
@@ -303,7 +303,7 @@ label G_train_sub_2:
 
             scene g_train_sub_2_27 with tstmgr
 
-            "Уно obediently crawled to my crotch and looked at me with those innocent expectant big eyes... ..."
+            "Uno obediently crawled to my crotch and looked at me with those innocent expectant big eyes... ..."
 
             scene g_train_sub_2_28 with tstmgr
 
@@ -405,7 +405,7 @@ label G_train_sub_2:
 
             scene g_train_sub_2_44 with tstmgr
 
-            "Уно obediently crawled up my bed and lied herself on my legs... ..."
+            "Uno obediently crawled up my bed and lied herself on my legs... ..."
 
             "Oh... ... She looks just like a real cat. How can I have the heart to be hard on her?"
 
@@ -542,7 +542,7 @@ label G_train_sub_2:
 
 
 
-    g "Because... it is... really not a punishment to Уно~"
+    g "Because... it is... really not a punishment to Uno~"
 
 
 
@@ -578,11 +578,11 @@ label G_train_sub_2:
 
 
 
-    g "Master~~ master~~ slow down~~ Уно... ..."
+    g "Master~~ master~~ slow down~~ Uno... ..."
 
 
 
-    g "Уно is sorry~ I’m sorry~ Master~~~ I’ll never disobey you again~~"
+    g "Uno is sorry~ I’m sorry~ Master~~~ I’ll never disobey you again~~"
 
 
 
@@ -594,7 +594,7 @@ label G_train_sub_2:
 
 
 
-    g "Love~~~ [P]~~~ Master... ... Уно loves awwwwww~~~"
+    g "Love~~~ [P]~~~ Master... ... Uno loves awwwwww~~~"
 
 
 
@@ -617,7 +617,7 @@ label G_train_sub_2:
 
     scene g_train_sub_2_63 with tstmgr
 
-    g "Уно’s pussy... is filled with... ... master’s milk~~"
+    g "Uno’s pussy... is filled with... ... master’s milk~~"
 
 
 
@@ -629,7 +629,7 @@ label G_train_sub_2:
 
 
 
-    g "Уно... no food in the late night... anymore... ... I promise, master~"
+    g "Uno... no food in the late night... anymore... ... I promise, master~"
 
 
 
@@ -639,7 +639,7 @@ label G_train_sub_2:
 
 
 
-    "And in the end, Уно still had all those fried chicken tonight because she said that she has consumed too much energy during sex... ... ... ..."
+    "And in the end, Uno still had all those fried chicken tonight because she said that she has consumed too much energy during sex... ... ... ..."
 
 
 

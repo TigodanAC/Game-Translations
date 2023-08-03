@@ -4,7 +4,7 @@ label A_daily_14:
 
     play music sorrow
 
-    "Later this afternoon, I am having a date with Вера, in the college library."
+    "Later this afternoon, I am having a date with Vera, in the college library."
 
 
 
@@ -30,7 +30,7 @@ label A_daily_14:
 
 
 
-    "It’s not the first time that Вера shows me her yearning for college life. And I feel kinda sorry for her every time I see the eagerness in her eyes."
+    "It’s not the first time that Vera shows me her yearning for college life. And I feel kinda sorry for her every time I see the eagerness in her eyes."
 
 
 
@@ -84,7 +84,7 @@ label A_daily_14:
 
     scene a_daily14_7 with tstmgr
 
-    player "You know, Вера, you can still choose to go to college! You are only 22 years old. It’s not too late yet!"
+    player "You know, Vera, you can still choose to go to college! You are only 22 years old. It’s not too late yet!"
 
 
 
@@ -136,7 +136,7 @@ label A_daily_14:
 
 
 
-    player "Вера... ..."
+    player "Vera... ..."
 
 
 

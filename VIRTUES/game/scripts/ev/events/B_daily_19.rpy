@@ -458,7 +458,7 @@ label B_daily_19:
 
 
 
-    "It seems like Сеннин has fallen in love with coitus right away... Well, I knew this girl has a horny nature, but this is still kinda beyond my expectations."
+    "It seems like Senning has fallen in love with coitus right away... Well, I knew this girl has a horny nature, but this is still kinda beyond my expectations."
 
 
 
@@ -529,7 +529,7 @@ label B_daily_19:
 
 
 
-    "Сеннин’s first creampie, achieved. Yeah! One life goal less~"
+    "Senning’s first creampie, achieved. Yeah! One life goal less~"
 
 
 
@@ -543,7 +543,7 @@ label B_daily_19:
 
 
 
-    "Lady Minna was peeping at us all the time, but of course, both Сеннин and I were not aware of that."
+    "Lady Minna was peeping at us all the time, but of course, both Senning and I were not aware of that."
 
 
 
@@ -599,7 +599,7 @@ label B_daily_19:
 
 
 
-    "Hmmmm... that was... mandarin, right? This is the first time that Сеннин ever speaks to me in her mother language. Wow... ..."
+    "Hmmmm... that was... mandarin, right? This is the first time that Senning ever speaks to me in her mother language. Wow... ..."
 
 
 

@@ -2,7 +2,7 @@ label harem_AB_1:
 
     scene harem_ab_1_1 with tstmgr
 
-    "Сеннин came to the house tonight and she is having a bath with Вера together..."
+    "Senning came to the house tonight and she is having a bath with Vera together..."
 
 
 
@@ -12,7 +12,7 @@ label harem_AB_1:
 
     scene harem_ab_1_2 with tstmgr
 
-    b "It's perfect. Thanks for having me here, Miss Вера~"
+    b "It's perfect. Thanks for having me here, Miss Vera~"
 
 
 
@@ -34,7 +34,7 @@ label harem_AB_1:
 
 
 
-    b "Miss Вера?"
+    b "Miss Vera?"
 
 
 
@@ -42,7 +42,7 @@ label harem_AB_1:
 
 
 
-    b "You too have a pair of gorgeous breasts, Miss Вера..."
+    b "You too have a pair of gorgeous breasts, Miss Vera..."
 
 
 

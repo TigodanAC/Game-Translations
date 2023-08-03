@@ -14,13 +14,13 @@ label d2_5:
 
 
 
-    "Сеннин’s picture suddenly came up in my head."
+    "Senning’s picture suddenly came up in my head."
 
 
 
     scene d2_5_1 with tstmgr
 
-    "Сеннин, that lovely long-hair girl... ... We are close friends and she seems to like me. Should I go after her?"
+    "Senning, that lovely long-hair girl... ... We are close friends and she seems to like me. Should I go after her?"
 
 
 
@@ -34,7 +34,7 @@ label d2_5:
 
     scene d2_5_2 with tstmgr
 
-    "Can I really let go of Теодора?"
+    "Can I really let go of Theodora?"
 
 
 

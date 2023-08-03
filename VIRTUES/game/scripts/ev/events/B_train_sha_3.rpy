@@ -3,7 +3,7 @@ label B_train_sha_3:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Сеннин’s perspective*"
+    "*The following plot is from Senning’s perspective*"
 
 
 
@@ -11,7 +11,7 @@ label B_train_sha_3:
 
 
 
-    "Later tonight, in Сеннин’s room..."
+    "Later tonight, in Senning’s room..."
 
 
 
@@ -127,7 +127,7 @@ label B_train_sha_3:
 
     scene b_train_sha_3_13 with tstmgr
 
-    b "Oh, Miss Теодора?"
+    b "Oh, Miss Theodora?"
 
 
 
@@ -149,7 +149,7 @@ label B_train_sha_3:
 
 
 
-    "Lady Minna" "But it never hurts to improve your charm further and learn one trick or two to compete with western girls like that Теодора."
+    "Lady Minna" "But it never hurts to improve your charm further and learn one trick or two to compete with western girls like that Theodora."
 
 
 
@@ -159,7 +159,7 @@ label B_train_sha_3:
 
     scene b_train_sha_3_15 with tstmgr
 
-    "Lady Minna" "That Теодора has bigger breasts than you and she acts wilder too, just look at her dressing style. She reveals her bra and half of her breasts to people all the time."
+    "Lady Minna" "That Theodora has bigger breasts than you and she acts wilder too, just look at her dressing style. She reveals her bra and half of her breasts to people all the time."
 
 
 
@@ -211,7 +211,7 @@ label B_train_sha_3:
 
 
 
-    player "(Сеннин told me to meet her here in the afternoon, but... where she is?)"
+    player "(Senning told me to meet her here in the afternoon, but... where she is?)"
 
 
 
@@ -219,7 +219,7 @@ label B_train_sha_3:
 
 
 
-    "Suddenly, I heard Сеннин’s voice from behind."
+    "Suddenly, I heard Senning’s voice from behind."
 
 
 
@@ -327,7 +327,7 @@ label B_train_sha_3:
 
 
 
-    player "Then let’s go to my house and you can borrow something to wear from Вера."
+    player "Then let’s go to my house and you can borrow something to wear from Vera."
 
 
 
@@ -413,7 +413,7 @@ label B_train_sha_3:
 
     $ flashlight()
 
-    "Teresa" "Hmmmm? Сеннин? Is that you?"
+    "Teresa" "Hmmmm? Senning? Is that you?"
 
 
 
@@ -481,7 +481,7 @@ label B_train_sha_3:
 
 
 
-    "Teresa" "I’m happy for you, Сеннин."
+    "Teresa" "I’m happy for you, Senning."
 
 
 
@@ -509,7 +509,7 @@ label B_train_sha_3:
 
 
 
-    "Teresa" "I really don’t think you are good enough for Сеннин. If you dare to make her sad, I promise you that I will kick the shit out of your ass."
+    "Teresa" "I really don’t think you are good enough for Senning. If you dare to make her sad, I promise you that I will kick the shit out of your ass."
 
 
 
@@ -521,13 +521,13 @@ label B_train_sha_3:
 
 
 
-    "But nevermind, I’m happy to know that Сеннин has such a good friend in college~"
+    "But nevermind, I’m happy to know that Senning has such a good friend in college~"
 
 
 
     scene b_train_sha_3_39 with tstmgr
 
-    "Teresa" "See you in the class, Сеннин, and... just take care of yourself. Bye... ..."
+    "Teresa" "See you in the class, Senning, and... just take care of yourself. Bye... ..."
 
 
 
@@ -553,7 +553,7 @@ label B_train_sha_3:
 
     $ flashlight()
 
-    "Suddenly, Сеннин clamped her tits on my arm."
+    "Suddenly, Senning clamped her tits on my arm."
 
 
 
@@ -679,7 +679,7 @@ label B_train_sha_3:
 
 
 
-    "Сеннин has completely lost herself in lust now. Hmmm... should I be happy about this? Will she turn back to normal after she calms down? Damn, I don’t know."
+    "Senning has completely lost herself in lust now. Hmmm... should I be happy about this? Will she turn back to normal after she calms down? Damn, I don’t know."
 
 
 

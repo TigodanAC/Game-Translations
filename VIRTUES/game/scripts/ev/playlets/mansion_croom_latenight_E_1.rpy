@@ -2,7 +2,7 @@ label mansion_croom_latenight_E_1:
 
     scene void with tstmgr
 
-    player "Emm? Why does Теодора's room have lights on? Is she home tonight?"
+    player "Emm? Why does Theodora's room have lights on? Is she home tonight?"
 
 
 
@@ -16,13 +16,13 @@ label mansion_croom_latenight_E_1:
 
 
 
-    "Hmmm? It seems like Aunt Элиза is looking at a picture."
+    "Hmmm? It seems like Aunt Elisa is looking at a picture."
 
 
 
     scene mansion_croom_latenight_e_1_2 with tstmgr
 
-    player "What are you looking at, Aunt Элиза?"
+    player "What are you looking at, Aunt Elisa?"
 
 
 
@@ -42,7 +42,7 @@ label mansion_croom_latenight_E_1:
 
 
 
-    player "Aunt Элиза..."
+    player "Aunt Elisa..."
 
 
 

@@ -37,7 +37,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_5 with tstmgr
 
-    player "Hi there Уно~"
+    player "Hi there Uno~"
 
 
 
@@ -103,7 +103,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_10 with tstmgr
 
-    player "*Looking to Теодора* ... ... ... ..."
+    player "*Looking to Theodora* ... ... ... ..."
 
 
 
@@ -173,7 +173,7 @@ label ACG_duo_2:
 
     scene void with tstmgr
 
-    "Вера then got up and left with Теодора..."
+    "Vera then got up and left with Theodora..."
 
 
 
@@ -183,7 +183,7 @@ label ACG_duo_2:
 
 
 
-    player "Aren’t you joining them, Уно?"
+    player "Aren’t you joining them, Uno?"
 
 
 
@@ -197,13 +197,13 @@ label ACG_duo_2:
 
 
 
-    player "Wow, Уно~"
+    player "Wow, Uno~"
 
 
 
     scene acg_duo_2_21 with tstmgr
 
-    "And... Уно left too..."
+    "And... Uno left too..."
 
 
 
@@ -263,7 +263,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_26 with tstmgr
 
-    "Теодора went in the bathroom again..."
+    "Theodora went in the bathroom again..."
 
 
 
@@ -327,7 +327,7 @@ label ACG_duo_2:
 
 
 
-    a "Theo, Уно... ... What’s... wrong with you?"
+    a "Theo, Uno... ... What’s... wrong with you?"
 
 
 
@@ -335,7 +335,7 @@ label ACG_duo_2:
 
 
 
-    c "Stop resisting, girl, just submit to your instinct like Уно and everything will be fine~"
+    c "Stop resisting, girl, just submit to your instinct like Uno and everything will be fine~"
 
 
 
@@ -367,7 +367,7 @@ label ACG_duo_2:
 
 
 
-    "Theo has... used it all on Уно and Вера?"
+    "Theo has... used it all on Uno and Vera?"
 
 
 
@@ -413,7 +413,7 @@ label ACG_duo_2:
 
 
 
-    "Уно has told me that she didn’t like that name, but now she is flaunting that name in front of the other two girls. It looks like the potion has really changed her."
+    "Uno has told me that she didn’t like that name, but now she is flaunting that name in front of the other two girls. It looks like the potion has really changed her."
 
 
 
@@ -435,7 +435,7 @@ label ACG_duo_2:
 
 
 
-    g "[P] made Уно his only titty slave because Уно has the sexiest tits in this house~ Phew, phew~ Are you jealous yet?~"
+    g "[P] made Uno his only titty slave because Uno has the sexiest tits in this house~ Phew, phew~ Are you jealous yet?~"
 
 
 
@@ -491,7 +491,7 @@ label ACG_duo_2:
 
     $ flashlight()
 
-    c "Tell us, [P], do you really think Уно has the best boobs among us three?~"
+    c "Tell us, [P], do you really think Uno has the best boobs among us three?~"
 
 
 
@@ -527,7 +527,7 @@ label ACG_duo_2:
 
 
 
-    "Теодора... ... she is like the leader of this harem. What am I gonna do if she is not here?~"
+    "Theodora... ... she is like the leader of this harem. What am I gonna do if she is not here?~"
 
 
 
@@ -537,7 +537,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_42 with tstmgr
 
-    g "Touch Уно first, master~"
+    g "Touch Uno first, master~"
 
 
 
@@ -547,7 +547,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_43 with tstmgr
 
-    player "Alright, I’ll just... start with Уно... ..."
+    player "Alright, I’ll just... start with Uno... ..."
 
 
 
@@ -563,7 +563,7 @@ label ACG_duo_2:
 
 
 
-    player "Уно’s boobs... I feel like I can pinch them out of water. They are just... so soft and so delicate."
+    player "Uno’s boobs... I feel like I can pinch them out of water. They are just... so soft and so delicate."
 
 
 
@@ -579,7 +579,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_47 with tstmgr
 
-    g "Just bully Уно as much as you want because~ Уно's body is your private property."
+    g "Just bully Uno as much as you want because~ Uno's body is your private property."
 
 
 
@@ -589,7 +589,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_48 with tstmgr
 
-    player "Уно, you naughty cat~"
+    player "Uno, you naughty cat~"
 
 
 
@@ -641,7 +641,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_54 with tstmgr
 
-    player "*Hammering Уно’s boob* You masochistic glutton, have a rest for now, there are other people waiting~"
+    player "*Hammering Uno’s boob* You masochistic glutton, have a rest for now, there are other people waiting~"
 
 
 
@@ -651,7 +651,7 @@ label ACG_duo_2:
 
 
 
-    player "And now it’s Вера’s turn."
+    player "And now it’s Vera’s turn."
 
 
 
@@ -711,11 +711,11 @@ label ACG_duo_2:
 
     scene acg_duo_2_61 with tstmgr
 
-    player "Вера’s boobs are incredibly light and firm. This is so unusual for such large breasts."
+    player "Vera’s boobs are incredibly light and firm. This is so unusual for such large breasts."
 
 
 
-    player "It gives them a completely different tactile from Уно’s boobs, so amazing... ..."
+    player "It gives them a completely different tactile from Uno’s boobs, so amazing... ..."
 
 
 
@@ -733,7 +733,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_64 with tstmgr
 
-    c "I envy you so much, Вера. I wish my tits can be firm like yours too~"
+    c "I envy you so much, Vera. I wish my tits can be firm like yours too~"
 
 
 
@@ -849,7 +849,7 @@ label ACG_duo_2:
 
 
 
-    player "Alright, Теодора, are you willing to be another titty slave of mine like Уно?"
+    player "Alright, Theodora, are you willing to be another titty slave of mine like Uno?"
 
 
 
@@ -865,7 +865,7 @@ label ACG_duo_2:
 
     scene acg_duo_2_77 with tstmgr
 
-    a "Wow... This is... unbelievable. I never knew Теодора can be so... shameless... ..."
+    a "Wow... This is... unbelievable. I never knew Theodora can be so... shameless... ..."
 
 
 
@@ -875,13 +875,13 @@ label ACG_duo_2:
 
     scene acg_duo_2_78 with tstmgr
 
-    player "Of course, Вера~ How could we ever leave you behind?"
+    player "Of course, Vera~ How could we ever leave you behind?"
 
 
 
     scene acg_duo_2_79 with tstmgr
 
-    player "And Уно, you will be the leader of this team since you have so much experience already~"
+    player "And Uno, you will be the leader of this team since you have so much experience already~"
 
 
 
@@ -907,7 +907,7 @@ label ACG_duo_2:
 
 
 
-    "Besides... ... I’m not even sure if Вера and Уно are okay with this harem thing... ... What happened tonight will be a good sounding out."
+    "Besides... ... I’m not even sure if Vera and Uno are okay with this harem thing... ... What happened tonight will be a good sounding out."
 
 
 

@@ -179,7 +179,7 @@ label outdoors_A.a_outdoors_1:
 
 
 
-    player "Вера... ..."
+    player "Vera... ..."
 
 
 
@@ -223,7 +223,7 @@ label outdoors_A.a_outdoors_1:
 
 
 
-    player "Вера... ..."
+    player "Vera... ..."
 
 
     stop sound

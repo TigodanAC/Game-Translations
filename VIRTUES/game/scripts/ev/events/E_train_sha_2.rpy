@@ -3,7 +3,7 @@ label E_train_sha_2:
     scene e_train_sha_2_1 with dissolve
     play music sorrow
 
-    "Late night, in the forest, Элиза and I are on our way to her bungalow."
+    "Late night, in the forest, Elisa and I are on our way to her bungalow."
 
 
 
@@ -107,7 +107,7 @@ label E_train_sha_2:
 
 
 
-    "Элиза... ... tomboy? Damn, I really cannot imagine such a picture in my head. Элиза is one of the most feminine women I know. She is supposed to be the complete opposite of a tomboy."
+    "Elisa... ... tomboy? Damn, I really cannot imagine such a picture in my head. Elisa is one of the most feminine women I know. She is supposed to be the complete opposite of a tomboy."
 
 
 
@@ -177,7 +177,7 @@ label E_train_sha_2:
 
 
 
-    player "Wow, Элиза... ..."
+    player "Wow, Elisa... ..."
 
 
 
@@ -211,7 +211,7 @@ label E_train_sha_2:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -231,7 +231,7 @@ label E_train_sha_2:
 
     scene e_train_sha_2_20 with tstmgr
 
-    player "Элиза!~"
+    player "Elisa!~"
 
 
 
@@ -345,7 +345,7 @@ label E_train_sha_2:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -409,7 +409,7 @@ label E_train_sha_2:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -449,7 +449,7 @@ label E_train_sha_2:
 
 
 
-    "The sex orgy in the bungalow lasted until early next morning. I vented my lust on Элиза tirelessly while imagining a picture of her with a baby bump in my head."
+    "The sex orgy in the bungalow lasted until early next morning. I vented my lust on Elisa tirelessly while imagining a picture of her with a baby bump in my head."
 
 
 
@@ -527,7 +527,7 @@ label E_train_sha_2:
 
 
 
-    player "Элиза, are you alri... ..."
+    player "Elisa, are you alri... ..."
 
 
 

@@ -12,7 +12,7 @@ label G_action_sub_3_sexpartner:
 
 
 
-    "Ah, here we go again, Уно has definitely addicted to play a cat."
+    "Ah, here we go again, Uno has definitely addicted to play a cat."
 
 
 
@@ -108,11 +108,11 @@ label G_action_sub_3_sexpartner:
 
             g "Nyaaah~~~~~~~"
 
-            player "Say hello to my friend, Уно~"
+            player "Say hello to my friend, Uno~"
 
             g "Meoooowww~~~~~~"
 
-            "Уно’s voice is shrill like a 10-year-old, that makes her sound exactly like a real cat on the phone."
+            "Uno’s voice is shrill like a 10-year-old, that makes her sound exactly like a real cat on the phone."
 
             scene g_action_sub_3_11 with tstmgr
 
@@ -325,14 +325,14 @@ label G_action_sub_3_sexpartner:
             "Friend A" "... ... ... ..."
 
             "Friend A" "I... I don’t want to have a female cat anymore... ... This is just too much... ..."
-        "Ask Уно to be quiet":
+        "Ask Uno to be quiet":
 
 
 
 
             "*Phone ringing* Dududududu~~~ dudududu~~~~"
 
-            player "Shhhhhhhh, Уно, don’t make any voice out this time."
+            player "Shhhhhhhh, Uno, don’t make any voice out this time."
 
             scene g_action_sub_3_29 with tstmgr
 
@@ -478,7 +478,7 @@ label G_action_sub_3_sexpartner:
 
             "Well, this is the punishment I prepared for her, the kinkiest fucking position I have ever tried on any girls."
 
-            "Although Уно always says she is plumpy, she actually has greater physical flexibility than most people. Even a yoga master will be surprised at how much she can bend her body~"
+            "Although Uno always says she is plumpy, she actually has greater physical flexibility than most people. Even a yoga master will be surprised at how much she can bend her body~"
 
             "But now the only thing she can do with her yoga talent is to please me in this kinky fucking position~"
 
@@ -507,7 +507,7 @@ label G_action_sub_3_sexpartner:
 
             g "Yes, yes~ because the more punishments I receive from master, the more obedient I will become~ the better pet I will be~~~"
 
-            player "You are so damn helpless, Уно, but that’s why I love you so much~"
+            player "You are so damn helpless, Uno, but that’s why I love you so much~"
 
             player "Ahhhhhh~~~ I’m cumming!!"
 
@@ -526,7 +526,7 @@ label G_action_sub_3_sexpartner:
 
             g "Nya... aa... ah... ..."
 
-            player "Уно... my pet girl... my precious~~"
+            player "Uno... my pet girl... my precious~~"
 
             "I wish that friend of mine is here so he will know that the obedient pet girls really exist, but nope, no, I won’t let him see this."
 

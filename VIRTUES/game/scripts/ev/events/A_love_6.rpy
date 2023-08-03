@@ -37,11 +37,11 @@ label A_train_sexskill_1:
 
 
 
-    "Guest A" "Is the breakfast ready yet? I can’t wait to taste what Вера has prepared for us today."
+    "Guest A" "Is the breakfast ready yet? I can’t wait to taste what Vera has prepared for us today."
 
 
 
-    player "Eh... emm... Вера?"
+    player "Eh... emm... Vera?"
 
 
 
@@ -125,7 +125,7 @@ label A_train_sexskill_1:
 
 
 
-    player "Oh... Вера... ..."
+    player "Oh... Vera... ..."
 
 
 
@@ -149,7 +149,7 @@ label A_train_sexskill_1:
 
             scene a_love_6_9 with tstmgr
 
-            "Вера made a groan as response and used her tongue to stimulate my glans. Damn, she is getting better at this every day."
+            "Vera made a groan as response and used her tongue to stimulate my glans. Damn, she is getting better at this every day."
 
             player "Perfect... Now... take my cum... ..."
 
@@ -169,7 +169,7 @@ label A_train_sexskill_1:
 
             a "It was... so sticky... ..."
 
-            player "Oh... Вера."
+            player "Oh... Vera."
 
             a "Now I need to get a quick shower and go to work. See you tonight."
 

@@ -15,7 +15,7 @@ label D_love_5:
 
 
 
-    "Вера opened the front door of the house."
+    "Vera opened the front door of the house."
 
 
 
@@ -53,13 +53,13 @@ label D_love_5:
 
     scene d_love_5_1 with tstmgr
 
-    d "You can call me Айрин! I knew [P] since I was 3."
+    d "You can call me Irene! I knew [P] since I was 3."
 
 
 
     scene d_love_5_27 with tstmgr
 
-    a "Hi, Айрин. I am Вера, [P]'s assistant."
+    a "Hi, Irene. I am Vera, [P]'s assistant."
 
 
 
@@ -77,7 +77,7 @@ label D_love_5:
 
     scene d_love_5_29 with tstmgr
 
-    player "Hmm? Айрин? Why are you here?"
+    player "Hmm? Irene? Why are you here?"
 
 
 
@@ -125,7 +125,7 @@ label D_love_5:
 
 
 
-    "Some time later, on the way to Айрин’s highschool."
+    "Some time later, on the way to Irene’s highschool."
 
 
 
@@ -195,7 +195,7 @@ label D_love_5:
 
 
 
-    d "Уно was right. No man can ever resist a neko girl!"
+    d "Uno was right. No man can ever resist a neko girl!"
 
 
 
@@ -259,7 +259,7 @@ label D_love_5:
 
 
 
-    "Sometime later, we arrived at Айрин’s highschool."
+    "Sometime later, we arrived at Irene’s highschool."
 
 
 
@@ -361,7 +361,7 @@ label D_love_5:
 
             scene d_love_5_20 with tstmgr
 
-            player "Айрин... ..."
+            player "Irene... ..."
 
             "Student A" "Wait, is that Shinyrost from 12th grade?"
 

@@ -3,7 +3,7 @@ label G_daily_7:
     scene void with tstmgr
     play music happy
 
-    "I found Уно eating bread in the livingroom."
+    "I found Uno eating bread in the livingroom."
 
 
 
@@ -133,7 +133,7 @@ label G_daily_7:
 
     scene g_daily6_10 with tstmgr
 
-    "Уно led me to the top of an abandoned school building for taking pictures."
+    "Uno led me to the top of an abandoned school building for taking pictures."
 
 
 
@@ -259,7 +259,7 @@ label G_daily_7:
 
 
 
-    player "Nope. Last semester I went to a yoga course with Сеннин and ended up with a C+."
+    player "Nope. Last semester I went to a yoga course with Senning and ended up with a C+."
 
 
 
@@ -417,7 +417,7 @@ label G_daily_7:
 
 
 
-    player "You are so sexy, Уно..."
+    player "You are so sexy, Uno..."
 
 
 

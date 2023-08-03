@@ -64,7 +64,7 @@ label store_2_more_playlet1:
 
 
 
-    "Lady Minna" "I think I should teach Сеннин how to do this too~"
+    "Lady Minna" "I think I should teach Senning how to do this too~"
 
 
 

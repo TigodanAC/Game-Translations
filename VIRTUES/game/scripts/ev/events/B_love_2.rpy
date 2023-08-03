@@ -10,7 +10,7 @@ label B_love_2:
 
     player "... ... ... ..."
 
-    player "I think I will just go find Сеннин. I know she doesn't have classes this afternoon, either."
+    player "I think I will just go find Senning. I know she doesn't have classes this afternoon, either."
 
     narrator "I picked up my phone and called her number."
 
@@ -48,7 +48,7 @@ label B_love_2:
 
     narrator "She puts her breast on the table, lowers her head, and falls asleep like this."
 
-    narrator "To be honest, Сеннин's breasts are not the biggest among the girls I know, but they are still undoubtedly super attractive."
+    narrator "To be honest, Senning's breasts are not the biggest among the girls I know, but they are still undoubtedly super attractive."
 
     scene b_love2_3 with tstmgr
 

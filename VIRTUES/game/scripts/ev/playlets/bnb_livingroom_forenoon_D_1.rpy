@@ -4,7 +4,7 @@ label bnb_livingroom_forenoon_D_1:
 
     scene bnb_livingroom_forenoon_d_1_1 with tstmgr
 
-    player "Айрин? What are you doing here? Aren't you supposed to be in school right now?"
+    player "Irene? What are you doing here? Aren't you supposed to be in school right now?"
 
 
 

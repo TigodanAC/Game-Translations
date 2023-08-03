@@ -2,7 +2,7 @@ label school_campus_forenoon_F_1:
 
     scene void with tstmgr
 
-    "I was wandering in the campus with Рэйчел."
+    "I was wandering in the campus with Rachel."
 
 
 

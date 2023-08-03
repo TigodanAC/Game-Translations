@@ -5,13 +5,13 @@ label E_daily_1:
 
     e "Hi, [P], It's so good to see you today."
 
-    e "You know, after Теодора moved out, this house became... empty. Thanks for coming and making this place lively again."
+    e "You know, after Theodora moved out, this house became... empty. Thanks for coming and making this place lively again."
 
-    player "Don't mention it, Aunt Элиза. This place is like the second home to me. I enjoy coming here every time."
+    player "Don't mention it, Aunt Elisa. This place is like the second home to me. I enjoy coming here every time."
 
     narrator "I'm saying the truth. I do have a deep feeling about this mansion. "
 
-    narrator "5 years ago when I was still in high school, my dad went abroad on business for half a year. Before he left, he asked Aunt Элиза to look after me. So during the time when he was not here, I lived with Aunt Элиза's family in this mansion all along. "
+    narrator "5 years ago when I was still in high school, my dad went abroad on business for half a year. Before he left, he asked Aunt Elisa to look after me. So during the time when he was not here, I lived with Aunt Elisa's family in this mansion all along. "
 
     narrator "That was quite a memory."
 
@@ -51,7 +51,7 @@ label E_daily_1:
 
     e "And it seems like you are doing well. I'm so happy for you."
 
-    player "Thanks, Aunt Элиза. I promise that I won't let you down."
+    player "Thanks, Aunt Elisa. I promise that I won't let you down."
 
     e "... ... ... ..."
 
@@ -61,7 +61,7 @@ label E_daily_1:
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time with Aunt Элиза."
+    narrator "I spent some time with Aunt Elisa."
 
     narrator "... ... ... ..."
 

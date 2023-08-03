@@ -2,13 +2,13 @@ label D_action_sexskill_1_sexpartner:
 
     scene void with tstmgr
 
-    "Sometime later, in Айрин’s room..."
+    "Sometime later, in Irene’s room..."
 
 
 
     scene d_action_sekskill_1_1 with dissolve
 
-    d "Hee hee~ Айрин has finished her homework. Now she wants to practice some boobs tricks with [P]~"
+    d "Hee hee~ Irene has finished her homework. Now she wants to practice some boobs tricks with [P]~"
 
 
 
@@ -37,7 +37,7 @@ label D_action_sexskill_1_sexpartner:
     label D_action_sexskill_1_sexpartner_choice_1:
 
     menu:
-        "Plan A" if True:
+        "Plan A":
 
 
             scene d_action_sekskill_1_3 with tstmgr
@@ -106,7 +106,7 @@ label D_action_sexskill_1_sexpartner:
 
             d "The other one needs a kiss, too~"
 
-            player "Айрин, I... ..."
+            player "Irene, I... ..."
 
             scene d_action_sekskill_1_15 with tstmgr
 
@@ -124,7 +124,7 @@ label D_action_sexskill_1_sexpartner:
             d "Humph~ Bad Dick Sir just corrupted me with his sticky milk~"
 
             player "Sorry... ... ... ..."
-        "Plan B" if True:
+        "Plan B":
 
 
 
@@ -137,7 +137,7 @@ label D_action_sexskill_1_sexpartner:
 
             d "Plan B is basically the same as the last time we practiced~"
 
-            d "But... Уно has taught me something new~"
+            d "But... Uno has taught me something new~"
 
             scene d_action_sekskill_1_19 with tstmgr
 
@@ -171,7 +171,7 @@ label D_action_sexskill_1_sexpartner:
 
             d "And I will show my talent only to you~"
 
-            player "Айрин... ..."
+            player "Irene... ..."
 
             scene d_train_sexskill_1_20 with tstmgr
 
@@ -199,9 +199,9 @@ label D_action_sexskill_1_sexpartner:
 
             scene d_train_sexskill_1_23 with tstmgr
 
-            d "Ha~ Айрин has... drunk it all~"
+            d "Ha~ Irene has... drunk it all~"
 
-            player "Айрин... ..."
+            player "Irene... ..."
 
             scene void with tstmgr
 

@@ -15,7 +15,7 @@ label store_2_sex_firstime:
 
 
 
-    "Lady Minna" "No need to hurry, kid, we still have plenty of time before Сеннин comes~"
+    "Lady Minna" "No need to hurry, kid, we still have plenty of time before Senning comes~"
 
 
 
@@ -273,7 +273,7 @@ label store_2_sex_firstime:
 
             "Lady Minna" "This is not as fun as I thought it was."
 
-            "Lady Minna" "But anyway, Сеннин is about to come, let’s clean it up and don’t let her find out~"
+            "Lady Minna" "But anyway, Senning is about to come, let’s clean it up and don’t let her find out~"
 
             scene void with tstmgr
 
@@ -400,7 +400,7 @@ label store_2_sex_firstime:
 
             "It seems like she just lost herself in that intensive orgasm. Ha, I think I have taught her a good lesson~"
 
-            "But now... I’d better help her clean things up. Сеннин is about to come... ..."
+            "But now... I’d better help her clean things up. Senning is about to come... ..."
 
             scene void with tstmgr
 

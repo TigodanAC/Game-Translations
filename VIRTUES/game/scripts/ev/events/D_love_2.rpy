@@ -3,13 +3,13 @@ label D_love_2:
     scene map_day with tstmgr
     play music happy
 
-    narrator "Time to find Айрин for another tutoring lesson."
+    narrator "Time to find Irene for another tutoring lesson."
 
     scene e_mansion_inside_normal2 with tstmgr
 
     e "Good afternoon, [P]."
 
-    player "Good afternoon, Aunt Элиза. Is Айрин home yet?"
+    player "Good afternoon, Aunt Elisa. Is Irene home yet?"
 
     scene e_mansion_inside_frown with tstmgr
 
@@ -19,7 +19,7 @@ label D_love_2:
 
     player "What happened?"
 
-    e "I just received a call from Айрин's teacher. She said that Айрин sprained her ankle at school earlier today and now she is at the infirmary of her school."
+    e "I just received a call from Irene's teacher. She said that Irene sprained her ankle at school earlier today and now she is at the infirmary of her school."
 
     player "Oh no, is it serious?"
 
@@ -43,19 +43,19 @@ label D_love_2:
 
     e "Thank you so much, [P]. You can drive my car, the key is in the garage."
 
-    player "No big deal, Aunt Элиза. I will go check her out and bring her home in no time."
+    player "No big deal, Aunt Elisa. I will go check her out and bring her home in no time."
 
     scene void with tstmgr
 
-    narrator "I then left the mansion and headed to Айрин's high school."
+    narrator "I then left the mansion and headed to Irene's high school."
 
     narrator "... ... ... ..."
 
-    narrator "20 minutes later, at the infirmary of Айрин's high school."
+    narrator "20 minutes later, at the infirmary of Irene's high school."
 
     scene d_love2_1 with tstmgr
 
-    player "Айрин! Are you alright?"
+    player "Irene! Are you alright?"
 
     scene d_love2_2 with tstmgr
 
@@ -163,7 +163,7 @@ label D_love_2:
 
     player "Why... are you doing this...?"
 
-    narrator "Айрин didn't answer. She just kept licking my skin and sometimes with a soft moan. "
+    narrator "Irene didn't answer. She just kept licking my skin and sometimes with a soft moan. "
 
     narrator "Ah shit, I'm about to lose myself if she keeps doing this for another few seconds..."
 
@@ -201,7 +201,7 @@ label D_love_2:
 
     narrator "... ... ... ..."
 
-    narrator "I then took Айрин back to Aunt Элиза, and joined them for dinner in the evening..."
+    narrator "I then took Irene back to Aunt Elisa, and joined them for dinner in the evening..."
 
     narrator "... .... .. ..."
 

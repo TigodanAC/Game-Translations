@@ -3,7 +3,7 @@ define guide_text = '''You don’t need a walkthrough to play this game.
 All the plots & events in this game can be easily triggered. We don’t want to add any puzzles, or complicated trigger conditions that may turn you off. 
 
 The most important way to advance the story is to raise girls’ love points. You can achieve that in two ways: 
-1. Meet the girls at certain locations. For example, on weekdays Сеннин can be found at class. You can just click on the “go to class” button in the university panel, meet her there, and then her love points will be raised.
+1. Meet the girls at certain locations. For example, on weekdays Senning can be found at class. You can just click on the “go to class” button in the university panel, meet her there, and then her love points will be raised.
 
 2. Trigger girls’ short events which would automatically show on the map with a badge of girls’ mini avatars. Those events will only show up after the prologue.
 

@@ -8,7 +8,7 @@ label d5_2:
 
     narrator "This place... looks so terrible... And it smells really bad..."
 
-    narrator "I am here again in front of Вера's apartment building."
+    narrator "I am here again in front of Vera's apartment building."
 
     narrator "She lives in a slum... God, this place stinks..."
 
@@ -42,9 +42,9 @@ label d5_2:
 
     a "A letter of apology, a bottle of pills, and doctor's name cards?"
 
-    narrator "Вера opened the letter."
+    narrator "Vera opened the letter."
 
-    narrator "{i}Hi, Вера. It's me, [P]. I don’t dare to ask for your forgiveness, but I want you to know that I am deeply sorry for everything I have done to you.{/i}"
+    narrator "{i}Hi, Vera. It's me, [P]. I don’t dare to ask for your forgiveness, but I want you to know that I am deeply sorry for everything I have done to you.{/i}"
 
     narrator "{i}What I did was absolutely despicable. You have every reason to hate me, but I still hope that you could take these things.{/i}"
 
@@ -77,7 +77,7 @@ label d5_2_bLine:
 
     scene d5_2_1 with dissolve
 
-    "Here I am again, in front of Вера’s apartment building."
+    "Here I am again, in front of Vera’s apartment building."
 
 
 

@@ -2,7 +2,7 @@ label park_exercise_afternoon_F_1:
 
     scene void with tstmgr
 
-    "Рэйчел and I were walking in the park."
+    "Rachel and I were walking in the park."
 
 
 

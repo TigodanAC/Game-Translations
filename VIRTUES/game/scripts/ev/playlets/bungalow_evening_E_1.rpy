@@ -16,7 +16,7 @@ label bungalow_evening_E_1:
 
     scene bungalow_evening_e_1_2 with tstmgr
 
-    player "Элиза, let’s... ... ... ..."
+    player "Elisa, let’s... ... ... ..."
 
 
 

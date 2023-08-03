@@ -227,7 +227,7 @@ label CD_duo_1:
 
     scene cd_duo_1_21 with tstmgr
 
-    c "Айрин... ..."
+    c "Irene... ..."
 
 
 

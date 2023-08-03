@@ -6,11 +6,11 @@ label bnb_frontyard_forenoon_B_1:
 
 
 
-    player "Ehh... ... I didn't do anything about it. Вера did all this."
+    player "Ehh... ... I didn't do anything about it. Vera did all this."
 
 
 
-    b "Miss Вера is such a great person!"
+    b "Miss Vera is such a great person!"
 
 
 

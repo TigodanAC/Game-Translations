@@ -28,7 +28,7 @@ label bnb_bathroom_morning_G_1:
 
     scene bnb_bathroom_morning_g_1_4 with tstmgr
 
-    g "But don’t worry, I won’t tell Вера about this."
+    g "But don’t worry, I won’t tell Vera about this."
 
 
 

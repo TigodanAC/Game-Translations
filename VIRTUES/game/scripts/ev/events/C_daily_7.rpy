@@ -29,7 +29,7 @@ label C_daily_7:
 
 
 
-    player "(I think I should find an excuse and meet Теодора in her office, maybe she will allow me to give her another shoulder massage... ...)"
+    player "(I think I should find an excuse and meet Theodora in her office, maybe she will allow me to give her another shoulder massage... ...)"
 
 
 
@@ -49,7 +49,7 @@ label C_daily_7:
 
     scene c_daily7_2 with tstmgr
 
-    player "(Oww... ... Теодора... ...)"
+    player "(Oww... ... Theodora... ...)"
 
 
 
@@ -153,7 +153,7 @@ label C_daily_7:
 
     scene c_daily7_8 with tstmgr
 
-    "Теодора then left the lobby to her office."
+    "Theodora then left the lobby to her office."
 
 
 

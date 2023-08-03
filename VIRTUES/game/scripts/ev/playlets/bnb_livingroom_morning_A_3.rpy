@@ -6,7 +6,7 @@ label bnb_livingroom_morning_A_3:
 
 
 
-    player "Morning, Вера."
+    player "Morning, Vera."
 
 
 

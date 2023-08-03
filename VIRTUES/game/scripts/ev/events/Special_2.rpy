@@ -5,7 +5,7 @@ label Special_2:
     scene special_2_1 with tstmgr
     play music happy
 
-    e "Awww... ... The sun is so beautiful today, it’s so sad that Айрин couldn’t come with us."
+    e "Awww... ... The sun is so beautiful today, it’s so sad that Irene couldn’t come with us."
 
 
 
@@ -149,7 +149,7 @@ label Special_2:
 
 
 
-    c "Ah... I thought I can finally get to enjoy a day of peace and quiet~~ They look as childish as Айрин... ..."
+    c "Ah... I thought I can finally get to enjoy a day of peace and quiet~~ They look as childish as Irene... ..."
 
 
 
@@ -201,7 +201,7 @@ label Special_2:
 
 
 
-    "Sometime later, we came back and found that Lady Minna and Элиза were still arguing with each other. We had to drag them away from each other."
+    "Sometime later, we came back and found that Lady Minna and Elisa were still arguing with each other. We had to drag them away from each other."
 
 
 

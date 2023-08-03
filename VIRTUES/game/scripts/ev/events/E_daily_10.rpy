@@ -105,15 +105,15 @@ label E_daily_10:
 
 
 
-    "I’ll think up a plan later. As for now, I need to go to Aunt Элиза’s house for tutoring Айрин."
+    "I’ll think up a plan later. As for now, I need to go to Aunt Elisa’s house for tutoring Irene."
 
 
 
-    "Wait... wait a sec... Aunt Элиза’s house?"
+    "Wait... wait a sec... Aunt Elisa’s house?"
 
 
 
-    "It seems like I would only have that brain problem when I was at Aunt Элиза’s house."
+    "It seems like I would only have that brain problem when I was at Aunt Elisa’s house."
 
 
 

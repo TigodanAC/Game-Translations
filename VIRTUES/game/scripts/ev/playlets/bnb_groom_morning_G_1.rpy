@@ -38,7 +38,7 @@ label bnb_groom_morning_G_1:
 
 
 
-    player "Вера made us breakfast and she is waiting for us downstairs. Come on, we should go now."
+    player "Vera made us breakfast and she is waiting for us downstairs. Come on, we should go now."
 
 
 

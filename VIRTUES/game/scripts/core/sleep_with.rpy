@@ -20,7 +20,7 @@ label sleep_A:
 
     if rdc(1):
         scene sleep_a_1 with tstmgr
-        player "Oww... Вера... you are so good at this..."
+        player "Oww... Vera... you are so good at this..."
         narrator "... ... ... ..."
     elif rdc(2):
         scene sleep_a_2 with tstmgr
@@ -43,7 +43,7 @@ label sleep_C:
 
     if rdc(1):
         scene sleep_c_1 with tstmgr
-        c "(Talking in the dream) Айрин... I'm not doing your homework for you... ..."
+        c "(Talking in the dream) Irene... I'm not doing your homework for you... ..."
         "... ... ... ..."
     elif rdc(2):
         scene sleep_c_2 with tstmgr
@@ -96,7 +96,7 @@ label sleep_ACG:
         "... ... ... ..."
     else:
         scene sleep_acg_3 with tstmgr
-        c "This time... I will hold longer than Вера~"
+        c "This time... I will hold longer than Vera~"
         "... ... ... ..."
 
     $ new_day()

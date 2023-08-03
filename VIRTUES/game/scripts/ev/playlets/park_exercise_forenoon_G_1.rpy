@@ -12,7 +12,7 @@ label park_exercise_forenoon_G_1:
 
 
 
-    player "It's all about calories, Уно! We should keep going!"
+    player "It's all about calories, Uno! We should keep going!"
 
 
 

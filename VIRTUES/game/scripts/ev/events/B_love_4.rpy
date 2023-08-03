@@ -11,7 +11,7 @@ label B_love_4:
 
 
 
-    "*The following plot is from Сеннин’s perspective.*"
+    "*The following plot is from Senning’s perspective.*"
 
 
 
@@ -289,7 +289,7 @@ label B_love_4:
 
     scene b_love_4_18 with tstmgr
 
-    b "Oh no... Сеннин, how did you become such a dirty girl? You should be so ashamed."
+    b "Oh no... Senning, how did you become such a dirty girl? You should be so ashamed."
 
 
 

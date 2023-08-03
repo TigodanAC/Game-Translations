@@ -87,7 +87,7 @@ label B_daily_10:
 
     scene b_daily10_6 with tstmgr
 
-    "Сеннин ran away like a rabbit."
+    "Senning ran away like a rabbit."
 
 
 

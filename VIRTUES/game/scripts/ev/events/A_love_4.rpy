@@ -3,7 +3,7 @@ label A_love_4:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, Вера and I walked back home together from the restaurant as usual. "
+    "Later tonight, Vera and I walked back home together from the restaurant as usual. "
 
     "The house is quiet and empty. Seems like all the guests have gone to sleep."
 
@@ -31,7 +31,7 @@ label A_love_4:
 
     "I went to the kitchen and took a beer out from the refrigerator. "
 
-    "And suddenly, I heard Вера scream. It's not very loud but still audible even in the kitchen."
+    "And suddenly, I heard Vera scream. It's not very loud but still audible even in the kitchen."
 
     player "(And she asked me not to wake people up...)"
 
@@ -93,7 +93,7 @@ label A_love_4:
 
     a "(Nodding) Em... ..."
 
-    player "Well, you know, Сеннин once told me that each part of your foot actually reflects one vital organ of your body, so the pain of your sole means that one of your organs is in trouble."
+    player "Well, you know, Senning once told me that each part of your foot actually reflects one vital organ of your body, so the pain of your sole means that one of your organs is in trouble."
 
     scene a_love_4_8 with tstmgr
 
@@ -133,7 +133,7 @@ label A_love_4:
 
     scene a_love_4_12 with tstmgr
 
-    player "Вера... ..."
+    player "Vera... ..."
 
     "I got closer to her. She looked at me, and I saw the fire of desire in her eyes, too."
 
@@ -141,7 +141,7 @@ label A_love_4:
 
     a "What... are you doing?"
 
-    player "Вера..."
+    player "Vera..."
 
     scene a_love_4_13 with tstmgr
 
@@ -249,7 +249,7 @@ label A_love_4:
 
     player "... ... ... ..."
 
-    "I sadly realized that Вера had returned to normal. The fire of desire had disappeared from her eyes."
+    "I sadly realized that Vera had returned to normal. The fire of desire had disappeared from her eyes."
 
     "Damn, I was so close!"
 
@@ -281,9 +281,9 @@ label A_love_4:
 
     scene home_livingroom_day_background with tstmgr
 
-    "The next morning. Вера was doing housework in the livingroom."
+    "The next morning. Vera was doing housework in the livingroom."
 
-    player "Hi, Вера. You got up so early today."
+    player "Hi, Vera. You got up so early today."
 
     player "And, eh... about last night..."
 

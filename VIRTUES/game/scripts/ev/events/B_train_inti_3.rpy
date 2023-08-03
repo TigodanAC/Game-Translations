@@ -5,11 +5,11 @@ label B_train_inti_3:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, I came to Сеннин’s apartment early in the morning. We are having a date today~"
+    "A few days later, I came to Senning’s apartment early in the morning. We are having a date today~"
 
 
 
-    "I opened the door and saw that Lady Minna was helping Сеннин comb hair."
+    "I opened the door and saw that Lady Minna was helping Senning comb hair."
 
 
 
@@ -29,7 +29,7 @@ label B_train_inti_3:
 
     scene b_train_inti_3_2 with tstmgr
 
-    "I was stunned by Сеннин’s new hairstyle. I haven’t seen her put hair up like this before. Did Lady Minna make it for her? It is so damn gorgeous."
+    "I was stunned by Senning’s new hairstyle. I haven’t seen her put hair up like this before. Did Lady Minna make it for her? It is so damn gorgeous."
 
 
 
@@ -37,7 +37,7 @@ label B_train_inti_3:
 
 
 
-    "Сеннин’s ivory tender neck finally lost the cover of her hair and exposed to me like that. It is so beautiful... ..."
+    "Senning’s ivory tender neck finally lost the cover of her hair and exposed to me like that. It is so beautiful... ..."
 
 
 
@@ -257,7 +257,7 @@ label B_train_inti_3:
 
     scene b_train_inti_3_22 with tstmgr
 
-    "Сеннин seemed to be very happy. As a shopaholic, she is always happy during shopping."
+    "Senning seemed to be very happy. As a shopaholic, she is always happy during shopping."
 
 
 
@@ -425,7 +425,7 @@ label B_train_inti_3:
 
 
 
-    "The receptionist was stunned for a short moment and then helped Сеннин with the check-in procedures in a hurry."
+    "The receptionist was stunned for a short moment and then helped Senning with the check-in procedures in a hurry."
 
 
 
@@ -471,7 +471,7 @@ label B_train_inti_3:
 
 
 
-    "Сеннин is a very talented kisser. She always seeks my tongue actively during the kiss and twists it with hers."
+    "Senning is a very talented kisser. She always seeks my tongue actively during the kiss and twists it with hers."
 
 
 

@@ -6,7 +6,7 @@ label jjsj:
 
     narrator "One day after that..."
 
-    narrator "I remember that Aunt Элиза has provided me with another job opportunity. She said I can be Айрин's private teacher."
+    narrator "I remember that Aunt Elisa has provided me with another job opportunity. She said I can be Irene's private teacher."
 
     narrator "Perhaps I should go try this job today."
 
@@ -14,7 +14,7 @@ label jjsj:
 
     scene mansion_background with tstmgr
 
-    narrator "I came to Aunt Элиза's mansion."
+    narrator "I came to Aunt Elisa's mansion."
 
     scene e_mansiongate_day_smile with tstmgr
 
@@ -24,7 +24,7 @@ label jjsj:
 
     e " I'm sorry for what happened to your father."
 
-    player "It's okay, Aunt Элиза. I talked with his lawyers last night."
+    player "It's okay, Aunt Elisa. I talked with his lawyers last night."
 
     player "They told me that the government won't be able to convict my father, and his property will be unfrozen in about one year if everything goes well."
 
@@ -32,13 +32,13 @@ label jjsj:
 
     e "It's good to hear that."
 
-    player "During this time, Aunt Элиза, I will try my best to live on my own, just like everyone else."
+    player "During this time, Aunt Elisa, I will try my best to live on my own, just like everyone else."
 
     e "That would be the best. You are truly grown up, [P.name]."
 
-    e "I hope you can impress Теодора at work. She will be happier than me when she sees your growth."
+    e "I hope you can impress Theodora at work. She will be happier than me when she sees your growth."
 
-    narrator "Теодора will be happy for me? Well, I doubt it."
+    narrator "Theodora will be happy for me? Well, I doubt it."
 
     e "So, are you here to be my little daughter's private teacher today?"
 
@@ -48,11 +48,11 @@ label jjsj:
 
     e "I think she will be home in the next 10 to 15 minutes. Let's get inside and wait for her in the living room."
 
-    player "Ok, Aunt Элиза."
+    player "Ok, Aunt Elisa."
 
     scene mansion_inside_background with tstmgr
 
-    narrator "I followed Aunt Элиза into the house."
+    narrator "I followed Aunt Elisa into the house."
 
     scene e_mansion_inside_normal2 with tstmgr
 
@@ -76,7 +76,7 @@ label jjsj:
 
     scene e_mansion_inside_tease with tstmgr
 
-    e "You were only a high school student back then, a little boy who was so curious about sex and gender. You lifted Теодора's dress at school in public, and the principal asked me to school to deal with the situation."
+    e "You were only a high school student back then, a little boy who was so curious about sex and gender. You lifted Theodora's dress at school in public, and the principal asked me to school to deal with the situation."
 
     player "(Feeling awkward) Haha... ha..."
 
@@ -94,7 +94,7 @@ label jjsj:
 
     narrator "No, I can't let her keep saying this."
 
-    player "(Interrupting) Aunt Элиза, I actually have a question for you."
+    player "(Interrupting) Aunt Elisa, I actually have a question for you."
 
     scene e_mansion_inside_smile with tstmgr
 
@@ -108,7 +108,7 @@ label jjsj:
 
     scene e_mansion_inside_normal2 with tstmgr
 
-    narrator "My dad is a single father, Aunt Элиза is a single mother. They always declare that they are just best friends, but many people believe that what is between them is more than just friendship."
+    narrator "My dad is a single father, Aunt Elisa is a single mother. They always declare that they are just best friends, but many people believe that what is between them is more than just friendship."
 
     narrator "I also have that kind of doubt."
 
@@ -132,13 +132,13 @@ label jjsj:
 
     narrator "Ah, damn, I was so close to find out the truth..."
 
-    e "Айрин, come and meet with your new private teacher."
+    e "Irene, come and meet with your new private teacher."
 
     scene d_mansion_inside_smile with tstmgr
 
     d "Wow, [P.name], you will be my private teacher?"
 
-    player "Yes, Айрин. You can count on me."
+    player "Yes, Irene. You can count on me."
 
     d "I do need some help with preparing for the midterms."
 
@@ -164,13 +164,13 @@ label jjsj:
 
     scene mansion_inside_background with tstmgr
 
-    narrator "Айрин didn't give me much time to enjoy her dress. She grabbed my hand and lead me to her room."
+    narrator "Irene didn't give me much time to enjoy her dress. She grabbed my hand and lead me to her room."
 
     narrator "... ... ... ..."
 
-    narrator "After that, I tutored Айрин in mathematics for the entire afternoon."
+    narrator "After that, I tutored Irene in mathematics for the entire afternoon."
 
-    call screen hint("From now on, you will be able to come to Aunt Элиза's mansion for tutoring. It is a good way to improve the relationship between you and Айрин.")
+    call screen hint("From now on, you will be able to come to Aunt Elisa's mansion for tutoring. It is a good way to improve the relationship between you and Irene.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

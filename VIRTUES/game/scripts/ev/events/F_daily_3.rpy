@@ -3,7 +3,7 @@ label F_daily_3:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Рэйчел’s perspective.*"
+    "*The following plot is from Rachel’s perspective.*"
 
 
 
@@ -91,11 +91,11 @@ label F_daily_3:
 
 
 
-    b "Сеннин... ..."
+    b "Senning... ..."
 
 
 
-    f "I’m Рэйчел, nice to meet you."
+    f "I’m Rachel, nice to meet you."
 
 
 
@@ -103,7 +103,7 @@ label F_daily_3:
 
 
 
-    b "([P] once told me about a Рэйчел in the track team)"
+    b "([P] once told me about a Rachel in the track team)"
 
 
 
@@ -317,7 +317,7 @@ label F_daily_3:
 
 
 
-    "Рэйчел and Сеннин have become friends."
+    "Rachel and Senning have become friends."
 
 
 

@@ -17,7 +17,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_58 with dissolve
 
-    "Элиза and I, we are a perfect match."
+    "Elisa and I, we are a perfect match."
 
 
 
@@ -56,7 +56,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_1 with dissolve
 
-    player "Alright, Айрин. This is the end of the tutoring for today."
+    player "Alright, Irene. This is the end of the tutoring for today."
 
 
 
@@ -128,7 +128,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_8 with tstmgr
 
-    player "Bye, Айрин."
+    player "Bye, Irene."
 
 
 
@@ -288,7 +288,7 @@ label E_train_sub_2:
 
             scene e_train_sub_2_24 with tstmgr
 
-            player "Элиза, this is... even tastier than I thought~"
+            player "Elisa, this is... even tastier than I thought~"
 
             e "For real? I... ..."
 
@@ -396,7 +396,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_31 with tstmgr
 
-    player "Now you are like an artwork, Элиза. I’m going to get a reward if I take a picture of you now and send it to a pornographic exhibition~"
+    player "Now you are like an artwork, Elisa. I’m going to get a reward if I take a picture of you now and send it to a pornographic exhibition~"
 
 
 
@@ -450,7 +450,7 @@ label E_train_sub_2:
 
             e "Awwww... ... That’s a good name. I am indeed a bad mother... ..."
 
-            e "Теодора and Айрин... I can’t let them see me like this~"
+            e "Theodora and Irene... I can’t let them see me like this~"
 
             scene e_train_sub_2_37 with tstmgr
 
@@ -474,7 +474,7 @@ label E_train_sub_2:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -502,7 +502,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_41 with tstmgr
 
-    player "How could you restrict yourself from having sex for so many years with such a lewd body you have, Элиза? It was a fucking miracle!"
+    player "How could you restrict yourself from having sex for so many years with such a lewd body you have, Elisa? It was a fucking miracle!"
 
 
 
@@ -540,7 +540,7 @@ label E_train_sub_2:
 
 
 
-    "Элиза then climbed onto the table and... ..."
+    "Elisa then climbed onto the table and... ..."
 
 
 
@@ -554,7 +554,7 @@ label E_train_sub_2:
 
 
 
-    "As I said, Элиза and I, we are a perfect match."
+    "As I said, Elisa and I, we are a perfect match."
 
 
 
@@ -578,7 +578,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_47 with tstmgr
 
-    player "*Taking Элиза’s blinder off* Why don’t we try it now?~"
+    player "*Taking Elisa’s blinder off* Why don’t we try it now?~"
 
 
 
@@ -632,7 +632,7 @@ label E_train_sub_2:
 
 
 
-    player "What’s the matter? Just follow your heart, Элиза."
+    player "What’s the matter? Just follow your heart, Elisa."
 
 
 
@@ -640,7 +640,7 @@ label E_train_sub_2:
 
 
 
-    "Aunt Элиза is getting wetter than normal. I feel like my dick is fully covered by her sticky fluid. This natural lubricant makes me able to reach the deepest place of her tight pussy without any resistance."
+    "Aunt Elisa is getting wetter than normal. I feel like my dick is fully covered by her sticky fluid. This natural lubricant makes me able to reach the deepest place of her tight pussy without any resistance."
 
 
 
@@ -709,7 +709,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_55 with tstmgr
 
-    player "Элиза... here comes the one last hit... ..."
+    player "Elisa... here comes the one last hit... ..."
 
 
 
@@ -733,7 +733,7 @@ label E_train_sub_2:
 
     scene e_train_sub_2_57 with tstmgr
 
-    player "Did you have a good one, Элиза?"
+    player "Did you have a good one, Elisa?"
 
 
 

@@ -2,7 +2,7 @@ label cafe_forenoon_A_3:
 
     scene cafe_background with tstmgr
 
-    "I came to Вера's workplace in the morning, but didn't find her."
+    "I came to Vera's workplace in the morning, but didn't find her."
 
 
 

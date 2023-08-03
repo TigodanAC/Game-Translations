@@ -3,13 +3,13 @@ label C_love_4:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, in Элиза’s mansion. Теодора and I were invited here for dinner."
+    "Later today, in Elisa’s mansion. Theodora and I were invited here for dinner."
 
 
 
     scene c_love_4_1 with tstmgr
 
-    player "Thanks for the wonderful meal, Aunt Элиза."
+    player "Thanks for the wonderful meal, Aunt Elisa."
 
 
 
@@ -57,7 +57,7 @@ label C_love_4:
 
     scene c_love_4_4 with tstmgr
 
-    "I looked to Теодора and she answered me by shrugging her shoulders. It seems to be best not to disappoint Aunt Элиза for now."
+    "I looked to Theodora and she answered me by shrugging her shoulders. It seems to be best not to disappoint Aunt Elisa for now."
 
 
 
@@ -101,7 +101,7 @@ label C_love_4:
 
 
 
-    "Aunt Элиза has made up her mind. Right now it is not wise to reject her."
+    "Aunt Elisa has made up her mind. Right now it is not wise to reject her."
 
 
 
@@ -115,7 +115,7 @@ label C_love_4:
 
 
 
-    "Теодора and I sat together on the bed with only a bath towel and underwear. Man, this is awkward."
+    "Theodora and I sat together on the bed with only a bath towel and underwear. Man, this is awkward."
 
 
 

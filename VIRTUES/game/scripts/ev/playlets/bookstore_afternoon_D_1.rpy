@@ -2,13 +2,13 @@ label bookstore_afternoon_D_1:
 
     scene bookstore_afternoon_d_1_1 with tstmgr
 
-    d "Уно!!!"
+    d "Uno!!!"
 
 
 
     scene bookstore_afternoon_d_1_3 with tstmgr
 
-    g "Good afternoon, Айрин, and [P]."
+    g "Good afternoon, Irene, and [P]."
 
 
 

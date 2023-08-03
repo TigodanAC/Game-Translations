@@ -2,11 +2,11 @@ label mansion_croom_latenight_C_1:
 
     scene void with tstmgr
 
-    "I just finished today's tutoring class with Айрин."
+    "I just finished today's tutoring class with Irene."
 
 
 
-    player "Emm? Why does Теодора's room have lights on? Is she home tonight?"
+    player "Emm? Why does Theodora's room have lights on? Is she home tonight?"
 
 
 

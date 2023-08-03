@@ -2,7 +2,7 @@ label A_action_inti_1_girlfriend:
 
     scene void with tstmgr
 
-    "Late night, I was having a bath with Вера..."
+    "Late night, I was having a bath with Vera..."
 
 
 
@@ -118,7 +118,7 @@ label A_action_inti_1_girlfriend:
 
             a "I couldn’t even dream about this a few months ago~"
 
-            player "Вера... ..."
+            player "Vera... ..."
 
             a "Love you~"
 
@@ -198,7 +198,7 @@ label A_action_inti_1_girlfriend:
 
             a "Cuming!!~~~"
 
-            player "Вера!"
+            player "Vera!"
 
             "We made each other cum at the same time..."
 
@@ -222,7 +222,7 @@ label A_action_inti_1_girlfriend:
 
 
 
-    "Вера and I spent a great time in the bathroom together."
+    "Vera and I spent a great time in the bathroom together."
 
 
 

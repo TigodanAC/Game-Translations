@@ -6,7 +6,7 @@ label find_A_restaurant_evening_A_1:
 
 
 
-    player "Hi, Вера."
+    player "Hi, Vera."
 
 
 

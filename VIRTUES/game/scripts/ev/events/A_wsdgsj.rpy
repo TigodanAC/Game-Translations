@@ -4,7 +4,7 @@ label A_wsdgsj:
 
     narrator "Eh, I don't have assignments due tonight. What should I do to spend my evening?"
 
-    narrator "I wonder if Вера has gone to the restaurant I recommended or not. Perhaps I should go there and check out."
+    narrator "I wonder if Vera has gone to the restaurant I recommended or not. Perhaps I should go there and check out."
 
     narrator "... ... ... ..."
 
@@ -18,7 +18,7 @@ label A_wsdgsj:
 
     scene wsdg_a1 with tstmgr
 
-    narrator "I looked in the direction he pointed out and saw Вера's slender figure bending over and delicately pouring a glass of wine."
+    narrator "I looked in the direction he pointed out and saw Vera's slender figure bending over and delicately pouring a glass of wine."
 
     scene wsdg_a2 with tstmgr
 
@@ -52,11 +52,11 @@ label A_wsdgsj:
 
     scene wsdg_a3 with tstmgr
 
-    narrator "Alright it's 11:30. Вера should be done any second now."
+    narrator "Alright it's 11:30. Vera should be done any second now."
 
     narrator "It took a few minutes, but there she is. She seems to be in a good mood too."
 
-    player "Hi, Вера."
+    player "Hi, Vera."
 
     scene wsdg_a6 with tstmgr
 

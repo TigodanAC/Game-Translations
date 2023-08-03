@@ -64,7 +64,7 @@ label pool_G.g_pool_1:
 
     scene g_pool_1_6 with tstmgr
 
-    g "Eah~ Уно is a dead now~ she won’t respond to any stimuli anymore... ..."
+    g "Eah~ Uno is a dead now~ she won’t respond to any stimuli anymore... ..."
 
 
 
@@ -124,7 +124,7 @@ label pool_G.g_pool_1:
 
 
 
-    player "Уно... ..."
+    player "Uno... ..."
 
 
 
@@ -142,7 +142,7 @@ label pool_G.g_pool_1:
 
     scene g_pool_1_13 with tstmgr
 
-    g "Awwww~ What do you want to do with Уно’s dead body, good sir?"
+    g "Awwww~ What do you want to do with Uno’s dead body, good sir?"
 
 
 
@@ -252,7 +252,7 @@ label pool_G.g_pool_2:
 
     scene g_pool_2_1 with dissolve
 
-    player "Eh... come on, Уно, it’s time to get in the water."
+    player "Eh... come on, Uno, it’s time to get in the water."
 
 
 
@@ -372,7 +372,7 @@ label pool_G.g_pool_2:
 
 
 
-    player "Ha~ Уно’s pussy is wet already~"
+    player "Ha~ Uno’s pussy is wet already~"
 
 
 
@@ -438,7 +438,7 @@ label pool_G.g_pool_2:
 
 
 
-    "As a result, Уно didn’t go into the water until the end... ..."
+    "As a result, Uno didn’t go into the water until the end... ..."
 
 
 

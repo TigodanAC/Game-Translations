@@ -3,7 +3,7 @@ label A_daily_8:
     scene void with tstmgr
     play music sorrow
 
-    "After what happened that night in the laundry room, me and Вера, things are getting strange between us. "
+    "After what happened that night in the laundry room, me and Vera, things are getting strange between us. "
 
     "She always dodges my eyes when we are talking, and in fact, she doesn't even actively talk with me anymore. Every time when we are together, she would keep silent and stare at the ground like a frightened sheep."
 
@@ -15,7 +15,7 @@ label A_daily_8:
 
     scene a_daily8_1 with tstmgr
 
-    player "Hey, Вера. Do you want me to help you with breakfast?"
+    player "Hey, Vera. Do you want me to help you with breakfast?"
 
     a "[P]... ..."
 

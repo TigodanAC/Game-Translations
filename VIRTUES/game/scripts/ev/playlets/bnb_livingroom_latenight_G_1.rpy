@@ -2,19 +2,19 @@ label bnb_livingroom_latenight_G_1:
 
     scene void with tstmgr
 
-    "Вера and I came back home at late night, and found that Уно was waiting for us."
+    "Vera and I came back home at late night, and found that Uno was waiting for us."
 
 
 
     scene bnb_livingroom_latenight_g_1_1 with tstmgr
 
-    g "Welcome back, Вера and [P]."
+    g "Welcome back, Vera and [P]."
 
 
 
     scene bnb_livingroom_latenight_g_1_2 with tstmgr
 
-    a "Oh, thank you, Уно. You are too nice."
+    a "Oh, thank you, Uno. You are too nice."
 
 
 
@@ -38,7 +38,7 @@ label bnb_livingroom_latenight_G_1:
 
     scene bnb_livingroom_latenight_g_1_3 with tstmgr
 
-    a "We would love to do that. Thanks, Уно."
+    a "We would love to do that. Thanks, Uno."
 
 
 
@@ -48,7 +48,7 @@ label bnb_livingroom_latenight_G_1:
 
 
 
-    "Вера seems to value her new housemate very much."
+    "Vera seems to value her new housemate very much."
 
 
 

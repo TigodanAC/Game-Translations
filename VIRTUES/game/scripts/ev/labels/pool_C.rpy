@@ -1,8 +1,8 @@
 label pool_C:
     menu:
-        "Meet her at the ladder" if True:
+        "Meet her at the ladder":
             jump pool_C.c_pool_1
-        "Go in the pool with her" if True:
+        "Go in the pool with her":
 
             jump pool_C.c_pool_2
 
