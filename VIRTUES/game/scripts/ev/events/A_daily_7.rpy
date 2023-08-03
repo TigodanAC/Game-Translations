@@ -3,21 +3,21 @@ label A_daily_7:
     scene a_room_night_normal with tstmgr
     play music sorrow
 
-    player "Hi, Вера. Сеннин just sent me a movie yesterday, do you want to watch it with me?"
+    player "Привет, Вера. Сеннин вчера прислала мне фильм, хочешь посмотреть его со мной?"
 
-    a "Eh... What movie?"
+    a "Э... Какой фильм?"
 
-    player "I don't know. A classic Korean romantic movie she said. "
+    player "Я не знаю. Она сказала, классический корейский романтический фильм."
 
-    a "She didn't tell you the name?"
+    a "Она не сказала тебе название?"
 
-    player "She did, but I forgot. Most East Asian movie names don't make any sense when they are translated into English anyway. "
+    player "Она говорила, но я забыл. В любом случае, названия большинства восточноазиатских фильмов теряют смысл при переводе на английский язык."
 
-    a "Okay... ..."
+    a "Ладно... ..."
 
     scene a_room_night_smile with tstmgr
 
-    a "Let's watch it then."
+    a "Тогда давай смотреть."
 
     scene void with tstmgr
 
@@ -25,93 +25,93 @@ label A_daily_7:
 
     scene a_daily7_1 with tstmgr
 
-    "We came to my room together and started to watch the movie."
+    "Мы вместе пришли ко мне в комнату и начали смотреть фильм."
 
     scene a_daily7_2 with tstmgr
 
     "... ... ... ..."
 
-    "Well, the movie seems like a good one, but I soon found something that was even more attractive to me."
+    "Что ж, фильм вроде бы неплохой, но вскоре я нашёл для себя кое-что более привлекательное."
 
     scene a_daily7_3 with tstmgr
 
     "... ... ... ..."
 
-    "Yeah, this scene is definitely better than the movie."
+    "Да, этот вид определённо лучше, чем фильм."
 
-    "She seems to put all her attention into the movie as it nears its climax. I guess now it's the time for me to do something."
+    "Кажется, она полностью увлечена фильмом, так как он приближается к кульминации. Думаю, теперь пришло время мне что-то сделать."
 
     "... ... ... ..."
 
     scene a_daily7_4 with tstmgr
 
-    "I gently put my hand around her waist. She didn't even notice it."
+    "Я нежно обнял её за талию. Она даже не заметила этого."
 
     scene a_daily7_5 with tstmgr
 
-    "And I pulled her in my arm."
+    "И я притянул её к себе за руку."
 
     scene a_daily7_6 with tstmgr
 
-    "She groaned out with surprise and turned to look at me. "
+    "Она застонала от удивления и повернулась, чтобы посмотреть на меня."
 
-    "I looked at her back with a prankish smile, but didn't say anything."
+    "Я посмотрел ей в спину с озорной улыбкой, но ничего не сказал."
 
     scene a_daily7_7 with tstmgr
 
     a "... ... ... ..."
 
-    "She wanted to say something, but somehow she didn't. "
+    "Она хотела что-то сказать, но почему-то не стала."
 
-    "Seems like she has acquiesced in my action."
+    "Похоже, она молча согласилась с моими действиями."
 
     scene a_daily7_8 with tstmgr
 
-    "We then kept this position and continued to watch that movie, pretending like nothing happened."
+    "Затем мы остались в этом положении и продолжили смотреть фильм, делая вид, что ничего не произошло."
 
-    "But I am wondering if I should do something more..."
+    "Но мне интересно, стоит ли мне сделать что-то ещё..."
 
     menu:
-        "This is enough":
+        "Этого достаточно":
 
 
-            "Nevermind. It will become sexual harassment if I do anything further. I don't want to make her mad."
+            "Неважно. Если я сделаю что-то ещё, это станет сексуальным домогательством. Я не хочу её злить."
 
-            "And this movie is about to end anyway."
+            "И этот фильм всё равно подходит к концу."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Test her limit":
+        "Проверить её предел":
 
 
-            "Yeah, I should definitely give it a try."
+            "Да, я обязательно должен попробовать."
 
             scene a_daily7_9 with tstmgr
 
             "... ... ... ..."
 
-            a "Hmm?"
+            a "Хм?"
 
             scene a_daily7_10 with tstmgr
 
-            a "What are you doing?"
+            a "Что ты делаешь?"
 
             player "... ... ... ..."
 
             scene a_daily7_11 with tstmgr
 
-            a "(Slightly moaning) Emmm... ... ... ..."
+            a "(Слегка постанывая) Эммм... ... ... ..."
 
-            a "Can you just... focus on the movie?"
+            a "Можешь просто... сосредоточиться на фильме?"
 
-            "She acquiesced in my action again, oh my God..."
+            "Она снова уступила моим действиям, о Боже..."
 
             scene a_daily7_12 with tstmgr
 
             "... ... ... ..."
 
-            "We kept this position until the movie ended. I think we should have movie nights more often..."
+            "Мы оставались в этом положении, пока фильм не закончился. Я думаю, нам следует чаще устраивать вечера кино..."
 
             scene void with tstmgr
 
