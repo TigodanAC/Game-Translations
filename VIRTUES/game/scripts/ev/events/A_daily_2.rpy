@@ -3,51 +3,51 @@ label A_daily_2:
     scene cafe_background with tstmgr
     play music happy
 
-    player "Hello, Вера."
+    player "Привет, Вера."
 
     scene a_cafe_weird with tstmgr
 
     a "... ... ... ..."
 
-    a "You came again."
+    a "Ты снова пришёл."
 
-    player " What's wrong?"
+    player "Что не так?"
 
-    a "You've come in a lot recently. It seems... unnormal."
+    a "В последнее время ты часто заходишь. Это кажется... ненормальным."
 
-    player "What do you mean by that?"
+    player "Что ты хочешь этим сказать?"
 
-    a "It makes me wonder if you're stalking me..."
+    a "Это заставляет меня задуматься, не преследуешь ли ты меня..."
 
-    player "Of course not. I come here because I like the breakfast here, nothing else."
+    player "Конечно, нет. Я прихожу сюда, потому что мне нравится здесь завтракать, и больше ничего."
 
-    narrator "That's a lie, at least part of it is."
+    narrator "Это ложь, по крайней мере отчасти."
 
-    narrator "I can't deny that I do have feelings for this girl and I am eager to improve our relations, but I'm not pursuing her. Not yet at least..."
+    narrator "Я не могу отрицать, что у меня есть чувства к этой девушке и я стремлюсь улучшить наши взаимоотношения, но я не преследую её. По крайней мере, пока что нет..."
 
     scene a_cafe_surprise with tstmgr
 
-    a "Really?"
+    a "Неужели?"
 
-    player "Yeah..."
+    player "Да..."
 
     scene a_cafe_normal1 with tstmgr
 
     a "... ... ... ..."
 
-    a "Sorry to bother you with that weird question."
+    a "Извини, что побеспокоила тебя таким странным вопросом."
 
-    narrator "Her face appears normal, but her voice sounds as though she might be upset."
+    narrator "Её лицо кажется нормальным, но голос звучит так, будто она расстроена."
 
     scene a_cafe_smile2 with tstmgr
 
-    a "What do you want to eat today?"
+    a "Что бы ты хотел сегодня заказать?"
 
-    narrator "Perhaps I thought too much."
+    narrator "Возможно, я слишком сильно задумался."
 
-    player "Bacon sandwich meal, plus a vanilla milkshake."
+    player "Сэндвич с беконом и ванильный молочный коктейль."
 
-    a "OK, I'll be back in a minute."
+    a "Хорошо, я вернусь через минуту."
 
     scene cafe_background with tstmgr
 
