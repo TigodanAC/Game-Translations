@@ -1,9 +1,9 @@
 default t = Time(total_period=1)
 
-define P_study = Progress("study", "Study", "B_love_meter", base=6.0, nz="Senning")
-define P_work = Progress("work", "Work", "C_love_meter", base=6.0, nz="Theodora")
+define P_study = Progress("study", "Учёба", "B_love_meter", base=6.0, nz="Senning")
+define P_work = Progress("work", "Работа", "C_love_meter", base=6.0, nz="Theodora")
 
-define P_sport = Progress("sport", "Sport", "F_love_meter", base=6.0, nz="Rachel")
+define P_sport = Progress("sport", "Спорт", "F_love_meter", base=6.0, nz="Rachel")
 
 define P = Player("P", state="P_state", color=color.cream)
 
@@ -41,79 +41,79 @@ define color.E = "#efe2a6"
 define color.F = "#0b654f"
 define color.G = "#ffbfbf"
 
-define A = Nz("A", "Vera", 22,
+define A = Nz("A", "Вера", 22,
     color="#d29881",
-    intro='''A poor young countryside girl who came to this city alone with a dream of making a better life. She can only do the low-paid menial jobs now due to the lack of higher education.
-She is super hardworking and she embraces this society with a golden heart no matter how bad it is.
-I took her virginity on a drunken night.''',
-    like=["Cooking", "Watching soccer game",  "Chicken curry"],
+    intro='''Бедная сельская девушка, которая приехала в этот город совсем одна с мечтой о лучшей жизни. Теперь она может выполнять только низкооплачиваемую черную работу из-за отсутствия высшего образования.
+Она очень трудолюбива и с открытым сердцем принимает это общество, каким бы плохим оно ни было.
+Я лишил ее девственности пьяной ночью.''',
+    like=["Готовка", "Просмотр футбольного матча",  "Курица-карри"],
     hint=A_hint,
-    zone=["Feet", "Mouth",  "Vagina"]
+    zone=["Ноги", "Рот",  "Вагина"]
 )
 
-define B = Nz("B", "Senning", 21,
+define B = Nz("B", "Сеннин", 21,
     color="#aaaaaa",
-    intro='''She is my best friend in college, also the only daughter of a couple of Chinese billionaires.
-She is talented at academic studies. Her GPA maintains 3.8 for the last two years. 
-She is popular at school because of her kindness. But she is somehow introverted when talking with strangers. ''',
-    like=["Studying at library", "Stocks investing", "Green tea"],
-    zone=["Unknown"],
+    intro='''Она моя лучшая подруга в колледже, а также единственная дочь пары китайских миллиардеров.
+Она очень талантлива в академических исследованиях. Ее средний балл составляет 3.8 в течение последних двух лет.
+Она популярна в школе из-за своей доброты. Но она почему-то становится интровертом, когда разговаривает с незнакомцами. ''',
+    like=["Учеба в библиотеке", "Инвестиции в акции", "Зеленый чай"],
+    zone=["Неизвестно"],
     hint=B_hint
 )
 
-define C = Nz("C", "Theodora", 23,
+define C = Nz("C", "Теодора", 23,
     color="#9dc8ca",
-    intro='''As the older daughter of a famous entrepreneur, she is now a manager in one of her mother's companies.
-We are engaged at our parents' wills, but there is no real love between us yet. In fact, we don't get along with each other, like the two poles of a magnet.
-I don't like her cold and strong personalities.''',
-    like=["Sky diving", "Quiet place", "Luxury roadster"],
-    zone=["Nipples"],
+    intro='''Будучи старшей дочерью известной предпринимательницы, она сейчас работает менеджером в одной из компаний своей матери.
+Мы помолвлены по воле родителей, но настоящей любви между нами пока нет. На самом деле мы не ладим друг с другом, как два полюса магнита.
+Мне не нравяится её холодная и сильная личность.''',
+    like=["Скайдайвинг", "Тихие места", "Роскошный экипаж"],
+    zone=["Соски"],
     hint=C_hint
 )
-define D = Nz("D", "Irene", 18,
+define D = Nz("D", "Айрин", 18,
     color="#a4d5a9",
-    intro='''She is Theodora's little sister.
-Although she is young, she perfectly knows how to use her charm to get advantages from boys.
-She looks naïve, but that may not be her true face.  
-We grew up together and kept a close relationship until now. She takes me as her own brother.''',
-    like=["Hand drawing", "Short skirt", "Cosplay"],
-    zone=["Anus"],
+    intro='''Она младшая сестра Теодоры.
+Хоть она и молода, но прекрасно умеет использовать свое обаяние, чтобы получить преимущества от парней.
+Она выглядит наивной, но это может быть не её истинное лицо.
+Мы выросли вместе и сохраняем близкие отношения до сих пор. Она считает меня своим братом.''',
+    like=["Рисунки от руки", "Короткая юбка", "Косплей"],
+    zone=["Анус"],
     hint=D_hint
 )
-define E = Nz("E", "Elisa", 40,
+define E = Nz("E", "Элиза", 40,
     color="#efe2a6",
-    intro='''A famous entrepreneur, the mother of Theodora and Irene, currently single.
-She and my dad are close friends, and she takes me as her own son to care.
-She now lives in her big mansion with her little daughter. Sometimes she would feel lonely.''',
-    like=["Soap operas", "Programming", "Body SPA"],
-    zone=["Breasts"],
+    intro='''Известная предпринимательница, мать Феодоры и Ирины, в настоящее время не замужем..
+Она и мой папа близкие друзья, и она заботится обо мне, как о собственном сыне.
+Сейчас она живет в своем большом особняке со своей младшей дочерью. Иногда она чувствует себя одинокой.''',
+    like=["Мыльные оперы", "Программирование", "СПА для тела"],
+    zone=["Грудь"],
     hint=E_hint
 )
-define F = Nz("F", "Rachel", 20,
+define F = Nz("F", "Рэйчел", 20,
     color="#0b654f",
-    intro='''A member of university track team, the strongest girl I have ever met in my life. 
-She is not aware of her beauty and being a little unconfident about her face.''',
-    like=["Work out", "Karate", "Marathon"],
-    zone=["Unknown"],
+    intro='''Член университетской команды по легкой атлетике, самая сильная девушка, которую я когда-либо встречал в своей жизни. 
+Она не осознает своей красоты и немного неуверенна в красоте своего лица.''',
+    like=["Тренировка", "Каратэ", "Марафон"],
+    zone=["Неизвестно"],
     hint=F_hint
 )
-define G = Nz("G", "Uno", 19,
+define G = Nz("G", "Уно", 19,
     color="#ffbfbf",
     intro=G_intro,
-    like=["Cosplay", "Manga", "Shooting short videos"],
-    zone=["Nipples", "Breasts", "Neck"],
+    like=["Косплей", "Манга", "Съемка коротких видеороликов"],
+    zone=["Соски", "Грудь", "Шея"],
     hint=G_hint
 )
 
 init -1 python:
 
     def G_intro():
-        intro = '''A famous coser, Irene's friend.
-I don't know her very well yet.'''
+        intro = '''Известная швея, друг Айрин.
+Я ещё не очень хорошо её знаю.'''
         if seen("G_MoveIn"):
-            intro = '''A famous coser, an amateur porn shooter, a bookstore clerk. This girl is full of mystery.
-Somehow she is not confident with her breasts -- she thinks they are oversize. 
-She doesn't talk much, but she has the ability to get along with strangers in a short time. '''
+            intro = '''Известная швея, любительницы снимать порно, продавщица в книжном магазине. Эта девушка полна тайн.
+Почему-то она не уверена в своей груди — она думает, что она слишком большая.
+Она мало говорит, но умеет быстро находить общий язык с незнакомцами.'''
         return intro
 
     def A_clothes():
@@ -156,51 +156,51 @@ She doesn't talk much, but she has the ability to get along with strangers in a 
         return clothes
 
     def A_hint():
-        hint = "Try go to her workplaces and talk with her to get along with her."
+        hint = "Попробуйте пойти к ней на работу и поговорить с там, чтобы поладить с ней."
         if seen("A_love_2") and not seen("pcsj"):
-            hint = "I have found Vera for too many times recently, perhaps I should spend some time on Senning."
+            hint = "В последнее время я посещал Веру слишком много раз, возможно, мне следует уделить немного времени Сеннин."
         return hint
 
     def B_hint():
-        hint = "Nothing yet."
+        hint = "Пока ничего."
         if seen("d6_1"):
-            hint = "Try buy her a gift at \"downtown\", and then find her in the afternoon after her love reaches 5."
+            hint = "Попробуйте купить ей подарок в \"центре города\", а потом найти её во второй половине дня после того, как её любовь достигнет 5."
         if seen("B_love_1"):
-            hint = "She admires people who are good at studying. You should go study at school and try to impress her."
+            hint = "Она восхищается людьми, которые хорошо учатся. Вы должны пойти учиться в школу и попытаться произвести на неё впечатление."
         if seen("B_love_2"):
-            hint = "I have found Senning for too many times recently, perhaps I should spend some time on Vera."
+            hint = "В последнее время я посещал Сеннин слишком много раз, возможно, мне стоит уделить немного времени Вере."
         if seen("pcsj"):
-            hint = "She admires people who are good at studying. You should go study at school and try to impress her."
+            hint = "Она восхищается людьми, которые хорошо учатся. Я должен пойти учиться в школу и попытаться произвести на неё впечатление."
         return hint
 
     def C_hint():
-        hint = "Nothing yet."
+        hint = "Пока ничего."
         if seen("pcsj"):
-            hint = "She admires people who work hard. You should go to work regularly and try to impress her."
+            hint = "Она восхищается людьми, которые много работают. Вы должны регулярно ходить на работу и стараться произвести на нее впечатление."
         return hint
 
     def D_hint():
-        hint = "Try buy her a gift, then visit her at her home in the afternoon."
+        hint = "Попробуйте купить ей подарок, а после обеда навестить её дома."
         if seen("D_dqsj"):
-            hint = "Nothing yet."
+            hint = "Пока ничего."
         if seen("pcsj"):
-            hint = "You can tutor her everyday in the afternoon or evening."
+            hint = "Вы можете заниматься с ней каждый день днем ​​или вечером."
         return hint
 
     def E_hint():
-        hint = "Nothing yet."
+        hint = "Пока ничего."
         if seen("pcsj"):
-            hint = "She gave you two jobs, one is working at her company, and the other one is tutoring her little daughter. You need to prove to her that you can do well in those jobs."
+            hint = "Она дала вам две работы, одна в её компании, а другая - репетиторство её младшей дочери. Вам нужно доказать ей, что вы можете хорошо справляться с обеими этими работами."
         return hint
 
     def F_hint():
-        hint = "She admires people with strong body. You should work-out at the park more often and try to impress her."
+        hint = "Она восхищается людьми с сильным телом. Вам следует чаще тренироваться в парке и пытаться произвести на неё впечатление.."
         return hint
 
     def G_hint():
-        hint="Nothing yet."
+        hint="Пока ничего."
         if seen("G_MoveIn"):
-            hint = "She works at the bookstore in the afternoon, you can always find her there during weekdays."
+            hint = "Днем она работает в книжном магазине, её всегда можно найти там в будние дни."
         return hint
 
 
@@ -249,8 +249,8 @@ define narrator = Character(None, what_color=gui.dialogue_color)
 define player = Character("[P.name]", who_color=P.color)
 
 
-define posia = Character("Posia", who_color="#A657C4")
-define minna = Character("Lady Minna", who_color="#6E0C1B")
+define posia = Character("Позия", who_color="#A657C4")
+define minna = Character("Леди Минна", who_color="#6E0C1B")
 define bubble_a = Character(None, screen="bubble", show_color=A.color)
 define bubble_b = Character(None, screen="bubble", show_color=B.color)
 define bubble_c = Character(None, screen="bubble", show_color=C.color)

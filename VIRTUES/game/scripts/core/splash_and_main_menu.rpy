@@ -52,51 +52,51 @@ screen main_menu():
 
             if main_menu:
 
-                textbutton _("New Game") action [Hide("main_menu"), Show("timed_start")]
+                textbutton _("Новая Игра") action [Hide("main_menu"), Show("timed_start")]
 
             else:
-                textbutton _("History") action ShowMenu("history")
+                textbutton _("История") action ShowMenu("history")
 
-                textbutton _("Save") action ShowMenu("save")
+                textbutton _("Сохранение") action ShowMenu("save")
 
-            textbutton _("Load") action ShowMenu("load")
+            textbutton _("Загрузка") action ShowMenu("load")
 
-            textbutton _("Settings") action ShowMenu("preferences")
+            textbutton _("Настройки") action ShowMenu("preferences")
 
-            textbutton _("Gallery") action ShowMenu("gallery")
+            textbutton _("Галерея") action ShowMenu("gallery")
 
             if _in_replay:
 
-                textbutton _("End Replay") action EndReplay(confirm=True)
+                textbutton _("Закончить повтор") action EndReplay(confirm=True)
 
             elif not main_menu:
 
-                textbutton _("Main Menu") action MainMenu()
+                textbutton _("Главное Меню") action MainMenu()
 
-            textbutton _("About") action ShowMenu("about")
+            textbutton _("Информация") action ShowMenu("about")
 
-            textbutton _("Bonus Chapters") action ToggleScreen("bonus_chapters", Dissolve(0.5))
+            textbutton _("Бонусные главы") action ToggleScreen("bonus_chapters", Dissolve(0.5))
 
             if renpy.variant("pc"):
 
 
-                textbutton _("Help") action ShowMenu("help")
+                textbutton _("Помощь") action ShowMenu("help")
 
 
 
             if renpy.variant("pc") or renpy.variant("android"):
 
-                textbutton _("Quit") action Quit(confirm=not main_menu)
+                textbutton _("Выход") action Quit(confirm=not main_menu)
 
         hbox:
             xalign .0 yalign 1.0
-            text "( version: [gui.display_version] [gui.version_suffix])":
+            text "( Версия: [gui.display_version] [gui.version_suffix])":
                 xoffset 18 size 20
                 xalign .0 yalign 1.0
             button:
-                background Solid("2e2e2cb3", xysize=(140, 28), xoffset=4, yoffset=4)
+                background Solid("2e2e2cb3", xysize=(220, 28), xoffset=4, yoffset=4)
                 xoffset 24 yoffset 6
-                text "Update Notes" size 20
+                text "Новости Обновлений" size 20
                 action ShowTransient("update_note", transition=Dissolve(0.2))
 
 
@@ -180,7 +180,7 @@ style navigation_frame_style:
     xpos 140
     ypos 970
 
-define gui.special_thanks = _('''{size=-4}Special thanks to our key plegeing patrons:
+define gui.special_thanks = _('''{size=-4}Особая благодарность нашим ключевым патронам:
 {color=#ffcd5c}{/color}''')
 
 screen thanks():

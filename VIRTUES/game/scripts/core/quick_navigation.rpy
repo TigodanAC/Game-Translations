@@ -111,35 +111,35 @@ screen quick_navigation():
     frame at qn_transform:
 
         pos pos[0], pos[1]
-        xsize 120
+        xsize 190
         has vbox:
             style_prefix "quick_navigation"
             spacing 2
 
         if not _in_replay and not _replaying_event:
 
-            textbutton _("Gallery") at qnbtn action Hide("quick_navigation"), ShowMenu("gallery")
+            textbutton _("Галерея") at qnbtn action Hide("quick_navigation"), ShowMenu("gallery")
 
-        textbutton _("History") at qnbtn action Hide("quick_navigation"), ShowMenu("history")
+        textbutton _("История") at qnbtn action Hide("quick_navigation"), ShowMenu("history")
 
-        textbutton _("Setting") at qnbtn action Hide("quick_navigation"), ShowMenu("preferences")
+        textbutton _("Настройки") at qnbtn action Hide("quick_navigation"), ShowMenu("preferences")
 
         if not _in_replay and not _replaying_event:
 
-            textbutton _("Load") at qnbtn action Hide("quick_navigation"), ShowMenu("load")
+            textbutton _("Загрузка") at qnbtn action Hide("quick_navigation"), ShowMenu("load")
 
-            textbutton _("Save") at qnbtn action Hide("quick_navigation"), Show("show_save_menu")
+            textbutton _("Сохранение") at qnbtn action Hide("quick_navigation"), Show("show_save_menu")
 
         if cAction or cEvent or cPlaylets or cInteraction or cLabel:
-            textbutton _("Hide") at qnbtn action Hide("quick_navigation"), HideInterface()
+            textbutton _("Скрыть") at qnbtn action Hide("quick_navigation"), HideInterface()
 
         if _in_replay:
 
-            textbutton _("End Replay") at qnbtn action Hide("quick_navigation"), EndReplay(confirm=False)
+            textbutton _("Закончить повтор") at qnbtn action Hide("quick_navigation"), EndReplay(confirm=False)
 
         if _replaying_event or (config.developer and is_scene("Event")):
 
-            textbutton _("End Replay") at qnbtn action Hide("quick_navigation"), Jump("event_post")
+            textbutton _("Закончить повтор") at qnbtn action Hide("quick_navigation"), Jump("event_post")
 
 
 
@@ -148,10 +148,10 @@ screen quick_navigation():
 
 
 
-        textbutton _("Escape") at qnbtn action Call("escape")
+        textbutton _("Побег") at qnbtn action Call("escape")
 
         if renpy.variant("pc") or renpy.variant("android"):
 
 
-            textbutton _("Quit Game" if _in_replay else "Quit") at qnbtn action Quit(confirm=not main_menu)
+            textbutton _("Выйти из игры" if _in_replay else "Выход") at qnbtn action Quit(confirm=not main_menu)
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

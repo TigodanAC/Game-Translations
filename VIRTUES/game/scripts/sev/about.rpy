@@ -1,30 +1,33 @@
-define gui.about = _('''Patreon:  {a=https://www.patreon.com/NoMeme}https://www.patreon.com/NoMeme{/a}
-Discord:   {a=https://discord.gg/F5wXs8C}https://discord.gg/F5wXs8C{/a}
-Email:     {a=mailto:nomemestudio@outlook.com}NoMemeStudio@Outlook.com{/a}
+define gui.about = _('''Patreon разработчика:  {a=https://www.patreon.com/NoMeme}https://www.patreon.com/NoMeme{/a}
+Boosty переводчика:  {a=https://boosty.to/tigodanac}https://boosty.to/TigodanAC{/a}
+Яндекс Кошелёк: {a=https://yoomoney.ru/main}4100118299651690{/a}
 {size=-4}
 We would love to hear your feedbacks, suggestions and bug reports.{/size}''')
 
-define gui.about1 = _('''{color=#ffcd5c}V.I.R.T.U.E.S is a free game. The official download link is on our Patreon and Discord. Downloading the game anywhere else may be risky.{/color}''')
+define gui.about1 = _('''{color=#ffcd5c}V.I.R.T.U.E.S - это бесплатная игра. Официальная ссылка для скачивания перевода находится на Boosty и {a=https://porno-island.site/22546-virtues-v01-2019-eng-renpy-macos-linux-demo.html}Острове{/a}   . Скачивание игры в любом другом месте может быть рискованным.{/color}''')
 
 define gui.about2 = _('''{size=-4}
-Made by
+Игра сделана
 {image=gui/logo.png}
 
-Team members:
-Agang - Writing, 3D Art, Game Design
-MintSoda - Program, UI Design
+Переводчик на русский язык:
+{a=https://porno-island.site/user/TigodanAC/}TigodanAC{/a}
 
-Proofreaders:
+Члены команды:
+Agang - Письмо, 3D-арт, игровой дизайн
+MintSoda - Программа, дизайн пользовательского интерфейса
+
+Вычитка(англ):
 M4zy, Andrew VB
 
-Art:
-Character art drawn by Ravel.
+Арт персонажей: 
+Ravel.
 
-Music:
+Музыка:
 Imagination - Ryan ({a=https://www.youtube.com/watch?v=Vg0o_MbV310}Source Link{/a})
 MainMenu - MintSoda
 
-Bookshelf & University vector arts (in university window) were designed by Freepik.
+Книжная полка и векторные изображения университета (в окне университета) были разработаны Freepik.
 
-Models and scenes are made with PlayHome by Illusion.{/size}''')
+Модели и сцены сделаны Illusion с PlayHome.{/size}''')
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
