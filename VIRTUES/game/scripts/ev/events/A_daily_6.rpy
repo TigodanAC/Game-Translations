@@ -3,107 +3,107 @@ label A_daily_6:
     scene void with tstmgr
     play music sorrow
 
-    "Вера forgot to take her cellphone with her before she went to work, so I decided to bring it to her in the morning."
+    "Вера забыла взять с собой телефон перед уходом на работу, поэтому я решил принести его ей утром."
 
     scene a_cafe_smile2 with tstmgr
 
     a "[P]?"
 
-    a "You are here again."
+    a "Ты снова здесь."
 
-    player "Yeah, and I am here to..."
+    player "Да, и я здесь, чтобы..."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Ah, you misaligned one of your shirt buttons."
+    a "Ой, ты не застегнул одну из пуговиц на рубашке."
 
     scene a_daily6_1 with tstmgr
 
-    a "Let me fix it for you..."
+    a "Позволь мне исправить это..."
 
-    a "You should always remember to check yourself in a mirror before leaving home."
+    a "Тебе никогда не следует забывать смотреться в зеркало перед выходом из дома..."
 
-    a "And your shirt looks wrinkled, I will iron it for you when I get back."
+    a "И твоя рубашка выглядит мятой, я поглажу её для тебя, когда вернусь."
 
     scene a_daily6_2 with tstmgr
 
     a "... ... ... ..."
 
-    a "Oh... ..."
+    a "О... ..."
 
-    "She suddenly realized something and stopped talking."
+    "Вдруг она что-то осознала и замолчала."
 
-    a "I... ... ... ..."
+    a "Я... ... ... ..."
 
     scene a_daily6_3 with tstmgr
 
-    "She quickly stepped back. "
+    "Она быстро сделала шаг назад."
 
-    a "I... I didn't do that on purpose... It's just... It's just..."
+    a "Я... Я сделала это не специально... Просто... Просто..."
 
-    "I guess she has realized that what she just did was a little bit... let's say, intimate."
+    "Думаю, она поняла, что то, что она только что сделала, было немного... скажем так, интимным."
 
-    player "It's okay, I appreciate it."
+    player "Всё в порядке, я ценю это."
 
-    "Two waitresses nearby came to us after witnessing what Вера just did."
+    "Две официантки подошли к нам, увидев, что только что сделала Вера."
 
     scene a_daily6_4 with tstmgr
 
-    "Waitress A" "Geeez, Вера, who is this handsome?"
+    "Официантка A" "Боже, Вера, кто этот красавчик?"
 
-    a "Ah? He is [P], a... a friend of mine."
+    a "А? Он [P], мой... мой друг."
 
-    "I've never seen these two girls before. They might be new here."
+    "Я никогда раньше не видел этих двух девушек. Может быть, они здесь новенькие."
 
-    "Waitress B" "I bet he is something more than a \"friend\" to you, Вера. You were acting like his little wife."
+    "Официантка Б" "Могу поспорить, он для тебя нечто большее, чем \"друг\", Вера. Ты вела себя как его жёнушка."
 
     a "... ... ... ..."
 
-    "Waitress A" "So, what are you doing here, handsome? Don't you know that Вера has to stay here until noon?"
+    "Официантка A" "Так что ты здесь делаешь, красавчик? Разве ты не знаешь, что Вера должна остаться здесь до полудня?"
 
     scene a_daily6_5 with tstmgr
 
-    player "Oh...uh... I'm actually here to deliver this to Вера, her cellphone. She forgot it at home."
+    player "О... э... Вообще-то я здесь, чтобы передать Вере это, её мобильник. Она забыла его дома."
 
     scene a_daily6_6 with tstmgr
 
-    a "What? I didn't even realize it."
+    a "Что? Я даже не заметила этого."
 
     scene a_daily6_7 with tstmgr
 
-    a "Thanks, [P]."
+    a "Спасибо, [P]."
 
     scene a_daily6_4 with tstmgr
 
-    "Waitress A" "Wait, so you two live together? Yeah... that explains everything."
+    "Официантка A" "Подождите, так вы живёте вместе? Да... это всё объясняет."
 
-    "Waitress B" "Ah... I'm starting to feel sorry for my brother. He was kinda into you, Вера. Now I have to tell him to give up that daydream."
+    "Официантка Б" "Ах... Теперь мне жалко моего брата. Он вроде как влюбился в тебя, Вера. Теперь я должна сказать ему, чтобы он отказался от этой мечты."
 
     a "... ... ... ..."
 
-    "Well, these two girls have mistaken me for Вера's boyfriend and started to make jokes about us. This is a little awkward."
+    "В общем, эти две девушки приняли меня за парня Веры и начали над нами шутить. Это немного неловко."
 
     scene a_daily6_8 with tstmgr
 
-    "But I was surprised that Вера didn't clarify anything to them. She was just being quiet. Maybe this means something."
+    "Но меня удивило, что Вера ничего им не разъяснила. Она просто молчала. Может быть, это что-то значит."
 
     scene a_daily6_9 with tstmgr
 
     player "... ... ... ..."
 
-    "But now I don't have time for this."
+    "Но сейчас у меня нет на это времени."
 
-    player "I... I should go. My class is about to begin."
+    player "Я... я должен идти. Мой урок вот-вот начнётся."
 
-    "Waitress A" "See you, handsome~~"
+    "Официантка А" "Увидимся, красавчик~~"
 
-    "Waitress B" "We will take care of Вера for you~~"
+    "Официантка Б" "Мы позаботимся о Вере для тебя~~"
 
     scene a_daily6_7 with tstmgr
 
-    a "See... see you..."
+    a "У-увидимся..."
 
-    a "tonight..."
+    a "сегодня вечером..."
 
     scene void with tstmgr
 
