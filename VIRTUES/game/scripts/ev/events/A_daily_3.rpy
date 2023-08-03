@@ -3,155 +3,155 @@ label A_daily_3:
     scene home_livingroom_night_background with tstmgr
     play music sorrow
 
-    narrator "It has been a few days since I posted this house on a B&B website."
+    narrator "Прошло несколько дней с тех пор, как я разместил этот дом на сайте B&B. (Прим. переводчика: B&B (Bed and breakfast) - отель типа «постель и завтрак».)"
 
-    narrator "Вера and I thought it might take a while to have our first guest, but this house has been full of guests ever since day one."
+    narrator "Мы с Верой думали, что может пройти некоторое время до приезда первого посетителя, но этот дом был полон гостей с самого первого дня."
 
-    narrator "I guess it's not too surprising. This house has several advantages that attract people."
+    narrator "Думаю, это не слишком удивительно. Этот дом имеет ряд преимуществ, привлекающих людей."
 
-    narrator "It's in a wonderful location not far from the university and downtown with lovely decor, private bathrooms in each bedroom, and most importantly, an affordable price. All of these things make it quite popular on the B&B website."
+    narrator "Он находится в прекрасном месте недалеко от университета и центра города. У него замечательный интерьер, отдельные ванные комнаты в каждой спальне и, самое главное, доступная цена. Всё это делает его довольно популярным на сайте B&B."
 
-    narrator "Now Вера gets up before dawn every day and quietly cleans the living room and the public bathrooms before cooking breakfast for the guests."
+    narrator "Теперь Вера каждый день встает до рассвета и тихонько убирает гостиную и общественные санузлы, прежде чем приготовить завтрак для посетителей."
 
-    narrator "She is indeed quite good at cooking, just as what she said."
+    narrator "Она действительно неплохо готовит, как она и сказала."
 
-    narrator "The guests have been impressed by the meals she's prepared and they all want to thank her in person, but Вера is gone by the time they are awake and asleep. Most of them haven't even gotten a chance to meet her yet."
+    narrator "Гости впечатлены блюдами, которые она готовит, и все они хотят поблагодарить её лично, но к тому времени, как они просыпаются и засыпают, Веры уже нет. Большинство из них ещё даже не успели познакомиться с ней."
 
-    narrator "So far only one guest has encountered Вера by chance."
+    narrator "Пока что только один гость случайно столкнулся с Верой."
 
-    narrator "According to that guest, one night he woke up and went to the kitchen for some water, but suddenly heard a sound from the hallway."
+    narrator "По словам того гостя, однажды ночью он проснулся и пошёл на кухню попить, но вдруг услышал звук из коридора."
 
     scene rcsj_a1 with tstmgr
 
-    narrator "He went to the hallway with curiosity and saw that Вера was just coming in the house from outside and changing her shoes."
+    narrator "Он с любопытством вышел в холл и увидел, что Вера заходит в дом и переобувается."
 
-    narrator "The guest didn't even realize Вера was the mysterious hostess at first. He thought a woman with such great cleaning and cooking skill must not be younger than 30 and did not expect to see a beautiful girl barely over 20."
+    narrator "Поначалу гость даже не понял, что Вера была той самой таинственной хозяйкой. Он думал, что женщина с такими прекрасными навыками уборки и готовки должна быть не моложе 30 лет, и не ожидал увидеть красивую девушку чуть за 20."
 
     scene rcsj_a2 with tstmgr
 
-    narrator "After Вера noticed him, she gave him a warm greeting. Although she was already exhausted from work, her smile was still very energetic."
+    narrator "Заметив гостя, Вера тепло его поприветствовала. Несмотря на то, что она была измотана работой, её улыбка по-прежнему была очень энергичной."
 
     scene home_livingroom_night_background with tstmgr
 
-    narrator "When the other guests heard this story, they started to blame me for letting Вера work outside until midnight."
+    narrator "Когда другие посетители услышали эту историю, они начали обвинять меня в том, что я позволил Вере работать на улице до полуночи."
 
-    narrator "Well, I kinda blame myself for that, too."
+    narrator "Ну, я тоже вроде как виню себя за это."
 
-    narrator "I know Вера is severely overloaded with work. She currently has four jobs to do every day and almost has no time to rest. She only can afford to sleep for about four to five hours a day."
+    narrator "Я знаю, что Вера сильно перегружена работой. Сейчас у неё четыре работы каждый день и почти нет времени на отдых. Она может позволить себе спать всего четыре-пять часов в день."
 
-    narrator "My work is so easy compared to hers."
+    narrator "Моя работа такая лёгкая по сравнению с её."
 
-    narrator "I need to find a way to ease her burden. Let's start by helping her with the housekeeping."
+    narrator "Мне нужно найти способ облегчить её бремя. Начнём с того, что поможем ей по хозяйству."
 
-    narrator "So I got up very early today and found her in the kitchen."
+    narrator "Итак, я встал сегодня очень рано и нашел её на кухне."
 
     scene rcsj_a3 with tstmgr
 
-    player "Morning."
+    player "Утречко."
 
     scene rcsj_a4 with tstmgr
 
-    a "Eh? You got up so early today."
+    a "А? Ты сегодня так рано встал."
 
-    player "Well, I'm here to help."
+    player "Что ж, я здесь, чтобы помочь."
 
     scene rcsj_a5 with tstmgr
 
-    a "That's very kind of you."
+    a "Это очень мило с твоей стороны."
 
-    player "So is there anything I can do, ma'am?"
+    player "Так я могу что-нибудь сделать, мэм?"
 
-    a "Ma'am? No one's ever called me that before."
+    a "Мэм? Меня еще никто так не называл."
 
-    a "If you would like, you can go clean up the living room, but please be quiet. The guests are still in their dreams."
+    a "Если хочешь, можешь пойти убраться в гостиной, но, пожалуйста, будь потише. Гости всё ещё спят."
 
-    player "Aye aye, ma'am."
+    player "Да, мэм."
 
     scene home_livingroom_night_background with tstmgr
 
-    narrator "I took a while to clean the living room. It's not easy to clean without making any noise. I have to be very careful and try twice as hard."
+    narrator "Мне потребовалось некоторое время, чтобы убрать гостиную. Нелегко убираться не издавая ни звука. Я должен быть очень осторожным и стараться вдвое усерднее."
 
-    narrator "It's hard to believe Вера does this willingly every day. It must be painstaking for her."
+    narrator "Трудно поверить, что Вера это делает добровольно каждый день. Должно быть, для неё это напряжённая работа."
 
-    narrator "I feel guilty about it."
+    narrator "Из-за этого я чувствую себя виноватым."
 
     narrator "... ... ... ..."
 
     scene rcsj_a4 with tstmgr
 
-    a "Have you finished cleaning?"
+    a "Ты закончил уборку?"
 
-    player "Ah, yes."
+    player "А, да."
 
-    player "Tomorrow I will do it again. And not just tomorrow, from now on, I will help you with housekeeping every day. Let's do it together."
+    player "Завтра я снова уберусь. И не только завтра, с этого момента я буду помогать тебе по хозяйству каждый день. Давай заниматься этим вместе."
 
     a "... ... ... ..."
 
-    a "Thank you."
+    a "Спасибо тебе."
 
-    player "And..."
+    player "И..."
 
     scene rcsj_a6 with tstmgr
 
-    a "Is there anything on your mind?"
+    a "Тебя что-то беспокоит?"
 
-    player "Well, now that our business is on the right track, have you thought about quitting your other jobs and becoming my full-time B&B assistant?"
+    player "Что ж, теперь, когда наш бизнес на правильном пути, ты не думала о том, чтобы бросить другую работу и стать моей постоянной помощницей в отеле B&B?"
 
-    player "I will... I will pay you a wage. It won't be much for now, but at least you won't be so tired every day."
+    player "Я буду... Я буду платить тебе зарплату. Пока что это будет немного, но, по крайней мере, ты не будешь так уставать каждый день."
 
     a "... ... ... ..."
 
     scene rcsj_a5 with tstmgr
 
-    a "Thank you..."
+    a "Спасибо..."
 
-    a "But no, not yet."
+    a "Но нет, ещё нет."
 
-    a "I have to earn as much money as I can to support my mom. I am still young, I can handle all these jobs without a doubt."
+    a "Я должна зарабатывать как можно больше, чтобы поддерживать маму. Я ещё молода, я без сомнений могу управиться на всех этих работах."
 
-    player "But if you keep overburdening yourself with work, your body will break down soon or later."
+    player "Но если ты продолжишь перегружать себя работой, твоё тело рано или поздно не выдержит."
 
     a "... ... ... ..."
 
-    a "I am okay, don't worry."
+    a "Я в порядке, не волнуйся."
 
-    player "But..."
+    player "Но..."
 
-    a "You really don't need to worry about me. I didn't feel any tired."
+    a "Тебе действительно не нужно беспокоиться обо мне. Я не чувствую никакой усталости."
 
-    narrator "I can't persuade this stubborn girl. She has her own insistence."
+    narrator "Я не могу уговорить эту упрямую девушку. У неё есть своя настойчивость."
 
-    narrator "And I can't force her to quit those jobs, either. I have to respect her choice."
+    narrator "И я также не могу заставить её бросить эти работы. Я должен уважать её выбор."
 
-    player "Fine. If you are okay with it, I won't say anything again. But let's make a deal."
+    player "Отлично. Если тебя всё устраивает, я больше ничего не скажу. Но давай заключим сделку."
 
-    a "What deal?"
+    a "Какую сделку?"
 
-    player "Once this B&B business grows big enough, I will pay you wage comparable to all of your current wages combined And you will quit those jobs to be my full-time B&B assistant. Do you accept?"
+    player "Как только этот отельный бизнес станет достаточно большим, я буду платить тебе зарплату, сравнимую со всеми твоими текущими заработками вместе взятыми. И ты уволишься с тех работ, чтобы стать моей помощницей на полную ставку. Согласна?"
 
     scene rcsj_a7 with tstmgr
 
     a "... ... ... ..."
 
-    a "But you don't have to do this."
+    a "Но тебе не стоит этого делать."
 
-    player "I insist."
+    player "Я настаиваю."
 
     scene rcsj_a5 with tstmgr
 
     a "... ... ... ..."
 
-    a "Alright, I accept that deal."
+    a "Хорошо, я принимаю эту сделку."
 
-    a "Thank you."
+    a "Спасибо."
 
-    player "Thank you, too."
+    player "И тебе спасибо."
 
     scene void with tstmgr
 
     narrator "... ... ... ..."
 
-    player "(I need to do something to make this B&B business more profitable. That's the only way to let Вера quit the other jobs.)"
+    player "(Мне нужно что-то придумать, чтобы сделать наш отельный бизнес более прибыльным. Это единственный способ позволить Вере бросить другие работы.)"
 
     narrator "... ... ... ..."
 
