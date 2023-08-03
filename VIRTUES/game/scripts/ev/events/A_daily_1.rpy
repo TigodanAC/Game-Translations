@@ -3,37 +3,35 @@ label A_daily_1:
     scene bar_background with tstmgr
     play music happy
 
-    "Restaurateur" "You know, I raised Вера's wage recently."
+    "Ресторатор" "Знаешь, я недавно поднял Вере зарплату."
 
-    player "For real? That's not like you. You are practically famous for your parsimony."
+    player "Серьёзно? Это на тебя не похоже. Ты практически знаменит своей бережливостью."
 
-    "Restaurateur" "That's because I believe none of my other employees deserve a higher wage. Вера is different, however. She deserves more."
+    "Ресторатор" "Это потому, что я считаю, что никто из других моих сотрудников не заслуживает более высокой зарплаты. Однако Вера другая. Она заслуживает большего."
 
-    player "Why is that?"
+    player "Почему это?"
 
-    "Restaurateur" "Because she can do everything! Hosting, serving, cleaning the kitchen and restrooms, you name it. I've never seen any of my employees have such a passion before."
+    "Ресторатор" "Потому что она может все! Приём посетителей, обслуживание, уборка кухни и туалетов, как вы это называете. Я никогда раньше не видел, чтобы кто-то из моих сотрудников проявлял такой ​энтузиазм."
+    player "О чём, чёрт возьми, ты говоришь?"
 
-    player "What the fuck are you talking about?"
+    player "Ты заставил её убирать кухню и туалеты?"
 
-    player "You made her clean the kitchen and restrooms?"
+    "Ресторатор" "Эй, не сердись на меня. Она сама вызвалась делать все эти вещи. Ты поймёшь, о чём я говорю, если проведёшь с ней некоторое время. В этой девушке так много энергии."
 
-    "Restaurateur" "Hey, don't get mad at me. She volunteered to do all those things. You'll know what I'm talking about if you spend some time with her. That girl has so much energy."
+    "Ресторатор" "Кстати, именно поэтому я решил поднять ей зарплату. Я бы никогда не стал плохо обращаться с таким хорошим сотрудником."
 
-    "Restaurateur" "Besides, that's why I decide to raise her wage. I would never mistreat such a good employee."
+    player "Ну уж нет, она здесь не для того, чтобы быть твоей уборщицей."
 
-    player "o no no, she is not here to be your janitor."
-
-    "Restaurateur" "And I am not treating her like a janitor, either, am I? Now she earns about two times more than a normal server does. If she stays here longer than a year, I may even make her my service manager."
-
+    "Ресторатор" "Но я и не отношусь к ней как к уборщице, не так ли? Сейчас она зарабатывает примерно в два раза больше, чем среднестатистический официант. Если она пробудет здесь дольше года, я могу даже сделать её своим менеджером по обслуживанию."
     player "... ... ... ..."
 
-    narrator "I lifted my head up, and saw the back of Вера's figure serving a table of guests."
+    narrator "Я поднял голову и увидел спину Веры, обслуживающей стол посетителей."
 
-    narrator "Indeed, just like the restaurateur said, she is so energetic. No matter what she had been through, she still seems to embrace her life with full of optimism and passion."
+    narrator "В самом деле, как и сказал ресторатор, она такая энергичная. Несмотря на то, через что ей пришлось пройти, она всё ещё, кажется, воспринимает свою жизнь с оптимизмом и страстью."
 
     narrator "... ... ... ..."
 
-    narrator "Perhaps I was worried too much."
+    narrator "Возможно, я переживал слишком сильно."
 
     narrator "... ... ... ..."
 
