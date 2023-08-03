@@ -8,9 +8,9 @@ label d4_4:
 
     scene day3_a19 with tstmgr
 
-    narrator "I hate to hurt girls' feelings, but I did hurt Вера last night. Every time when I close my eyes, the picture of Вера's crying would come to my mind. Maybe she'll never forgive me on that."
+    narrator "I hate to hurt girls' feelings, but I did hurt Vera last night. Every time when I close my eyes, the picture of Vera's crying would come to my mind. Maybe she'll never forgive me on that."
 
-    narrator "From my perspective, sex is only a game, a game that both players would enjoy. It can happen anytime, in any place, with anybody. And alcohol is a perfect catalyst for it. But... Вера obviously doesn't think that way. She is too pure and too innocent to live in this city."
+    narrator "From my perspective, sex is only a game, a game that both players would enjoy. It can happen anytime, in any place, with anybody. And alcohol is a perfect catalyst for it. But... Vera obviously doesn't think that way. She is too pure and too innocent to live in this city."
 
     scene void with tstmgr
 
@@ -36,7 +36,7 @@ label d4_4_bLine:
 
     scene day4_fix_3 with tstmgr
 
-    narrator "That girl, Вера, I just cannot forget her. "
+    narrator "That girl, Vera, I just cannot forget her. "
 
     narrator "Pretty face, attractive body, amazing breasts, the personality seems nice as well. How can any man forget such a girl?"
 

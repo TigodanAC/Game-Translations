@@ -3,7 +3,7 @@ label E_daily_7:
     scene void with tstmgr
     play music sorrow
 
-    "*The following plot is from Элиза’s perspective*"
+    "*The following plot is from Elisa’s perspective*"
 
 
 
@@ -45,7 +45,7 @@ label E_daily_7:
 
     scene e_daily6_2 with tstmgr
 
-    e "(Admit it, Элиза. You are not a young girl anymore, you should face the truth.)"
+    e "(Admit it, Elisa. You are not a young girl anymore, you should face the truth.)"
 
 
 
@@ -165,7 +165,7 @@ label E_daily_7:
 
     scene e_daily7_13 with tstmgr
 
-    e "Oh... Элиза, What have you done?"
+    e "Oh... Elisa, What have you done?"
 
 
 
@@ -201,13 +201,13 @@ label E_daily_7:
 
     scene e_daily7_9 with tstmgr
 
-    player "(Talking in sleep) Айрин... ... ... ..."
+    player "(Talking in sleep) Irene... ... ... ..."
 
 
 
     scene e_daily7_11 with tstmgr
 
-    e "Айрин? She is in his dream, too?"
+    e "Irene? She is in his dream, too?"
 
 
 
@@ -219,7 +219,7 @@ label E_daily_7:
 
     scene e_daily7_9 with tstmgr
 
-    player "(Talking in sleep) Элиза... ... ... ..."
+    player "(Talking in sleep) Elisa... ... ... ..."
 
 
 
@@ -231,7 +231,7 @@ label E_daily_7:
 
     scene e_daily7_12 with tstmgr
 
-    e "And... this is the first time he calls me ‘Элиза’ instead of ‘Aunt Элиза’. What is he dreaming about exactly?"
+    e "And... this is the first time he calls me ‘Elisa’ instead of ‘Aunt Elisa’. What is he dreaming about exactly?"
 
 
 

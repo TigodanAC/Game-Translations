@@ -19,7 +19,7 @@ label A_action_sha_1_girlfriend:
     label A_action_sha_1_girlfriend_choice_1:
 
     menu:
-        "Show me your breasts" if True:
+        "Show me your breasts":
 
 
             player "I want to give a kiss at your naked breasts, just like the last time~"
@@ -32,7 +32,7 @@ label A_action_sha_1_girlfriend:
 
             a "(Blushed) ... ... ... ..."
 
-            player "Come on, Вера, there are no other people around, don’t be shy..."
+            player "Come on, Vera, there are no other people around, don’t be shy..."
 
             scene a_action_sha_1_4 with tstmgr
 
@@ -84,8 +84,8 @@ label A_action_sha_1_girlfriend:
 
             scene void with tstmgr
 
-            "Вера then pushed me away, lifted up her dress, and ran away from me awkwardly."
-        "Lift your skirt up" if True:
+            "Vera then pushed me away, lifted up her dress, and ran away from me awkwardly."
+        "Lift your skirt up":
 
 
 
@@ -110,7 +110,7 @@ label A_action_sha_1_girlfriend:
 
             a "What? No!"
 
-            player "Come on, Вера, there are no other people around, don’t be shy..."
+            player "Come on, Vera, there are no other people around, don’t be shy..."
 
             scene a_action_sha_1_3 with tstmgr
 
@@ -162,7 +162,7 @@ label A_action_sha_1_girlfriend:
 
             scene void with tstmgr
 
-            "Вера then pulled down her skirt and ran away from me awkwardly."
+            "Vera then pulled down her skirt and ran away from me awkwardly."
 
 
 

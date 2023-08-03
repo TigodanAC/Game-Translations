@@ -41,7 +41,7 @@ label E_love_4:
 
 
 
-    "I suggested Aunt Элиза have a beach trip the other day. That’s why we are here right now."
+    "I suggested Aunt Elisa have a beach trip the other day. That’s why we are here right now."
 
 
 
@@ -71,7 +71,7 @@ label E_love_4:
 
 
 
-    player "Are you alright, Aunt Элиза?"
+    player "Are you alright, Aunt Elisa?"
 
 
 
@@ -177,11 +177,11 @@ label E_love_4:
 
 
 
-    "I was half-forced to go with Айрин and Теодора. We then played beach volleyball for some time."
+    "I was half-forced to go with Irene and Theodora. We then played beach volleyball for some time."
 
 
 
-    "But I was not in the mood at all. I was worried about Aunt Элиза."
+    "But I was not in the mood at all. I was worried about Aunt Elisa."
 
 
 
@@ -203,7 +203,7 @@ label E_love_4:
 
 
 
-    player "I don’t feel so good. It might be a sunstroke. I’ll go find Aunt Элиза and have a rest."
+    player "I don’t feel so good. It might be a sunstroke. I’ll go find Aunt Elisa and have a rest."
 
 
 
@@ -237,7 +237,7 @@ label E_love_4:
 
 
 
-    player "(I really would like to go with them and have fun in the water together. But... Aunt Элиза is more important for now...)"
+    player "(I really would like to go with them and have fun in the water together. But... Aunt Elisa is more important for now...)"
 
 
 
@@ -245,7 +245,7 @@ label E_love_4:
 
 
 
-    "Meanwhile, Элиза was resting on a beach chair and... ..."
+    "Meanwhile, Elisa was resting on a beach chair and... ..."
 
 
 
@@ -289,7 +289,7 @@ label E_love_4:
 
 
 
-    player "You are absolutely charming as you used to be, Aunt Элиза."
+    player "You are absolutely charming as you used to be, Aunt Elisa."
 
 
 
@@ -299,7 +299,7 @@ label E_love_4:
 
     scene e_love_4_26 with tstmgr
 
-    e "By the way, why didn’t you stay with Theo and Айрин?"
+    e "By the way, why didn’t you stay with Theo and Irene?"
 
 
 
@@ -307,7 +307,7 @@ label E_love_4:
 
 
 
-    player "I think you are the one that needs my company, Aunt Элиза. I don’t want you to feel lonely."
+    player "I think you are the one that needs my company, Aunt Elisa. I don’t want you to feel lonely."
 
 
 
@@ -359,7 +359,7 @@ label E_love_4:
 
 
 
-    player "Aunt Элиза... ..."
+    player "Aunt Elisa... ..."
 
 
 
@@ -423,7 +423,7 @@ label E_love_4:
 
     scene e_love_4_36 with tstmgr
 
-    player "What are you talking about, Aunt Элиза?"
+    player "What are you talking about, Aunt Elisa?"
 
 
 
@@ -457,7 +457,7 @@ label E_love_4:
 
 
 
-    player "Aunt Элиза... ..."
+    player "Aunt Elisa... ..."
 
 
 
@@ -467,13 +467,13 @@ label E_love_4:
 
 
 
-    "The extreme softness, the wonderful elasticity, and Aunt Элиза’s good-smelling body scent combined together. No man can ever resist this..."
+    "The extreme softness, the wonderful elasticity, and Aunt Elisa’s good-smelling body scent combined together. No man can ever resist this..."
 
 
 
     scene e_love_4_39 with tstmgr
 
-    player "Aunt Элиза... This feels so great~"
+    player "Aunt Elisa... This feels so great~"
 
 
 
@@ -489,7 +489,7 @@ label E_love_4:
 
 
 
-    player "Aunt Элиза... ..."
+    player "Aunt Elisa... ..."
 
 
 

@@ -11,7 +11,7 @@ label B_love_3:
 
     narrator "Hmm? ..."
 
-    narrator "It's a call from Сеннин."
+    narrator "It's a call from Senning."
 
     player "Hello, Sen. How's it going?"
 
@@ -37,11 +37,11 @@ label B_love_3:
 
     narrator "... ... ... ..."
 
-    narrator "I rushed to the university and found Сеннин at the student center."
+    narrator "I rushed to the university and found Senning at the student center."
 
     scene b_love4_1 with tstmgr
 
-    player "Hi... Сеннин... Are you alright?"
+    player "Hi... Senning... Are you alright?"
 
     b "... ... ... ..."
 
@@ -57,7 +57,7 @@ label B_love_3:
 
     player "That's the reason you cry? One F in an assignment?"
 
-    narrator "Сеннин nodded her head."
+    narrator "Senning nodded her head."
 
     player "... ... ... ..."
 
@@ -165,7 +165,7 @@ label B_love_3:
 
     scene b_love4_13 with tstmgr
 
-    narrator "I noticed that Сеннин has grasped my cuff."
+    narrator "I noticed that Senning has grasped my cuff."
 
     scene b_love4_14 with tstmgr
 

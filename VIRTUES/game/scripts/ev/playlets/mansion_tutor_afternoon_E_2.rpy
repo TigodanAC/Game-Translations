@@ -2,7 +2,7 @@ label mansion_tutor_afternoon_E_2:
 
     scene d_room_background with tstmgr
 
-    "At the time when I was tutoring Айрин, Aunt Элиза quietly opened the door with a crack and looked inside..."
+    "At the time when I was tutoring Irene, Aunt Elisa quietly opened the door with a crack and looked inside..."
 
 
 
@@ -16,7 +16,7 @@ label mansion_tutor_afternoon_E_2:
 
 
 
-    e "Sigh... ... I wish I could sit on your legs like Айрин..."
+    e "Sigh... ... I wish I could sit on your legs like Irene..."
 
 
 

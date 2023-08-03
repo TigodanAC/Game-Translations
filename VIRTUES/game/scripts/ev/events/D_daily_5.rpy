@@ -3,13 +3,13 @@ label D_daily_5:
     scene void with tstmgr
     play music happy
 
-    player "Айрин, are you there."
+    player "Irene, are you there."
 
     narrator "No one answers."
 
     player "Weird. "
 
-    narrator "Aunt Элиза said that Айрин is at home, but where she is? She seems not in her room."
+    narrator "Aunt Elisa said that Irene is at home, but where she is? She seems not in her room."
 
     narrator "I have no idea of where she may be at. I mean, that's one of the cons when you live in a large mansion -- It's difficult to find people. She could be anywhere."
 
@@ -39,7 +39,7 @@ label D_daily_5:
 
     g "[P]?"
 
-    player "Eh, Hi, Уно, it's nice to meet you. No, I mean, I'm sorry for coming in. I was looking for Айрин, didn't know you are here."
+    player "Eh, Hi, Uno, it's nice to meet you. No, I mean, I'm sorry for coming in. I was looking for Irene, didn't know you are here."
 
     g "You said the exact same thing as the last time."
 
@@ -73,9 +73,9 @@ label D_daily_5:
 
     narrator "She put her glasses on and sat up on the bed."
 
-    g "Айрин is at upstairs if you are looking for her. "
+    g "Irene is at upstairs if you are looking for her. "
 
-    narrator "I noticed that she didn't use S.C. to call Айрин again. That's... good."
+    narrator "I noticed that she didn't use S.C. to call Irene again. That's... good."
 
     player "Oh, thanks..."
 
@@ -87,7 +87,7 @@ label D_daily_5:
 
     scene rcsj_d25 with tstmgr
 
-    g "I am kind of homeless right now. Айрин allows me to stay here until I find somewhere to live."
+    g "I am kind of homeless right now. Irene allows me to stay here until I find somewhere to live."
 
     player "What happened?"
 
@@ -117,7 +117,7 @@ label D_daily_5:
 
     player "Eh, nothing. "
 
-    d "Did you see Уно's naked body? Hentai!"
+    d "Did you see Uno's naked body? Hentai!"
 
     player "What? Who? Me? No, I didn't."
 
@@ -127,7 +127,7 @@ label D_daily_5:
 
     player "What is it?"
 
-    d "See, Уно needs a place to live, and I know you have quite a few available bedrooms in your house. "
+    d "See, Uno needs a place to live, and I know you have quite a few available bedrooms in your house. "
 
     player "Eh... yes, but why don't you just keep her here?"
 
@@ -135,13 +135,13 @@ label D_daily_5:
 
     d "But... you are the one who needs money. I know you are having a tough time these days~"
 
-    d "Уно will pay the rent... I thought you might need that."
+    d "Uno will pay the rent... I thought you might need that."
 
     "Oh dear, she is such a thoughtful angel."
 
-    player "Yeah... I do need that. Thanks, Айрин, for caring about me."
+    player "Yeah... I do need that. Thanks, Irene, for caring about me."
 
-    player "And fine, Уно can move into my house. I'll prepare a bedroom for her."
+    player "And fine, Uno can move into my house. I'll prepare a bedroom for her."
 
     scene d_mansion_inside_smile with tstmgr
 

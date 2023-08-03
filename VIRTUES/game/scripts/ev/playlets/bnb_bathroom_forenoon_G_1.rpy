@@ -2,7 +2,7 @@ label bnb_bathroom_forenoon_G_1:
 
     scene bnb_bathroom_forenoon_g_1_1 with tstmgr
 
-    "Уно is having a shower in the bathroom..."
+    "Uno is having a shower in the bathroom..."
 
 
 

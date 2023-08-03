@@ -32,7 +32,7 @@ label beach_forenoon_F_1:
 
 
 
-    player "Рэйчел... ..."
+    player "Rachel... ..."
 
 
 

@@ -6,7 +6,7 @@ label mansion_swimpool_afternoon_D_1:
 
 
 
-    player "Айрин? I was looking for you everywhere."
+    player "Irene? I was looking for you everywhere."
 
 
 
@@ -22,7 +22,7 @@ label mansion_swimpool_afternoon_D_1:
 
 
 
-    player "Aunt Элиза won't be happy about this."
+    player "Aunt Elisa won't be happy about this."
 
 
 

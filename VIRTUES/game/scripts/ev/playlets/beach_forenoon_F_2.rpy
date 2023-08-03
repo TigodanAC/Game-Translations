@@ -32,13 +32,13 @@ label beach_forenoon_F_2:
 
 
 
-    "I noticed that Рэйчел is peeping at me all the time."
+    "I noticed that Rachel is peeping at me all the time."
 
 
 
     scene beach_forenoon_f_2_3 with tstmgr
 
-    player "Рэйчел? What's the matter?"
+    player "Rachel? What's the matter?"
 
 
 
@@ -52,7 +52,7 @@ label beach_forenoon_F_2:
 
 
 
-    "Рэйчел became so hard to understand after I gave her that DVD..."
+    "Rachel became so hard to understand after I gave her that DVD..."
 
 
 

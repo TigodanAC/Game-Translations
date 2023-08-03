@@ -7,7 +7,7 @@ label G_daily_14:
 
 
 
-    "*The following plot is from Уно’s perspective.*"
+    "*The following plot is from Uno’s perspective.*"
 
 
 
@@ -29,7 +29,7 @@ label G_daily_14:
 
 
 
-    b "Уно, why are you wearing that collar? It looks strange and doesn’t suit you at all."
+    b "Uno, why are you wearing that collar? It looks strange and doesn’t suit you at all."
 
 
 
@@ -103,7 +103,7 @@ label G_daily_14:
 
     scene g_daily14_12 with tstmgr
 
-    g "Сеннин is jealous, Сеннин is jealous~"
+    g "Senning is jealous, Senning is jealous~"
 
 
 
@@ -111,7 +111,7 @@ label G_daily_14:
 
 
 
-    g "It’s so easy to read Сеннин’s mind~"
+    g "It’s so easy to read Senning’s mind~"
 
 
 

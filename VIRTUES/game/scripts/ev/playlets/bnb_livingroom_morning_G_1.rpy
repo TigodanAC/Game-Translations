@@ -2,7 +2,7 @@ label bnb_livingroom_morning_G_1:
 
     scene bnb_livingroom_morning_g_1_1 with tstmgr
 
-    player "Shit, Уно. I told you not to dress like this in the public areas."
+    player "Shit, Uno. I told you not to dress like this in the public areas."
 
 
 

@@ -2,7 +2,7 @@ label harem_AC_1:
 
     scene harem_ac_1_1 with dissolve
 
-    "Вера just got off work and we are walking home..."
+    "Vera just got off work and we are walking home..."
 
 
 
@@ -48,13 +48,13 @@ label harem_AC_1:
 
     scene harem_ac_1_6 with tstmgr
 
-    a "(Surprised at Теодора's move) Ah! You!"
+    a "(Surprised at Theodora's move) Ah! You!"
 
 
 
     scene harem_ac_1_7 with tstmgr
 
-    a "(Took [P]'s another arm and looked at Теодора a bit angrily) Humph!~"
+    a "(Took [P]'s another arm and looked at Theodora a bit angrily) Humph!~"
 
 
 

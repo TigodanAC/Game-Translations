@@ -3,7 +3,7 @@ label D_daily_11:
     scene void with tstmgr
     play music happy
 
-    "Later this evening, in Айрин's room... ..."
+    "Later this evening, in Irene's room... ..."
 
 
 
@@ -31,7 +31,7 @@ label D_daily_11:
 
 
 
-    "Aunt Элиза got divorced even before Айрин was born and that man never showed up again. My dad once said that he left the country."
+    "Aunt Elisa got divorced even before Irene was born and that man never showed up again. My dad once said that he left the country."
 
 
 
@@ -129,7 +129,7 @@ label D_daily_11:
 
 
 
-    "I spent the entire afternoon at tutoring Айрин... ..."
+    "I spent the entire afternoon at tutoring Irene... ..."
 
 
     stop music fadeout 1.0

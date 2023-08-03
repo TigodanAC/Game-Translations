@@ -7,7 +7,7 @@ label Special_4:
 
 
 
-    "Well, Сеннин and Теодора want me to talk with their mothers, so... ..."
+    "Well, Senning and Theodora want me to talk with their mothers, so... ..."
 
 
 
@@ -33,7 +33,7 @@ label Special_4:
 
 
 
-    player "Eh... ... Теодора and Сеннин are worried about you. They don’t know why their mothers suddenly become hostile to each other."
+    player "Eh... ... Theodora and Senning are worried about you. They don’t know why their mothers suddenly become hostile to each other."
 
 
 
@@ -97,7 +97,7 @@ label Special_4:
 
 
 
-    e "Which of them do you think will have this position? Теодора, or Сеннин."
+    e "Which of them do you think will have this position? Theodora, or Senning."
 
 
 
@@ -123,7 +123,7 @@ label Special_4:
 
     scene special_4_11 with tstmgr
 
-    "Lady Minna" "Tell me, kid, what do I have to do to make Сеннин your lawful wife?"
+    "Lady Minna" "Tell me, kid, what do I have to do to make Senning your lawful wife?"
 
 
 
@@ -201,13 +201,13 @@ label Special_4:
 
 
 
-    "Lady Minna" "It is important to me... and Сеннин."
+    "Lady Minna" "It is important to me... and Senning."
 
 
 
     scene special_4_20 with tstmgr
 
-    e "Actually I don’t really care if you are going to make Теодора your lawful wife or not..."
+    e "Actually I don’t really care if you are going to make Theodora your lawful wife or not..."
 
 
 
@@ -239,7 +239,7 @@ label Special_4:
 
     scene special_4_23 with tstmgr
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -303,7 +303,7 @@ label Special_4:
 
 
 
-    "Элиза pressed her breasts hard against Minna’s butt. Now my penis is experiencing the unparalleled pleasure that was brought by boobs, buttocks, and a milf’s pussy together."
+    "Elisa pressed her breasts hard against Minna’s butt. Now my penis is experiencing the unparalleled pleasure that was brought by boobs, buttocks, and a milf’s pussy together."
 
 
 
@@ -591,7 +591,7 @@ label Special_4:
 
 
 
-    "Lady Minna" "Oh, you can’t even do that, Элиза? You must have a poor sex life during the past two decades~"
+    "Lady Minna" "Oh, you can’t even do that, Elisa? You must have a poor sex life during the past two decades~"
 
 
 
@@ -693,7 +693,7 @@ label Special_4:
 
     scene void with tstmgr
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -749,7 +749,7 @@ label Special_4:
 
 
 
-    "Элиза’s boobs are waving violently, it made her milk spill all over my body and even my mouth, damn that’s so lewd~"
+    "Elisa’s boobs are waving violently, it made her milk spill all over my body and even my mouth, damn that’s so lewd~"
 
 
 
@@ -761,7 +761,7 @@ label Special_4:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -785,7 +785,7 @@ label Special_4:
 
 
 
-    "I ejaculated everything I got in Элиза's horny pussy..."
+    "I ejaculated everything I got in Elisa's horny pussy..."
 
 
 

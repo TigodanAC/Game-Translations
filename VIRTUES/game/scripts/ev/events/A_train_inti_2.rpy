@@ -47,7 +47,7 @@ label A_train_inti_2:
 
     scene void with tstmgr
 
-    "Вера left the toilet..."
+    "Vera left the toilet..."
 
 
 
@@ -101,7 +101,7 @@ label A_train_inti_2:
 
     scene a_train_inti_2_8 with tstmgr
 
-    a "(Ah, stop thinking those nonsenses, Вера, [P] is not a bad man!)"
+    a "(Ah, stop thinking those nonsenses, Vera, [P] is not a bad man!)"
 
 
 
@@ -233,7 +233,7 @@ label A_train_inti_2:
 
             "... ... ... ..."
 
-            "Sometime later, in Вера’s room..."
+            "Sometime later, in Vera’s room..."
 
             scene a_train_inti_2_65 with tstmgr
 
@@ -243,7 +243,7 @@ label A_train_inti_2:
 
             "It makes her look even more innocent and endearing."
 
-            player "My Вера... ..."
+            player "My Vera... ..."
 
             scene a_train_inti_2_66 with tstmgr
 
@@ -318,19 +318,19 @@ label A_train_inti_2:
 
             a "No... no need... ... This... feels so good~~~~"
 
-            "Вера is constantly trembling in my arms. It seems like she is keeping having small orgasms..."
+            "Vera is constantly trembling in my arms. It seems like she is keeping having small orgasms..."
 
             "Ahh... It’s so good to be a girl. Why can’t boys cum as frequently as girls too?"
 
             a "I feel like... I am flying in the sky~~~~~"
 
-            player "That’s because you are so light, Вера... ..."
+            player "That’s because you are so light, Vera... ..."
 
             a "I... I guess I will... soon be heavier... much heavier~~~~"
 
             a "Ohhhhh~~~ Yes, yes, I love the way you fuck me so much~~~"
 
-            player "Alright, Вера, I think I’m about to... ..."
+            player "Alright, Vera, I think I’m about to... ..."
 
             a "Are you about to cum? Please, please do it outside!"
 
@@ -395,9 +395,9 @@ label A_train_inti_2:
 
             a "I will... quit all the jobs in a month and begin to learn to be a good full-time housewife~"
 
-            player "Вера... ..."
+            player "Vera... ..."
 
-            "It must be hard for Вера to say it. She always feels insecure and doesn’t want to rely on other people too much, but now... ..."
+            "It must be hard for Vera to say it. She always feels insecure and doesn’t want to rely on other people too much, but now... ..."
 
             "Motherhood is really a magical thing~"
 
@@ -439,7 +439,7 @@ label A_train_inti_2:
 
             "... ... ... ..."
 
-            "Later, in Вера’s room..."
+            "Later, in Vera’s room..."
 
             a "[P]... ... [P]... ... Don't... ahhh~~"
 
@@ -529,7 +529,7 @@ label A_train_inti_2:
 
                     scene a_train_inti_2_30 with tstmgr
 
-                    "Вера looked pleasantly surprised after hearing that."
+                    "Vera looked pleasantly surprised after hearing that."
 
                     scene a_train_inti_2_32 with tstmgr
 
@@ -601,9 +601,9 @@ label A_train_inti_2:
 
             scene a_train_inti_2_43 with tstmgr
 
-            player "Вера... ..."
+            player "Vera... ..."
 
-            "It must be hard for Вера to say it. She always feels insecure and doesn’t want to rely on other people too much, but now... ..."
+            "It must be hard for Vera to say it. She always feels insecure and doesn’t want to rely on other people too much, but now... ..."
 
             "Motherhood is really a magical thing~"
 
@@ -725,7 +725,7 @@ label A_train_inti_2:
 
     scene a_train_inti_2_56 with tstmgr
 
-    "Вера covered her face and ran away."
+    "Vera covered her face and ran away."
 
 
 

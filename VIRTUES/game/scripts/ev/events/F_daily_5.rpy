@@ -9,13 +9,13 @@ label F_daily_5:
 
     scene f_daily5_1 with dissolve
 
-    f "Сеннин, I have a question for you."
+    f "Senning, I have a question for you."
 
 
 
     scene f_daily5_2 with tstmgr
 
-    b "Emm? Yes, what is it, Рэйчел?"
+    b "Emm? Yes, what is it, Rachel?"
 
 
 
@@ -45,7 +45,7 @@ label F_daily_5:
 
     scene f_daily5_5 with tstmgr
 
-    f "(Surprised at Сеннин’s flurry) I... I... I don’t know... I was just curious..."
+    f "(Surprised at Senning’s flurry) I... I... I don’t know... I was just curious..."
 
 
 

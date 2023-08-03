@@ -33,11 +33,11 @@ label C_love_1:
 
 
 
-    "Sometime earlier, I was sent to deliver a document to the other floor. And then I ran into Теодора at an elevator."
+    "Sometime earlier, I was sent to deliver a document to the other floor. And then I ran into Theodora at an elevator."
 
 
 
-    "Being with Теодора alone is the least thing I want to do at this moment. I have known this girl since I was 5, and now she is my supervisor. This is so... embarrassing."
+    "Being with Theodora alone is the least thing I want to do at this moment. I have known this girl since I was 5, and now she is my supervisor. This is so... embarrassing."
 
 
 
@@ -49,7 +49,7 @@ label C_love_1:
 
 
 
-    "To be fair, being stuck in an elevator is not a big deal. I don't have claustrophobia, and I am pretty sure this situation will be fixed in at most 30 minutes. But God, why do I have to be stuck with Теодора!"
+    "To be fair, being stuck in an elevator is not a big deal. I don't have claustrophobia, and I am pretty sure this situation will be fixed in at most 30 minutes. But God, why do I have to be stuck with Theodora!"
 
 
 

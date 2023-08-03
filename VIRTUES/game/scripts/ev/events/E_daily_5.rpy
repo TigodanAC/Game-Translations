@@ -3,7 +3,7 @@ label E_daily_5:
     scene void with tstmgr
     play music happy
 
-    "*The following plot is from Элиза’s perspective*"
+    "*The following plot is from Elisa’s perspective*"
 
 
 
@@ -19,7 +19,7 @@ label E_daily_5:
 
     scene e_daily5_2 with tstmgr
 
-    f "Great! Everybody who works out in this park is my friend! I’m Рэйчел, what’s your name?"
+    f "Great! Everybody who works out in this park is my friend! I’m Rachel, what’s your name?"
 
 
 
@@ -29,17 +29,17 @@ label E_daily_5:
 
     scene e_daily5_3 with tstmgr
 
-    e "You can call me Элиза."
+    e "You can call me Elisa."
 
 
 
     scene e_daily5_4 with tstmgr
 
-    f "Okay, Элиза. Do you want to run with me?"
+    f "Okay, Elisa. Do you want to run with me?"
 
 
 
-    e "It’s my pleasure, Рэйчел..."
+    e "It’s my pleasure, Rachel..."
 
 
 
@@ -59,7 +59,7 @@ label E_daily_5:
 
 
 
-    f "That doesn't sound good, Элиза. Do you have any lung problems?"
+    f "That doesn't sound good, Elisa. Do you have any lung problems?"
 
 
 
@@ -89,7 +89,7 @@ label E_daily_5:
 
     scene e_daily5_8 with tstmgr
 
-    f "But don’t find yourself any excuses. Come on, Элиза! You have to push yourself to the limit, otherwise you won’t be able to reduce the weight of your breasts!"
+    f "But don’t find yourself any excuses. Come on, Elisa! You have to push yourself to the limit, otherwise you won’t be able to reduce the weight of your breasts!"
 
 
 
@@ -111,7 +111,7 @@ label E_daily_5:
 
     scene e_daily5_11 with tstmgr
 
-    e "Wait... wait for me, Рэйчел!"
+    e "Wait... wait for me, Rachel!"
 
 
 
@@ -121,7 +121,7 @@ label E_daily_5:
 
 
 
-    "Элиза and Рэйчел have become friends..."
+    "Elisa and Rachel have become friends..."
 
 
 

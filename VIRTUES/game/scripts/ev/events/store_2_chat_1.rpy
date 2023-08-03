@@ -26,7 +26,7 @@ label store_2_chat_1:
 
 
 
-    "Lady Minna" "Why didn’t Сеннин live in your house with you?"
+    "Lady Minna" "Why didn’t Senning live in your house with you?"
 
 
 

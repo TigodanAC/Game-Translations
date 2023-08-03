@@ -1,6 +1,6 @@
 label d4_3:
 
-    narrator "I really had messed this thing up. The hangover... Вера... ... My head hurts so bad... ..."
+    narrator "I really had messed this thing up. The hangover... Vera... ... My head hurts so bad... ..."
 
     narrator "And... I still have one class to attend this afternoon."
 

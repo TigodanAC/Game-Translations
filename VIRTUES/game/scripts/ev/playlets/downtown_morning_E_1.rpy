@@ -2,7 +2,7 @@ label downtown_morning_E_1:
 
     scene downtown_morning_e_1_1 with tstmgr
 
-    player "Aunt Элиза? I didn't expect to see you here in such an early morning."
+    player "Aunt Elisa? I didn't expect to see you here in such an early morning."
 
 
 

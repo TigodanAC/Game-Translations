@@ -28,9 +28,9 @@ label pcsjhx:
 
     player "(Oh, shit. I forgot I can't use my dad's credit cards anymore)."
 
-    narrator "I turned to Сеннин."
+    narrator "I turned to Senning."
 
-    player "Сеннин... I am out of money, would you please...?"
+    player "Senning... I am out of money, would you please...?"
 
     scene b_school_restaurant_normal with tstmgr
 
@@ -66,7 +66,7 @@ label pcsjhx:
 
     b "You know I always have your back."
 
-    player "I will, Сеннин, thank you."
+    player "I will, Senning, thank you."
 
     scene void with tstmgr
 
@@ -76,7 +76,7 @@ label pcsjhx:
 
     scene wsdg_a3 with tstmgr
 
-    narrator "I came to Вера's workplace to take her home as usual."
+    narrator "I came to Vera's workplace to take her home as usual."
 
     scene a_pcsj_normal with tstmgr
 
@@ -144,11 +144,11 @@ label pcsjhx:
 
     a "You know, I can pay you an amount of rent every month. It may not be much, but I just want to help."
 
-    player "No need, Вера. I have already found two jobs that can provide me enough income to take care of those payments."
+    player "No need, Vera. I have already found two jobs that can provide me enough income to take care of those payments."
 
     a "I see... ..."
 
-    player "I had promised you that I won't charge you for anything, Вера, and I intend to keep that promise."
+    player "I had promised you that I won't charge you for anything, Vera, and I intend to keep that promise."
 
     a "... ... ... ..."
 
@@ -186,7 +186,7 @@ label pcsjhx:
 
     narrator "I mean, God, I am one of the best financial-major students in our college. But now a country girl who never went to college is telling me about a business opportunity I never realized. I should be ashamed."
 
-    player "Вера, you are truly a genius!"
+    player "Vera, you are truly a genius!"
 
     a "(Surprising) It can really work?"
 
@@ -240,7 +240,7 @@ label pcsjhx:
 
     narrator "... ... ... ..."
 
-    narrator "After that, I walked Вера home. We discussed the future of our B&B business all the way home with great enthusiasm. It feels wonderful to prepare my own career for the first time in my life."
+    narrator "After that, I walked Vera home. We discussed the future of our B&B business all the way home with great enthusiasm. It feels wonderful to prepare my own career for the first time in my life."
 
     narrator "My first business partner is a country girl? Man... life is so strange."
 

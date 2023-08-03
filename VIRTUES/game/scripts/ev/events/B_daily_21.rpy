@@ -47,7 +47,7 @@ label B_daily_21:
 
 
 
-    "It looks like Сеннин is quite shy when her mother is around."
+    "It looks like Senning is quite shy when her mother is around."
 
 
 
@@ -79,7 +79,7 @@ label B_daily_21:
 
 
 
-    c "[P]... and Сеннин?"
+    c "[P]... and Senning?"
 
 
 
@@ -111,7 +111,7 @@ label B_daily_21:
 
     scene b_daily21_11 with tstmgr
 
-    "Lady Minna" "Glad to see you still remember my name, Элиза~"
+    "Lady Minna" "Glad to see you still remember my name, Elisa~"
 
 
 
@@ -131,7 +131,7 @@ label B_daily_21:
 
 
 
-    "Теодора answered with a shrug."
+    "Theodora answered with a shrug."
 
 
 
@@ -180,24 +180,24 @@ label B_daily_21:
     label B_daily_21_choice_1:
 
     menu:
-        "Take Сеннин’s hand":
+        "Take Senning’s hand":
 
 
             scene b_daily21_16 with tstmgr
 
-            player "*Taking Сеннин’s hand* Let’s go then~"
+            player "*Taking Senning’s hand* Let’s go then~"
 
             b "[P]~~~"
 
             c "Huh... ... ... ..."
-        "Take Теодора’s hand":
+        "Take Theodora’s hand":
 
 
 
 
             scene b_daily21_17 with tstmgr
 
-            player "*Taking Теодора’s hand* Let’s go then~"
+            player "*Taking Theodora’s hand* Let’s go then~"
 
             c "*Being slightly surprised* Huh... ..."
 

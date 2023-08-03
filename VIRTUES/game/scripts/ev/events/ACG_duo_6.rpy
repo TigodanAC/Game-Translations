@@ -105,13 +105,13 @@ label ACG_duo_6:
 
 
 
-    "Теодора had a great orgasm... ... Ah, I almost came too, it was so close~"
+    "Theodora had a great orgasm... ... Ah, I almost came too, it was so close~"
 
 
 
     scene acg_duo_6_3 with tstmgr
 
-    a "Теодора was quivering so violently... ..."
+    a "Theodora was quivering so violently... ..."
 
 
 
@@ -175,7 +175,7 @@ label ACG_duo_6:
 
 
 
-    g "Вера is so... dedicatedly... ..."
+    g "Vera is so... dedicatedly... ..."
 
 
 
@@ -191,7 +191,7 @@ label ACG_duo_6:
 
 
 
-    c "Wow... that’s it? I thought you could last longer, Вера~"
+    c "Wow... that’s it? I thought you could last longer, Vera~"
 
 
 
@@ -217,7 +217,7 @@ label ACG_duo_6:
 
     scene acg_duo_6_8 with tstmgr
 
-    a "Уно... ... It’s... your turn now... ..."
+    a "Uno... ... It’s... your turn now... ..."
 
 
 
@@ -237,7 +237,7 @@ label ACG_duo_6:
 
 
 
-    player "It’s not unfortunate at all, come here, Уно~"
+    player "It’s not unfortunate at all, come here, Uno~"
 
 
 
@@ -253,11 +253,11 @@ label ACG_duo_6:
 
 
 
-    c "Wait, what do you want to do? I won’t allow you to hurt Уно."
+    c "Wait, what do you want to do? I won’t allow you to hurt Uno."
 
 
 
-    player "Relax~ how would I ever hurt any of you angels?~ I just want to make Уно have fun too~"
+    player "Relax~ how would I ever hurt any of you angels?~ I just want to make Uno have fun too~"
 
 
 
@@ -277,7 +277,7 @@ label ACG_duo_6:
 
 
 
-    player "I’ll make you enjoy the night like your sisters do, Уно~"
+    player "I’ll make you enjoy the night like your sisters do, Uno~"
 
 
 
@@ -307,7 +307,7 @@ label ACG_duo_6:
 
 
 
-    a "Уно looks so enjoying... ..."
+    a "Uno looks so enjoying... ..."
 
 
 
@@ -339,7 +339,7 @@ label ACG_duo_6:
 
 
 
-    "Уно and I orgasmed at the same time."
+    "Uno and I orgasmed at the same time."
 
 
 
@@ -349,7 +349,7 @@ label ACG_duo_6:
 
 
 
-    a "Good job, Уно!"
+    a "Good job, Uno!"
 
 
 
@@ -385,7 +385,7 @@ label ACG_duo_6:
 
     scene acg_duo_6_20 with tstmgr
 
-    a "Уно~ You are so smart!~"
+    a "Uno~ You are so smart!~"
 
 
 
@@ -409,7 +409,7 @@ label ACG_duo_6:
 
     scene acg_duo_6_22 with tstmgr
 
-    "Вера&Уно" "Yeah!"
+    "Vera&Uno" "Yeah!"
 
 
 

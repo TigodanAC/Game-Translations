@@ -3,7 +3,7 @@ label F_love_4:
     scene void with tstmgr
     play music sorrow
 
-    "It has been a few days since I met Рэйчел the last time. Now it may be the time to pay her a visit."
+    "It has been a few days since I met Rachel the last time. Now it may be the time to pay her a visit."
 
 
 
@@ -93,7 +93,7 @@ label F_love_4:
 
 
 
-    player "Alright, see, Рэйчел, the touching thing that you want me to do is actually very inappropriate. It should be an intimate activity between lovers, not friends."
+    player "Alright, see, Rachel, the touching thing that you want me to do is actually very inappropriate. It should be an intimate activity between lovers, not friends."
 
 
 

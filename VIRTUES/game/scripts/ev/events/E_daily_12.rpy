@@ -3,7 +3,7 @@ label E_daily_12:
     scene void with tstmgr
     play music sorrow
 
-    "Late night, in Элиза’s room..."
+    "Late night, in Elisa’s room..."
 
 
 
@@ -37,7 +37,7 @@ label E_daily_12:
 
     scene e_daily12_3 with tstmgr
 
-    e "Awwwwwwwww!... ... No, Элиза, stop being ridiculous!"
+    e "Awwwwwwwww!... ... No, Elisa, stop being ridiculous!"
 
 
 
@@ -51,7 +51,7 @@ label E_daily_12:
 
 
 
-    "Элиза tossed about all night and couldn’t fall asleep until dawn."
+    "Elisa tossed about all night and couldn’t fall asleep until dawn."
 
 
 
@@ -65,7 +65,7 @@ label E_daily_12:
 
     scene e_daily12_4 with tstmgr
 
-    player "Hi, Aunt Элиза, I’m here for the tutoring."
+    player "Hi, Aunt Elisa, I’m here for the tutoring."
 
 
 
@@ -103,7 +103,7 @@ label E_daily_12:
 
 
 
-    "Later, in Элиза's room..."
+    "Later, in Elisa's room..."
 
 
 
@@ -123,7 +123,7 @@ label E_daily_12:
 
     scene e_daily12_8 with tstmgr
 
-    "Элиза fell on her bed and closed her eyes. Her pants were still half off but she didn’t care about it anymore. She was just so tired."
+    "Elisa fell on her bed and closed her eyes. Her pants were still half off but she didn’t care about it anymore. She was just so tired."
 
 
 
@@ -143,7 +143,7 @@ label E_daily_12:
 
     scene e_daily12_8 with dissolve
 
-    "Sometime later, although Элиза was still asleep, somehow she felt that a person just got into the room and came to her bed."
+    "Sometime later, although Elisa was still asleep, somehow she felt that a person just got into the room and came to her bed."
 
 
 
@@ -289,7 +289,7 @@ label E_daily_12:
 
 
 
-    "Айрин’s voice suddenly rang out from the air."
+    "Irene’s voice suddenly rang out from the air."
 
 
 
@@ -309,7 +309,7 @@ label E_daily_12:
 
 
 
-    e "Айрин... it’s you... ..."
+    e "Irene... it’s you... ..."
 
 
 
@@ -379,7 +379,7 @@ label E_daily_12:
 
     scene e_daily12_25 with tstmgr
 
-    "Айрин left the bed..."
+    "Irene left the bed..."
 
 
 

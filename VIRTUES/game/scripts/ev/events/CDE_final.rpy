@@ -3,7 +3,7 @@ label CDE_final:
     scene void with tstmgr
     play music sorrow
 
-    "*This is the happy harem ending for Теодора&Айрин&Элиза, it happens in a route which you only have Теодора, Айрин, and Элиза in your harem. You will be able to reexperience this scene in your room.*"
+    "*This is the happy harem ending for Theodora&Irene&Elisa, it happens in a route which you only have Theodora, Irene, and Elisa in your harem. You will be able to reexperience this scene in your room.*"
 
 
 
@@ -91,17 +91,17 @@ label CDE_final:
 
 
 
-    "Some days later, in an afternoon, I came to Элиза’s mansion as always."
+    "Some days later, in an afternoon, I came to Elisa’s mansion as always."
 
 
 
     scene cde_final_7 with dissolve
 
-    "Ever since I had Элиза and her daughters in my harem, I’ve been coming here more and more often. They said now I am the master of this house, so basically I have taken here as my new home~"
+    "Ever since I had Elisa and her daughters in my harem, I’ve been coming here more and more often. They said now I am the master of this house, so basically I have taken here as my new home~"
 
 
 
-    "But today the atmosphere seems to be a bit strange. I could hear Элиза ranting in her room. Did someone make her angry?"
+    "But today the atmosphere seems to be a bit strange. I could hear Elisa ranting in her room. Did someone make her angry?"
 
 
 
@@ -123,11 +123,11 @@ label CDE_final:
 
 
 
-    "Теодора handed me a piece of newspaper which was balled up by Элиза a few minutes ago."
+    "Theodora handed me a piece of newspaper which was balled up by Elisa a few minutes ago."
 
 
 
-    "It took me some time to recognize the words on that crumpled paper, but I immediately understood the reason for Элиза’s anger after I figured out what the newspaper said."
+    "It took me some time to recognize the words on that crumpled paper, but I immediately understood the reason for Elisa’s anger after I figured out what the newspaper said."
 
 
 
@@ -137,7 +137,7 @@ label CDE_final:
 
 
 
-    "It looks like a tabloid photographer took a picture of me and Элиза on the beach."
+    "It looks like a tabloid photographer took a picture of me and Elisa on the beach."
 
 
 
@@ -197,7 +197,7 @@ label CDE_final:
 
     scene cde_final_13 with dissolve
 
-    "I came to Элиза’s room. She was sitting on her bed quietly and watching her phone."
+    "I came to Elisa’s room. She was sitting on her bed quietly and watching her phone."
 
 
 
@@ -275,7 +275,7 @@ label CDE_final:
 
 
 
-    player "Элиза, I... ... we... ..."
+    player "Elisa, I... ... we... ..."
 
 
 
@@ -371,7 +371,7 @@ label CDE_final:
 
     scene cde_final_29 with dissolve
 
-    d "*Holding the camera* Don’t worry, I have seen Уно doing this thing many times~"
+    d "*Holding the camera* Don’t worry, I have seen Uno doing this thing many times~"
 
 
 
@@ -461,7 +461,7 @@ label CDE_final:
 
 
 
-    c "I can’t believe Айрин and I were born from here~"
+    c "I can’t believe Irene and I were born from here~"
 
 
 
@@ -473,7 +473,7 @@ label CDE_final:
 
     scene cde_final_36 with tstmgr
 
-    player "*Interrupting* But you haven’t grown old at all, Элиза~"
+    player "*Interrupting* But you haven’t grown old at all, Elisa~"
 
 
 
@@ -597,7 +597,7 @@ label CDE_final:
 
 
 
-    player "Theo’s pussy... is on my face... ... while Элиза’s pussy... is swallowing my dick... ..."
+    player "Theo’s pussy... is on my face... ... while Elisa’s pussy... is swallowing my dick... ..."
 
 
 
@@ -627,7 +627,7 @@ label CDE_final:
 
 
 
-    "Are they kissing right now? Shit, I wish I can see that in my eyes, but now my face is completely covered by Теодора’s wet meaty pussy while Элиза is riding on my dick~"
+    "Are they kissing right now? Shit, I wish I can see that in my eyes, but now my face is completely covered by Theodora’s wet meaty pussy while Elisa is riding on my dick~"
 
 
 
@@ -635,7 +635,7 @@ label CDE_final:
 
 
 
-    "Oh, yeah, I can see the video later, thanks, Айрин~"
+    "Oh, yeah, I can see the video later, thanks, Irene~"
 
 
 
@@ -657,7 +657,7 @@ label CDE_final:
 
 
 
-    "My hard dick is being swallowed and spitted over and over again by Элиза’s tight pussy. It gives me such a strong pleasure, and this pleasure is getting even stronger due to my problem breathing... ..."
+    "My hard dick is being swallowed and spitted over and over again by Elisa’s tight pussy. It gives me such a strong pleasure, and this pleasure is getting even stronger due to my problem breathing... ..."
 
 
 
@@ -685,11 +685,11 @@ label CDE_final:
     play sound cumshot
     $ flashlight()
 
-    "Элиза and Theo" "Ohhhhhhhhhhhhhhhhhhhhhhhhhhh!~~~~~~~"
+    "Elisa and Theo" "Ohhhhhhhhhhhhhhhhhhhhhhhhhhh!~~~~~~~"
 
 
 
-    "The three of us came together, but actually I didn’t even realize it. I have lost my last consciousness when Теодора squirted her fluid on my face... ..."
+    "The three of us came together, but actually I didn’t even realize it. I have lost my last consciousness when Theodora squirted her fluid on my face... ..."
 
 
 
@@ -789,7 +789,7 @@ label CDE_final:
 
 
 
-    d "Wow~ I think Теодора almost cries. I have never seen her like this before~ [P] must fuck her really hard~"
+    d "Wow~ I think Theodora almost cries. I have never seen her like this before~ [P] must fuck her really hard~"
 
 
 
@@ -885,11 +885,11 @@ label CDE_final:
 
 
 
-    d "Ohhhh~~ hhh~~ [P]~~ hhhh~~~ big penis... ... too big for Айрин~~~"
+    d "Ohhhh~~ hhh~~ [P]~~ hhhh~~~ big penis... ... too big for Irene~~~"
 
 
 
-    d "Айрин is about to... lose her mind too~~ awwww~~~~"
+    d "Irene is about to... lose her mind too~~ awwww~~~~"
 
 
 
@@ -1017,7 +1017,7 @@ label CDE_final:
 
 
 
-    d "You almost destroyed Айрин’s little pussy!"
+    d "You almost destroyed Irene’s little pussy!"
 
 
 
@@ -1079,7 +1079,7 @@ label CDE_final:
 
 
 
-    "Элиза kept being harassed and slandered on the internet for some time afterward, but she didn’t care about it at all. She has become proud to stand against the world..."
+    "Elisa kept being harassed and slandered on the internet for some time afterward, but she didn’t care about it at all. She has become proud to stand against the world..."
 
 
 
@@ -1099,7 +1099,7 @@ label CDE_final:
 
 
 
-    "An afternoon, in Элиза’s forest bungalow... ..."
+    "An afternoon, in Elisa’s forest bungalow... ..."
 
 
 
@@ -1109,7 +1109,7 @@ label CDE_final:
 
 
 
-    player "Hi, Элиза... ..."
+    player "Hi, Elisa... ..."
 
 
 
@@ -1139,7 +1139,7 @@ label CDE_final:
 
 
 
-    "Элиза’s thighs are so soft and there is such a strong milk fragrance on her body. I sleep like a baby every time when I’m with her."
+    "Elisa’s thighs are so soft and there is such a strong milk fragrance on her body. I sleep like a baby every time when I’m with her."
 
 
 
@@ -1153,7 +1153,7 @@ label CDE_final:
 
     scene cde_final_64 with tstmgr
 
-    player "Life is so wonderful, right, Элиза?~"
+    player "Life is so wonderful, right, Elisa?~"
 
 
 
@@ -1161,7 +1161,7 @@ label CDE_final:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -1241,7 +1241,7 @@ label CDE_final:
 
 
 
-    "Employ A" "[P], that’s Теодора’s husband’s name, right? It seems like Айрин has quite a good relationship with him. Shit... ... I wish I can be so close with those hotties too."
+    "Employ A" "[P], that’s Theodora’s husband’s name, right? It seems like Irene has quite a good relationship with him. Shit... ... I wish I can be so close with those hotties too."
 
 
 
@@ -1265,11 +1265,11 @@ label CDE_final:
 
 
 
-    "Employee A" "Shit, I didn’t know that. It can’t be true, right? Him and that Элиза Shinyrost? No way... ..."
+    "Employee A" "Shit, I didn’t know that. It can’t be true, right? Him and that Elisa Shinyrost? No way... ..."
 
 
 
-    "Employee B" "I thought it was impossible too, but after seeing how intimate between Айрин and him... ..."
+    "Employee B" "I thought it was impossible too, but after seeing how intimate between Irene and him... ..."
 
 
 
@@ -1291,7 +1291,7 @@ label CDE_final:
 
 
 
-    "Sometime later, in Элиза’s mansion..."
+    "Sometime later, in Elisa’s mansion..."
 
 
 
@@ -1325,7 +1325,7 @@ label CDE_final:
 
 
 
-    "Ah... ... I knew things would end up like this if the two of them spend a day in the company together without me or Элиза."
+    "Ah... ... I knew things would end up like this if the two of them spend a day in the company together without me or Elisa."
 
 
 
@@ -1365,7 +1365,7 @@ label CDE_final:
 
 
 
-    "Sometime later, in Теодора’s room... ..."
+    "Sometime later, in Theodora’s room... ..."
 
 
 
@@ -1447,7 +1447,7 @@ label CDE_final:
 
 
 
-    "The dildos were actually covered in the lust lotion that I bought from the beach shop. The lotion was absorbed fast by Theo and Айрин through their warm anus. Their face soon turned red and their breath turned heavy as well."
+    "The dildos were actually covered in the lust lotion that I bought from the beach shop. The lotion was absorbed fast by Theo and Irene through their warm anus. Their face soon turned red and their breath turned heavy as well."
 
 
 
@@ -1505,7 +1505,7 @@ label CDE_final:
 
 
 
-    "Now Элиза and I are like two beasts in heat fucking on the ground. Her daughters are watching us with desire and surprise."
+    "Now Elisa and I are like two beasts in heat fucking on the ground. Her daughters are watching us with desire and surprise."
 
 
 
@@ -1521,7 +1521,7 @@ label CDE_final:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -1567,7 +1567,7 @@ label CDE_final:
 
 
 
-    player "Элиза, I’m gonna cum in your ass!"
+    player "Elisa, I’m gonna cum in your ass!"
 
 
 
@@ -1593,7 +1593,7 @@ label CDE_final:
 
     scene cde_final_91 with tstmgr
 
-    c "Let's stop fighting, Айрин, so we can have [P]’s cock sooner~"
+    c "Let's stop fighting, Irene, so we can have [P]’s cock sooner~"
 
 
 
@@ -1601,7 +1601,7 @@ label CDE_final:
 
 
 
-    c "Айрин... ..."
+    c "Irene... ..."
 
 
 
@@ -1671,7 +1671,7 @@ label CDE_final:
 
 
 
-    "Yep, Элиза is giving me a titjob and her daughters are watching it carefully like they are taking a class in school."
+    "Yep, Elisa is giving me a titjob and her daughters are watching it carefully like they are taking a class in school."
 
 
 
@@ -1679,11 +1679,11 @@ label CDE_final:
 
 
 
-    "Элиза has this serving personality. She loves to serve me in every way she can with her mature body, and she would gain so much pleasure and satisfaction from serving."
+    "Elisa has this serving personality. She loves to serve me in every way she can with her mature body, and she would gain so much pleasure and satisfaction from serving."
 
 
 
-    "She has gradually turned her daughters into women like her. She teaches them every night about how to serve me better, and instills in them the pleasure of serving. Now both Теодора and Айрин have realized how joyful it is to serve a man with their body~"
+    "She has gradually turned her daughters into women like her. She teaches them every night about how to serve me better, and instills in them the pleasure of serving. Now both Theodora and Irene have realized how joyful it is to serve a man with their body~"
 
 
 
@@ -1779,7 +1779,7 @@ label CDE_final:
 
     scene cde_final_97 with tstmgr
 
-    player "Айрин... ... You really have the same big-titty gene as your mother and sister~ Ahhhh~~~ Look at these cuties~~"
+    player "Irene... ... You really have the same big-titty gene as your mother and sister~ Ahhhh~~~ Look at these cuties~~"
 
 
 
@@ -1831,7 +1831,7 @@ label CDE_final:
 
 
 
-    d "Айрин is ready!~"
+    d "Irene is ready!~"
 
 
 
@@ -1855,7 +1855,7 @@ label CDE_final:
 
     scene cde_final_103 with dissolve
 
-    "In order to serve me better, Элиза got a massage bed in the bathing room a few months ago."
+    "In order to serve me better, Elisa got a massage bed in the bathing room a few months ago."
 
 
 
@@ -1875,7 +1875,7 @@ label CDE_final:
 
 
 
-    "As a master of serving, Элиза always knows how to make me happy~"
+    "As a master of serving, Elisa always knows how to make me happy~"
 
 
 
@@ -1897,7 +1897,7 @@ label CDE_final:
 
     scene cde_final_108 with tstmgr
 
-    "Ah... ... Айрин, although she has grown up a lot during the last few years, she is still so light to me~ It feels like a cat just crawled up my body~"
+    "Ah... ... Irene, although she has grown up a lot during the last few years, she is still so light to me~ It feels like a cat just crawled up my body~"
 
 
 
@@ -1939,7 +1939,7 @@ label CDE_final:
 
 
 
-    "Ahhhhh~~~ Айрин’s hanging tits... ... so soft and erotic~ How did they even grow so big in just a few years?"
+    "Ahhhhh~~~ Irene’s hanging tits... ... so soft and erotic~ How did they even grow so big in just a few years?"
 
 
 
@@ -1959,11 +1959,11 @@ label CDE_final:
 
 
 
-    player "*Speaking in Айрин’s tits with difficulty* Theo... dora... ... oh dear... ..."
+    player "*Speaking in Irene’s tits with difficulty* Theo... dora... ... oh dear... ..."
 
 
 
-    "Теодора... ..."
+    "Theodora... ..."
 
 
 
@@ -2015,7 +2015,7 @@ label CDE_final:
 
     scene cde_final_121 with tstmgr
 
-    player "I am trampling on Теодора’s soft melons, ohhhhh~~~~ I think I am gonna cry~"
+    player "I am trampling on Theodora’s soft melons, ohhhhh~~~~ I think I am gonna cry~"
 
 
 
@@ -2033,7 +2033,7 @@ label CDE_final:
 
     scene cde_final_122 with tstmgr
 
-    player "Теодора... Теодора... ..."
+    player "Theodora... Theodora... ..."
 
 
 
@@ -2117,7 +2117,7 @@ label CDE_final:
 
 
 
-    player "Айрин... I almost forgot you~ Come here~"
+    player "Irene... I almost forgot you~ Come here~"
 
 
 
@@ -2149,11 +2149,11 @@ label CDE_final:
 
 
 
-    d "Айрин’s little nipples... ... are being messed up so bad~~~~~"
+    d "Irene’s little nipples... ... are being messed up so bad~~~~~"
 
 
 
-    player "*Biting and sucking* Simmm~~ zimmmm~~ huummmm~~~ Айрин~~~~"
+    player "*Biting and sucking* Simmm~~ zimmmm~~ huummmm~~~ Irene~~~~"
 
 
 
@@ -2231,11 +2231,11 @@ label CDE_final:
 
     scene cde_final_135 with tstmgr
 
-    e "Alright then, Айрин goes first, Theo goes second, after that, let’s have a shower together as the end of today’s service~"
+    e "Alright then, Irene goes first, Theo goes second, after that, let’s have a shower together as the end of today’s service~"
 
 
 
-    "Элиза didn’t count herself in because she has already got a creampie earlier today during the love-lock play. As a great mother, now she would just give way to her daughters."
+    "Elisa didn’t count herself in because she has already got a creampie earlier today during the love-lock play. As a great mother, now she would just give way to her daughters."
 
 
 
@@ -2275,7 +2275,7 @@ label CDE_final:
 
 
 
-    player "Ahh~~ yes, Айрин, your tight pussy always feels so damn good~"
+    player "Ahh~~ yes, Irene, your tight pussy always feels so damn good~"
 
 
 
@@ -2287,7 +2287,7 @@ label CDE_final:
 
 
 
-    d "[P]~~~ [P]~~ Woof~~ woof~~ Now Айрин is your dog too~ hee hee~"
+    d "[P]~~~ [P]~~ Woof~~ woof~~ Now Irene is your dog too~ hee hee~"
 
 
 
@@ -2305,11 +2305,11 @@ label CDE_final:
 
 
 
-    "Айрин suddenly squatted up and pushed her buttocks together with her hands. This significantly made her pussy much tighter~"
+    "Irene suddenly squatted up and pushed her buttocks together with her hands. This significantly made her pussy much tighter~"
 
 
 
-    player "Ohhhhhh~~~ Айрин~~ your pussy is getting so tight~~~"
+    player "Ohhhhhh~~~ Irene~~ your pussy is getting so tight~~~"
 
 
 
@@ -2321,7 +2321,7 @@ label CDE_final:
 
 
 
-    d "Hee~~ hee hee~ Айрин... Айрин is a good dog~"
+    d "Hee~~ hee hee~ Irene... Irene is a good dog~"
 
 
 
@@ -2339,11 +2339,11 @@ label CDE_final:
 
 
 
-    player "I love you, Айрин!"
+    player "I love you, Irene!"
 
 
 
-    d "Awwww~~~ [P] is fucking Айрин’s shameless pussy so hard~~~"
+    d "Awwww~~~ [P] is fucking Irene’s shameless pussy so hard~~~"
 
 
 
@@ -2355,7 +2355,7 @@ label CDE_final:
 
 
 
-    player "Let’s cum together, Айрин!"
+    player "Let’s cum together, Irene!"
 
 
     stop sound
@@ -2373,7 +2373,7 @@ label CDE_final:
 
     scene cde_final_142 with tstmgr
 
-    player "Do you enjoy my service, Айрин?"
+    player "Do you enjoy my service, Irene?"
 
 
 
@@ -2419,7 +2419,7 @@ label CDE_final:
 
 
 
-    c "I was... having so much fun just watching you fucked Айрин... ..."
+    c "I was... having so much fun just watching you fucked Irene... ..."
 
 
 
@@ -2791,7 +2791,7 @@ label CDE_final:
 
 
 
-    "Теодора, Айрин, Элиза... ... Maybe the whole world will curse our love, but... nothing will divide us. We will face all the challenges together and we will face them with a smile~"
+    "Theodora, Irene, Elisa... ... Maybe the whole world will curse our love, but... nothing will divide us. We will face all the challenges together and we will face them with a smile~"
 
 
 

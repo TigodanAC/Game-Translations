@@ -34,7 +34,7 @@ label harem_DG_1:
 
 
 
-    g "Awwwwwwww~~~~ Айрин~~~~"
+    g "Awwwwwwww~~~~ Irene~~~~"
 
 
 

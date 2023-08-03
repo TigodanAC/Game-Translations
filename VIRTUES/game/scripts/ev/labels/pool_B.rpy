@@ -1,8 +1,8 @@
 label pool_B:
     menu:
-        "Meet her at the ladder" if True:
+        "Meet her at the ladder":
             jump pool_B.b_pool_1
-        "Go in the pool with her" if True:
+        "Go in the pool with her":
 
             jump pool_B.b_pool_2
 
@@ -36,7 +36,7 @@ label pool_B.b_pool_1:
 
     scene b_pool_1_3 with tstmgr
 
-    player "*immersed face in Сеннин’s butt* How could I miss any chance to taste this tasty butt?"
+    player "*immersed face in Senning’s butt* How could I miss any chance to taste this tasty butt?"
 
 
 
@@ -98,7 +98,7 @@ label pool_B.b_pool_1:
 
     scene b_pool_1_10 with tstmgr
 
-    b "I don’t want you to teach me anymore. I’m going to find Теодора. She must be a better teacher than you."
+    b "I don’t want you to teach me anymore. I’m going to find Theodora. She must be a better teacher than you."
 
 
 
@@ -166,7 +166,7 @@ label pool_B.b_pool_1:
 
     scene void with tstmgr
 
-    "We then spent the entire time on looking for Сеннин’s glasses."
+    "We then spent the entire time on looking for Senning’s glasses."
 
 
 

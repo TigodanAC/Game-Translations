@@ -2,7 +2,7 @@ label A_swdgsj:
 
     scene void with tstmgr
 
-    narrator "According to Jake, Вера works at a cafe every morning. Perhaps I could encounter her there and try and get to know her better."
+    narrator "According to Jake, Vera works at a cafe every morning. Perhaps I could encounter her there and try and get to know her better."
 
     narrator "... ... ... ..."
 
@@ -12,7 +12,7 @@ label A_swdgsj:
 
     narrator "The place is smaller than I imagined and quite...quaint. I don't know how a place can be so dark when the sun is beaming outside. Whose idea was this?"
 
-    narrator "Luckily, Вера is really here. It was not difficult to find her at all because she was the only server here."
+    narrator "Luckily, Vera is really here. It was not difficult to find her at all because she was the only server here."
 
     scene a_cafe_smile2 with tstmgr
 
@@ -22,7 +22,7 @@ label A_swdgsj:
 
     a "Ah..."
 
-    player "Oh? Hi, Вера. I didn't expect to see you here."
+    player "Oh? Hi, Vera. I didn't expect to see you here."
 
     a "Hello..."
 

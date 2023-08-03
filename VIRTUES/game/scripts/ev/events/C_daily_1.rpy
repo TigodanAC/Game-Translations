@@ -21,7 +21,7 @@ label C_daily_1:
 
     player "So, what's the matter, manager?"
 
-    narrator "I wouldn't dream of talking to Теодора with so much respect if it was a month ago."
+    narrator "I wouldn't dream of talking to Theodora with so much respect if it was a month ago."
 
     c "Nothing, I'm just checking our new employee's status."
 

@@ -55,7 +55,7 @@ label B_daily_3:
 
     b "Sure, no problem at all. You don't even need to mention that."
 
-    player "Thank you, Сеннин."
+    player "Thank you, Senning."
 
     b "By the way, [P.name], do you have any place to stay? I know you lived in a hotel before all these happened, but now you would not be able to afford it anymore, right?"
 

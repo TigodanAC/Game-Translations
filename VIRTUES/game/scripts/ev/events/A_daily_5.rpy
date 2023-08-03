@@ -35,7 +35,7 @@ label A_daily_5:
 
     narrator "... ... ... ..."
 
-    narrator "Вера and I started to do the housekeeping work together."
+    narrator "Vera and I started to do the housekeeping work together."
 
     narrator "But soon, I realized it was not a good idea. My work efficiency became very low after I teamed up with her."
 

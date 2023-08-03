@@ -3,7 +3,7 @@ label G_daily_10:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, in Уно’s room..."
+    "Later tonight, in Uno’s room..."
 
 
 
@@ -13,11 +13,11 @@ label G_daily_10:
 
 
 
-    player "Уно... Your body is so soft... ..."
+    player "Uno... Your body is so soft... ..."
 
 
 
-    "Here I am again, seeking comfort in Уно’s lovely body after I got stuck with my college assignments."
+    "Here I am again, seeking comfort in Uno’s lovely body after I got stuck with my college assignments."
 
 
 
@@ -29,7 +29,7 @@ label G_daily_10:
 
     scene g_daily10_3 with tstmgr
 
-    player "Yeah, thank you very much, Уно... I am now fully refreshed."
+    player "Yeah, thank you very much, Uno... I am now fully refreshed."
 
 
 
@@ -51,7 +51,7 @@ label G_daily_10:
 
 
 
-    player "Why are you always... so obedient to me, Уно?"
+    player "Why are you always... so obedient to me, Uno?"
 
 
 
@@ -121,7 +121,7 @@ label G_daily_10:
 
 
 
-    player "Уно... ... ... ..."
+    player "Uno... ... ... ..."
 
 
 
@@ -137,7 +137,7 @@ label G_daily_10:
 
     scene g_daily10_9 with dissolve
 
-    g "I got this pair of cat ears from Айрин. What do you think?"
+    g "I got this pair of cat ears from Irene. What do you think?"
 
 
 
@@ -151,7 +151,7 @@ label G_daily_10:
 
 
 
-    g "Do you want to help me achieve the second part of that dream? Do you want to... have Уно as a pet of yours?"
+    g "Do you want to help me achieve the second part of that dream? Do you want to... have Uno as a pet of yours?"
 
 
 
@@ -261,7 +261,7 @@ label G_daily_10:
 
 
 
-    player "Ohhhh... Уно’s titty attack!"
+    player "Ohhhh... Uno’s titty attack!"
 
 
 
@@ -281,11 +281,11 @@ label G_daily_10:
 
 
 
-    player "Can we have sex tonight, Уно?"
+    player "Can we have sex tonight, Uno?"
 
 
 
-    g "Уно loves to... But you still got assignments due tomorrow, right, master?"
+    g "Uno loves to... But you still got assignments due tomorrow, right, master?"
 
 
 
@@ -295,7 +295,7 @@ label G_daily_10:
 
     scene void with tstmgr
 
-    "I left Уно’s room reluctantly and got back to work after petting her for an hour."
+    "I left Uno’s room reluctantly and got back to work after petting her for an hour."
 
 
 

@@ -11,7 +11,7 @@ label B_date_1:
 
     narrator "... ... ... ..."
 
-    narrator "Maybe I should try ask Сеннин out to spend some time together."
+    narrator "Maybe I should try ask Senning out to spend some time together."
 
     narrator "I made her a call."
 
@@ -35,7 +35,7 @@ label B_date_1:
 
     scene b_date1_1 with tstmgr
 
-    player "Hi, Сеннин."
+    player "Hi, Senning."
 
     menu:
         "You look great":
@@ -221,7 +221,7 @@ label B_date_1:
 
     narrator "... ... ... ..."
 
-    narrator "We had a good chat along the way. Сеннин looks introverted in public but becomes outgoing when she is with me. We basically talk about everything."
+    narrator "We had a good chat along the way. Senning looks introverted in public but becomes outgoing when she is with me. We basically talk about everything."
 
     player "Are you wearing a new dress? I never saw you wear it before."
 
@@ -283,7 +283,7 @@ label B_date_1:
 
             $ openeyes("b_date1_10")
 
-            narrator "Сеннин is dressing in her bikini. She walked towards me, like a goddess of dusk."
+            narrator "Senning is dressing in her bikini. She walked towards me, like a goddess of dusk."
             narrator "She looks pretty as usual, but a lot sexier. The setting sun is sparkling behind her body, making her demure as a heavenly being."
             narrator "The sunlight shines on her fair skin, her big breasts, and her flat stomach. Now she is just... magnificent..."
             narrator "My eyes gaze at her greedily, like looking at a precious artwork."
@@ -308,12 +308,12 @@ label B_date_1:
             narrator "Is she?"
             narrator "Of course she is..."
             narrator "But..."
-            narrator "Another girl's face coming into my head after Сеннин asked the question."
+            narrator "Another girl's face coming into my head after Senning asked the question."
             scene day2_c10 with flashback
 
-            narrator "Теодора."
-            narrator "Although Теодора and I don't really get along with each other, I still have to admit that she is extremely charming when she wears a swimming suit. I don't think any man can resist her."
-            narrator "So who is better? Сеннин, or Theo?"
+            narrator "Theodora."
+            narrator "Although Theodora and I don't really get along with each other, I still have to admit that she is extremely charming when she wears a swimming suit. I don't think any man can resist her."
+            narrator "So who is better? Senning, or Theo?"
             narrator "How should I answer her?"
 
             menu:

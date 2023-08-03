@@ -2,7 +2,7 @@ label find_A_restaurant_evening_A_2:
 
     scene bar_background with tstmgr
 
-    player "Hi, Вера."
+    player "Hi, Vera."
 
 
 

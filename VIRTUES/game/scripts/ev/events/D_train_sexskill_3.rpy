@@ -67,7 +67,7 @@ label D_train_sexskill_3:
 
 
 
-    d "Айрин can make you cum only by her feet!~ Айрин is so good!"
+    d "Irene can make you cum only by her feet!~ Irene is so good!"
 
 
 
@@ -135,7 +135,7 @@ label D_train_sexskill_3:
 
 
 
-    player "Of course, Айрин~"
+    player "Of course, Irene~"
 
 
 
@@ -151,7 +151,7 @@ label D_train_sexskill_3:
 
 
 
-    "Айрин hasn’t graduated from highschool and does not yet have the freedom of leaving home at night, so I have to come to her if I want to spend a night with her."
+    "Irene hasn’t graduated from highschool and does not yet have the freedom of leaving home at night, so I have to come to her if I want to spend a night with her."
 
 
 
@@ -161,7 +161,7 @@ label D_train_sexskill_3:
 
 
 
-    player "Айрин... ..."
+    player "Irene... ..."
 
 
 
@@ -197,7 +197,7 @@ label D_train_sexskill_3:
 
 
 
-    player "Айрин, I'm going to give you the big cucumber you like!"
+    player "Irene, I'm going to give you the big cucumber you like!"
 
 
 
@@ -253,7 +253,7 @@ label D_train_sexskill_3:
 
 
 
-    "Айрин’s moaning resounded throughout the room. I hope Aunt Элиза won’t be woken up."
+    "Irene’s moaning resounded throughout the room. I hope Aunt Elisa won’t be woken up."
 
 
     stop sound
@@ -267,7 +267,7 @@ label D_train_sexskill_3:
 
 
 
-    d "Awwwww~~~ cucumber juice~~ I want your cucumber juice~~ Fill Айрин's little pussy with it, please~~ please~~"
+    d "Awwwww~~~ cucumber juice~~ I want your cucumber juice~~ Fill Irene's little pussy with it, please~~ please~~"
 
 
 
@@ -275,7 +275,7 @@ label D_train_sexskill_3:
 
 
 
-    player "Hang in there, Айрин, I'm cumming!"
+    player "Hang in there, Irene, I'm cumming!"
 
 
     stop sound
@@ -291,7 +291,7 @@ label D_train_sexskill_3:
 
 
 
-    player "That was hell of a creampie~ Are you alright, Айрин?"
+    player "That was hell of a creampie~ Are you alright, Irene?"
 
 
 
@@ -307,7 +307,7 @@ label D_train_sexskill_3:
 
 
 
-    player "Hmmmm? Айрин?"
+    player "Hmmmm? Irene?"
 
 
 

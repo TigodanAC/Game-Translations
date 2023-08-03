@@ -20,19 +20,19 @@ label A_daily_15.end:
 
 label A_daily_15.line_c:
 
-    "*The following plot is from Вера’s perspective*"
+    "*The following plot is from Vera’s perspective*"
 
 
 
     scene a_daily15_1 with dissolve
 
-    g "Good morning, Вера... ..."
+    g "Good morning, Vera... ..."
 
 
 
     scene a_daily15_2 with tstmgr
 
-    a "Oh, hi, Уно~ Why are you up so early today?"
+    a "Oh, hi, Uno~ Why are you up so early today?"
 
 
 
@@ -92,7 +92,7 @@ label A_daily_15.line_c:
 
 
 
-    "Уно left the living room and went to sleep again."
+    "Uno left the living room and went to sleep again."
 
 
 
@@ -128,7 +128,7 @@ label A_daily_15.line_c:
 
     scene void with tstmgr
 
-    "Вера ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
+    "Vera ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
 
 
 
@@ -198,13 +198,13 @@ label A_daily_15.line_c:
 
 label A_daily_15.line_d:
 
-    "*The following plot is from Вера’s perspective*"
+    "*The following plot is from Vera’s perspective*"
 
 
 
     scene a_daily15_1 with dissolve
 
-    "BnB Guest" "Good morning, Вера... ..."
+    "BnB Guest" "Good morning, Vera... ..."
 
 
 
@@ -256,7 +256,7 @@ label A_daily_15.line_d:
 
 
 
-    "BnB Guest" "Anyway, see you tonight, Вера, have a good day~"
+    "BnB Guest" "Anyway, see you tonight, Vera, have a good day~"
 
 
 
@@ -302,7 +302,7 @@ label A_daily_15.line_d:
 
     scene void with tstmgr
 
-    "Вера ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
+    "Vera ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
 
 
 

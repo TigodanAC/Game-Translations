@@ -3,7 +3,7 @@ label G_MoveIn:
     scene void with tstmgr
     play music sorrow
 
-    "Today is the day that Уно moves in."
+    "Today is the day that Uno moves in."
 
     "... ... ... ..."
 
@@ -15,7 +15,7 @@ label G_MoveIn:
 
     a "I don't know why, but I am getting a little bit nervous..."
 
-    a "This Уно... What's she like? "
+    a "This Uno... What's she like? "
 
     player "... ... ... ..."
 
@@ -73,7 +73,7 @@ label G_MoveIn:
 
     player "You... you are..."
 
-    "???" "Already forgot me? I'm Уно. We have met for... 3 times."
+    "???" "Already forgot me? I'm Uno. We have met for... 3 times."
 
     scene rcsj_d19 with flashback
 
@@ -89,7 +89,7 @@ label G_MoveIn:
 
     scene g_rzsj_5 with tstmgr
 
-    g "And you must be Вера. It's a pleasure to meet you."
+    g "And you must be Vera. It's a pleasure to meet you."
 
     scene g_rzsj_6 with tstmgr
 
@@ -119,7 +119,7 @@ label G_MoveIn:
 
     g "?... ..."
 
-    a "Hi, Уно. Do you need help with your luggage?"
+    a "Hi, Uno. Do you need help with your luggage?"
 
     scene g_rzsj_5 with tstmgr
 
@@ -129,7 +129,7 @@ label G_MoveIn:
 
     a "Then how about let me show you your room?"
 
-    "Уно answered with a nod."
+    "Uno answered with a nod."
 
     player "... ... ... ..."
 
@@ -161,9 +161,9 @@ label G_MoveIn:
 
     a "Eh, yeah. I work at a restaurant every night, thanks to [P]'s recommendation."
 
-    a "See you later, Уно."
+    a "See you later, Uno."
 
-    "Again, Уно answered with a nod."
+    "Again, Uno answered with a nod."
 
     scene g_rzsj_12 with tstmgr
 
@@ -179,7 +179,7 @@ label G_MoveIn:
 
     "... ... ... ..."
 
-    "Вера then left the room. Now it's just me and Уно."
+    "Vera then left the room. Now it's just me and Uno."
 
     player "I have a lot of questions to ask you."
 
@@ -189,7 +189,7 @@ label G_MoveIn:
 
     player "So what was going on back in the changeroom of that bookstore?"
 
-    player "Are you... a porn star or something? Does Айрин know this?"
+    player "Are you... a porn star or something? Does Irene know this?"
 
     scene g_rzsj_15 with tstmgr
 
@@ -201,7 +201,7 @@ label G_MoveIn:
 
     player "Just answer my questions!"
 
-    player "Айрин is an important friend of mine, I need to know if she is aware of your true identity."
+    player "Irene is an important friend of mine, I need to know if she is aware of your true identity."
 
     player "And I need to make sure that you won't lead her astray."
 
@@ -367,7 +367,7 @@ label G_MoveIn:
 
     player "Are you out of your mind?"
 
-    player "Does Айрин know this? That the girl she recommended to me is a blackmailer?"
+    player "Does Irene know this? That the girl she recommended to me is a blackmailer?"
 
     player "Why didn't you just stay in her house if it is about money? I'm sure that she won't charge you anything for staying there."
 
@@ -515,7 +515,7 @@ label G_MoveIn:
 
     "... ... ... ..."
 
-    "Well, I did give Уно a warm welcome, didn't I? Hopefully she can learn something from that."
+    "Well, I did give Uno a warm welcome, didn't I? Hopefully she can learn something from that."
 
     "One day later... ... ... ..."
 

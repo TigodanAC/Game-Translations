@@ -2,7 +2,7 @@ label bnb_bathroom_evening_B_1:
 
     scene void with tstmgr
 
-    "This evening, Сеннин came to my house for bathing."
+    "This evening, Senning came to my house for bathing."
 
 
 

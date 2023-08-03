@@ -6,7 +6,7 @@ label college_campus_forenoon_E_1:
 
 
 
-    player "Aunt Элиза? What are you doing here?"
+    player "Aunt Elisa? What are you doing here?"
 
 
 
@@ -14,11 +14,11 @@ label college_campus_forenoon_E_1:
 
 
 
-    e "You know, Айрин is about to apply for college. It will be great if she can get some recommendation letters from college professors."
+    e "You know, Irene is about to apply for college. It will be great if she can get some recommendation letters from college professors."
 
 
 
-    player "Ehh... Why would they write recommendation letters for Айрин? Do they even know her?"
+    player "Ehh... Why would they write recommendation letters for Irene? Do they even know her?"
 
 
 

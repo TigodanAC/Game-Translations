@@ -2,7 +2,7 @@ label find_A_restaurant_evening_A_3:
 
     scene bar_background with tstmgr
 
-    "I came to Вера's workplace in the evening, but couldn't find her."
+    "I came to Vera's workplace in the evening, but couldn't find her."
 
 
 

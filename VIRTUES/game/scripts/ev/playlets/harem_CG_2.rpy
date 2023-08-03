@@ -2,13 +2,13 @@ label harem_CG_2:
 
     scene void with tstmgr
 
-    "Late night, Теодора and Уно encountered outside [P]'s room..."
+    "Late night, Theodora and Uno encountered outside [P]'s room..."
 
 
 
     scene harem_cg_2_1 with dissolve
 
-    g "Yaaah! Теодора?"
+    g "Yaaah! Theodora?"
 
 
 
@@ -40,7 +40,7 @@ label harem_CG_2:
 
     scene harem_cg_2_5 with tstmgr
 
-    c "*Got a little surprised at Уно's calmness* Oh, okay... ..."
+    c "*Got a little surprised at Uno's calmness* Oh, okay... ..."
 
 
 

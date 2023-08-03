@@ -3,7 +3,7 @@ label D_daily_8:
     scene rcsj_d13 with tstmgr
     play music happy
 
-    d "Do you think Теодора is good at sex?"
+    d "Do you think Theodora is good at sex?"
 
 
 

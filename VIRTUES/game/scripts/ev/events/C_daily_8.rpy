@@ -3,7 +3,7 @@ label C_daily_8:
     scene void with tstmgr
     play music happy
 
-    "Later tonight, in Элиза’s mansion."
+    "Later tonight, in Elisa’s mansion."
 
 
 
@@ -71,7 +71,7 @@ label C_daily_8:
 
     scene c_daily8_8 with tstmgr
 
-    e "Айрин, mind your words. A decent lady would never speak like that."
+    e "Irene, mind your words. A decent lady would never speak like that."
 
 
 

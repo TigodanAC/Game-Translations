@@ -3,7 +3,7 @@ label B_love_5:
     scene b_daily10_6 with tstmgr
     play music sorrow
 
-    "Сеннин has been a little strange recently. She got nervous and blushed every time when I tried to talk to her."
+    "Senning has been a little strange recently. She got nervous and blushed every time when I tried to talk to her."
 
 
 
@@ -29,7 +29,7 @@ label B_love_5:
 
 
 
-    "I was at the door of Сеннин’s apartment room."
+    "I was at the door of Senning’s apartment room."
 
 
 
@@ -315,7 +315,7 @@ label B_love_5:
 
     scene b_love_5_11 with tstmgr
 
-    player "I like you, too, Сеннин."
+    player "I like you, too, Senning."
 
 
 
@@ -515,9 +515,9 @@ label B_love_5:
 
             "Girl A" "What the hell? Who are you? Get away from her now! I will call the police!"
 
-            player "Relax, girl. I am Сеннин’s boyfriend."
+            player "Relax, girl. I am Senning’s boyfriend."
 
-            "Girl A" "What the fuck are you talking about? Сеннин never told me she has a boyfriend."
+            "Girl A" "What the fuck are you talking about? Senning never told me she has a boyfriend."
 
             player "Alright then, Sen, tell her yourself."
 
@@ -531,7 +531,7 @@ label B_love_5:
 
             "Girl A" "... ... ... ..."
 
-            "Girl A" "Сеннин, if you need help..."
+            "Girl A" "Senning, if you need help..."
 
             b "Just go!"
 

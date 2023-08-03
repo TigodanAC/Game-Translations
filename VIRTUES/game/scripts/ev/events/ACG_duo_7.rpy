@@ -7,7 +7,7 @@ label ACG_duo_7:
 
 
 
-    "I’m going to the company with Теодора today, but... ..."
+    "I’m going to the company with Theodora today, but... ..."
 
 
 
@@ -17,7 +17,7 @@ label ACG_duo_7:
 
 
 
-    player "How long on earth does Теодора have to wear makeup? She has been in the bathroom for half an hour... ..."
+    player "How long on earth does Theodora have to wear makeup? She has been in the bathroom for half an hour... ..."
 
 
 
@@ -161,7 +161,7 @@ label ACG_duo_7:
 
 
 
-    c "You are spoiling him, Вера."
+    c "You are spoiling him, Vera."
 
 
 
@@ -173,13 +173,13 @@ label ACG_duo_7:
 
     scene acg_duo_7_15 with tstmgr
 
-    c "Humph... ... You have become a bad girl, haven't you? Just like Уно~"
+    c "Humph... ... You have become a bad girl, haven't you? Just like Uno~"
 
 
 
     scene acg_duo_7_16 with tstmgr
 
-    "Теодора suddenly kissed Вера..."
+    "Theodora suddenly kissed Vera..."
 
 
 
@@ -241,7 +241,7 @@ label ACG_duo_7:
 
     scene acg_duo_7_19 with tstmgr
 
-    c "See you tonight, Вера~"
+    c "See you tonight, Vera~"
 
 
 
@@ -267,7 +267,7 @@ label ACG_duo_7:
 
 
 
-    player "Вера... ..."
+    player "Vera... ..."
 
 
 
@@ -293,7 +293,7 @@ label ACG_duo_7:
 
     scene acg_duo_7_25 with tstmgr
 
-    player "See you tonight, Вера~"
+    player "See you tonight, Vera~"
 
 
 

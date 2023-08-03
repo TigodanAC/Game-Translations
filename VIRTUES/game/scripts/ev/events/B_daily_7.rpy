@@ -67,7 +67,7 @@ label B_daily_7:
 
     scene b_love3_4 with tstmgr
 
-    narrator "Сеннин is hugging me from behind."
+    narrator "Senning is hugging me from behind."
 
     narrator "She seemed to believe that I am really upset, so she decided to cure me with her soft body and a maternal hug."
 
@@ -77,7 +77,7 @@ label B_daily_7:
 
     narrator "In normal situations, if a girl puts her breasts against my back, I would definitely feel some sexual desire."
 
-    narrator "But what happens now has nothing to do with sex. Сеннин's hug gives me nothing but a feeling of love."
+    narrator "But what happens now has nothing to do with sex. Senning's hug gives me nothing but a feeling of love."
 
     narrator "I would like to make time stop if it's possible."
 

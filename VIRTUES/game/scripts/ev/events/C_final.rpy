@@ -7,11 +7,11 @@ label C_final:
 
 
 
-    "Теодора and I received a message from two highschool friends we hadn’t heard from in a long time ago. It said that they are going to get married and they want us to present their wedding."
+    "Theodora and I received a message from two highschool friends we hadn’t heard from in a long time ago. It said that they are going to get married and they want us to present their wedding."
 
 
 
-    "Теодора and I accepted their invitation, but hearing that news actually made me a little frustrated because I always thought that I would be the first one that gets married among all my highschool friends."
+    "Theodora and I accepted their invitation, but hearing that news actually made me a little frustrated because I always thought that I would be the first one that gets married among all my highschool friends."
 
 
 
@@ -19,7 +19,7 @@ label C_final:
 
 
 
-    "On the afternoon of the wedding day, in Теодора’s office... ..."
+    "On the afternoon of the wedding day, in Theodora’s office... ..."
 
 
 
@@ -121,7 +121,7 @@ label C_final:
 
 
 
-    "As I creampied her with my hot thick cum, Теодора covered her mouth with her hand to prevent herself from moaning too loud."
+    "As I creampied her with my hot thick cum, Theodora covered her mouth with her hand to prevent herself from moaning too loud."
 
 
 
@@ -161,7 +161,7 @@ label C_final:
 
     scene c_final_7 with tstmgr
 
-    "Теодора carefully put on her panty and wiggled her ass a little to make sure no cum would come down."
+    "Theodora carefully put on her panty and wiggled her ass a little to make sure no cum would come down."
 
 
 
@@ -225,7 +225,7 @@ label C_final:
 
 
 
-    "As for Теодора, well, I guess she is more suffering than I am because she is more popular. She was being hit on by guys constantly. I had to stand with her all the time to save her from endless chats."
+    "As for Theodora, well, I guess she is more suffering than I am because she is more popular. She was being hit on by guys constantly. I had to stand with her all the time to save her from endless chats."
 
 
 
@@ -283,7 +283,7 @@ label C_final:
 
 
 
-    "Теодора has been used to express her love to me actively. I feel like I am the happiest man in the world every time she does that~"
+    "Theodora has been used to express her love to me actively. I feel like I am the happiest man in the world every time she does that~"
 
 
 
@@ -348,12 +348,12 @@ label C_final:
     label C_final_choice_1:
 
     menu:
-        "Talk about the ring (Теодора’s good end)":
+        "Talk about the ring (Theodora’s good end)":
 
 
 
 
-            "*This is Теодора’s solo end, it happens in a route which you only fell in love with Теодора.*"
+            "*This is Theodora’s solo end, it happens in a route which you only fell in love with Theodora.*"
 
 
 
@@ -435,7 +435,7 @@ label C_final:
 
 
 
-            player "I still want to ask... ... Do you want to marry me, Теодора?"
+            player "I still want to ask... ... Do you want to marry me, Theodora?"
 
 
 
@@ -889,7 +889,7 @@ label C_final:
 
 
 
-            player "Теодора... ..."
+            player "Theodora... ..."
 
 
             stop sound
@@ -1071,7 +1071,7 @@ label C_final:
 
             scene c_final_70 with dissolve
 
-            player "So... Is Айрин doing a good job?"
+            player "So... Is Irene doing a good job?"
 
 
 
@@ -1081,7 +1081,7 @@ label C_final:
 
 
 
-            c "Mom will be happy to know that Айрин is really putting effort into something~"
+            c "Mom will be happy to know that Irene is really putting effort into something~"
 
 
 
@@ -1737,7 +1737,7 @@ label C_final:
 
 
 
-            "Теодора’s sexual desire is like an abyss that is so hard to be filled, but, well, me too~"
+            "Theodora’s sexual desire is like an abyss that is so hard to be filled, but, well, me too~"
 
 
 
@@ -1992,7 +1992,7 @@ label C_final:
             "... ... ... ..."
 
 
-            "*Теодора happy end achieved!*"
+            "*Theodora happy end achieved!*"
         "Stay quiet":
 
 
@@ -2004,7 +2004,7 @@ label C_final:
 
             c "Ah, okay, now they are kissing~"
 
-            "At this moment, everyone else in the church is cheering for the bride and groom. Теодора and I are the only two that stayed quiet."
+            "At this moment, everyone else in the church is cheering for the bride and groom. Theodora and I are the only two that stayed quiet."
 
             scene c_final_25 with tstmgr
 

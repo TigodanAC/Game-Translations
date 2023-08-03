@@ -3,11 +3,11 @@ label E_daily_4:
     scene void with tstmgr
     play music sorrow
 
-    "I am very concerned about Aunt Элиза recently."
+    "I am very concerned about Aunt Elisa recently."
 
 
 
-    "Айрин is going to graduate from highschool and she may eventually move out of this mansion. By that time Aunt Элиза will be the only one who lives in that place."
+    "Irene is going to graduate from highschool and she may eventually move out of this mansion. By that time Aunt Elisa will be the only one who lives in that place."
 
 
 
@@ -21,7 +21,7 @@ label E_daily_4:
 
     scene e_daily4_1 with tstmgr
 
-    player "Aunt Элиза, can I ask you a question?"
+    player "Aunt Elisa, can I ask you a question?"
 
 
 
@@ -119,7 +119,7 @@ label E_daily_4:
 
 
 
-    player "Oh, okay, sorry, Aunt Элиза, I asked too much."
+    player "Oh, okay, sorry, Aunt Elisa, I asked too much."
 
 
 
@@ -129,7 +129,7 @@ label E_daily_4:
 
 
 
-    player "I just want you to be happy, Aunt Элиза. I don’t want you to be alone after Айрин goes to college."
+    player "I just want you to be happy, Aunt Elisa. I don’t want you to be alone after Irene goes to college."
 
 
 
@@ -141,11 +141,11 @@ label E_daily_4:
 
     scene e_daily4_6 with tstmgr
 
-    e "Just... remember to stop by and pay me a visit with Теодора when you are free."
+    e "Just... remember to stop by and pay me a visit with Theodora when you are free."
 
 
 
-    player "Oww, Aunt Элиза..."
+    player "Oww, Aunt Elisa..."
 
 
 
@@ -221,7 +221,7 @@ label E_daily_4:
 
     scene e_daily4_3 with tstmgr
 
-    player "Sorry, Aunt Элиза. Did I clasp you too hard? I was just trying to... ..."
+    player "Sorry, Aunt Elisa. Did I clasp you too hard? I was just trying to... ..."
 
 
 
@@ -241,7 +241,7 @@ label E_daily_4:
 
 
 
-    player "Hey, Aunt Элиза. I think we should hang out together sometime. We can go to the beach, or hold another picnic party."
+    player "Hey, Aunt Elisa. I think we should hang out together sometime. We can go to the beach, or hold another picnic party."
 
 
 
@@ -251,7 +251,7 @@ label E_daily_4:
 
 
 
-    player "Oh, no, I mean, it will be great if Теодора and Айрин can come as well."
+    player "Oh, no, I mean, it will be great if Theodora and Irene can come as well."
 
 
 

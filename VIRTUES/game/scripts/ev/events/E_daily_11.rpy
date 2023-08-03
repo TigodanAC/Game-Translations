@@ -7,7 +7,7 @@ label E_daily_11:
 
 
 
-    "Aunt Элиза... ... ... ..."
+    "Aunt Elisa... ... ... ..."
 
 
 
@@ -39,7 +39,7 @@ label E_daily_11:
 
 
 
-    "So it really happened. Aunt Элиза really fucked me while I was asleep."
+    "So it really happened. Aunt Elisa really fucked me while I was asleep."
 
 
 
@@ -47,7 +47,7 @@ label E_daily_11:
 
 
 
-    "Aunt Элиза was one of the sexiest women I know and I couldn’t remember how many times I have masturbated while imagining her during my teenage years."
+    "Aunt Elisa was one of the sexiest women I know and I couldn’t remember how many times I have masturbated while imagining her during my teenage years."
 
 
 
@@ -59,7 +59,7 @@ label E_daily_11:
 
 
 
-    "I mean, Aunt Элиза and I, we have done something across the line before, but those were more like... some naughty pranks between a lustful young man and his lonely auntie."
+    "I mean, Aunt Elisa and I, we have done something across the line before, but those were more like... some naughty pranks between a lustful young man and his lonely auntie."
 
 
 
@@ -97,7 +97,7 @@ label E_daily_11:
 
 
 
-    player "Элиза... ... ... ..."
+    player "Elisa... ... ... ..."
 
 
 
@@ -127,11 +127,11 @@ label E_daily_11:
 
     scene e_daily11_1 with dissolve
 
-    player "Hi, Aunt Элиза."
+    player "Hi, Aunt Elisa."
 
 
 
-    e "Oh, good afternoon, [P]. You are here for the tutoring? Айрин is already in her room, you can just go find her."
+    e "Oh, good afternoon, [P]. You are here for the tutoring? Irene is already in her room, you can just go find her."
 
 
 
@@ -139,7 +139,7 @@ label E_daily_11:
 
 
 
-    player "Aunt Элиза, I... ..."
+    player "Aunt Elisa, I... ..."
 
 
 
@@ -179,11 +179,11 @@ label E_daily_11:
 
 
 
-    player "Anyway, I’m going to Айрин right now."
+    player "Anyway, I’m going to Irene right now."
 
 
 
-    player "By the way, you look beautiful today, Элиза..."
+    player "By the way, you look beautiful today, Elisa..."
 
 
 
@@ -199,7 +199,7 @@ label E_daily_11:
 
 
 
-    e "(Did he just call me ‘Элиза’?)"
+    e "(Did he just call me ‘Elisa’?)"
 
 
 
@@ -211,7 +211,7 @@ label E_daily_11:
 
 
 
-    "Later, in Айрин’s room."
+    "Later, in Irene’s room."
 
 
 
@@ -257,7 +257,7 @@ label E_daily_11:
 
 
 
-    player "I just... can't imagine Aunt Элиза being with a man... ..."
+    player "I just... can't imagine Aunt Elisa being with a man... ..."
 
 
 
@@ -307,7 +307,7 @@ label E_daily_11:
 
 
 
-    "Yeah, that might be just a joke, but Айрин was right. I will also worry about Aunt Элиза if she gets in love with someone else because I know she is not good at managing a relationship."
+    "Yeah, that might be just a joke, but Irene was right. I will also worry about Aunt Elisa if she gets in love with someone else because I know she is not good at managing a relationship."
 
 
 
@@ -327,7 +327,7 @@ label E_daily_11:
 
 
 
-    "Айрин seemed to realize something by looking at the nuance of [P]’s expression..."
+    "Irene seemed to realize something by looking at the nuance of [P]’s expression..."
 
 
 

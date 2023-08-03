@@ -3,13 +3,13 @@ label A_love_5:
     scene void with tstmgr
     play music sorrow
 
-    "Вера still doesn't want to talk with me. Uhh... this drives me crazy."
+    "Vera still doesn't want to talk with me. Uhh... this drives me crazy."
 
     "I can't stand it anymore. I have to find her and solve this thing, tonight."
 
     "*Knock, knock, knock...*"
 
-    player "Вера, may I come in?"
+    player "Vera, may I come in?"
 
     a "... ... ... ..."
 
@@ -31,7 +31,7 @@ label A_love_5:
 
     scene a_love_5_2 with tstmgr
 
-    player "Вера, listen, we have to talk."
+    player "Vera, listen, we have to talk."
 
     a "... ... ... ..."
 
@@ -154,7 +154,7 @@ label A_love_5:
 
             a "Ouch, do you have to be so aggressive?"
 
-            player "Sorry, Вера. I just can't take it anymore."
+            player "Sorry, Vera. I just can't take it anymore."
 
             scene a_love_5_18 with tstmgr
 
@@ -200,7 +200,7 @@ label A_love_5:
 
             scene a_love_5_23 with tstmgr
 
-            player "I will be careful, Вера. Just relax, and give yourself to me."
+            player "I will be careful, Vera. Just relax, and give yourself to me."
 
             a "I hate you... ..."
 
@@ -273,7 +273,7 @@ label A_love_5:
 
             a "too deep, you are going... too deep. I can't..."
 
-            player "Huhh... I'm about to cum, Вера."
+            player "Huhh... I'm about to cum, Vera."
 
             scene a_love_5_29 with tstmgr
 
@@ -283,7 +283,7 @@ label A_love_5:
 
             a "Awwwwwwwwww!!!!!~~~~~"
 
-            "Вера convulsed wildly. She has reached the orgasm before I do."
+            "Vera convulsed wildly. She has reached the orgasm before I do."
 
             "And... ..."
 
@@ -313,7 +313,7 @@ label A_love_5:
 
             player "That was, fantastic."
 
-            player "Are you alright, Вера?"
+            player "Are you alright, Vera?"
 
             scene a_love_5_33 with tstmgr
 
@@ -335,7 +335,7 @@ label A_love_5:
 
             a "And it's my safe period, so don't worry."
 
-            player "Вера... ..."
+            player "Vera... ..."
 
             scene a_love_5_36 with tstmgr
 
@@ -393,7 +393,7 @@ label A_love_5:
 
             a "Ouch, you are hurting me!"
 
-            player "Sorry, Вера. I just can't take it anymore."
+            player "Sorry, Vera. I just can't take it anymore."
 
             scene a_love_5_18 with tstmgr
 
@@ -421,7 +421,7 @@ label A_love_5:
 
             scene a_love_5_23 with tstmgr
 
-            player "I will be careful, Вера. Just relax, and enjoy it."
+            player "I will be careful, Vera. Just relax, and enjoy it."
 
             a "I hate you... ..."
 
@@ -460,7 +460,7 @@ label A_love_5:
 
             a "You know, you can... do harder, if you want."
 
-            player "That's right Вера...Just let go...ahh...submit to your desire..."
+            player "That's right Vera...Just let go...ahh...submit to your desire..."
 
             player "That's my good girl."
 
@@ -488,7 +488,7 @@ label A_love_5:
 
             a "too deep, you are going... too deep. I can't take it..."
 
-            player "Huhh... I'm about to cum, Вера."
+            player "Huhh... I'm about to cum, Vera."
 
             scene a_love_5_29 with tstmgr
 
@@ -498,7 +498,7 @@ label A_love_5:
 
             a "Awwwww... ... ... ..."
 
-            "Вера convulsed wildly. She has reached the orgasm before I do."
+            "Vera convulsed wildly. She has reached the orgasm before I do."
 
             player "I'm cumming!!!"
 
@@ -526,7 +526,7 @@ label A_love_5:
 
             player "Wow... that was, fantastic."
 
-            player "Are you alright, Вера?"
+            player "Are you alright, Vera?"
 
             scene a_love_5_33 with tstmgr
 

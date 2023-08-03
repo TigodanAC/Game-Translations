@@ -3,7 +3,7 @@ label AB_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Afternoon, in Сеннин’s room..."
+    "Afternoon, in Senning’s room..."
 
 
 
@@ -137,11 +137,11 @@ label AB_duo_2:
 
 
 
-    "Lady Minna will probably get angry if she knows her daughter just generously shared her ‘wisdom of life’ with an ‘opponent’, but well, this is exactly something Сеннин would do~"
+    "Lady Minna will probably get angry if she knows her daughter just generously shared her ‘wisdom of life’ with an ‘opponent’, but well, this is exactly something Senning would do~"
 
 
 
-    "Сеннин has taken Вера as a good friend and she always shares everything good she has with friends."
+    "Senning has taken Vera as a good friend and she always shares everything good she has with friends."
 
 
 
@@ -271,13 +271,13 @@ label AB_duo_2:
 
     scene ab_duo_2_25 with tstmgr
 
-    a "Oh, this? This apron is a gift from Сеннин, right now she is... ..."
+    a "Oh, this? This apron is a gift from Senning, right now she is... ..."
 
 
 
     scene ab_duo_2_26 with tstmgr
 
-    player "It looks so beautiful on you, Вера~"
+    player "It looks so beautiful on you, Vera~"
 
 
 
@@ -293,7 +293,7 @@ label AB_duo_2:
 
     scene ab_duo_2_28 with tstmgr
 
-    a "Сеннин did say that you will be happy to see me wearing this... ..."
+    a "Senning did say that you will be happy to see me wearing this... ..."
 
 
 
@@ -309,7 +309,7 @@ label AB_duo_2:
 
 
 
-    a "(Now I get why Сеннин said it is not important to do housework while wearing this... ...)"
+    a "(Now I get why Senning said it is not important to do housework while wearing this... ...)"
 
 
 
@@ -331,7 +331,7 @@ label AB_duo_2:
 
 
 
-    player "Вера~~"
+    player "Vera~~"
 
 
 
@@ -353,11 +353,11 @@ label AB_duo_2:
 
     scene ab_duo_2_32 with tstmgr
 
-    a "Awwwwwwwww... ... Сеннин... where are you... ... This man is totally out of control... ..."
+    a "Awwwwwwwww... ... Senning... where are you... ... This man is totally out of control... ..."
 
 
 
-    player "*Immersing in creating love bits on Вера’s neck* ... ... ... ..."
+    player "*Immersing in creating love bits on Vera’s neck* ... ... ... ..."
 
 
 
@@ -369,7 +369,7 @@ label AB_duo_2:
 
     scene void with tstmgr
 
-    "Вера turned off the gas stove at the last moment before she completely lost herself in lust."
+    "Vera turned off the gas stove at the last moment before she completely lost herself in lust."
 
 
 
@@ -381,7 +381,7 @@ label AB_duo_2:
 
 
 
-    "After cleaning herself carefully for more than 10 minutes, Сеннин finally made sure that she didn’t really have an allergy."
+    "After cleaning herself carefully for more than 10 minutes, Senning finally made sure that she didn’t really have an allergy."
 
 
 
@@ -391,7 +391,7 @@ label AB_duo_2:
 
     scene ab_duo_2_34 with dissolve
 
-    b "Good news, Вера~ I’m not really having an allergy!~"
+    b "Good news, Vera~ I’m not really having an allergy!~"
 
 
 
@@ -423,7 +423,7 @@ label AB_duo_2:
 
 
 
-    "Вера’s pussy was extremely wet today, I wonder if it was because this was the first time she gets fucked in the kitchen..."
+    "Vera’s pussy was extremely wet today, I wonder if it was because this was the first time she gets fucked in the kitchen..."
 
 
 
@@ -435,7 +435,7 @@ label AB_duo_2:
 
 
 
-    a "I wish Сеннин is here with us too~~~~~"
+    a "I wish Senning is here with us too~~~~~"
 
 
 
@@ -481,7 +481,7 @@ label AB_duo_2:
 
 
 
-    player "It won't really get into your stomach, but whatever~~~ Take my cum, Вера!"
+    player "It won't really get into your stomach, but whatever~~~ Take my cum, Vera!"
 
 
     stop sound
@@ -493,7 +493,7 @@ label AB_duo_2:
 
 
 
-    "Вера and I came heavily. Our fluid sprayed everywhere on the floor... ..."
+    "Vera and I came heavily. Our fluid sprayed everywhere on the floor... ..."
 
 
 
@@ -503,7 +503,7 @@ label AB_duo_2:
 
     scene ab_duo_2_39 with dissolve
 
-    player "That was awesome, Вера~"
+    player "That was awesome, Vera~"
 
 
 
@@ -554,7 +554,7 @@ label AB_duo_2:
 
     scene ab_duo_2_42 with tstmgr
 
-    a "Сеннин~~~"
+    a "Senning~~~"
 
 
 

@@ -3,7 +3,7 @@ label F_love_2:
     scene f_love_2_1 with tstmgr
     play music happy
 
-    "Рэйчел and I were jogging in the park, but suddenly it began to rain."
+    "Rachel and I were jogging in the park, but suddenly it began to rain."
 
 
 
@@ -367,7 +367,7 @@ label F_love_2:
 
     scene f_love_2_21 with tstmgr
 
-    "Girl’s voice" "Рэйчел, we need to go now. The training lesson is about to start."
+    "Girl’s voice" "Rachel, we need to go now. The training lesson is about to start."
 
 
 

@@ -3,7 +3,7 @@ label G_daily_4:
     scene void with tstmgr
     play music happy
 
-    "The bookstore was closed due to a national holiday so Сеннин decided to pay a visit to my house."
+    "The bookstore was closed due to a national holiday so Senning decided to pay a visit to my house."
 
 
 
@@ -15,7 +15,7 @@ label G_daily_4:
 
     scene g_daily4_5 with tstmgr
 
-    a "Welcome to the house, Сеннин."
+    a "Welcome to the house, Senning."
 
 
 
@@ -25,7 +25,7 @@ label G_daily_4:
 
     scene g_daily4_2 with tstmgr
 
-    b "I’m so happy to see you! Miss Вера and Miss Уно!"
+    b "I’m so happy to see you! Miss Vera and Miss Uno!"
 
 
 
@@ -61,13 +61,13 @@ label G_daily_4:
 
 
 
-    "Later in the livingroom, Сеннин and Уно were talking with each other while Вера was making snacks."
+    "Later in the livingroom, Senning and Uno were talking with each other while Vera was making snacks."
 
 
 
     scene g_daily4_7 with dissolve
 
-    b "What? Уно, you are a real coser?"
+    b "What? Uno, you are a real coser?"
 
 
 
@@ -151,7 +151,7 @@ label G_daily_4:
 
     scene void with tstmgr
 
-    "Уно scrolled past that photo immediately."
+    "Uno scrolled past that photo immediately."
 
 
 
@@ -161,7 +161,7 @@ label G_daily_4:
 
 
 
-    g "That was... a private photo, sorry, Сеннин... ..."
+    g "That was... a private photo, sorry, Senning... ..."
 
 
 
@@ -189,7 +189,7 @@ label G_daily_4:
 
     scene g_daily4_21 with tstmgr
 
-    b "Miss Вера, did you know that Уно is a famous coser?"
+    b "Miss Vera, did you know that Uno is a famous coser?"
 
 
 
@@ -199,7 +199,7 @@ label G_daily_4:
 
 
 
-    a "You never told me that, Уно!"
+    a "You never told me that, Uno!"
 
 
 
@@ -241,7 +241,7 @@ label G_daily_4:
 
 
 
-    player "Сеннин? Nice to see you here..."
+    player "Senning? Nice to see you here..."
 
 
 
@@ -251,7 +251,7 @@ label G_daily_4:
 
     scene g_daily4_27 with tstmgr
 
-    b "[P], did you know that Уно is a coser?"
+    b "[P], did you know that Uno is a coser?"
 
 
 
@@ -269,7 +269,7 @@ label G_daily_4:
 
 
 
-    b "Do you want to join us and see Уно’s cosplay pictures?"
+    b "Do you want to join us and see Uno’s cosplay pictures?"
 
 
 

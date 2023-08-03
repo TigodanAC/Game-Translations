@@ -3,13 +3,13 @@ label CDE_duo_2:
     scene void with tstmgr
     play music sorrow
 
-    "Later today, in Теодора’s office..."
+    "Later today, in Theodora’s office..."
 
 
 
     scene cde_duo_2_1 with dissolve
 
-    e "Theo~ can you go stay with Айрин for tonight? I may not be able to go home tonight..."
+    e "Theo~ can you go stay with Irene for tonight? I may not be able to go home tonight..."
 
 
 
@@ -43,7 +43,7 @@ label CDE_duo_2:
 
 
 
-    "Элиза then left Теодора’s office."
+    "Elisa then left Theodora’s office."
 
 
 
@@ -55,7 +55,7 @@ label CDE_duo_2:
 
     scene void with tstmgr
 
-    "Теодора soon got up and followed Элиза out of the company, of course, without getting her attention."
+    "Theodora soon got up and followed Elisa out of the company, of course, without getting her attention."
 
 
 
@@ -85,7 +85,7 @@ label CDE_duo_2:
 
     scene void with tstmgr
 
-    "After Элиза entered the bungalow... ..."
+    "After Elisa entered the bungalow... ..."
 
 
 
@@ -101,11 +101,11 @@ label CDE_duo_2:
 
     scene cde_duo_2_7 with tstmgr
 
-    "Теодора hesitated at the door for a long time and still couldn’t make up her mind to go inside."
+    "Theodora hesitated at the door for a long time and still couldn’t make up her mind to go inside."
 
 
 
-    c "Okay, Теодора, calm down, don’t let your curiosity get the better of you. Think carefully... ..."
+    c "Okay, Theodora, calm down, don’t let your curiosity get the better of you. Think carefully... ..."
 
 
 
@@ -171,7 +171,7 @@ label CDE_duo_2:
 
     scene cde_duo_2_13 with tstmgr
 
-    c "It’s okay. Айрин and I are all happy for you."
+    c "It’s okay. Irene and I are all happy for you."
 
 
 
@@ -251,7 +251,7 @@ label CDE_duo_2:
 
 
 
-    player "*Opening the room door* Eh, hi, Элиза, is there... ..."
+    player "*Opening the room door* Eh, hi, Elisa, is there... ..."
 
 
 
@@ -267,7 +267,7 @@ label CDE_duo_2:
 
 
 
-    "Well, Элиза has made it. She knows her daughter is a terrible drinker and she has successfully made her drunk before [P] arrives."
+    "Well, Elisa has made it. She knows her daughter is a terrible drinker and she has successfully made her drunk before [P] arrives."
 
 
 
@@ -399,7 +399,7 @@ label CDE_duo_2:
 
 
 
-    "Hmmm... if Айрин can be here too... ..."
+    "Hmmm... if Irene can be here too... ..."
 
 
 
@@ -459,7 +459,7 @@ label CDE_duo_2:
 
     scene cde_duo_2_35 with tstmgr
 
-    player "Элиза, that... will be so great... ..."
+    player "Elisa, that... will be so great... ..."
 
 
 
@@ -483,7 +483,7 @@ label CDE_duo_2:
 
     scene cde_duo_2_38 with tstmgr
 
-    player "Элиза... ziiip~~ gulum~~ siiiiip~~~~"
+    player "Elisa... ziiip~~ gulum~~ siiiiip~~~~"
 
 
 
@@ -501,7 +501,7 @@ label CDE_duo_2:
 
 
 
-    player "Wuummm~~~ ziiipp~~~ Элиза... ... siiip~~~"
+    player "Wuummm~~~ ziiipp~~~ Elisa... ... siiip~~~"
 
 
 
@@ -515,7 +515,7 @@ label CDE_duo_2:
 
 
 
-    player "*Immersing himself in the softness of Элиза’s boob and her delicious milk* Wummmmm~ wummm~ gulum~~~ gulum~~~ mmm... ..."
+    player "*Immersing himself in the softness of Elisa’s boob and her delicious milk* Wummmmm~ wummm~ gulum~~~ gulum~~~ mmm... ..."
 
 
 
@@ -531,13 +531,13 @@ label CDE_duo_2:
 
 
 
-    "If I wasn’t paying too much attention to Элиза’s boob, I probably wouldn’t have missed the scene of Theo being cute and getting jealous at her mother... ... But whatever~ it will happen again in the future anyway~"
+    "If I wasn’t paying too much attention to Elisa’s boob, I probably wouldn’t have missed the scene of Theo being cute and getting jealous at her mother... ... But whatever~ it will happen again in the future anyway~"
 
 
 
     scene cde_duo_2_43 with tstmgr
 
-    player "Элиза... ... that was... the best milk in this world... ..."
+    player "Elisa... ... that was... the best milk in this world... ..."
 
 
 
@@ -649,7 +649,7 @@ label CDE_duo_2:
 
 
 
-    player "Theo’s hard nipple... ... is wet by Элиза’s milk... ... Unbelievable... ..."
+    player "Theo’s hard nipple... ... is wet by Elisa’s milk... ... Unbelievable... ..."
 
 
 
@@ -667,7 +667,7 @@ label CDE_duo_2:
 
 
 
-    player "Theo... Элиза... ... mother and daughter... daughters... ... all belong to me... ..."
+    player "Theo... Elisa... ... mother and daughter... daughters... ... all belong to me... ..."
 
 
 
@@ -687,7 +687,7 @@ label CDE_duo_2:
 
     scene cde_duo_2_53 with tstmgr
 
-    player "Aunt Элиза is rushing us to create a baby. What do you think, Theo?"
+    player "Aunt Elisa is rushing us to create a baby. What do you think, Theo?"
 
 
 
@@ -887,11 +887,11 @@ label CDE_duo_2:
 
     scene cde_duo_2_65 with tstmgr
 
-    player "I will do my best to make you happy, you, Элиза, and Айрин."
+    player "I will do my best to make you happy, you, Elisa, and Irene."
 
 
 
-    c "Айрин?"
+    c "Irene?"
 
 
 
@@ -915,7 +915,7 @@ label CDE_duo_2:
 
     scene cde_duo_2_67 with tstmgr
 
-    player "Wait, Элиза, hold another minute~"
+    player "Wait, Elisa, hold another minute~"
 
 
 
@@ -947,7 +947,7 @@ label CDE_duo_2:
 
 
 
-    "I squeezed Элиза’s milk bags so hard at the last second before she came. The result looks great~"
+    "I squeezed Elisa’s milk bags so hard at the last second before she came. The result looks great~"
 
 
 

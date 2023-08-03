@@ -2,7 +2,7 @@ label mansion_guestroom_latenight_E_1:
 
     scene mansion_guestroom_latenight_e_1_1 with tstmgr
 
-    player "Aunt Элиза?"
+    player "Aunt Elisa?"
 
 
 
@@ -14,7 +14,7 @@ label mansion_guestroom_latenight_E_1:
 
 
 
-    player "I, I'm fine, thanks for asking, Aunt Элиза. Do you want to eh... sit with me for a while?"
+    player "I, I'm fine, thanks for asking, Aunt Elisa. Do you want to eh... sit with me for a while?"
 
 
 
@@ -32,7 +32,7 @@ label mansion_guestroom_latenight_E_1:
 
     scene void with tstmgr
 
-    "Элиза left my room in a hurry."
+    "Elisa left my room in a hurry."
 
 
 

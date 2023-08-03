@@ -2,7 +2,7 @@ label school_library_afternoon_B_1:
 
     scene void with tstmgr
 
-    "Сеннин is helping me review course materials."
+    "Senning is helping me review course materials."
 
 
 

@@ -45,7 +45,7 @@ label C_daily_15:
 
     scene void with tstmgr
 
-    "Теодора quickly got a nightgown on and went outside..."
+    "Theodora quickly got a nightgown on and went outside..."
 
 
 
@@ -139,7 +139,7 @@ label C_daily_15:
 
 
 
-    "Теодора suddenly stepped up and hugged me."
+    "Theodora suddenly stepped up and hugged me."
 
 
 
@@ -153,7 +153,7 @@ label C_daily_15:
 
     scene c_daily15_14 with tstmgr
 
-    g "Уно wants a hug, too~"
+    g "Uno wants a hug, too~"
 
 
 

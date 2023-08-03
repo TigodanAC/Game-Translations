@@ -7,7 +7,7 @@ label G_train_sub_3:
 
 
 
-    "*The following plot is from Уно’s perspective*"
+    "*The following plot is from Uno’s perspective*"
 
 
 
@@ -251,7 +251,7 @@ label G_train_sub_3:
 
     scene g_train_sub_3_21 with tstmgr
 
-    player "*Looking at Уно* ... ... ... ..."
+    player "*Looking at Uno* ... ... ... ..."
 
 
 
@@ -277,7 +277,7 @@ label G_train_sub_3:
 
 
 
-    player "*Immersing head in Уно’s breasts* Wuuuuuuuummmm~~~~~"
+    player "*Immersing head in Uno’s breasts* Wuuuuuuuummmm~~~~~"
 
 
 
@@ -429,21 +429,21 @@ label G_train_sub_3:
 
     scene g_train_sub_3_32 with tstmgr
 
-    g "Because Уно doesn’t want master to go to that party~"
+    g "Because Uno doesn’t want master to go to that party~"
 
 
 
-    g "Уно wants master to stay with me at home everyday~"
+    g "Uno wants master to stay with me at home everyday~"
 
 
 
-    g "Уно will be sad if master leaves Уно alone and has fun with some strippers instead... ..."
+    g "Uno will be sad if master leaves Uno alone and has fun with some strippers instead... ..."
 
 
 
     scene g_train_sub_3_33 with tstmgr
 
-    g "Уно... can do much more for master than a stripper~"
+    g "Uno... can do much more for master than a stripper~"
 
 
 
@@ -469,7 +469,7 @@ label G_train_sub_3:
 
     scene g_train_sub_3_36 with tstmgr
 
-    g "Уно can take care of master’s sexual desire whenever master is in need~"
+    g "Uno can take care of master’s sexual desire whenever master is in need~"
 
 
 
@@ -479,7 +479,7 @@ label G_train_sub_3:
 
     scene g_train_sub_3_37 with tstmgr
 
-    g "Yes, because... Уно is master’s pet, slave, personal belonging, blah blah blah~"
+    g "Yes, because... Uno is master’s pet, slave, personal belonging, blah blah blah~"
 
 
 
@@ -523,7 +523,7 @@ label G_train_sub_3:
 
 
 
-    player "Уно... ... My little ragdoll~~"
+    player "Uno... ... My little ragdoll~~"
 
 
 
@@ -549,11 +549,11 @@ label G_train_sub_3:
 
 
 
-    g "Master, Уно is... better than a stripper, right?"
+    g "Master, Uno is... better than a stripper, right?"
 
 
 
-    player "You are the best, Уно... ..."
+    player "You are the best, Uno... ..."
 
 
 
@@ -571,7 +571,7 @@ label G_train_sub_3:
 
 
 
-    g "Huhhhhhhhhh~~ Уно’s tits... are dancing so wildly~~"
+    g "Huhhhhhhhhh~~ Uno’s tits... are dancing so wildly~~"
 
 
 
@@ -675,7 +675,7 @@ label G_train_sub_3:
 
     scene g_train_sub_3_47 with tstmgr
 
-    g "Nya... Nyah~~~~ Уно is so happy~"
+    g "Nya... Nyah~~~~ Uno is so happy~"
 
 
 

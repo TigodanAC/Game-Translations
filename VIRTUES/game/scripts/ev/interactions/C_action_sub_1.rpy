@@ -71,7 +71,7 @@ label C_action_sub_1:
     label C_action_sub_1_choice_1:
 
     menu:
-        "Nipples" if True:
+        "Nipples":
 
 
             scene c_action_sub_1_4 with tstmgr
@@ -191,7 +191,7 @@ label C_action_sub_1:
             scene void with tstmgr
 
             "... ... ... ..."
-        "Pussy" if True:
+        "Pussy":
 
 
 

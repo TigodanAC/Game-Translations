@@ -3,7 +3,7 @@ label B_daily_17:
     scene void with tstmgr
     play music sorrow
 
-    "Сеннин stayed with her mother in the hotel room last night. Now it’s time to pay them a visit."
+    "Senning stayed with her mother in the hotel room last night. Now it’s time to pay them a visit."
 
 
 
@@ -45,7 +45,7 @@ label B_daily_17:
 
     scene b_daily17_3 with tstmgr
 
-    "Lady Minna" "Сеннин told me a lot about you last night. Thank you for taking care of her during these years. I mean it."
+    "Lady Minna" "Senning told me a lot about you last night. Thank you for taking care of her during these years. I mean it."
 
 
 
@@ -55,13 +55,13 @@ label B_daily_17:
 
     scene b_daily17_4 with tstmgr
 
-    "Man... Сеннин has told me about her conservative family culture, but her mother doesn’t seem to be a conservative person at all. Look at those legs... ..."
+    "Man... Senning has told me about her conservative family culture, but her mother doesn’t seem to be a conservative person at all. Look at those legs... ..."
 
 
 
     scene b_daily17_5 with tstmgr
 
-    player "So... Lady Minna, would you like to tell me about how you are going to make Сеннин stay in this country after her graduation?"
+    player "So... Lady Minna, would you like to tell me about how you are going to make Senning stay in this country after her graduation?"
 
 
 
@@ -77,11 +77,11 @@ label B_daily_17:
 
     scene b_daily17_7 with tstmgr
 
-    "Lady Minna" "You see, Сеннин’s father has many offsprings and Сеннин is his favorite. He wants her to get back and help him run the family business."
+    "Lady Minna" "You see, Senning’s father has many offsprings and Senning is his favorite. He wants her to get back and help him run the family business."
 
 
 
-    "Lady Minna" "So what I need to do is just to convince him that she is able to help even if she stays here. For example, I can suggest he expand his business to your country and let Сеннин take charge of it."
+    "Lady Minna" "So what I need to do is just to convince him that she is able to help even if she stays here. For example, I can suggest he expand his business to your country and let Senning take charge of it."
 
 
 
@@ -121,7 +121,7 @@ label B_daily_17:
 
     scene b_daily17_11 with tstmgr
 
-    "Lady Minna" "Also, as you know, we are a conservative family. Being a single mother is not acceptable there. Сеннин will have to stay with you if she gets pregnant."
+    "Lady Minna" "Also, as you know, we are a conservative family. Being a single mother is not acceptable there. Senning will have to stay with you if she gets pregnant."
 
 
 
@@ -145,7 +145,7 @@ label B_daily_17:
         "I’ll try my best":
 
 
-            player "I... I didn’t plan to have a child at such a young age, but... ... if it is for Сеннин, I will try my best."
+            player "I... I didn’t plan to have a child at such a young age, but... ... if it is for Senning, I will try my best."
 
             "Lady Minna" "Good... ..."
 
@@ -163,19 +163,19 @@ label B_daily_17:
 
 
 
-    player "You said Сеннин’s father has many offsprings. It sounds like... you are not the mother of all of them?"
+    player "You said Senning’s father has many offsprings. It sounds like... you are not the mother of all of them?"
 
 
 
     scene b_daily17_13 with tstmgr
 
-    "Lady Minna" "Of course I’m not. Сеннин is the only child I have."
+    "Lady Minna" "Of course I’m not. Senning is the only child I have."
 
 
 
     scene b_daily17_11 with tstmgr
 
-    "Lady Minna" "Сеннин’s father has four wives and I am one of them. He bought a house for each of us so we won’t fight each other."
+    "Lady Minna" "Senning’s father has four wives and I am one of them. He bought a house for each of us so we won’t fight each other."
 
 
 
@@ -205,13 +205,13 @@ label B_daily_17:
 
     scene b_daily17_12 with tstmgr
 
-    "Lady Minna" "So you see, I am not an opposer of polygamy. That’s why I didn’t forbid Сеннин from being with you even though I have known about your story with other women..."
+    "Lady Minna" "So you see, I am not an opposer of polygamy. That’s why I didn’t forbid Senning from being with you even though I have known about your story with other women..."
 
 
 
     scene b_daily17_11 with tstmgr
 
-    "Lady Minna" "Especially your story with the elder daughter of Элиза Shinyrost... ... Humph~"
+    "Lady Minna" "Especially your story with the elder daughter of Elisa Shinyrost... ... Humph~"
 
 
 
@@ -225,7 +225,7 @@ label B_daily_17:
 
 
 
-    "Lady Minna" "It’s not a secret anyway. Maybe Сеннин has been aware of that too. Maybe she just doesn’t care, either."
+    "Lady Minna" "It’s not a secret anyway. Maybe Senning has been aware of that too. Maybe she just doesn’t care, either."
 
 
 

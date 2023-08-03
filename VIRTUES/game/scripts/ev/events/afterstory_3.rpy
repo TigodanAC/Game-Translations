@@ -4,13 +4,13 @@ label afterstory_3:
     scene void with tstmgr
     play music happy
 
-    "Afternoon, a woman in a suit came to the house. She was here for Уно... ..."
+    "Afternoon, a woman in a suit came to the house. She was here for Uno... ..."
 
 
 
     scene afterstory_3_1 with dissolve
 
-    "Woman in a suit" "Hi, Уно. It has been a long time."
+    "Woman in a suit" "Hi, Uno. It has been a long time."
 
 
 
@@ -28,7 +28,7 @@ label afterstory_3:
 
 
 
-    "Уно spent her entire childhood in foster care which was managed by the Department of Children and Family Services."
+    "Uno spent her entire childhood in foster care which was managed by the Department of Children and Family Services."
 
 
 
@@ -100,7 +100,7 @@ label afterstory_3:
 
 
 
-    "Woman in a suit" "Уно, I know I’m not in the position to say this, but... ... it is not wise to be overly dependent on your boyfriend. I mean, what if he breaks up with you?"
+    "Woman in a suit" "Uno, I know I’m not in the position to say this, but... ... it is not wise to be overly dependent on your boyfriend. I mean, what if he breaks up with you?"
 
 
 
@@ -186,13 +186,13 @@ label afterstory_3:
 
     scene afterstory_3_17 with tstmgr
 
-    c "Uhhhhhhhhh!!!!! Уно!!! Why didn’t you warn me we have a guest?! You bitch!"
+    c "Uhhhhhhhhh!!!!! Uno!!! Why didn’t you warn me we have a guest?! You bitch!"
 
 
 
     scene afterstory_3_18 with tstmgr
 
-    "Теодора then fled the hallway... ..."
+    "Theodora then fled the hallway... ..."
 
 
 
@@ -202,7 +202,7 @@ label afterstory_3:
 
 
 
-    "As an exhibitionist, Уно didn’t really feel sorry for Теодора at all~"
+    "As an exhibitionist, Uno didn’t really feel sorry for Theodora at all~"
 
 
 
@@ -256,11 +256,11 @@ label afterstory_3:
 
 
 
-    "That lady is a good person who cares about foster kids very much. She was right about Уно, this girl does have some psychological problems, just like most foster kids."
+    "That lady is a good person who cares about foster kids very much. She was right about Uno, this girl does have some psychological problems, just like most foster kids."
 
 
 
-    "But luckily, now Уно is being taken good care of by people who love her. And she is doing what she loves to do every day."
+    "But luckily, now Uno is being taken good care of by people who love her. And she is doing what she loves to do every day."
 
 
 
@@ -282,15 +282,15 @@ label afterstory_3:
 
 
 
-    "Теодора had my head on her lap and bent over slightly, dropping her hugely outsized tits on my face. She always knows how to use these gorgeous jellies to bring me the joy I need."
+    "Theodora had my head on her lap and bent over slightly, dropping her hugely outsized tits on my face. She always knows how to use these gorgeous jellies to bring me the joy I need."
 
 
 
-    "Вера was busy caressing my nipple with her warm soft mouth. She kept flicking her wet little tongue over my areola like a kitten lapping water."
+    "Vera was busy caressing my nipple with her warm soft mouth. She kept flicking her wet little tongue over my areola like a kitten lapping water."
 
 
 
-    "As for Уно, this naughty one took my dick in one hand, but instead of jerking it up and down, she was keeping squeezing it lightly and feeling its throb with her tender palm."
+    "As for Uno, this naughty one took my dick in one hand, but instead of jerking it up and down, she was keeping squeezing it lightly and feeling its throb with her tender palm."
 
 
 
@@ -306,7 +306,7 @@ label afterstory_3:
 
     scene afterstory_3_27 with tstmgr
 
-    "Теодора grinned with a teasing tongue and then fed one of her nipples into my mouth..."
+    "Theodora grinned with a teasing tongue and then fed one of her nipples into my mouth..."
 
 
 
@@ -368,13 +368,13 @@ label afterstory_3:
 
     scene afterstory_3_32 with tstmgr
 
-    c "Sigh... I think I have been influenced by Уно. I want to wiggle my butt when I see you too... ... and every day I’m receiving stronger pleasure from doing so~"
+    c "Sigh... I think I have been influenced by Uno. I want to wiggle my butt when I see you too... ... and every day I’m receiving stronger pleasure from doing so~"
 
 
 
     scene afterstory_3_33 with tstmgr
 
-    c "What about you, Вера?"
+    c "What about you, Vera?"
 
 
 
@@ -396,7 +396,7 @@ label afterstory_3:
 
     scene afterstory_3_36 with tstmgr
 
-    c "By the way, Уно, Who was the guest today?"
+    c "By the way, Uno, Who was the guest today?"
 
 
 
@@ -426,7 +426,7 @@ label afterstory_3:
 
 
 
-    a "Oh my god, I’m sorry to hear that, Уно."
+    a "Oh my god, I’m sorry to hear that, Uno."
 
 
 
@@ -442,7 +442,7 @@ label afterstory_3:
 
 
 
-    player "Уно... ... ... ..."
+    player "Uno... ... ... ..."
 
 
 
@@ -517,7 +517,7 @@ label afterstory_3:
 
 
 
-    "My dick was caught in the deep chasm formed by Уно’s huge tits and Теодора’s wet pussy. It wasn’t being pressed hard, but I could barely hold myself from ejaculation."
+    "My dick was caught in the deep chasm formed by Uno’s huge tits and Theodora’s wet pussy. It wasn’t being pressed hard, but I could barely hold myself from ejaculation."
 
 
 
@@ -545,7 +545,7 @@ label afterstory_3:
 
 
 
-    player "Now it’s your turn, Вера. Sorry to make you wait so long."
+    player "Now it’s your turn, Vera. Sorry to make you wait so long."
 
 
 
@@ -555,7 +555,7 @@ label afterstory_3:
 
 
 
-    c "Humph, that’s your problem, Вера. You are always being too polite to him. You should learn to be wilder."
+    c "Humph, that’s your problem, Vera. You are always being too polite to him. You should learn to be wilder."
 
 
 
@@ -565,7 +565,7 @@ label afterstory_3:
 
     scene afterstory_3_46 with tstmgr
 
-    c "It’s your fault too, [P]. Your sex with Вера was always full of love and gentleness. You should fuck her like an animal, like how you treat me and Уно."
+    c "It’s your fault too, [P]. Your sex with Vera was always full of love and gentleness. You should fuck her like an animal, like how you treat me and Uno."
 
 
 
@@ -581,7 +581,7 @@ label afterstory_3:
 
     scene afterstory_3_48 with tstmgr
 
-    c "Humph, humph~ Don’t worry, Вера. I’ll help you destroy your self-esteem, make you a better sex slave~"
+    c "Humph, humph~ Don’t worry, Vera. I’ll help you destroy your self-esteem, make you a better sex slave~"
 
 
 
@@ -607,7 +607,7 @@ label afterstory_3:
 
 
 
-    "Вера did what Theo asked, to bend down and put her hands on the window. But she didn’t expect Theo to ride on her back."
+    "Vera did what Theo asked, to bend down and put her hands on the window. But she didn’t expect Theo to ride on her back."
 
 
 
@@ -687,7 +687,7 @@ label afterstory_3:
 
 
 
-    c "Yes, Вера, submit to your fate. You are destined to be a mare!~"
+    c "Yes, Vera, submit to your fate. You are destined to be a mare!~"
 
 
 
@@ -703,7 +703,7 @@ label afterstory_3:
 
 
 
-    player "Shit, Вера... ..."
+    player "Shit, Vera... ..."
 
 
 
@@ -719,7 +719,7 @@ label afterstory_3:
 
 
 
-    "I unleashed a heavy creamy load directly into Вера’s deepest..."
+    "I unleashed a heavy creamy load directly into Vera’s deepest..."
 
 
 
@@ -737,19 +737,19 @@ label afterstory_3:
 
     scene afterstory_3_56 with tstmgr
 
-    g "Hmmmmm... ... Master’s creampie made Вера so happy... ..."
+    g "Hmmmmm... ... Master’s creampie made Vera so happy... ..."
 
 
 
-    g "And Теодора also looks happy... ... by helping master train his mare... ..."
+    g "And Theodora also looks happy... ... by helping master train his mare... ..."
 
 
 
-    g "Awwwwww~~~ Уно wants to get happy too!"
+    g "Awwwwww~~~ Uno wants to get happy too!"
 
 
 
-    g "Вера, Вера~ Can I eat the cum in your pussy?"
+    g "Vera, Vera~ Can I eat the cum in your pussy?"
 
 
 
@@ -776,7 +776,7 @@ label afterstory_3:
 
 
 
-    "After we put the exhausted Вера on the bed, Уно, my loyalest kitten, began to suck and lick her pussy to try to get my cum out..."
+    "After we put the exhausted Vera on the bed, Uno, my loyalest kitten, began to suck and lick her pussy to try to get my cum out..."
 
 
 
@@ -784,7 +784,7 @@ label afterstory_3:
 
 
 
-    "As for Теодора, my silver-haired beauty has switched from the sadistic queen mode to the obedient slave mode. She was using her big bouncy tits to please me by massaging my arm."
+    "As for Theodora, my silver-haired beauty has switched from the sadistic queen mode to the obedient slave mode. She was using her big bouncy tits to please me by massaging my arm."
 
 
 
@@ -792,7 +792,7 @@ label afterstory_3:
 
 
 
-    g "Вера’s pussy... ... and master’s cum... ... all taste so good~~~"
+    g "Vera’s pussy... ... and master’s cum... ... all taste so good~~~"
 
 
 
@@ -800,7 +800,7 @@ label afterstory_3:
 
 
 
-    g "Humph~ Greedy Вера~~"
+    g "Humph~ Greedy Vera~~"
 
 
 
@@ -824,11 +824,11 @@ label afterstory_3:
 
 
 
-    g "Slurp~~ slurp~~ glum~~ Ha~~ I have sucked all the cum out of Вера’s pussy!~~~"
+    g "Slurp~~ slurp~~ glum~~ Ha~~ I have sucked all the cum out of Vera’s pussy!~~~"
 
 
 
-    a "Bad Уно!"
+    a "Bad Uno!"
 
 
 
@@ -840,11 +840,11 @@ label afterstory_3:
 
 
 
-    player "You will get what you want, Уно~ And I’m gonna make you full!~"
+    player "You will get what you want, Uno~ And I’m gonna make you full!~"
 
 
 
-    c "Humph~ Let me help you get up, Вера~ Let’s make some room for them~"
+    c "Humph~ Let me help you get up, Vera~ Let’s make some room for them~"
 
 
 
@@ -861,7 +861,7 @@ label afterstory_3:
 
 
 
-    c "*Kissing* Come here, Вера... ..."
+    c "*Kissing* Come here, Vera... ..."
 
 
 
@@ -869,7 +869,7 @@ label afterstory_3:
 
 
 
-    "While I was fucking Уно, Теодора and Вера were cuddled up together kissing each other."
+    "While I was fucking Uno, Theodora and Vera were cuddled up together kissing each other."
 
 
 
@@ -903,15 +903,15 @@ label afterstory_3:
 
 
 
-    g "Master... awww~~~ Master~~ Fuck me~~ Use me~~ Use Уно’s horny baby-tunnel~~~"
+    g "Master... awww~~~ Master~~ Fuck me~~ Use me~~ Use Uno’s horny baby-tunnel~~~"
 
 
 
-    player "Уно... ... since being a pet is your dream, then I’ll make you the happiest pet in the world!"
+    player "Uno... ... since being a pet is your dream, then I’ll make you the happiest pet in the world!"
 
 
 
-    g "Ohhhhh~~~ Уно is master’s sex pet~~ Being master’s sex pet is the whole meaning of my life!~~~"
+    g "Ohhhhh~~~ Uno is master’s sex pet~~ Being master’s sex pet is the whole meaning of my life!~~~"
 
 
 
@@ -923,7 +923,7 @@ label afterstory_3:
 
 
 
-    player "Me too, Уно!"
+    player "Me too, Uno!"
 
 
     stop sound
@@ -975,7 +975,7 @@ label afterstory_3:
 
     scene afterstory_3_62 with tstmgr
 
-    a "I believe you need some of this too, Уно~"
+    a "I believe you need some of this too, Uno~"
 
 
 
@@ -983,13 +983,13 @@ label afterstory_3:
 
 
 
-    "Вера took her boobs to Уно too, trying to comfort her after the orgasm..."
+    "Vera took her boobs to Uno too, trying to comfort her after the orgasm..."
 
 
 
     scene afterstory_3_63 with tstmgr
 
-    g "(Muuuuummmm~~~ Master is holding my neck while Вера is covering my nose and mouth with her titties... ... I think I’m gonna suffocate~~~)"
+    g "(Muuuuummmm~~~ Master is holding my neck while Vera is covering my nose and mouth with her titties... ... I think I’m gonna suffocate~~~)"
 
 
 

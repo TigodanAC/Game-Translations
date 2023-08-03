@@ -3,7 +3,7 @@ label E_love_7:
     scene void with tstmgr
     play music sorrow
 
-    "I decided to stay in Aunt Элиза’s mansion for tonight..."
+    "I decided to stay in Aunt Elisa’s mansion for tonight..."
 
 
 
@@ -41,7 +41,7 @@ label E_love_7:
 
 
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -77,7 +77,7 @@ label E_love_7:
 
 
 
-    player "Ah, hi, Aunt Элиза..."
+    player "Ah, hi, Aunt Elisa..."
 
 
 
@@ -95,7 +95,7 @@ label E_love_7:
 
 
 
-    player "What are you doing here, Aunt Элиза?"
+    player "What are you doing here, Aunt Elisa?"
 
 
 
@@ -137,7 +137,7 @@ label E_love_7:
 
     scene e_love_7_6 with tstmgr
 
-    "I then took a seat next to Aunt Элиза."
+    "I then took a seat next to Aunt Elisa."
 
 
 
@@ -183,7 +183,7 @@ label E_love_7:
 
 
 
-    player "Aunt Элиза... ..."
+    player "Aunt Elisa... ..."
 
 
 
@@ -233,7 +233,7 @@ label E_love_7:
 
 
 
-    player "Aunt Элиза... ... ... ..."
+    player "Aunt Elisa... ... ... ..."
 
 
 
@@ -263,7 +263,7 @@ label E_love_7:
 
 
 
-    e "I have already bought a Japanese-style bungalow in the suburb of the city and I’ll move there after Айрин goes to college."
+    e "I have already bought a Japanese-style bungalow in the suburb of the city and I’ll move there after Irene goes to college."
 
 
 
@@ -275,11 +275,11 @@ label E_love_7:
 
     scene e_love_7_18 with tstmgr
 
-    e "It's time for Теодора to take more responsibility. I’ll gradually hand my power to her in the next few years. I’m sure she will do better than me."
+    e "It's time for Theodora to take more responsibility. I’ll gradually hand my power to her in the next few years. I’m sure she will do better than me."
 
 
 
-    player "And... what about Айрин?"
+    player "And... what about Irene?"
 
 
 
@@ -337,7 +337,7 @@ label E_love_7:
 
 
 
-    player "Aunt Элиза... ..."
+    player "Aunt Elisa... ..."
 
 
 
@@ -361,7 +361,7 @@ label E_love_7:
 
 
 
-    "I never saw Aunt Элиза expressing her sorrow like this before. She is so eager to be loved. The void in her heart is tearing her apart."
+    "I never saw Aunt Elisa expressing her sorrow like this before. She is so eager to be loved. The void in her heart is tearing her apart."
 
 
 

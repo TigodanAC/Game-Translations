@@ -36,7 +36,7 @@ label harem_DG_2:
 
 
 
-    g "Awwwwwwww~~~~ Айрин~~~~"
+    g "Awwwwwwww~~~~ Irene~~~~"
 
 
 
@@ -48,7 +48,7 @@ label harem_DG_2:
 
     scene harem_dg_2_5 with tstmgr
 
-    d "Master? Do you want to have a bite on Уно's nipple too?"
+    d "Master? Do you want to have a bite on Uno's nipple too?"
 
 
 

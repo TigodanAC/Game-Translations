@@ -3,11 +3,11 @@ label C_daily_11:
     scene void with tstmgr
     play music sorrow
 
-    "Later, in Теодора’s office."
+    "Later, in Theodora’s office."
 
 
 
-    "*The following plot is from Теодора’s perspective.*"
+    "*The following plot is from Theodora’s perspective.*"
 
 
 

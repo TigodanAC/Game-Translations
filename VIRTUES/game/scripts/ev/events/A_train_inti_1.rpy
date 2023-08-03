@@ -7,7 +7,7 @@ label A_train_inti_1:
 
 
 
-    "Вера and I have arrived home together from her workplace."
+    "Vera and I have arrived home together from her workplace."
 
 
 
@@ -49,7 +49,7 @@ label A_train_inti_1:
 
 
 
-    player "Вера, you have been in the toilet for more than 20 minutes, are you alright?"
+    player "Vera, you have been in the toilet for more than 20 minutes, are you alright?"
 
 
 
@@ -75,7 +75,7 @@ label A_train_inti_1:
 
 
 
-    player "Shit, are you okay, Вера?"
+    player "Shit, are you okay, Vera?"
 
 
 
@@ -183,7 +183,7 @@ label A_train_inti_1:
 
     scene a_train_inti_1_11 with tstmgr
 
-    player "*Kissing Вера’s shoulder* Well, that’s exactly what I’m going to do. I will spoil you so hard and treat you like a princess."
+    player "*Kissing Vera’s shoulder* Well, that’s exactly what I’m going to do. I will spoil you so hard and treat you like a princess."
 
 
 
@@ -209,13 +209,13 @@ label A_train_inti_1:
 
     scene a_train_inti_1_13 with tstmgr
 
-    player "Alright, Вера, could you turn around, please?"
+    player "Alright, Vera, could you turn around, please?"
 
 
 
     scene a_train_inti_1_14 with tstmgr
 
-    player "Вера?"
+    player "Vera?"
 
 
 

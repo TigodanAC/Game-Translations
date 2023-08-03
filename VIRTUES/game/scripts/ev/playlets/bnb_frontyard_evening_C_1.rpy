@@ -34,7 +34,7 @@ label bnb_frontyard_evening_C_1:
 
     scene bnb_frontyard_evening_c_1_4 with tstmgr
 
-    player "Oh, hi, Вера, it's me~"
+    player "Oh, hi, Vera, it's me~"
 
 
 

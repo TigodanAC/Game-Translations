@@ -2,7 +2,7 @@ label school_campus_afternoon_F_1:
 
     scene void with tstmgr
 
-    "I encoutered Рэйчел at the campus this afternoon."
+    "I encoutered Rachel at the campus this afternoon."
 
 
 

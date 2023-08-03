@@ -4,15 +4,15 @@ label sbsj:
 
     narrator "The next morning."
 
-    narrator "I came to Aunt Элиза's company."
+    narrator "I came to Aunt Elisa's company."
 
-    narrator "In the next few months, or even the next few years, this job may be my primary source of income, and Теодора will be my supervisor. God, I can't even imagine how hard it will be."
+    narrator "In the next few months, or even the next few years, this job may be my primary source of income, and Theodora will be my supervisor. God, I can't even imagine how hard it will be."
 
-    narrator "But I have to work as hard as I can because now I am fighting for survival, and I don't want Теодора to look down upon me."
+    narrator "But I have to work as hard as I can because now I am fighting for survival, and I don't want Theodora to look down upon me."
 
     scene c_company_normal with tstmgr
 
-    narrator "I walked into the company and saw that Теодора is waiting for me."
+    narrator "I walked into the company and saw that Theodora is waiting for me."
 
     narrator "Wait, I never saw her dressed like this before. Is it her typical work dress?"
 
@@ -70,7 +70,7 @@ label sbsj:
 
     c "Well, this is the only contract you can get from me. It's your freedom to choose whether to accept this or find yourself a dishwashing job."
 
-    player "What will Aunt Элиза think if she knows you are exploiting me?"
+    player "What will Aunt Elisa think if she knows you are exploiting me?"
 
     c "She won't judge it. She took you as her own son, remember? If you can't even handle such an easy situation like this, you won't be worthy of being part of our family."
 
@@ -124,7 +124,7 @@ label sbsj:
 
     narrator "... ... ... ... ... ..."
 
-    call screen hint("From now on, you can choose to work at ShinyRost Inc. during weekdays. By working here, you will be able to earn a wage and develop your relationship with Теодора.")
+    call screen hint("From now on, you can choose to work at ShinyRost Inc. during weekdays. By working here, you will be able to earn a wage and develop your relationship with Theodora.")
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

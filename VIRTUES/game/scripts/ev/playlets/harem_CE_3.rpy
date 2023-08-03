@@ -12,13 +12,13 @@ label harem_CE_3:
 
 
 
-    "I’m being flanked by Элиза and Теодора’s lewd boobs. My stomach and back are being pressed by boobs at the same time and my dick was held by Элиза’s soft hand too. Nothing can be better than this~"
+    "I’m being flanked by Elisa and Theodora’s lewd boobs. My stomach and back are being pressed by boobs at the same time and my dick was held by Elisa’s soft hand too. Nothing can be better than this~"
 
 
 
     scene harem_ce_3_3 with tstmgr
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 

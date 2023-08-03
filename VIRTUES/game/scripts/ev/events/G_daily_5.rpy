@@ -25,7 +25,7 @@ label G_daily_5:
 
 
 
-    player "Ah, forget it. I’ll go find Сеннин tomorrow and ask her for help."
+    player "Ah, forget it. I’ll go find Senning tomorrow and ask her for help."
 
 
 
@@ -47,7 +47,7 @@ label G_daily_5:
 
 
 
-    "I walked up to the door to Уно's room..."
+    "I walked up to the door to Uno's room..."
 
 
 
@@ -61,7 +61,7 @@ label G_daily_5:
 
     scene g_daily5_2 with dissolve
 
-    player "Eh, hey, evening, Уно... ..."
+    player "Eh, hey, evening, Uno... ..."
 
 
 
@@ -129,7 +129,7 @@ label G_daily_5:
 
 
 
-    "This girl in my arms, Уно, is a girl with a ‘pet personality’."
+    "This girl in my arms, Uno, is a girl with a ‘pet personality’."
 
 
 

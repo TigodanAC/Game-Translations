@@ -79,7 +79,7 @@ label D_train_sub_1:
 
 
 
-    player "Айрин?!"
+    player "Irene?!"
 
 
 
@@ -109,7 +109,7 @@ label D_train_sub_1:
 
     scene d_train_sub_1_7 with tstmgr
 
-    player "(Carrying Айрин like carrying an animal cub) Hmmm... you are indeed light like a kitty..."
+    player "(Carrying Irene like carrying an animal cub) Hmmm... you are indeed light like a kitty..."
 
 
 
@@ -131,7 +131,7 @@ label D_train_sub_1:
 
     scene d_train_sub_1_10 with tstmgr
 
-    player "Does Aunt Элиза know that you came here tonight?"
+    player "Does Aunt Elisa know that you came here tonight?"
 
 
 
@@ -149,7 +149,7 @@ label D_train_sub_1:
 
 
 
-    player "Stop being childish. Aunt Элиза will be so mad at me if you really do that. You have classes tomorrow, don’t you?"
+    player "Stop being childish. Aunt Elisa will be so mad at me if you really do that. You have classes tomorrow, don’t you?"
 
 
 
@@ -507,7 +507,7 @@ label D_train_sub_1:
 
 
 
-    player "You did great, Айрин."
+    player "You did great, Irene."
 
 
 
@@ -535,7 +535,7 @@ label D_train_sub_1:
 
 
 
-    player "Good, now get dressed and I’m going to drive you home. Remember to take the collar off before Aunt Элиза sees you."
+    player "Good, now get dressed and I’m going to drive you home. Remember to take the collar off before Aunt Elisa sees you."
 
 
 

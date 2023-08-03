@@ -2,7 +2,7 @@ label D_action_sub_1:
 
     scene void with tstmgr
 
-    "Evening, in Айрин’s room..."
+    "Evening, in Irene’s room..."
 
 
 
@@ -23,7 +23,7 @@ label D_action_sub_1:
     label D_action_sub_1_choice_1:
 
     menu:
-        "Order her to sit like a cat" if True:
+        "Order her to sit like a cat":
 
 
             scene d_action_sub_1_2 with tstmgr
@@ -58,7 +58,7 @@ label D_action_sub_1:
 
             d "Master’s finger... is salty~ but... tasty~~~"
 
-            player "Ohhhhhh~~~~ Айрин~~~~"
+            player "Ohhhhhh~~~~ Irene~~~~"
 
             scene d_action_sub_1_7 with tstmgr
 
@@ -70,8 +70,8 @@ label D_action_sub_1:
 
             player "You are the best~~"
 
-            d "Hahhh~~~ Айрин is so happy!~~~"
-        "Hold her in your arms" if True:
+            d "Hahhh~~~ Irene is so happy!~~~"
+        "Hold her in your arms":
 
 
 
@@ -80,7 +80,7 @@ label D_action_sub_1:
 
             d "Meow meow?"
 
-            player "You are so adorable, Айрин..."
+            player "You are so adorable, Irene..."
 
             scene d_action_sub_1_10 with tstmgr
 
@@ -120,7 +120,7 @@ label D_action_sub_1:
 
     scene void with tstmgr
 
-    "I stayed with Айрин in her room until late night..."
+    "I stayed with Irene in her room until late night..."
 
 
 

@@ -2,7 +2,7 @@ label clothing_afternoon_A_2:
 
     scene clothing_afternoon_a_2_1 with tstmgr
 
-    player "Hey, Вера."
+    player "Hey, Vera."
 
 
 

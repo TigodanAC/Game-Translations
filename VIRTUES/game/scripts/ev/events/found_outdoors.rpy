@@ -3,7 +3,7 @@ label found_outdoors:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, Уно and I are on the way home after a movie."
+    "Later tonight, Uno and I are on the way home after a movie."
 
 
 

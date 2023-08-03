@@ -133,7 +133,7 @@ label trailor_final:
 
 
 
-    player "Oh, Айрин is calling me. The girls just finished shopping and I need to drive them home~"
+    player "Oh, Irene is calling me. The girls just finished shopping and I need to drive them home~"
 
 
 

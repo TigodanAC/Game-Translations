@@ -27,7 +27,7 @@ label Special_5:
 
 
 
-    e "I made a replica of Теодора’s key~"
+    e "I made a replica of Theodora’s key~"
 
 
 
@@ -183,7 +183,7 @@ label Special_5:
 
 
 
-    "I then briefly explained the controversy of ‘my lawful wedded wife’ between Lady Minna and Элиза."
+    "I then briefly explained the controversy of ‘my lawful wedded wife’ between Lady Minna and Elisa."
 
 
 
@@ -403,7 +403,7 @@ label Special_5:
 
 
 
-    player "Сеннин is very sensitive to scents. You will get used to it~"
+    player "Senning is very sensitive to scents. You will get used to it~"
 
 
 
@@ -498,7 +498,7 @@ label Special_5:
 
 
 
-    c "Don’t... don’t make me so embarrassed in front of Сеннин~~~~~"
+    c "Don’t... don’t make me so embarrassed in front of Senning~~~~~"
 
 
 
@@ -540,13 +540,13 @@ label Special_5:
 
 
 
-    player "Well, good news, Сеннин is busy with her own things~"
+    player "Well, good news, Senning is busy with her own things~"
 
 
 
     scene special_5_41 with tstmgr
 
-    b "[P]’s big penis is getting so wet by the fluid coming out from Теодора’s pussy~~~~~"
+    b "[P]’s big penis is getting so wet by the fluid coming out from Theodora’s pussy~~~~~"
 
 
 
@@ -600,7 +600,7 @@ label Special_5:
 
 
 
-    b "Miss Теодора is lying under me... My sweat is spilling on her... ..."
+    b "Miss Theodora is lying under me... My sweat is spilling on her... ..."
 
 
 
@@ -622,7 +622,7 @@ label Special_5:
 
 
 
-    "Сеннин didn’t know that her mother was watching her from the closet behind us, but I knew it, and it is making me so damn excited."
+    "Senning didn’t know that her mother was watching her from the closet behind us, but I knew it, and it is making me so damn excited."
 
 
 
@@ -658,7 +658,7 @@ label Special_5:
 
 
 
-    "Сеннин had a great orgasm while I pumped my sticky white cum into her deepest at the same time... ..."
+    "Senning had a great orgasm while I pumped my sticky white cum into her deepest at the same time... ..."
 
 
 
@@ -718,11 +718,11 @@ label Special_5:
 
 
 
-    c "Prove to Сеннин that... you are a great harem master~"
+    c "Prove to Senning that... you are a great harem master~"
 
 
 
-    "Hah~ I’m not only proving this to Сеннин, but also to Элиза and Minna."
+    "Hah~ I’m not only proving this to Senning, but also to Elisa and Minna."
 
 
 
@@ -740,7 +740,7 @@ label Special_5:
 
 
 
-    b "[P]... ... is fucking Теодора so hard... ... oh dear... did I just say ‘fuck’?... ..."
+    b "[P]... ... is fucking Theodora so hard... ... oh dear... did I just say ‘fuck’?... ..."
 
 
 
@@ -830,7 +830,7 @@ label Special_5:
 
     scene special_5_57 with dissolve
 
-    "Сеннин and Теодора went to shower together. They asked me to go with them, but well, I have to stay here because... ..."
+    "Senning and Theodora went to shower together. They asked me to go with them, but well, I have to stay here because... ..."
 
 
 
@@ -1137,7 +1137,7 @@ label Special_5:
 
     scene void with tstmgr
 
-    "Элиза and Lady Minna then left my house together~"
+    "Elisa and Lady Minna then left my house together~"
 
 
 

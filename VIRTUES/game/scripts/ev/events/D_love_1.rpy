@@ -17,7 +17,7 @@ label D_love_1:
 
     narrator "The only thing I know is that I have to restrain my desire in front of her all the time, and that is not easy."
 
-    narrator "Me and Айрин, we grew up together, like brother and sister. Theoretically, I should be gratified to see her becoming more and more charming."
+    narrator "Me and Irene, we grew up together, like brother and sister. Theoretically, I should be gratified to see her becoming more and more charming."
 
     narrator "But now I notice that I have been attracted by her charm. It is not right. It is not right."
 
@@ -117,7 +117,7 @@ label D_love_1:
 
     narrator "... ... ... ..."
 
-    narrator "I spent some time tutoring Айрин."
+    narrator "I spent some time tutoring Irene."
 
     narrator "... ... ... ..."
 

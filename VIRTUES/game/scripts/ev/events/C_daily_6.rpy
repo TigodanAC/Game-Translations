@@ -3,7 +3,7 @@ label C_daily_6:
     scene void with tstmgr
     play music sorrow
 
-    "I encountered Теодора in the elevator again when I was on my way to work."
+    "I encountered Theodora in the elevator again when I was on my way to work."
 
 
 
@@ -17,17 +17,17 @@ label C_daily_6:
 
 
 
-    "And Теодора was surrounded by three guys."
+    "And Theodora was surrounded by three guys."
 
 
 
     scene c_daily6_2 with tstmgr
 
-    "I don’t really know their names. This is a big company so they might work on different floors. I bet Теодора doesn’t know their names, either. After all, she is only a departmental manager."
+    "I don’t really know their names. This is a big company so they might work on different floors. I bet Theodora doesn’t know their names, either. After all, she is only a departmental manager."
 
 
 
-    "I saw these three guys putting their hands and arms on Теодора’s body and pretending like they were forced by the crowds."
+    "I saw these three guys putting their hands and arms on Theodora’s body and pretending like they were forced by the crowds."
 
 
 
@@ -35,7 +35,7 @@ label C_daily_6:
 
 
 
-    "Теодора looked a little uncomfortable. She must have realized something, but it seemed like she was going to endure them in silence."
+    "Theodora looked a little uncomfortable. She must have realized something, but it seemed like she was going to endure them in silence."
 
 
 
@@ -61,7 +61,7 @@ label C_daily_6:
 
             "... ... ... ..."
 
-            "A few moments later, Теодора and I left the elevator together."
+            "A few moments later, Theodora and I left the elevator together."
 
             scene c_daily6_8 with tstmgr
 

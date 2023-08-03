@@ -4,7 +4,7 @@ label beach_afternoon_F_1:
 
     scene beach_afternoon_f_1_1 with dissolve
 
-    player "Eh... Рэйчел, can I ask you something?"
+    player "Eh... Rachel, can I ask you something?"
 
 
 

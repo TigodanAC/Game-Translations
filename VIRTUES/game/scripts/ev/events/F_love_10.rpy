@@ -4,7 +4,7 @@ label F_love_10:
     scene void with tstmgr
     play music happy
 
-    "Рэйчел’s has changed a lot recently."
+    "Rachel’s has changed a lot recently."
 
 
 
@@ -14,7 +14,7 @@ label F_love_10:
 
     scene f_love_10_1 with flashback
 
-    "She would come to the bookstore and ask Уно to teach her things about anime, manga, and all sorts of weird things."
+    "She would come to the bookstore and ask Uno to teach her things about anime, manga, and all sorts of weird things."
 
 
 
@@ -30,7 +30,7 @@ label F_love_10:
 
     scene f_love_10_3 with flashback
 
-    "She would also go to my house and watch a soccer game with Вера."
+    "She would also go to my house and watch a soccer game with Vera."
 
 
 
@@ -46,7 +46,7 @@ label F_love_10:
 
     scene f_love_10_5 with flashback
 
-    "Or just staying in Сеннин’s room and watching her play computer games."
+    "Or just staying in Senning’s room and watching her play computer games."
 
 
 
@@ -76,7 +76,7 @@ label F_love_10:
 
     scene void with tstmgr
 
-    "Рэйчел’s life is becoming more and more colorful, every day she learns more about the world than the day before, thanks to Вера, Сеннин, and Уно... ..."
+    "Rachel’s life is becoming more and more colorful, every day she learns more about the world than the day before, thanks to Vera, Senning, and Uno... ..."
 
 
 
@@ -94,7 +94,7 @@ label F_love_10:
 
     scene f_love_10_8 with dissolve
 
-    "Coach" "Рэйчел, you just broke your own record, keep on, girl, you are doing great lately~"
+    "Coach" "Rachel, you just broke your own record, keep on, girl, you are doing great lately~"
 
 
 
@@ -102,7 +102,7 @@ label F_love_10:
 
 
 
-    "Coach" "Hmmmmmm... ... Where is Рэйчел?"
+    "Coach" "Hmmmmmm... ... Where is Rachel?"
 
 
 
@@ -126,7 +126,7 @@ label F_love_10:
 
     scene f_love_10_8 with dissolve
 
-    "Coach" "Рэйчел! What just happened? Your running form was ridiculous!"
+    "Coach" "Rachel! What just happened? Your running form was ridiculous!"
 
 
 
@@ -154,7 +154,7 @@ label F_love_10:
 
 
 
-    "Some days later, I came to Рэйчел’s apartment, and surprisedly saw that she was packing up."
+    "Some days later, I came to Rachel’s apartment, and surprisedly saw that she was packing up."
 
 
 
@@ -416,7 +416,7 @@ label F_love_10:
 
 
 
-    player "Me, Сеннин, Вера, Уно, we will all go to that tournament and cheer for you at the stands..."
+    player "Me, Senning, Vera, Uno, we will all go to that tournament and cheer for you at the stands..."
 
 
 
@@ -442,7 +442,7 @@ label F_love_10:
 
     scene f_love_10_41 with tstmgr
 
-    player "Рэйчел? Are you... crying?"
+    player "Rachel? Are you... crying?"
 
 
 
@@ -496,7 +496,7 @@ label F_love_10:
 
 
 
-    player "Рэйчел... ..."
+    player "Rachel... ..."
 
 
 
@@ -633,7 +633,7 @@ label F_love_10:
 
 
 
-    player "Рэйчел!"
+    player "Rachel!"
 
 
 
@@ -687,7 +687,7 @@ label F_love_10:
 
 
 
-    player "Рэйчел, you are so amazing... ..."
+    player "Rachel, you are so amazing... ..."
 
 
 
@@ -722,7 +722,7 @@ label F_love_10:
 
 
 
-    player "Рэйчел... ..."
+    player "Rachel... ..."
 
 
 
@@ -764,7 +764,7 @@ label F_love_10:
 
 
 
-    player "This is so damn amazing... ... I love you, Рэйчел... ..."
+    player "This is so damn amazing... ... I love you, Rachel... ..."
 
 
 
@@ -780,7 +780,7 @@ label F_love_10:
 
 
 
-    player "Рэйчел!~~~"
+    player "Rachel!~~~"
 
 
     stop sound
@@ -812,7 +812,7 @@ label F_love_10:
 
     scene f_love_10_63 with tstmgr
 
-    player "Are you okay, Рэйчел?"
+    player "Are you okay, Rachel?"
 
 
 

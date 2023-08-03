@@ -2,7 +2,7 @@ label bnb_bathroom_forenoon_C_1:
 
     scene bnb_bathroom_forenoon_c_1_1 with tstmgr
 
-    "Теодора is having a shower in the bathroom..."
+    "Theodora is having a shower in the bathroom..."
 
 
 

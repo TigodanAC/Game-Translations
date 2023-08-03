@@ -121,7 +121,7 @@ label E_train_sexskill_1:
 
 
 
-    "Теодора walked back to her office alone..."
+    "Theodora walked back to her office alone..."
 
 
 
@@ -131,7 +131,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_12 with tstmgr
 
-    player "Should we... go to your house or the bungalow, Элиза?~"
+    player "Should we... go to your house or the bungalow, Elisa?~"
 
 
 
@@ -149,7 +149,7 @@ label E_train_sexskill_1:
 
 
 
-    "Sometime later, in Элиза’s room..."
+    "Sometime later, in Elisa’s room..."
 
 
 
@@ -159,7 +159,7 @@ label E_train_sexskill_1:
 
 
 
-    e "You are... indeed professional as Теодора said. Where did you learn this skill?"
+    e "You are... indeed professional as Theodora said. Where did you learn this skill?"
 
 
 
@@ -169,7 +169,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_14 with tstmgr
 
-    e "In order to serve women like me and Теодора who are bothered by the weight of huge breasts?"
+    e "In order to serve women like me and Theodora who are bothered by the weight of huge breasts?"
 
 
 
@@ -205,7 +205,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_17 with tstmgr
 
-    e "Yes, Теодора needs to be carefully cared for. She is like a rose, beautiful, thorny, but vulnerable too."
+    e "Yes, Theodora needs to be carefully cared for. She is like a rose, beautiful, thorny, but vulnerable too."
 
 
 
@@ -243,7 +243,7 @@ label E_train_sexskill_1:
 
 
 
-    player "Элиза’s lap pillow... ... Can I really do that?"
+    player "Elisa’s lap pillow... ... Can I really do that?"
 
 
 
@@ -265,7 +265,7 @@ label E_train_sexskill_1:
 
     scene e_train_sexskill_1_21 with dissolve
 
-    player "Элиза... ..."
+    player "Elisa... ..."
 
 
 
@@ -611,7 +611,7 @@ label E_train_sexskill_1:
 
 
 
-    "Элиза’s milk gushed out like streams... This is just magnificent~"
+    "Elisa’s milk gushed out like streams... This is just magnificent~"
 
 
 
@@ -639,7 +639,7 @@ label E_train_sexskill_1:
 
 
 
-    "I spent the entire afternoon with Элиза and played this mother-son game all along..."
+    "I spent the entire afternoon with Elisa and played this mother-son game all along..."
 
 
 

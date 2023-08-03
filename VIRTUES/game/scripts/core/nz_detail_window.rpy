@@ -144,7 +144,7 @@ screen nz_detail(idx):
                 spacing 40
 
             vbox:
-                xsize 720 yfill 
+                xsize 720 yfill
 
                 spacing 10
                 label "[nz.name]" style "nz_detail_name"

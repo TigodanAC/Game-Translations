@@ -45,7 +45,7 @@ label F_love_9:
 
     scene f_love_9_4 with tstmgr
 
-    player "So... ... Уно said you were a little upset recently. Is everything alright?"
+    player "So... ... Uno said you were a little upset recently. Is everything alright?"
 
 
 
@@ -91,7 +91,7 @@ label F_love_9:
 
     scene f_love_9_6 with tstmgr
 
-    f "I thought this world was as simple as my track team, but then I met you... ... and Сеннин, and Уно, and Вера. You guys showed me so many things that I didn’t know before."
+    f "I thought this world was as simple as my track team, but then I met you... ... and Senning, and Uno, and Vera. You guys showed me so many things that I didn’t know before."
 
 
 
@@ -213,13 +213,13 @@ label F_love_9:
 
 
 
-    f "In the way you like Сеннин, Вера, and Уно?"
+    f "In the way you like Senning, Vera, and Uno?"
 
 
 
     scene f_love_9_17 with tstmgr
 
-    player "That’s not ‘like’, Рэйчел, that’s love. I love them."
+    player "That’s not ‘like’, Rachel, that’s love. I love them."
 
 
 
@@ -237,7 +237,7 @@ label F_love_9:
 
     scene f_love_9_18 with tstmgr
 
-    player "To be honest, Рэйчел, I don’t know what to say."
+    player "To be honest, Rachel, I don’t know what to say."
 
 
 
@@ -309,7 +309,7 @@ label F_love_9:
 
 
 
-    player "Рэйчел... ..."
+    player "Rachel... ..."
 
 
 
@@ -369,7 +369,7 @@ label F_love_9:
 
     $ flashlight()
 
-    "Рэйчел suddenly pressed my head hard against her chest, a little bit too hard, actually. My neck almost felt numb immediately."
+    "Rachel suddenly pressed my head hard against her chest, a little bit too hard, actually. My neck almost felt numb immediately."
 
 
 
@@ -437,7 +437,7 @@ label F_love_9:
 
     scene f_love_9_36 with tstmgr
 
-    player "Рэйчел... ..."
+    player "Rachel... ..."
 
 
 
@@ -505,7 +505,7 @@ label F_love_9:
 
 
 
-    player "I love you, Рэйчел."
+    player "I love you, Rachel."
 
 
 
@@ -527,7 +527,7 @@ label F_love_9:
 
 
 
-    f "Sex... like you did with Вера... Уно... Сеннин... ..."
+    f "Sex... like you did with Vera... Uno... Senning... ..."
 
 
 
@@ -535,7 +535,7 @@ label F_love_9:
 
 
 
-    player "Alright, Рэйчел... ..."
+    player "Alright, Rachel... ..."
 
 
 
@@ -545,7 +545,7 @@ label F_love_9:
 
 
 
-    "Рэйчел quickly climbed onto the bed and waited for me with a pose of welcoming penetration. It seems like she has practiced it for a long time."
+    "Rachel quickly climbed onto the bed and waited for me with a pose of welcoming penetration. It seems like she has practiced it for a long time."
 
 
 
@@ -583,7 +583,7 @@ label F_love_9:
 
 
 
-    player "Рэйчел, you are so lovely~"
+    player "Rachel, you are so lovely~"
 
 
 
@@ -623,7 +623,7 @@ label F_love_9:
 
 
 
-    player "Alright, Рэйчел, let’s do it~"
+    player "Alright, Rachel, let’s do it~"
 
 
 
@@ -697,7 +697,7 @@ label F_love_9:
 
 
 
-    player "Are you still alright, Рэйчел?"
+    player "Are you still alright, Rachel?"
 
 
 
@@ -727,7 +727,7 @@ label F_love_9:
 
     scene f_love_9_59 with tstmgr
 
-    player "I will begin to move, Рэйчел..."
+    player "I will begin to move, Rachel..."
 
 
 
@@ -769,7 +769,7 @@ label F_love_9:
 
 
 
-    f "I borrowed Сеннин’s old laptop and... watched porns every night until sleep~"
+    f "I borrowed Senning’s old laptop and... watched porns every night until sleep~"
 
 
 
@@ -811,7 +811,7 @@ label F_love_9:
 
 
 
-    player "Рэйчел... ..."
+    player "Rachel... ..."
 
 
 
@@ -839,7 +839,7 @@ label F_love_9:
 
 
 
-    "For the first time in her life, Рэйчел’s vagina was filled with a male’s cum."
+    "For the first time in her life, Rachel’s vagina was filled with a male’s cum."
 
 
 
@@ -853,7 +853,7 @@ label F_love_9:
 
 
 
-    player "Congratulations, Рэйчел, from now on you are not a virgin anymore~"
+    player "Congratulations, Rachel, from now on you are not a virgin anymore~"
 
 
 
@@ -919,7 +919,7 @@ label F_love_9:
 
 
 
-    player "Рэйчел... ..."
+    player "Rachel... ..."
 
 
 

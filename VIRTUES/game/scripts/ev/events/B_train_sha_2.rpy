@@ -3,7 +3,7 @@ label B_train_sha_2:
     scene void with tstmgr
     play music sorrow
 
-    "A few days later, late night, I just had dinner with Сеннин and took her back to her apartment."
+    "A few days later, late night, I just had dinner with Senning and took her back to her apartment."
 
 
 
@@ -675,7 +675,7 @@ label B_train_sha_2:
 
 
 
-    player "Owwww... Сеннин... ..."
+    player "Owwww... Senning... ..."
 
 
 
@@ -697,7 +697,7 @@ label B_train_sha_2:
 
 
 
-    "Сеннин is pretending like we are having sex and she is trying to let Teresa hear it. This is really adorable. I guess she has really suffered from Teresa’s moaning for a long time."
+    "Senning is pretending like we are having sex and she is trying to let Teresa hear it. This is really adorable. I guess she has really suffered from Teresa’s moaning for a long time."
 
 
 
@@ -780,7 +780,7 @@ label B_train_sha_2:
 
 
 
-    "The next day, both Сеннин and Teresa were reported by all the other people living on this floor for the noise they made last night..."
+    "The next day, both Senning and Teresa were reported by all the other people living on this floor for the noise they made last night..."
 
 
 

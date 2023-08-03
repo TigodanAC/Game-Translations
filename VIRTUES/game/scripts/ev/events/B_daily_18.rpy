@@ -213,7 +213,7 @@ label B_daily_18:
 
     scene b_daily18_19 with tstmgr
 
-    player "You and Сеннин are really alike. She likes to make a perfect plan before doing everything too, but things just always go beyond her plans~"
+    player "You and Senning are really alike. She likes to make a perfect plan before doing everything too, but things just always go beyond her plans~"
 
 
 
@@ -237,7 +237,7 @@ label B_daily_18:
 
     scene b_daily18_21 with tstmgr
 
-    "Lady Minna" "You think I’m willing to watch you jerking off? I’m doing this for Сеннин. So come on, show me what you got."
+    "Lady Minna" "You think I’m willing to watch you jerking off? I’m doing this for Senning. So come on, show me what you got."
 
 
 
@@ -353,9 +353,9 @@ label B_daily_18:
 
             "Lady Minna" "Good boy... ..."
 
-            "Lady Minna" "Now... move faster and harder, imagine I am Сеннин... ..."
+            "Lady Minna" "Now... move faster and harder, imagine I am Senning... ..."
 
-            player "Сеннин... ..."
+            player "Senning... ..."
 
             scene b_daily18_39 with flashback
 
@@ -473,11 +473,11 @@ label B_daily_18:
 
             scene b_daily18_49 with tstmgr
 
-            "Lady Minna" "Congratulations, you have proved yourself a capable man. Now I can finally leave Сеннин to you without worrying~"
+            "Lady Minna" "Congratulations, you have proved yourself a capable man. Now I can finally leave Senning to you without worrying~"
 
             player "Eh... okay, thanks... ..."
 
-            "Lady Minna" "But don’t tell Сеннин about this test, okay?"
+            "Lady Minna" "But don’t tell Senning about this test, okay?"
 
             player "... ... ... ..."
 
@@ -485,9 +485,9 @@ label B_daily_18:
 
             scene b_daily18_32 with tstmgr
 
-            "Lady Minna" "Well, I am indeed the special one in the family. Сеннин’s father and her three... ‘aunts’ always criticize me for my ‘improper behaviors’, but I don’t really care~"
+            "Lady Minna" "Well, I am indeed the special one in the family. Senning’s father and her three... ‘aunts’ always criticize me for my ‘improper behaviors’, but I don’t really care~"
 
-            player "Yet Сеннин is not so... open like you, why is that?"
+            player "Yet Senning is not so... open like you, why is that?"
 
             scene b_daily18_35 with tstmgr
 
@@ -495,7 +495,7 @@ label B_daily_18:
 
             player "I see... ... ... ..."
 
-            player "So... eh, if I have passed your final test, does that mean you won't object to Сеннин and I having sex anymore?"
+            player "So... eh, if I have passed your final test, does that mean you won't object to Senning and I having sex anymore?"
 
             scene b_daily18_31 with tstmgr
 
@@ -537,7 +537,7 @@ label B_daily_18:
 
             "Lady Minna" "This is surprising... ... Seems like you are a better man than I thought~"
 
-            "Lady Minna" "Okay then, the final test for you is over. Congratulation, you have proved yourself a trusty man. Now I can finally leave Сеннин to you without worrying~"
+            "Lady Minna" "Okay then, the final test for you is over. Congratulation, you have proved yourself a trusty man. Now I can finally leave Senning to you without worrying~"
 
             player "Wait, so... that was part of the test too?"
 
@@ -563,9 +563,9 @@ label B_daily_18:
 
             scene b_daily18_32 with tstmgr
 
-            "Lady Minna" "Well, I am indeed the special one in the family. Сеннин’s father and her three... ‘aunts’ always criticize me for my ‘improper behaviors’, but I don’t really care~"
+            "Lady Minna" "Well, I am indeed the special one in the family. Senning’s father and her three... ‘aunts’ always criticize me for my ‘improper behaviors’, but I don’t really care~"
 
-            player "Yet Сеннин is not so... open like you, why is that?"
+            player "Yet Senning is not so... open like you, why is that?"
 
             scene b_daily18_35 with tstmgr
 
@@ -573,7 +573,7 @@ label B_daily_18:
 
             player "I see... ... ... ..."
 
-            player "So... eh, if I have passed your final test, does that mean you won't object to Сеннин and I having sex anymore?"
+            player "So... eh, if I have passed your final test, does that mean you won't object to Senning and I having sex anymore?"
 
             scene b_daily18_31 with tstmgr
 

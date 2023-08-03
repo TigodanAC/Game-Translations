@@ -2,7 +2,7 @@ label find_A_restaurant_evening_E_1:
 
     scene find_a_restaurant_evening_e_1_1 with tstmgr
 
-    "Emm? Are those Aunt Элиза and... Вера?"
+    "Emm? Are those Aunt Elisa and... Vera?"
 
 
 

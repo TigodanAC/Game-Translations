@@ -6,7 +6,7 @@ label mansion_swimpool_evening_E_1:
 
 
 
-    player "Wow... Aunt Элиза... What are you doing?"
+    player "Wow... Aunt Elisa... What are you doing?"
 
 
 
@@ -30,7 +30,7 @@ label mansion_swimpool_evening_E_1:
 
 
 
-    player "Have a good night, Aunt Элиза. I’m leaving right now."
+    player "Have a good night, Aunt Elisa. I’m leaving right now."
 
 
 

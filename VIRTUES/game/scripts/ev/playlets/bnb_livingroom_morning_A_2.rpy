@@ -2,7 +2,7 @@ label bnb_livingroom_morning_A_2:
 
     scene void with tstmgr
 
-    player "Hey, Вера, can we talk about that night?"
+    player "Hey, Vera, can we talk about that night?"
 
 
 

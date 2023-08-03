@@ -10,7 +10,7 @@ label d5_4:
 
     player "(I still cannot believe that she would show up here.)"
 
-    "I looked around the bar and failed to find Вера. But suddenly, two servers who stand next to me start talking."
+    "I looked around the bar and failed to find Vera. But suddenly, two servers who stand next to me start talking."
 
     "Girl A" "Where is that new girl? I couldn't find her anywhere."
 
@@ -86,7 +86,7 @@ label d5_4:
 
     "Bar Owner" "Okay, okay. Man, I didn't know."
 
-    "I held Вера in my arm."
+    "I held Vera in my arm."
 
     "Bar Owner" "Look, man, I'm sorry. It's a fucking mistake. If I have any idea... I would never... I swear to God..."
 
@@ -100,7 +100,7 @@ label d5_4:
 
     "... ... ... ..."
 
-    "I took Вера out of this club."
+    "I took Vera out of this club."
 
     scene a_apartment_background_night with tstmgr
 
@@ -320,7 +320,7 @@ label d5_4:
 
     player "I want the house you bought in Rosco City three years ago. I know it's empty."
 
-    "Father" "Do you and Теодора finally decide to live together?"
+    "Father" "Do you and Theodora finally decide to live together?"
 
     player "... ... ... ..."
 
@@ -353,7 +353,7 @@ label d5_4:
 
 label d5_4_bLine:
 
-    narrator "A few hours later, at the nightclub where Вера applied for a job."
+    narrator "A few hours later, at the nightclub where Vera applied for a job."
 
     scene the_uzi_bar_background with tstmgr
 
@@ -363,7 +363,7 @@ label d5_4_bLine:
 
     player "(I still don't believe she would show up here.)"
 
-    narrator "I looked around the bar and failed to find Вера. "
+    narrator "I looked around the bar and failed to find Vera. "
 
     player "(It seems her neighbor has lied to Jake.)"
 
@@ -465,7 +465,7 @@ label d5_4_bLine:
 
     "Bar Owner" "Okay, okay. Man, I didn't know."
 
-    narrator "The bar owner let Вера go. She then ran to me, hid behind me, and cried like a baby."
+    narrator "The bar owner let Vera go. She then ran to me, hid behind me, and cried like a baby."
 
     "Bar Owner" "Look, man, I'm sorry. It’s a fucking mistake. If I have any idea... I would never... I swear to God..."
 
@@ -479,7 +479,7 @@ label d5_4_bLine:
 
     narrator "... ... ... ..."
 
-    narrator "I took Вера out of this pub."
+    narrator "I took Vera out of this pub."
 
     scene a_apartment_background_night with tstmgr
 
@@ -679,7 +679,7 @@ label d5_4_bLine:
 
     player "I want the house you bought in Rosco City three years ago. I know it's empty."
 
-    "Father" "Do you and Теодора finally decide to live together?"
+    "Father" "Do you and Theodora finally decide to live together?"
 
     player "... ... Nope."
 

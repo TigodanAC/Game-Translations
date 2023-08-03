@@ -3,7 +3,7 @@ label B_daily_1:
     scene class_background with tstmgr
     play music happy
 
-    narrator "Сеннин and I were having a conversation in the classroom."
+    narrator "Senning and I were having a conversation in the classroom."
 
     player "So tell me about China. I barely know anything about it."
 

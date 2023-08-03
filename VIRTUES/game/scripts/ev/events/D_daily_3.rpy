@@ -3,11 +3,11 @@ label D_daily_3:
     scene void with tstmgr
     play music happy
 
-    player "Айрин, are you there?"
+    player "Irene, are you there?"
 
     player "I'm coming in... We have a lot of review need to do today, no time to waste."
 
-    narrator "I opened the door of Айрин's room."
+    narrator "I opened the door of Irene's room."
 
     player "What... the... hell... ..."
 
@@ -19,7 +19,7 @@ label D_daily_3:
 
     player "(A... A bunny girl?)"
 
-    player "(Why there is a bunny girl in Айрин's room?)"
+    player "(Why there is a bunny girl in Irene's room?)"
 
     narrator "I was utterly speechless for at least 10 seconds. I could do nothing but stare at this bunny girl without a blink."
 
@@ -33,7 +33,7 @@ label D_daily_3:
 
     narrator "Who is this girl?"
 
-    player "(Closing eyes) I... I... I am sorry. I was looking for Айрин, didn't know you are here."
+    player "(Closing eyes) I... I... I am sorry. I was looking for Irene, didn't know you are here."
 
     "???" "It's... fine."
 
@@ -49,9 +49,9 @@ label D_daily_3:
 
     "???" "... ... ... ..."
 
-    "???" "You can call me... Уно."
+    "???" "You can call me... Uno."
 
-    narrator "Уно? I think I have heard it before."
+    narrator "Uno? I think I have heard it before."
 
     narrator "I mean, it's a famous card game name so... But no, I must have heard it from elsewhere."
 
@@ -67,7 +67,7 @@ label D_daily_3:
 
     scene rcsj_d6 with tstmgr
 
-    d "Emm... Her name is Уно."
+    d "Emm... Her name is Uno."
 
     player "A her?"
 
@@ -79,11 +79,11 @@ label D_daily_3:
 
     narrator "Okay, now I know who she is."
 
-    player "So you are Айрин's friend?"
+    player "So you are Irene's friend?"
 
-    g "Айрин?"
+    g "Irene?"
 
-    narrator "Уно seemed not to recognize that name. She was a little confused, but her expression still stayed unchanged."
+    narrator "Uno seemed not to recognize that name. She was a little confused, but her expression still stayed unchanged."
 
     player "I mean, the girl who lives in this room?"
 
@@ -101,7 +101,7 @@ label D_daily_3:
 
     player "... ... ... ..."
 
-    player "Anyway... So, Уно is not your real name, either, right?"
+    player "Anyway... So, Uno is not your real name, either, right?"
 
     g "It's not."
 
@@ -131,7 +131,7 @@ label D_daily_3:
 
     narrator "I left the room and closed the door."
 
-    narrator "And I saw Айрин coming out of the restroom."
+    narrator "And I saw Irene coming out of the restroom."
 
     scene d_mansion_inside_smile with tstmgr
 
@@ -139,7 +139,7 @@ label D_daily_3:
 
     player "... ... ... ..."
 
-    player "I just met with your friend Уно."
+    player "I just met with your friend Uno."
 
     d "You did? Isn't she great?"
 
@@ -159,7 +159,7 @@ label D_daily_3:
 
     g "Hi, S.C. and... [P]."
 
-    d "Hi, Уно. How's that costume? Does it fit?"
+    d "Hi, Uno. How's that costume? Does it fit?"
 
     scene g_mansion_inside_smile with tstmgr
 
@@ -181,7 +181,7 @@ label D_daily_3:
 
     scene mansion_inside_background with tstmgr
 
-    narrator "Уно left the house without looking back."
+    narrator "Uno left the house without looking back."
 
     narrator "... ... ... ..."
 
@@ -203,7 +203,7 @@ label D_daily_3:
 
     narrator "... ... ... ..."
 
-    narrator "I tutored Айрин for the rest of the afternoon."
+    narrator "I tutored Irene for the rest of the afternoon."
 
     narrator "... ... ... ..."
 

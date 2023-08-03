@@ -31,7 +31,7 @@ label A_final:
 
     $ flashlight()
 
-    player "Вера... ..."
+    player "Vera... ..."
 
 
 
@@ -91,7 +91,7 @@ label A_final:
 
 
 
-    "Вера quit her jobs some days ago since she was diagnosed with endocrine disorders caused by overwork. Now she is trying to get her body back to the best condition... ... for pregnancy."
+    "Vera quit her jobs some days ago since she was diagnosed with endocrine disorders caused by overwork. Now she is trying to get her body back to the best condition... ... for pregnancy."
 
 
 
@@ -251,7 +251,7 @@ label A_final:
 
 
 
-    player "Вера... hold me tighter and rub your tits on my chest. That feels so good~"
+    player "Vera... hold me tighter and rub your tits on my chest. That feels so good~"
 
 
 
@@ -293,7 +293,7 @@ label A_final:
 
 
 
-    player "Вера... I think I’m going to... ..."
+    player "Vera... I think I’m going to... ..."
 
 
 
@@ -477,7 +477,7 @@ label A_final:
 
 
 
-    "10 minutes later, Вера finally took my dick out of her pussy, and... ..."
+    "10 minutes later, Vera finally took my dick out of her pussy, and... ..."
 
 
 
@@ -601,7 +601,7 @@ label A_final:
 
 
 
-    player "Вера... ..."
+    player "Vera... ..."
 
 
 
@@ -636,12 +636,12 @@ label A_final:
             scene void with tstmgr
 
             "... ... ... ..."
-        "Do the job with her together (Вера’s happy end)":
+        "Do the job with her together (Vera’s happy end)":
 
 
 
 
-            "*This is Вера’s solo ending, it happens in a route which you only fell in love with Вера and no other girls have moved into your house.*"
+            "*This is Vera’s solo ending, it happens in a route which you only fell in love with Vera and no other girls have moved into your house.*"
 
             scene a_final_45 with tstmgr
 
@@ -681,7 +681,7 @@ label A_final:
 
             "... ... ... ... ... ... ... ..."
 
-            "So... this is it. I quit my job the next Monday, and began to manage the bnb business with Вера together."
+            "So... this is it. I quit my job the next Monday, and began to manage the bnb business with Vera together."
 
             "I became, a househusband."
 
@@ -707,7 +707,7 @@ label A_final:
 
             a "We all have our work to do. For me, keeping the house clean and making you happy is the most important job~"
 
-            player "Вера... ..."
+            player "Vera... ..."
 
             scene a_final_52 with tstmgr
 
@@ -789,7 +789,7 @@ label A_final:
 
             scene a_final_58 with dissolve
 
-            "Guest A" "Good afternoon, Вера~"
+            "Guest A" "Good afternoon, Vera~"
 
 
 
@@ -967,11 +967,11 @@ label A_final:
 
 
 
-            player "Вера... ..."
+            player "Vera... ..."
 
 
 
-            "Вера is skilfully fingering my cock with one hand, and pleasing me with her tongue at the same time. She has become very good at this~"
+            "Vera is skilfully fingering my cock with one hand, and pleasing me with her tongue at the same time. She has become very good at this~"
 
 
 
@@ -1022,7 +1022,7 @@ label A_final:
 
 
 
-            player "Вера... ..."
+            player "Vera... ..."
 
 
 
@@ -1138,7 +1138,7 @@ label A_final:
 
 
 
-            player "That’s a compliment, Вера. Your moaning is as sexy as those porn stars~"
+            player "That’s a compliment, Vera. Your moaning is as sexy as those porn stars~"
 
 
 
@@ -1154,7 +1154,7 @@ label A_final:
 
 
 
-            player "Oh... my Вера~~"
+            player "Oh... my Vera~~"
 
 
 
@@ -1226,7 +1226,7 @@ label A_final:
 
             "... ... ... ..."
 
-            "Five months later after Вера was pregnant... ..."
+            "Five months later after Vera was pregnant... ..."
 
             scene a_final_83 with dissolve
 
@@ -1270,7 +1270,7 @@ label A_final:
 
 
 
-            player "Вера... ..."
+            player "Vera... ..."
 
 
 
@@ -1298,7 +1298,7 @@ label A_final:
 
             scene a_final_87 with tstmgr
 
-            player "I want to say the same thing to you, Вера."
+            player "I want to say the same thing to you, Vera."
 
 
 
@@ -1362,7 +1362,7 @@ label A_final:
 
 
 
-            player "Вера~"
+            player "Vera~"
 
 
 
@@ -1380,7 +1380,7 @@ label A_final:
 
 
 
-            "Вера then climbed on the top of me and began to rub my face with her wet pussy... ..."
+            "Vera then climbed on the top of me and began to rub my face with her wet pussy... ..."
 
 
 
@@ -1390,7 +1390,7 @@ label A_final:
 
 
 
-            player "Вера... ohhhhhh~~~"
+            player "Vera... ohhhhhh~~~"
 
 
 
@@ -1432,7 +1432,7 @@ label A_final:
 
 
 
-            player "*Licking* Вера... Вера... ... simmm~~ zimmm~~ so juicy... ..."
+            player "*Licking* Vera... Vera... ... simmm~~ zimmm~~ so juicy... ..."
 
 
 
@@ -1460,7 +1460,7 @@ label A_final:
 
 
 
-            "Вера orgasmed greatly and squirted co much water out from her pussy..."
+            "Vera orgasmed greatly and squirted co much water out from her pussy..."
 
 
 
@@ -1470,7 +1470,7 @@ label A_final:
 
             scene a_final_95 with tstmgr
 
-            player "Вера’s love juice... so sweet... ..."
+            player "Vera’s love juice... so sweet... ..."
 
 
 
@@ -1488,7 +1488,7 @@ label A_final:
 
 
 
-            "Вера took my dick out of my pants and started giving me a handjob."
+            "Vera took my dick out of my pants and started giving me a handjob."
 
 
 
@@ -1654,7 +1654,7 @@ label A_final:
 
 
 
-            player "Вера... you... ... you are so fucking amazing... ..."
+            player "Vera... you... ... you are so fucking amazing... ..."
 
 
 
@@ -1694,7 +1694,7 @@ label A_final:
 
 
 
-            player "Вера... Did your butt get bigger lately?"
+            player "Vera... Did your butt get bigger lately?"
 
 
 
@@ -1736,7 +1736,7 @@ label A_final:
 
 
 
-            player "Вера... yes, my Вера... ... Just immerse in your lust like you always do~"
+            player "Vera... yes, my Vera... ... Just immerse in your lust like you always do~"
 
 
             stop sound
@@ -1766,7 +1766,7 @@ label A_final:
 
 
 
-            player "I’m about to cum too, Вера!!!~~~"
+            player "I’m about to cum too, Vera!!!~~~"
 
 
 
@@ -1782,7 +1782,7 @@ label A_final:
             play sound cumshot
             $ flashlight()
 
-            player "I love you, Вера!!!!!!~~~~~~~"
+            player "I love you, Vera!!!!!!~~~~~~~"
 
 
 
@@ -1856,7 +1856,7 @@ label A_final:
 
 
 
-            "*Вера happy end achieved!*"
+            "*Vera happy end achieved!*"
 
 
 

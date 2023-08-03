@@ -8,7 +8,7 @@ label LapPillow_E_lover:
 
 
 
-    player "Элиза... Your legs are so soft..."
+    player "Elisa... Your legs are so soft..."
 
 
 
@@ -24,7 +24,7 @@ label LapPillow_E_lover:
 
     scene lappillow_e_lover_3 with tstmgr
 
-    player "See you later, Элиза..."
+    player "See you later, Elisa..."
 
 
 

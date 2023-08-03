@@ -3,7 +3,7 @@ label G_love_4:
     scene void with tstmgr
     play music happy
 
-    "I went back to my room later tonight, and Уно was already there waiting for me."
+    "I went back to my room later tonight, and Uno was already there waiting for me."
 
 
 
@@ -87,7 +87,7 @@ label G_love_4:
 
 
 
-    "The next afternoon, in Уно’s room."
+    "The next afternoon, in Uno’s room."
 
 
 

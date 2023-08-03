@@ -2,7 +2,7 @@ label harem_CD_2:
 
     scene harem_cd_2_1 with tstmgr
 
-    "Hmmm? This is rare to see... Theo and Айрин are sleeping together."
+    "Hmmm? This is rare to see... Theo and Irene are sleeping together."
 
 
 

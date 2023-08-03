@@ -2,7 +2,7 @@ label downtown_afternoon_C_2:
 
     scene void with tstmgr
 
-    "Теодора took me to downtown in the afternoon."
+    "Theodora took me to downtown in the afternoon."
 
 
 

@@ -34,7 +34,7 @@ label bnb_bathroom_latenight_B_1:
 
     scene bnb_bathroom_latenight_b_1_3 with tstmgr
 
-    a "Сеннин can sleep with me."
+    a "Senning can sleep with me."
 
 
 

@@ -2,7 +2,7 @@ label C_action_inti_1:
 
     scene void with tstmgr
 
-    "Afternoon, in Теодора’s office..."
+    "Afternoon, in Theodora’s office..."
 
 
 
@@ -19,7 +19,7 @@ label C_action_inti_1:
     label C_action_inti_1_choice_1:
 
     menu:
-        "Ask for a kiss" if True:
+        "Ask for a kiss":
 
 
             scene c_action_inti_1_1 with tstmgr
@@ -98,8 +98,8 @@ label C_action_inti_1:
 
             scene void with tstmgr
 
-            "I stayed in Теодора’s office until the dusk."
-        "Ask for a hug" if True:
+            "I stayed in Theodora’s office until the dusk."
+        "Ask for a hug":
 
 
 
@@ -156,7 +156,7 @@ label C_action_inti_1:
 
             scene c_action_inti_1_16 with tstmgr
 
-            player "Теодора!~~~~"
+            player "Theodora!~~~~"
 
             c "Oh, eh, this is... ... something new..."
 
@@ -190,7 +190,7 @@ label C_action_inti_1:
 
             scene void with tstmgr
 
-            "I stayed in Теодора’s office until dusk."
+            "I stayed in Theodora’s office until dusk."
 
 
 

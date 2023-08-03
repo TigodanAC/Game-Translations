@@ -2,7 +2,7 @@ label bnb_livingroom_forenoon_G_1:
 
     scene void with tstmgr
 
-    "I found Уно in the livingroom."
+    "I found Uno in the livingroom."
 
 
 

@@ -5,7 +5,7 @@ label found_dungeon:
     scene void with tstmgr
     play music happy
 
-    "Early in the morning, I was cleaning the livingroom with Вера as usual..."
+    "Early in the morning, I was cleaning the livingroom with Vera as usual..."
 
 
 

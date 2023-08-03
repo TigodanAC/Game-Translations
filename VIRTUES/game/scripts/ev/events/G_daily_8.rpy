@@ -3,7 +3,7 @@ label G_daily_8:
     scene void with tstmgr
     play music sorrow
 
-    "Уно is having some troubles lately, though she doesn’t seem to really care about it."
+    "Uno is having some troubles lately, though she doesn’t seem to really care about it."
 
 
 
@@ -31,7 +31,7 @@ label G_daily_8:
 
 
 
-    player "But... ... Уно, you can’t be a coser anymore..."
+    player "But... ... Uno, you can’t be a coser anymore..."
 
 
 
@@ -57,7 +57,7 @@ label G_daily_8:
 
 
 
-    g "Maybe I should let my followers know that the famous, shameless, sexy coser Уно is making porns with her man, don’t you think?"
+    g "Maybe I should let my followers know that the famous, shameless, sexy coser Uno is making porns with her man, don’t you think?"
 
 
 
@@ -95,7 +95,7 @@ label G_daily_8:
 
 
 
-    player "No, no, no, Уно, it’s not about me."
+    player "No, no, no, Uno, it’s not about me."
 
 
 
@@ -141,7 +141,7 @@ label G_daily_8:
 
 
 
-    player "Уно... ..."
+    player "Uno... ..."
 
 
 
@@ -165,7 +165,7 @@ label G_daily_8:
 
 
 
-    g "I can’t wait to make a new video with you and announce to the world that the famous coser Уно is going for porns!~"
+    g "I can’t wait to make a new video with you and announce to the world that the famous coser Uno is going for porns!~"
 
 
 

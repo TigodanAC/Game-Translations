@@ -2,7 +2,7 @@ label broom_evening_B_1:
 
     scene broom_evening_b_1_1 with tstmgr
 
-    "Сеннин and I are watching TV in her room."
+    "Senning and I are watching TV in her room."
 
 
 

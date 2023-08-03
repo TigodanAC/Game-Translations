@@ -29,7 +29,7 @@ label D_daily_6:
 
     scene d_daily6_3 with tstmgr
 
-    g "I slept here last night with Айрин. We had some wine and she is still asleep. Sorry, your tutoring class will have to wait."
+    g "I slept here last night with Irene. We had some wine and she is still asleep. Sorry, your tutoring class will have to wait."
 
 
 
@@ -75,7 +75,7 @@ label D_daily_6:
 
 
 
-    player "And she said Айрин is still asleep?"
+    player "And she said Irene is still asleep?"
 
 
 
@@ -85,7 +85,7 @@ label D_daily_6:
 
 
 
-    "I walked inside the room and found Айрин on her bed."
+    "I walked inside the room and found Irene on her bed."
 
 
 
@@ -249,7 +249,7 @@ label D_daily_6:
 
     scene void with tstmgr
 
-    "Уно came back at this point."
+    "Uno came back at this point."
 
 
 
@@ -289,7 +289,7 @@ label D_daily_6:
 
 
 
-    g "Айрин and I are best friends, so you can take me as your own little sister as well."
+    g "Irene and I are best friends, so you can take me as your own little sister as well."
 
 
 

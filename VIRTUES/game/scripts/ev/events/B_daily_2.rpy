@@ -3,7 +3,7 @@ label B_daily_2:
     scene school_day_background with tstmgr
     play music happy
 
-    narrator "Сеннин and I are on the way to a class."
+    narrator "Senning and I are on the way to a class."
 
     player "You haven't answered me last time. Why would you choose to study abroad?"
 
