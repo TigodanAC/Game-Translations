@@ -3,21 +3,21 @@ label A_daily_10:
     scene a_daily10_1 with tstmgr
     play music happy
 
-    a "Welcome, [P]... ..."
+    a "Добро пожаловать, [P]... ..."
 
 
 
-    player "Вера? Why are you dressed like this?"
+    player "Вера? Почему ты так одета?"
 
 
 
     scene a_daily10_2 with tstmgr
 
-    a "My boss said that I should wear it several times a week... to attract consumers."
+    a "Мой босс сказал, что я должна носить это несколько раз в неделю... для привлечения посетителей."
 
 
 
-    a "I think he's watched too much anime."
+    a "Я думаю, он насмотрелся слишком много аниме."
 
 
 
@@ -27,119 +27,119 @@ label A_daily_10:
 
     scene a_daily10_1 with tstmgr
 
-    a "How do I look though?"
+    a "Но как я выгляжу?"
 
 
 
-    player "Absolute marvelous."
+    player "Абсолютно потрясающе."
 
 
 
-    player "Did this truly attract more consumers?"
+    player "Это действительно привлекло больше гостей?"
 
 
 
     scene a_daily10_2 with tstmgr
 
-    a "I don’t think so. I mean, there were indeed more people coming in, but most of them came in just to take photos with me."
+    a "Я так не думаю. Я имею в виду, что людей действительно стало больше, но большинство из них приходили просто для того, чтобы сфотографироваться со мной."
 
 
 
     scene a_daily10_3 with tstmgr
 
-    a "There was even a talent scout who asked me if I want to shoot a movie."
+    a "Заходил даже разведчик талантов, который спросил меня, не хочу ли я сняться в фильме."
 
 
 
-    a "Probably porn, I guess."
+    a "Полагаю, в порно."
 
 
 
-    player "So how did you reply to him?"
+    player "И что ты ему ответила?"
 
 
 
     scene a_daily10_4 with tstmgr
 
-    a "I... ... ... ..."
+    a "Я... ... ... ..."
 
 
 
-    "Вера’s voice got extremely quiet."
+    "Голос Веры стал очень тихим."
 
 
 
     scene a_daily10_5 with tstmgr
 
-    a "I told him that I am married... and my husband wouldn’t allow me to do such things."
+    a "Я сказала ему, что я замужем... и мой муж не позволил бы мне заниматься таким."
 
 
 
-    player "Seems like you are a good liar."
+    player "Похоже, ты хорошая лгунья."
 
 
 
     scene a_daily10_6 with tstmgr
 
-    player "So... who is that husband of yours?"
+    player "Так... кто твой муж?"
 
 
 
-    a "Who do you think he is?"
+    a "Как ты думаешь, кто он?"
 
 
 
     scene a_daily10_7 with tstmgr
 
-    player "Must be a super handsome guy, I guess... ..."
+    player "Наверное, суперкрасивый парень... ..."
 
 
 
-    a "Stop... people will see... ..."
+    a "Прекрати... люди увидят... ..."
 
 
 
     scene a_daily10_8 with tstmgr
 
-    a "I need to go back to work."
+    a "Мне нужно вернуться к работе."
 
 
 
-    player "Okay... ..."
+    player "Хорошо... ..."
 
 
 
-    player "But can you take this uniform home?"
+    player "Но ты можешь взять эту форму домой?"
 
 
 
     scene a_daily10_9 with tstmgr
 
-    a "Hmm... it should be fine, but why?"
+    a "Хмм... могу, наверное, но зачем?"
 
 
 
-    player "So you can be my exclusive maid when you are home... ..."
+    player "Ты бы могла быть моей личной горничной, когда ты дома... ..."
 
 
 
     scene a_daily10_10 with tstmgr
 
-    "Вера blushed and looked away."
+    "Вера покраснела и отвернулась."
 
 
 
-    a "I’ll see what I can do."
+    a "Я посмотрю, что можно сделать."
 
 
 
     scene a_daily10_11 with tstmgr
 
-    a "Now leave me alone. See you at home."
+    a "Теперь оставь меня. Увидимся дома."
 
 
 
-    player "Bye..."
+    player "Пока..."
 
 
 
