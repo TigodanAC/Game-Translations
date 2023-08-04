@@ -3,31 +3,31 @@ label A_daily_13:
     scene a_daily13_1 with dissolve
     play music happy
 
-    a "Ah, [P], good morning~"
+    a "А, [P], доброе утро~"
 
 
 
-    player "Morning, Вера, I just got up from bed..."
+    player "Доброе утро, Вера, я только что встал с кровати..."
 
 
 
-    a "Breakfast is on the dining table, remember to clean the dishes once you are done, love you~"
+    a "Завтрак на столе, не забудь помыть посуду, когда закончишь, люблю тебя~"
 
 
 
-    player "Are you going out for work? I thought we could have breakfast together..."
+    player "Ты уходишь на работу? Я думал, мы могли бы позавтракать вместе..."
 
 
 
     scene a_daily13_2 with tstmgr
 
-    a "Sorry... ..."
+    a "Прости... ..."
 
 
 
     scene a_daily13_1 with tstmgr
 
-    a "Maybe tomorrow~"
+    a "Может быть, завтра~"
 
 
 
@@ -35,51 +35,51 @@ label A_daily_13:
 
 
 
-    player "Seriously, V, can’t you just quit that waitress job in the cafe? You don’t have to work that hard."
+    player "Серьёзно, Вер, ты не можешь просто бросить эту работу официантки в кафе? Тебе не стоит так много работать."
 
 
 
     scene a_daily13_2 with tstmgr
 
-    a "But... I still need money for my plan..."
+    a "Но... мне всё ещё нужны деньги на мой план..."
 
 
 
-    player "What plan?"
+    player "Какой план?"
 
 
 
     scene a_daily13_3 with tstmgr
 
-    a "I’m planning for a trip around the world and I need a lot of money to do that."
+    a "Я планирую кругосветное путешествие, и мне нужно много денег на осуществление этого."
 
 
 
-    player "Wow, really?"
+    player "Вау, серьёзно?"
 
 
 
-    a "Yeah, and I was close to reach my goal sometime earlier when there were only you and me. But then Theo and Уно moved into the house, so I had to count them in, too."
+    a "Да, и я была близка к своей цели раньше, когда были только ты и я. Но потом в дом въехали Тео и Уно, так что мне пришлось учитывать и их тоже."
 
 
 
     scene a_daily13_4 with tstmgr
 
-    a "And now... ... me, you, Уно, Theo, Theo’s sister, Miss Lemon... ... there are just so many people. I will have to save more money for this trip... ..."
+    a "А теперь... ...я, ты, Уно, Тео, сестра Тео, мисс Лемон... ... так много людей. Мне придётся накопить больше денег на эту поездку... ..."
 
 
 
-    player "Who is Miss Lemon?"
+    player "Кто такая мисс Лемон?"
 
 
 
     scene a_daily13_5 with tstmgr
 
-    a "Сеннин, of course. She once told me that her name means ‘the lemon in the forest’~"
+    a "Сеннин, конечно. Однажды она сказала мне, что её имя означает \"лимон в лесу\"~"
 
 
 
-    player "Oh, I didn’t even know that..."
+    player "О, я даже не знал этого..."
 
 
 
@@ -87,37 +87,37 @@ label A_daily_13:
 
 
 
-    player "Wait, you mean, you are saving money for making all of us travel together?"
+    player "Подожди, ты имеешь в виду, что копишь деньги, чтобы мы путешествовали все вместе?"
 
 
 
-    a "Yes!~"
+    a "Да!~"
 
 
 
-    a "I was dreaming to travel around the world with all of my friends since I was a little girl~"
+    a "Я мечтала о кругосветном путешествии со всеми своими друзьями с самого детства~"
 
 
 
-    player "But... I mean, I’m sure all of them will be happy to travel with you. You don’t need to cover their spendings for them."
+    player "Но... Я имею в виду, я уверен, что все они будут рады путешествовать с тобой. Тебе не нужно платить за них."
 
 
 
     scene a_daily13_6 with tstmgr
 
-    a "I just want to... do something for my friends..."
+    a "Я просто хочу... сделать что-нибудь для своих друзей..."
 
 
 
     scene a_daily13_7 with tstmgr
 
-    a "Oh, crap, we have chatted for too long, I’m going to be late for work!"
+    a "О, чёрт, мы слишком долго болтали, я опаздываю на работу!"
 
 
 
     scene a_daily13_8 with tstmgr
 
-    a "See you later, [P]! Let’s talk again when I get back home~"
+    a "Увидимся, [P]! Поговорим ещё, когда я вернусь домой~"
 
 
 
@@ -125,7 +125,7 @@ label A_daily_13:
 
 
 
-    player "See you later..."
+    player "До встречи..."
 
 
 
