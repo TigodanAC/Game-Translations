@@ -4,39 +4,39 @@ label A_daily_14:
 
     play music sorrow
 
-    "Later this afternoon, I am having a date with Вера, in the college library."
+    "Сегодня днём ​​у меня свидание с Верой в библиотеке колледжа."
 
 
 
     scene a_daily14_1 with dissolve
 
-    a "A real college library. Awwww... ... I have never been into such a place before."
+    a "Настоящая библиотека колледжа. Оуууу... ... Я никогда раньше не была в таком месте."
 
 
 
     scene a_daily14_2 with tstmgr
 
-    a "There are so many books! Can I borrow some?"
+    a "Так много книг! Могу ли я взять несколько из них?"
 
 
 
-    player "Only students are allowed to borrow books now, but it’s fine, I’ll do that for you. Just tell me what kind of books you like."
+    player "Сейчас брать книги разрешено только студентам, но ничего, я возьму их для тебя. Просто скажи мне, какие книги тебе нравятся."
 
 
 
     scene a_daily14_3 with tstmgr
 
-    a "Awwww... I envy you so much!~"
+    a "Оуууу... Я так тебе завидую!~"
 
 
 
-    "It’s not the first time that Вера shows me her yearning for college life. And I feel kinda sorry for her every time I see the eagerness in her eyes."
+    "Вера не впервые показывает мне свою тоску по студенческой жизни. И мне становится немного жаль её каждый раз, когда я вижу грусть в её глазах."
 
 
 
     scene a_love3_6 with flashback
 
-    "Woman" "So what about you? You were the top student back in our middle school. How did you end up becoming a... salesperson?"
+    "Женщина" "А что насчёт тебя? Ты была лучшей ученицей в нашей средней школе. Как ты стала... продавцом?"
 
 
 
@@ -46,93 +46,92 @@ label A_daily_14:
 
 
 
-    "She didn’t have enough money to go to college after she graduated from highschool. I think it is going to be a lifetime regret for her. But, maybe... ..."
+    "У неё было недостаточно денег, чтобы поступить в колледж после окончания средней школы. Думаю, она будет сожалеть об этом всю жизнь. Но возможно... ..."
 
 
 
     scene a_daily14_3 with tstmgr
 
-    a "I want to read something about criminal justice! I dreamed to be a D.A. when I was little~"
+    a "Я хочу почитать что-нибудь об уголовном правосудии! Я мечтала стать окружным прокурором, когда я была маленькой~"
 
 
 
     scene a_daily14_4 with tstmgr
 
-    a "I know I don’t have the chance to be a real D.A. anymore, but... ..."
+    a "Я знаю, что у меня уже нет шанса стать настоящим окружным прокурором, но... ..."
 
 
 
-    player "A D.A.? That’s so cool!"
+    player "Окружной прокурор? Это так классно!"
 
 
 
     scene a_daily14_5 with tstmgr
 
-    a "*Groaning sadly* It’s... embarrassing to even bring that up. That was just a childish dream. Sigh... ..."
+    a "*грустно вздыхая* Это... стыдно даже поднимать эту тему. Это была просто детская мечта. Эх... ..."
 
 
 
     scene a_daily14_6 with tstmgr
 
-    a "On second thought, I don’t need those books at all. Maybe we should just... leave here."
+    a "Если так подумать, мне эти книги вовсе не нужны. Может, нам стоит просто... уйти отсюда."
 
 
 
-    "Damn, I thought bringing her here would make her happy, but now she is even more upset than ever. I have to do something about it!"
+    "Чёрт, я думал, что, если приведу её сюда, она будет счастлива, но теперь она расстроена больше, чем когда-либо. Я должен что-то с этим сделать!"
 
 
 
     scene a_daily14_7 with tstmgr
 
-    player "You know, Вера, you can still choose to go to college! You are only 22 years old. It’s not too late yet!"
+    player "Знаешь, Вера, ты ещё можешь пойти в колледж! Тебе всего 22 года. Ещё не поздно!"
 
 
 
     scene a_daily14_8 with tstmgr
 
-    a "Stop saying that~ You know I can’t afford it."
+    a "Перестань так говорить~ Ты же знаешь, я не могу себе этого позволить."
 
 
 
-    player "Well, don’t forget me. I will support you, you know I will. I have earned quite a lot of money during these days and my dad will be out of jail soon. It won’t be a problem for me to pay for your tuition fees at all!"
-
+    player "Ну, не забывай обо мне. Я помогу тебе, ты же знаешь, что помогу. За эти дни я заработал довольно много, и мой отец скоро выйдет из тюрьмы. Для меня не будет проблемой оплатить твоё обучение!"
 
 
     scene a_daily14_9 with tstmgr
 
-    a "[P]... I... ..."
+    a "[P]... Я... ..."
 
 
 
-    a "I’m happy to hear that, I really do, but... ..."
+    a "Мне приятно это слышать, правда, но... ..."
 
 
 
     scene a_daily14_10 with tstmgr
 
-    a "What if... we break up?"
+    a "Что, если... мы расстанемся?"
 
 
 
-    player "Wh... what?"
+    player "Чт... что?"
 
 
 
-    a "We are from two different worlds. I lived in poverty for my entire life but you were born with a silver spoon."
+    a "Мы из разных миров. Я жила в бедности всю свою жизнь, а ты родился с серебряной ложкой во рту."
 
 
 
-    a "I really enjoy living with you. but... ..."
+    a "Мне очень нравится жить с тобой, но... ..."
 
 
 
     scene a_daily14_11 with tstmgr
 
-    a "But I always feel like... that everything I have right now doesn’t really belong to me. That house, friends, you... ... What happened in the last few months was like a super sweet dream to me."
+    a "Но мне всегда кажется... что всё, что у меня есть сейчас, на самом деле не принадлежит мне по-настоящему. Этот дом, друзья, ты... ... То, что произошло за последние несколько месяцев, было для меня прекрасным сном."
 
 
 
-    a "And I am afraid that... one day I will wake up from this dream, on the hard bed of my apartment in the slums."
+    a "И я боюсь, что однажды я очнусь от этого сна на жёсткой кровати в своей квартире в трущобах."
 
 
 
@@ -142,7 +141,7 @@ label A_daily_14:
 
     scene a_daily14_12 with tstmgr
 
-    a "Sorry, I am being crazy. Let’s just... get out of here, okay?"
+    a "Извини, я схожу с ума. Давай просто... уйдём отсюда, ладно?"
 
 
 
@@ -150,25 +149,24 @@ label A_daily_14:
 
 
 
-    player "If that is what you want... ..."
+    player "Если это то, чего ты хочешь... ..."
 
 
 
     scene void with tstmgr
 
-    "Guess now I have finally found out the real reason why she still chooses to work like crazy even though she doesn’t have to. It is all because of the lack of security. She feels so insecure when she is with me and damn... I have no idea how to solve it."
+    "Думаю, теперь я наконец-то узнал настоящую причину, по которой она всё ещё предпочитает работать как сумасшедшая, хотя ей это и не нужно. Это всё из-за отсутствия безопасности. Она чувствует себя так неуверенно, когда она со мной, и, чёрт возьми... Я понятия не имею, как это исправить."
+
+
+    "Чем больше я пытаюсь что-то для неё сделать, тем больше она думает, что \"эта жизнь на самом деле не принадлежит ей\", и ещё более неуверенно себя чувствует. Аааа... чёрт, это замкнутый круг!"
 
 
 
-    "The more I try to do something for her, the more she will think ‘this life doesn’t really belong to her’ and the more insecure she will feel. Ahhh... shit, this is an endless loop!"
+    "Думай, [P], думай, должен быть способ..."
 
 
 
-    "Think, [P], think, there has to be a way..."
-
-
-
-    "But right now... maybe I should just leave this place with her."
+    "Но прямо сейчас... Может быть, мне стоит просто уйти отсюда вместе с ней."
 
 
 
