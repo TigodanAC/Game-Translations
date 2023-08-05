@@ -2,23 +2,23 @@ label start:
     scene void with Dissolve(0.4)
 
     window show
-    "What's your name again?"
+    "Как твое имя, еще раз?"
     window hide
 
-    $ P_state.name = "Agang" if renpy.variant("pc") else "Leo"
-    call screen name_input(prompt=_(""), prefix="I'm ", suffix=".")
+    $ P_state.name = "Аганг" if renpy.variant("pc") else "Лео"
+    call screen name_input(prompt=_(""), prefix="Я ", suffix=".")
 
-    $ hotel_room_rent = Attr(500.0, name=_("Room Rent"))
-    $ P.ie_suffix = _("/Day")
-    $ P.ie_short_suffix = _("/D")
+    $ hotel_room_rent = Attr(500.0, name=_("Аренда комнаты"))
+    $ P.ie_suffix = _("/День")
+    $ P.ie_short_suffix = _("/Д")
     $ P.expanses.append(hotel_room_rent)
 
 
 
     menu:
-        "Start from the beginning":
+        "Начать с самого начала":
             $ run_event('d1_1')
-        "Skip the prologues":
+        "Пропустить прологи":
 
             $ fake_run('d4_1_bLine', 'd4_4_bLine', 'd5_2_bLine', 'd5_4_bLine')
             $ fake_run('d4_3', 'A_dgsjhx', 'd8_1', 'A_daily_1', 

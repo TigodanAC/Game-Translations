@@ -20,15 +20,15 @@ default bLine = True
 
 label post_d1_1:
     $ show_map()
-    call screen hint("Now the game formally begins. Enjoy your life!")
+    call screen hint("Теперь игра формально начинается. Наслаждайся жизнью!")
     call screen tutorial(2, 4) with Dissolve(0.5)
     jump post_event_post
 
 label post_jjsj:
 
 
-    $ P.ie_suffix = _("/Week")
-    $ P.ie_short_suffix = ("/Wk")
+    $ P.ie_suffix = _("/Неделя")
+    $ P.ie_short_suffix = ("/Нед")
 
 
 
@@ -57,11 +57,11 @@ label post_F_love_2:
     jump post_event_post
 
 label post_C_daily_13:
-    call screen hint("Now you can build the basement pool in your house. You will have to do that for several times to finish it. Each time will cost you $200.")
+    call screen hint("Теперь Вы можете построить подвальный бассейн в своем доме. Вам придется заплатить несколько раз, чтобы его закончить. Каждый раз будет стоить Вам 200$.")
     jump post_event_post
 
 label post_A_daily_5:
-    call screen hint("Now you can do the cleaning in you house. You will earn some tips by doing that and you may find some... secrets of the house as well.")
+    call screen hint("Теперь вы можете сделать уборку в вашем доме. За это вы получите несколько советов и, возможно, найдете некоторые... секреты дома.")
     jump post_event_post
 
 
@@ -70,10 +70,10 @@ label post_A_daily_5:
 label auto_sleep_prologue:
     scene void with Dissolve(0.5)
     window show wipeup(.2)
-    "It's late, I should go to bed."
+    "Уже поздно, мне пора спать."
     window hide wipedown(.2)
     menu:
-        "Go to bed":
+        "Ложиться спать":
 
             pass
     jump event_post
@@ -81,7 +81,7 @@ label auto_sleep_prologue:
 label auto_sleep:
     scene void with Dissolve(0.3)
     window show wipeup(.2)
-    "It's late, I should go to bed."
+    "Уже поздно, мне пора спать."
     window hide wipedown(.2)
 
     $ show_home()
@@ -89,7 +89,7 @@ label auto_sleep:
 
 label sleep_event:
     if t.period < LateNight:
-        "It's too early to go to bed."
+        "Слишком рано ложиться спать."
     else:
 
         $ new_day()
@@ -105,24 +105,24 @@ label pay_bill:
     if P.cash._value < 0:
         $ P.cash._value = 0
 
-    $ Push("You paid $1500 for Land Tax & Maintenance Cost")
+    $ Push("Вы заплатили 1500$ по счетам")
 
     jump event_post
 
 label wage:
     $ temp_wage = days_worked * 50 * (0.85 + 0.15*C.love.stage)
     if temp_wage > 0:
-        "I just received my wage."
-        $ P.earn( temp_wage, "Wage", t )
+        "Я только что получил свою зарплату."
+        $ P.earn( temp_wage, "Зарплата", t )
     jump event_post
 
 label earn:
-    $ P.earn(get_bnb_revenue(), "B&B Business")
+    $ P.earn(get_bnb_revenue(), "B&B Бизнес")
     jump event_post
 
 
 label w2_d6_1_hint:
-    call screen hint("Right now there is nothing much to do in the weekend since you haven't built a close relationship with any girl. You can just click the top right corner and skip this weekend.")
+    call screen hint("Прямо сейчас нечего делать на выходных, так как вы не построили близких отношений ни с одной из девушек. Вы можете просто нажать на верхний правый угол и пропустить эти выходные.")
     jump event_post
 
 
@@ -130,26 +130,26 @@ label w2_d6_1_hint:
 
 
 label first_company:
-    "This company is owned by Theodora's family. I don't know why I'm here."
+    "Эта компания принадлежит семье Теодоры. Я не знаю, почему я здесь."
     return
 
 label E_inspect_work:
     scene void with tstmgr
     narrator "... ... ... ..."
-    narrator "At the time when I was at work, Aunt Elisa came in the company and observed me in a distance."
+    narrator "В то время, когда я был на работе, в компанию вошла тетя Элиза и издалека наблюдала за мной."
     scene e_office_smile with tstmgr
-    e "(He works really hard...)"
-    e "(And I can see how his girl colleagues adore him. Such a charming young man he is.)"
+    e "(Он очень усердно работает...)"
+    e "(И я вижу, как его обожают коллеги-девушки. Такой обаятельный молодой человек.)"
     $ add(E, E.love, 1)
     return
 
 label E_inspect_tutor:
     scene void with tstmgr
     narrator "... ... ... ..."
-    narrator "At the time when I was tutoring Irene, Aunt Elisa opened the door with a crack quietly and looked inside."
+    narrator "В то время, когда я занимался с Айрин, тетя Элиза тихонько открыла дверь и заглянула внутрь."
     scene e_droom_smile with tstmgr
-    e "([P] is doing quite a good job at teaching Irene.)"
-    e "(He is patient and gentle, just like what his father used to be.)"
+    e "([P] делает довольно хорошую работу по обучению Айрин.)"
+    e "(Он терпелив и нежен, как и его отец.)"
     $ add(E, E.love, 1)
     return
 
@@ -157,17 +157,17 @@ label first_lose_credit_sj:
 
     "... ... ... ..."
 
-    narrator "Now I have encountered a serious issue..."
+    narrator "Теперь я столкнулся с серьезной проблемой ..."
 
-    narrator "I don't have enough money to pay this week's bills."
+    narrator "У меня нет достаточно денег, чтобы оплатить счета на этой неделе."
 
-    narrator "It is not a big problem for now, because I can just go borrow some money from my rich friends. And I don't even need to repay them. It's just a small money to them, no big deal."
+    narrator "Пока это не большая проблема, потому что я могу просто занять немного денег у своих богатых друзей. И мне даже не нужно возвращать их. Для них это небольшие деньги, ничего страшного."
 
-    narrator "But I can't keep doing it that way. If I rely on my friends' help too much, my credit and reputation will all be reduced. People will think that I am a total loser without my dad's wealth."
+    narrator "Но я не могу продолжать в том же духе. Если я буду слишком полагаться на помощь своих друзей, мой кредит доверия и репутация будут снижены. Люди будут думать, что я полный неудачник без богатства моего отца."
 
-    narrator "That's not what I want."
+    narrator "Это не то, чего я хочу."
 
-    narrator "I have to work harder to solve this financial issue by myself. Let's see how things will go next week."
+    narrator "Я должен работать усерднее, чтобы решить этот финансовый вопрос самостоятельно. Посмотрим, как пойдут дела на следующей неделе."
 
     jump event_post
 
@@ -175,15 +175,15 @@ label lose_credit_sj:
 
     "... ... ... ..."
 
-    "I don't have enough money to pay this week's bills."
+    "У меня недостаточно денег, чтобы оплатить счета на этой неделе."
 
-    "It is not a big problem for now, because I can just go borrow some money from my rich friends. And I don't even need to repay them. It's just a small money to them, no big deal."
+    "Пока это не большая проблема, потому что я могу просто занять немного денег у своих богатых друзей. И мне даже не нужно возвращать их. Для них это небольшие деньги, ничего страшного."
 
-    "But I can't keep doing it that way. If I rely on my friends' help too much, my credit and reputation will all be reduced. People will think that I am a total loser without my dad's wealth."
+    "Но я не могу продолжать в том же духе. Если я буду слишком полагаться на помощь своих друзей, мой кредит доверия и репутация будут снижены. Люди будут думать, что я полный неудачник без богатства моего отца."
 
-    "That's not what I want."
+    "Это не то, чего я хочу."
 
-    "I have to work harder to solve this financial issue by myself. Let's see how things will go next week."
+    "Я должен работать усерднее, чтобы решить этот финансовый вопрос самостоятельно. Посмотрим, как пойдут дела на следующей неделе."
 
     jump event_post
 

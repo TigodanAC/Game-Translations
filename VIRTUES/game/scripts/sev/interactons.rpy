@@ -26,27 +26,27 @@ label TouchHead_A_general:
 
     scene a_general_1_frown with tstmgr
 
-    bubble_a "Why do you want to do that?"
+    bubble_a "Почему ты хочешь это сделать?"
 
-    bubble_b "But fine... ..."
+    bubble_b "Но ладно... ..."
 
     scene a_touchead_night_1 with tstmgr
 
     a "... ... ... ..."
 
-    a "Eh... It feels... itchy..."
+    a "Эх... Такое ощущение... зудит..."
 
     scene a_touchead_night_2 with tstmgr
 
-    a "Wait... You are too close to me."
+    a "Подожди... Ты слишком близко ко мне."
 
-    a "This is getting weird..."
+    a "Это становится странным..."
 
     scene a_touchead_night_3 with tstmgr
 
-    a "Stop..."
+    a "Остановись..."
 
-    a "(Slightly groaning)Ah... no..."
+    a "(Слегка постанывая) Ах... нет..."
 
     scene void with tstmgr
 
@@ -58,27 +58,27 @@ label TouchHead_A_girlfriend:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Touching my head?"
+    bubble_a "Дотронуться до моей головы?"
 
-    bubble_a "Of course... love."
+    bubble_a "Конечно... любимый."
 
     scene a_gf_1_touchead_1 with tstmgr
 
-    a "No one has been this nice to me before."
+    a "Никто еще не был так добр ко мне."
 
-    a "I am so happy... ..."
+    a "Я так счастлива... ..."
 
     scene a_gf_1_touchead_2 with tstmgr
 
-    a "Thanks... for being here with me."
+    a "Спасибо... за то, что ты со мной."
 
     a "... ... ... ..."
 
     scene a_gf_1_touchead_3 with tstmgr
 
-    a "You know... you can do something more if you want."
+    a "Знаешь... ты можешь сделать что-то большее, если захочешь."
 
-    a "I'm yours..."
+    a "Я твоя..."
 
     scene void with tstmgr
 
@@ -90,27 +90,27 @@ label TouchHead_A_sexpartner:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Touching my head?"
+    bubble_a "Дотронуться до моей головы?"
 
-    bubble_a "Of course, [P]."
+    bubble_a "Конечно, [P]."
 
     scene a_gf_1_touchead_1 with tstmgr
 
-    a "We are like lovers... ..."
+    a "Мы как любовники... ..."
 
-    a "I'm just saying... don't think too much..."
+    a "Я просто говорю... не думай слишком много..."
 
     scene a_gf_1_touchead_2 with tstmgr
 
-    a "Thanks... for being here with me."
+    a "Спасибо... за то, что ты со мной."
 
     a "... ... ... ..."
 
     scene a_gf_1_touchead_3 with tstmgr
 
-    a "You know... you can do something more if you want."
+    a "Знаешь... ты можешь сделать что-то большее, если захочешь."
 
-    a "I won't run..."
+    a "Я не сбегу..."
 
     scene void with tstmgr
 
@@ -123,27 +123,27 @@ label Hug_A_general:
 
     scene a_general_1_frown with tstmgr
 
-    bubble_a "Do you really think it's necessary?"
+    bubble_a "Ты думаешь, что это действительно необходимо?"
 
     bubble_a "... ... ... ..."
 
     scene a_general_1_hug_1 with tstmgr
 
-    a "I know you are doing this to comfort me."
+    a "Я знаю, ты делаешь это, чтобы утешить меня."
 
-    a "Thank you... ..."
+    a "Спасибо... ..."
 
     scene a_general_1_hug_2 with tstmgr
 
-    a "Your shoulder... it makes me feel safety."
+    a "Твоё плечо... оно заставляет меня чувствовать себя в безопасности."
 
-    a "So warm..."
+    a "Так тепло..."
 
     scene a_general_1_hug_3 with tstmgr
 
     a "... ... ... ..."
 
-    a "Why are you being so nice to me?"
+    a "Почему ты так мил со мной?"
 
     scene void with tstmgr
 
@@ -155,27 +155,27 @@ label Hug_A_girlfriend:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Let's do this."
+    bubble_a "Давай сделаем это."
 
-    bubble_a "I want to be in your arms again..."
+    bubble_a "Я хочу снова оказаться в твоих руках..."
 
     scene a_gf_1_hug_1 with tstmgr
 
-    a "Don't smile like that..."
+    a "Не улыбайся так..."
 
-    a "It's a little... embarrassing."
+    a "Это немного... смущает."
 
     scene a_gf_1_hug_2 with tstmgr
 
-    a "(Moaning with pleasure) Ah... ... [P]... ..."
+    a "(Стонет от удовольствия) Ах... ... [P]... ..."
 
-    a "Try not to... leave any hickey on my neck."
+    a "Постарайся... не оставить засос на моей шее.."
 
     scene a_gf_1_hug_3 with tstmgr
 
-    a "I love you being aggressive to me..."
+    a "Я люблю, когда ты такой агрессивный..."
 
-    a "(Moaning with pleasure) Ahhh... ..."
+    a "(Стонет от удовольствия) Аххх... ..."
 
     scene void with tstmgr
 
@@ -187,27 +187,27 @@ label Hug_A_sexpartner:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "If you say so..."
+    bubble_a "Если ты так говоришь..."
 
-    bubble_a "I'm happy to do that."
+    bubble_a "Я счастлива сделать это."
 
     scene a_gf_1_hug_1 with tstmgr
 
-    a "Don't smile like that..."
+    a "Не улыбайся так..."
 
-    a "It's a little... embarrassing."
+    a "Это немного... смущает."
 
     scene a_gf_1_hug_2 with tstmgr
 
-    a "(Moaning with pleasure) Ah... ... [P]... ..."
+    a "(Стонет от удовольствия) Ах... ... [P]... ..."
 
-    a "Yes... I want more..."
+    a "Да... я хочу больше..."
 
     scene a_gf_1_hug_3 with tstmgr
 
-    a "Do you like touching my butt..."
+    a "Тебе нравится трогать мою задницу?..."
 
-    a "(Moaning with pleasure) Ahhh... ..."
+    a "(Стонет от удовольствия) Аххх... ..."
 
     scene void with tstmgr
 
@@ -220,9 +220,9 @@ label Doggie_A_girlfriend:
 
     scene a_gf_1_default with tstmgr
 
-    bubble_a "Yes... I want to taste that... too."
+    bubble_a "Да... Я хочу попробовать это... тоже."
 
-    bubble_a "Love... ..."
+    bubble_a "Любимый... ..."
 
     scene void with tstmgr
 
@@ -244,7 +244,7 @@ label Doggie_A_girlfriend:
 
     scene a_love_5_30 with tstmgr
 
-    a "I'm cuming~~~~~~"
+    a "Я кончаююю~~~~~~"
 
     $ flashlight()
 
@@ -258,9 +258,9 @@ label Doggie_A_sexpartner:
 
     scene a_gf_1_frown with tstmgr
 
-    bubble_a "Okay... ..."
+    bubble_a "Хорошо... ..."
 
-    bubble_a "If that is what you want."
+    bubble_a "Если это то, что ты хочешь."
 
     scene void with tstmgr
 
@@ -282,7 +282,7 @@ label Doggie_A_sexpartner:
 
     scene a_love_5_30 with tstmgr
 
-    a "I'm cuming~~~~~~"
+    a "Я кончаю~~~~~~"
 
     $ flashlight()
 
@@ -299,29 +299,29 @@ label TouchHead_B_general:
     elif B.clothes == 2:
         scene b_general_2_frown with tstmgr
 
-    bubble_b "Touching... my head?"
-    bubble_b "Hmm... ... fine..."
+    bubble_b "Дотронуться... до моей головы?"
+    bubble_b "Хм... ... хорошо..."
 
     if B.clothes == 1:
         scene b_touchead_day_1 with tstmgr
     elif B.clothes == 2:
         scene b_general_2_touchead_1 with tstmgr
     b "... ... ... ..."
-    b "Do you like doing this?"
+    b "Тебе нравится это делать?"
 
     if B.clothes == 1:
         scene b_touchead_day_2 with tstmgr
     elif B.clothes == 2:
         scene b_general_2_touchead_2 with tstmgr
-    b "Your hand is so big..."
+    b "Твоя рука такая большая..."
     b "... ... ... ..."
 
     if B.clothes == 1:
         scene b_touchead_day_3 with tstmgr
     elif B.clothes == 2:
         scene b_general_2_touchead_3 with tstmgr
-    b "And it feels so warm..."
-    b "I actually start to like this..."
+    b "И это так приятно..."
+    b "На самом деле мне это начинает нравиться..."
 
     scene void with tstmgr
 
@@ -335,9 +335,9 @@ label ShouderRub_C_general:
     scene c_general_1_smile with tstmgr
 
     bubble_c "... ... ... ..."
-    bubble_c "That's... nice of you."
-    bubble_c "Are you trying to please me? I won't raise your wage for this, just let you know."
-    bubble_c "I'll wait you at the couch."
+    bubble_c "Это мило."
+    bubble_c "Ты пытаешься доставить мне удовольствие? Я не буду повышать тебе зарплату за это, просто даю знать."
+    bubble_c "Я подожду тебя на диване."
 
     scene c_sdmassage_1 with tstmgr
 
@@ -347,19 +347,19 @@ label ShouderRub_C_general:
 
     scene c_sdmassage_2 with tstmgr
 
-    c "Hmm... ..."
+    c "Хмм... ..."
 
     scene c_sdmassage_3 with tstmgr
 
     c "?... ..."
 
-    c "(He is doing it again... I should have realized it.)"
+    c "(Он снова это делает... Я должна была это понять.)"
 
     c "... ... ... ..."
 
     scene c_sdmassage_2 with tstmgr
 
-    c "(Whatever... as long as he doesn't go too far...)"
+    c "(Неважно... лишь бы он не зашел слишком далеко...)"
 
     c "... ... ... ..."
 
@@ -375,29 +375,29 @@ label TouchHead_D_general:
         scene d_general_1_default with tstmgr
     elif D.clothes == 2:
         scene d_general_2_default with tstmgr
-    bubble_d "Ha? Head touching?"
-    bubble_d "Great! Let's do this."
+    bubble_d "Ха? Прикосновение к голове?"
+    bubble_d "Отлично! Давай сделаем это."
 
     if D.clothes == 1:
         scene d_touchead_1 with tstmgr
     elif D.clothes == 2:
         scene d_general_2_touchead_1 with tstmgr
     d "... ... ... ..."
-    d "It feels good..."
+    d "Это приятно..."
 
     if D.clothes == 1:
         scene d_touchead_2 with tstmgr
     elif D.clothes == 2:
         scene d_general_2_touchead_2 with tstmgr
-    d "It's like... I am being petted."
-    d "So relieved..."
+    d "Это как будто... меня гладят."
+    d "Так расслабляет..."
 
     if D.clothes == 1:
         scene d_touchead_3 with tstmgr
     elif D.clothes == 2:
         scene d_general_2_touchead_3 with tstmgr
-    d "Meow, Meow!"
-    d "Do you like hearing me saying that?"
+    d "Мяу, Мяу!"
+    d "Тебе нравится слышать, как я мяукаю?"
 
     scene void with tstmgr
 
@@ -412,31 +412,31 @@ label LapPillow_E_general:
         scene e_general_1_frown with tstmgr
     elif E.clothes == 2:
         scene e_general_2_frown with tstmgr
-    bubble_e "You want to... do that again?"
-    bubble_e "(This poor kid is seeking for mother's love. I should help him.)"
+    bubble_e "Ты хочешь... сделать это снова?"
+    bubble_e "(Этот бедный ребенок ищет материнской любви. Я должна помочь ему.)"
     bubble_e "... ... ... ..."
-    bubble_e "Alright, son, come here."
+    bubble_e "Ладно, сынок, иди сюда."
 
     if E.clothes == 1:
         scene e_lapillow_1 with tstmgr
     elif E.clothes == 2:
         scene e_general_2_lapillow_1 with tstmgr
-    e "Sleep, sleep, little child..."
-    e "I got you here..."
+    e "Спи, спи, дитя..."
+    e "Я с тобой..."
 
     if E.clothes == 1:
         scene e_lapillow_2 with tstmgr
     elif E.clothes == 2:
         scene e_general_2_lapillow_2 with tstmgr
-    e "(Oh, his sleeping face is so lovely.)"
-    e "(I always want to have my own son...)"
+    e "(Ох, его спящее лицо такое милое.)"
+    e "(Я всегда хотела иметь собственного сына...)"
 
     if E.clothes == 1:
         scene e_lapillow_3 with tstmgr
     elif E.clothes == 2:
         scene e_general_2_lapillow_3 with tstmgr
-    e "(He must be in a nice dream right now...)"
-    e "(I wish to know what he is dreaming about...)"
+    e "(Ему, должно быть, сейчас сниться отличный сон...)"
+    e "(Я хочу знать, о чём его сон...)"
 
     scene void with tstmgr
 
@@ -452,39 +452,39 @@ label TouchBreasts_G_general:
     elif G.clothes == 2:
         scene g_general_2_smile with tstmgr
 
-    bubble_g "Take your time, 30 seconds."
+    bubble_g "Не торопись, 30 секунд."
 
     if G.clothes == 1:
 
         scene g_general_1_breastouch_1 with tstmgr
 
-        g "Just remember not to do anything... weird."
+        g "Просто помни, что нельзя делать ничего... странного."
 
         g "... ... ... ..."
 
         scene g_general_1_breastouch_2 with tstmgr
 
-        g "Be... gentle, please."
+        g "Будь... нежнее, пожалуйста."
 
-        g "Don't leave any bruise. I have a cosplay activity next week."
+        g "Не оставляй синяков. На следующей неделе у меня косплей."
 
         scene g_general_1_breastouch_3 with tstmgr
 
-        g "Hmm?... ..."
+        g "Хмм?... ..."
 
-        g "Do you really have to take off my bra?"
+        g "Тебе действительно нужно снимать с меня лифчик?"
 
         scene g_general_1_breastouch_4 with tstmgr
 
         g "... ... ... ..."
 
-        g "They are... ugly, right? Ptosed like this... I wish they can be smaller."
+        g "Они... уродливые, да? В такой позе... Хотела бы я, чтобы они были поменьше."
 
         scene g_general_1_breastouch_5 with tstmgr
 
-        g "Really? You like them?"
+        g "Действительно? Они тебе нравятся?"
 
-        g "Well... then... you can have, 5 more seconds, today."
+        g "Ну... тогда... сегодня у тебя есть ещё 5 дополнительных секунд."
 
         scene void with tstmgr
 
@@ -494,35 +494,35 @@ label TouchBreasts_G_general:
 
         scene g_general_2_breastouch_1 with tstmgr
 
-        g "Just remember not to do anything... weird."
+        g "Просто помни, что нельзя делать ничего... странного."
 
         g "... ... ... ..."
 
         scene g_general_2_breastouch_2 with tstmgr
 
-        g "Be... gentle, please."
+        g "Будь... нежнее, пожалуйста."
 
-        g "Don't leave any bruise. I have a cosplay activity next week."
+        g "Не оставляй синяков. На следующей неделе у меня косплей."
 
         scene g_general_2_breastouch_3 with tstmgr
 
-        g "Why are you... holding them like holding your toys."
+        g "Почему ты... держишь их, как свои игрушки?"
 
-        g "They are heavy, aren't they?"
+        g "Они тяжелые, не так ли?"
 
         scene g_general_2_breastouch_4 with tstmgr
 
-        g "(Groaning with pleasure) Aww... ... ... ..."
+        g "(Стонет от удовольствия) Ауу... ... ... ..."
 
-        g "Nipple..."
+        g "Сосок..."
 
         scene g_general_2_breastouch_5 with tstmgr
 
-        g "(Groaning) It feels... strange..."
+        g "(Стонет) Это чувство... странное..."
 
-        g "(Groaning) Time... is... up..."
+        g "(Стонет) Твоё... время... закончилось..."
 
-        g "Release me now..."
+        g "Отпусти меня..."
 
         scene void with tstmgr
 

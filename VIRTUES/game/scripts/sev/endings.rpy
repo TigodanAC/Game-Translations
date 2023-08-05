@@ -1,14 +1,14 @@
 define ENDINGS = {
-   "B_train_inti_2": "Senning's ending 1",
-   "G_train_inti_2": "Uno's ending 1",
-   "CDE_duo_3": "Elisa's ending 1",
-   "ACG_final_1": "Harem ending 1",
-   "CDE_final": "Harem ending 2",
-   "B_final_2": "Harem ending 3",
-   "Final_final": "Ultimate harem ending",
-   "A_final": "Vera's ending 1",
-   "C_final": "Theodora's ending 1",
-   "D_final": "Irene's ending 1",
-   "E_final": "Elisa's ending 2"
+   "B_train_inti_2": "Концовка Сеннин 1",
+   "G_train_inti_2": "Концовка Уно 1",
+   "CDE_duo_3": "Концовка Элизы 1",
+   "ACG_final_1": "Гаремная концовка 1",
+   "CDE_final": "Гаремная концовка 2",
+   "B_final_2": "Гаремная концовка 3",
+   "Final_final": "Концовква окончательного гарема",
+   "A_final": "Концовка Веры 1",
+   "C_final": "Концовка Теодоры 1",
+   "D_final": "Концовка Айрин 1",
+   "E_final": "Концовка Элизы 2"
 }
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

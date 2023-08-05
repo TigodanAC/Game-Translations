@@ -3,21 +3,21 @@ init 1 python:
     A.tweets = {
 
         "general": [
-            "Have you seen yesterday's soccer game? That was insane.", 
-            "I'm afraid I've put on some weight recently... What do you think?", 
-            "There will be one new guest coming tomorrow night."
+            "Видел вчерашний футбольный матч? Это было безумием.", 
+            "Боюсь, в последнее время я прибавила в весе... Как ты считаешь?", 
+            "Завтра вечером придет еще один новый гость."
         ],
 
         "girlfriend": [
-            "I was thinking about you all day. Please stay with me for a while.",
-            "I like you wearing this shirt. Very handsome.",
-            "I made some cookies for you, all are in heart shape." 
+            "Я думала о тебе весь день. Пожалуйста, останься со мной на некоторое время.",
+            "Мне нравится, что ты носишь эту рубашку. Ты в ней очень симпатичный.",
+            "Я испекла для тебя печенье-сердечки)" 
         ],
 
         "sexpartner": [
-            "Don't stare at me like that... It's a little embarrassing...",
-            "I like you wearing this shirt. Very handsome",
-            "I made some cookies for you. You can find them in the kitchen."
+            "Не смотри на меня так... Мне немного неловко...",
+            "Мне нравится, что ты носишь эту рубашку. Ты в ней очень симпатичный.",
+            "Я приготовила для тебя печенье. Ты можешь найти их на кухне."
         ]
     }
 
@@ -25,82 +25,82 @@ init 1 python:
     B.tweets = {
 
         "general": [
-            "Are you ready for the next exam?", 
-            "Do you want me to teach you some Chinese words?", 
-            "Let's talk about the stock market. I've just analyzed a little about the time series of the stock index.",
-            "Let's talk about the stock market. I've just analyzed a little about the time series of the stock index."
+            "Ты готов к следующему экзамену?", 
+            "Хочешь, я научу тебя некоторым китайским словам?", 
+            "Давайте поговорим о фондовом рынке. Я только что немного проанализировала временные ряды фондового индекса.",
+            "Давайте поговорим о фондовом рынке. Я только что немного проанализировала временные ряды фондового индекса."
         ],
         "girlfriend": [
-            "Ah, [P], I was... waiting for you... ...",
-            "I made you some tea, with... my special recipe."
+            "Ах, [P], Я ждала тебя... ...",
+            "Я приготовила для тебя чай... по моему особому рецепту."
         ],
         "sexpartner": [
-            "Your scent... can really turns me on...",
-            "[P]... come closer, please... ..."
+            "Твой запах... может действительно меня завести...",
+            "[P]... подойди поближе, пожалуйста... ..."
         ]
     }
 
     C.tweets = {
         "general": [
-            "Aren't you suppose to work in your office now?", 
-            "Stop staring at my breasts, you pathetic.", 
-            "Do you have any trouble with your work?"
+            "Разве ты не собираешься работать в своем офисе сейчас?", 
+            "Перестань пялиться на мою грудь, ты жалок.", 
+            "У тебя проблемы с работой?»
         ],
         "fiancee": [
-            "Aren't you suppose to work in your office now? Miss me already?", 
-            "Stop staring at my breasts, you can touch them if you want."
+            "Разве ты не собираешься работать в своем офисе сейчас? Уже скучаешь по мне?", 
+            "Перестань пялиться на мою грудь, ты можешь потрогать её, если хочешь."
         ]
     }
 
     D.tweets = {
         "general": [
-            "I got an A in the last quiz! Am I great?", 
-            "Theo didn't look well last night. Did you two have an argument?", 
-            "My mom won't be at home tonight... You know..."
+            "Я получил пятерку на последнем тесте! Я крутая?", 
+            "Вчера вечером Тео выглядела неважно. Вы поссорились?", 
+            "Моей мамы сегодня не будет дома... Ну ты понимаешь..."
         ],
-         "girlfriend": [
-            "[P], [P], hug me, hug me!"
+        "girlfriend": [
+            "[P], [P], обними меня, обними меня!"
         ],
         "sexpartner": [
-            "[P], [P], hug me, hug me!"
+            "[P], [P], обними меня, обними меня!"
         ]    
     }
 
     E.tweets = {
         "general": [
-            "Do you like to have something to drink? My cousin sent me some top-grade coffee from South America several days ago.", 
-            "Do you think I should dye my hair silver?", 
-            "Thanks for coming, [P]. I am quite lonely these days."
+            "Ты хочешь что-нибудь выпить? Мой двоюродный брат несколько дней назад прислал мне первосортный кофе из Южной Америки.", 
+            "Как ты думаешь, мне стоит покрасить волосы в серебристый цвет?", 
+            "Спасибо, что пришёл, [P]. Я очень одинока в эти дни."
         ],
         "lover": [
-            "Come to your auntie now~ ",
-            "I want to... stay with you in private for a day~"
+            "Иди к своей тётушке~ ",
+            "Я хочу... остаться с тобой наедине на день~"
         ]
     }
 
     F.tweets = {
         "general": [
-            "Hi there, my friend. Wanna do something together?", 
-            "Our coach said that I could make it to the Olympics if I practice harder.", 
-            "I am saving money for a travel, but haven’t decided where to go. Any advice?"
+            "Привет, мой друг. Хочешь потусоваться вместе?", 
+            "Наш тренер сказал, что я могу попасть на Олимпиаду, если буду больше тренироваться.", 
+            "Я коплю деньги на путешествие, но не решила, куда именно поехать. У тебя есть какой-нибудь совет?"
         ]
     }
 
     G.tweets = {
         "general": [
-            "My favorite anime series? JoJo.",
-            "... ... ... ... I'm hungry.",
-            "The next comic-con is near. Will you be there?"
+            "Мой любимый аниме-сериал? ДжоДжо.",
+            "... ... ... ... Я голодная.",
+            "Следующий комик-кон уже скоро. Ты пойдёшь на него?"
         ],
         "girlfriend": [
-            "When are we going to make another porn video?",
-            "Do you need me to help you... reduce the stress?",
-            "Please... stay with me for a while..." 
+            "Когда мы собираемся сделать ещё один порно ролик?",
+            "Тебе нужно, чтобы я помогла тебе... избавиться от стресса?",
+            "Пожалуйста... побудь со мной немного..." 
         ],
         "sexpartner": [
-            "When are we going to make another porn video?",
-            "Your tits slave awaits... ...",
-            "What is on your mind, master?"
+            "Когда мы собираемся сделать ещё один порно ролик?",
+            "Твоя сисястая рабыня ждет тебя... ...",
+            "Что у тебя на уме, хозяин?"
         ]
     }
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

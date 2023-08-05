@@ -2,168 +2,168 @@
     {
       "nz": "A",
       "label": "TouchHead_A",
-      "name": "Touch her head",
+      "name": "Прикоснуться к её голове",
       "type": "general",
       "pre_event": ["A_love_2"]
     },
     {
       "nz": "A",
       "label": "Hug_A",
-      "name": "Give her a hug",
+      "name": "Обнять её",
       "type": "general",
       "pre_event": ["A_love_3"]
     },
     {
       "nz": "A",
       "label": "Doggie_A",
-      "name": "Doggy style",
+      "name": "По-собачьи",
       "type": "general",
       "pre_event": ["A_love_5"]
     },
     {
       "nz": "B",
       "label": "TouchHead_B",
-      "name": "Touch her head",
+      "name": "Прикоснуться к её голове",
       "type": "general",
       "pre_event": ["pcsj"]
     },
     {
       "nz": "C",
       "label": "ShouderRub_C",
-      "name": "Give her a shoulder rub",
+      "name": "Помассировать её плечи",
       "type": "general",
       "pre_event": ["C_love_2"]
     },
     {
       "nz": "D",
       "label": "TouchHead_D",
-      "name": "Touch her head",
+      "name": "Прикоснуться к её голове",
       "type": "general",
       "pre_event": ["D_love_2"]
     },
     {
       "nz": "E",
       "label": "LapPillow_E",
-      "name": "Ask for a lap pillow",
+      "name": "Попросить лечь к ней на колени",
       "type": "general",
       "pre_event": ["E_love_2"]
     },
     {
       "nz": "G",
       "label": "TouchBreasts_G",
-      "name": "Touching breasts",
+      "name": "Прикосновение к груди",
       "type": "general",
       "pre_event": ["G_MoveIn"]
     },
     {
       "nz": "B",
       "label": "TV_B",
-      "name": "Watch TV together",
+      "name": "Совместный просмотр телевизора",
       "type": "general",
       "pre_event": ["B_love_5"]
     },
     {
       "nz": "D",
       "label": "TV_D",
-      "name": "Watch TV together",
+      "name": "Совместный просмотр телевизора",
       "type": "general",
       "pre_event": ["D_love_3"]
     },
     {
       "nz": "A",
       "label": "A_action_sha_1",
-      "name": "Workplace exposure",
+      "name": "Воздействие на рабочем месте",
       "type": "shame",
       "pre_event": ["A_train_sha_1"]
     },
     {
       "nz": "B",
       "label": "B_action_sha_1",
-      "name": "Go to a nightclub with her",
+      "name": "Пойти с ней в ночной клуб",
       "type": "shame",
       "pre_event": ["B_train_sha_1"]
     },
     {
       "nz": "C",
       "label": "C_action_inti_1",
-      "name": "Have fun in her office",
+      "name": "Повеселиться в её офисе",
       "type": "inti",
       "pre_event": ["C_train_inti_1"]
     },
     {
       "nz": "C",
       "label": "C_action_sexskill_1",
-      "name": "Reward for the massage",
+      "name": "Награда за массаж",
       "type": "skill",
       "pre_event": ["C_train_sexskill_1"]
     },
     {
       "nz": "D",
       "label": "D_action_sub_1",
-      "name": "Pet training",
+      "name": "Дрессировка домашнего животного",
       "type": "sub",
       "pre_event": ["D_train_sub_1"]
     },
     {
       "nz": "G",
       "label": "G_action_inti_1",
-      "name": "Work interrupting",
+      "name": "Прерывание работы",
       "type": "inti",
       "pre_event": ["G_train_inti_1"]
     },
     {
       "nz": "G",
       "label": "G_action_sha_2",
-      "name": "Shooting a video together",
+      "name": "Съёмки совместного видео",
       "type": "shame",
       "pre_event": ["G_train_sha_2"]
     },
     {
       "nz": "A",
       "label": "A_action_inti_1",
-      "name": "Help her shower",
+      "name": "Помощь в принятии душа",
       "type": "inti",
       "pre_event": ["A_train_inti_1"]
     },
     {
       "nz": "C",
       "label": "C_action_sub_1",
-      "name": "Caress with lotion",
+      "name": "Ласки с лосьёном",
       "type": "sub",
       "pre_event": ["C_train_sub_1"]
     },
     {
       "nz": "D",
       "label": "D_action_sexskill_1",
-      "name": "Titjob practice",
+      "name": "Практика работы грудью",
       "type": "skill",
       "pre_event": ["D_train_sexskill_1"]
     },
     {
       "nz": "C",
       "label": "C_action_sha_2",
-      "name": "Cabinet sex",
+      "name": "Занятие сексом в кабинете",
       "type": "shame",
       "pre_event": ["C_train_sub_2","C_train_sha_2"]
     },
     {
       "nz": "G",
       "label": "G_action_sub_3",
-      "name": "Pet training",
+      "name": "Дрессировка домашнего животного",
       "type": "sub",
       "pre_event": ["G_train_sub_3"]
     },
     {
       "nz": "E",
       "label": "E_action_sub_2",
-      "name": "Bondage training",
+      "name": "Тренировка с бондажом",
       "type": "sub",
       "pre_event": ["E_train_sub_2"]
     },
     {
       "nz": "E",
       "label": "E_action_sexskill_1",
-      "name": "Mother roleplay",
+      "name": "Игра в мать",
       "type": "skill",
       "pre_event": ["E_train_sexskill_1"]
     }

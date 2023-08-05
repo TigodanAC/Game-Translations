@@ -1,17 +1,17 @@
 define SUBPLOTS = {
    "null": {
-      "CDE_Picnic": "Picnic party - Elisa's family",
-      "AG_duo": "Laundry room - Vera, Uno",
-      "DE_duo": "Swimming pool - Irene, Elisa",
-      "DG_duo_1": "Pet training - Irene, Uno",
+      "CDE_Picnic": "Пикник - семья Элизы",
+      "AG_duo": "Прачечная - Вера, Уно",
+      "DE_duo": "Бассейн - Айрин, Элиза",
+      "DG_duo_1": "Дрессировка питомца - Айрин, Уно",
    },
    "B": {
-      "B_Beach": "Beach - Senning",
-      "B_daily_16": "Senning's room - Senning, Uno"
+      "B_Beach": "Пляж - Сеннин",
+      "B_daily_16": "Комната Сеннин - Сеннин, Уно"
    },
    "G": {
-      "G_daily_6": "Role play - Vera, Uno",
-      "G_train_inti_3": "Diet plan - Uno"
+      "G_daily_6": "Ролевая игра - Вера, Уно",
+      "G_train_inti_3": "План диеты - Уно"
    }
 }
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
