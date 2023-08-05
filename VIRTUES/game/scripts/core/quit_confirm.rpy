@@ -29,7 +29,7 @@ screen quit_confirm():
             add "qcb"
             vbox:
                 align .5, .5
-                label "Are you sure you want to quit?":
+                label "Вы уверены, что хотите выйти?":
                     style "confirm_prompt"
                     xalign 0.5
                 null height 90
@@ -37,15 +37,18 @@ screen quit_confirm():
                     xalign 0.5
                     spacing 300
 
-                    textbutton _("Yes") action Hide("confirm"), Quit(confirm=False)
-                    textbutton _("No") action Hide("confirm")
+                    textbutton _("Да") action Hide("confirm"), Quit(confirm=False)
+                    textbutton _("Нет") action Hide("confirm")
         vbox:
             align .5, .95
             add Solid("#e6e6e6", xsize=860, ysize=1, xalign=0.5)
-            text "To find out more about this game, take a look at our homepage:"
+            text "Чтобы узнать больше об этой игре или её переводе, перейдите по одной из ссылок ниже:"
             button:
                 text "{u}https://www.patreon.com/NoMeme{/u}" style "link"
                 action OpenURL("https://www.patreon.com/NoMeme")
+            button:
+                text "{u}https://boosty.to/TigodanAC{/u}" style "link"
+                action OpenURL("https://boosty.to/TigodanAC")
 
 
     key "game_menu" action Return(False)
@@ -72,4 +75,4 @@ style confirm_button:
 
 style confirm_button_text:
     properties gui.button_text_properties("confirm_button")
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

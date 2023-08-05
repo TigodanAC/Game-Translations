@@ -28,8 +28,8 @@ screen top(force=False):
                 xpadding 10
                 background top_value_frame
                 textbutton "[P.name]":
-                    action Show("name_input", prompt="Please input your name:", prefix="I'm ", suffix=".", rt=False)
-                    hovered ShowTransient("player_panel_hover", content="Click to change your name.")
+                    action Show("name_input", prompt="Пожалуйста, введите ваше имя:", prefix="Я ", suffix=".", rt=False)
+                    hovered ShowTransient("player_panel_hover", content="Нажмите, чтобы изменить свое имя.")
                     unhovered Hide("player_panel_hover")
 
 
@@ -64,7 +64,7 @@ screen clock3(force=False):
             fixed xysize (140, 120):
                 vbox align (0.0, 0.5) offset (20, -1):
                     spacing -1
-                    text ("Week {}").format(str(t.week)):
+                    text ("Неделя {}").format(str(t.week)):
                         at normal_t_update(0.3)
                         size 28
                         font gui.clock_font
@@ -73,7 +73,7 @@ screen clock3(force=False):
 
                     text ("{}").format(str(t.day)):
                         at normal_t_update(0.3)
-                        size 28
+                        size 25
                         font gui.clock_font
                         color "#28b4b5"
 
@@ -97,7 +97,7 @@ screen clock3(force=False):
                     align (0.5, 0.9)
 
 
-                    text ">>> Click to skip a time period." size 18
+                    text ">>> Нажмите, чтобы пропустить время." size 18
 
     else:
         $ glowing = False
@@ -113,4 +113,4 @@ init python:
             
         }
         return Text(txt, **kwargs), 0.01
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

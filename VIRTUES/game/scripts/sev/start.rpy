@@ -2,7 +2,7 @@ label start:
     scene void with Dissolve(0.4)
 
     window show
-    "Как твое имя, еще раз?"
+    "Как твоё имя, ещё раз?"
     window hide
 
     $ P_state.name = "Аганг" if renpy.variant("pc") else "Лео"
@@ -18,7 +18,7 @@ label start:
     menu:
         "Начать с самого начала":
             $ run_event('d1_1')
-        "Пропустить прологи":
+        "Пропустить пролог":
 
             $ fake_run('d4_1_bLine', 'd4_4_bLine', 'd5_2_bLine', 'd5_4_bLine')
             $ fake_run('d4_3', 'A_dgsjhx', 'd8_1', 'A_daily_1', 
@@ -42,4 +42,4 @@ label start:
     $ set_scene("Map")
     $ show_map()
     jump pauser
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

@@ -91,7 +91,7 @@ init python:
         return Text(txt, **kwargs), 0.01
 
     def dynamic_date_func(screen_time, at, *args, **kwargs):
-        txt =  _("Week {}, {}").format(clock_t.week, str(clock_t.day))
+        txt =  _("Неделя {}, {}").format(clock_t.week, str(clock_t.day))
         kwargs = {
             "size": 29,
             "xalign": 0.5,
@@ -103,4 +103,4 @@ init python:
         return Text(txt, **kwargs), 0.01
 
     renpy.invoke_in_thread(clock_thread)
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

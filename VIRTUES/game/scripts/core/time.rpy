@@ -27,12 +27,12 @@ init -3 python:
 
     DAY_PERIOD_STR = [
         None,
-        _("Morning"),
-        _("Forenoon"),
-        _("Afternoon"),
-        _("Evening"),
-        _("Late Night"),
-        _("Late Night")
+        _("Утро"),
+        _("До полудня"),
+        _("Полдень"),
+        _("Вечер"),
+        _("Поздно ночью"),
+        _("Поздно ночью")
     ]
 
     WEEK_DAY_NAME = [
@@ -48,13 +48,13 @@ init -3 python:
 
     WEEK_DAY_STR = [
         None,
-        _("Monday"),
-        _("Tuesday"),
-        _("Wednesday"),
-        _("Thursday"),
-        _("Friday"),
-        _("Saturday"),
-        _("Sunday"),
+        _("Понедельник"),
+        _("Вторник"),
+        _("Среда"),
+        _("Четверг"),
+        _("Пятница"),
+        _("Суббота"),
+        _("Воскресенье"),
     ]
 
     total_period_of_day = 6.0
@@ -221,11 +221,11 @@ init -3 python:
             return ("Time{}(dyn_tp={}, dyn_week={}, dyn_day={}, dyn_period={}, day_date={}, dyn_time={}, offset={})".format(('Dynamic' if self.dynamic else ''), self.dyn_total_period, self.dyn_week, self.dyn_period, self.dyn_period, self.dyn_date, self.dyn_time, self.offset))
         
         def __str__(self):
-            return _("Week{} {} {}").format(self.week, str(self.day), str(self.period))
+            return _("Неделя{} {} {}").format(self.week, str(self.day), str(self.period))
         
         @property
         def short(self):
-            return _("Week{} {} {}").format(self.week, str(self.day)[:3], str(self.period)[:3])
+            return _("Неделя{} {} {}").format(self.week, str(self.day)[:3], str(self.period)[:3])
         
         @property
         def week(self):
@@ -364,4 +364,4 @@ init -3 python:
         
         def __repr__(self):
             return _("Time(total_day={}; Wk{}, {}) at {}").format(self.total_day, self.week, str(self.day), id(self))
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

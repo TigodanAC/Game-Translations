@@ -56,9 +56,9 @@ screen name_input(prompt, prefix, suffix, rt=True, **kwargs):
 
         button:
             style "name_input_button"
-            text _("Confirm") style "name_input_button_text"
+            text _("Подтвердить") style "name_input_button_text"
             if rt:
                 action Return()
             else:
                 action Hide("name_input")
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

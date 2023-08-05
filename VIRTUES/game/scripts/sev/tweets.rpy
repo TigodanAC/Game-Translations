@@ -42,13 +42,13 @@ init 1 python:
 
     C.tweets = {
         "general": [
-            "Разве ты не собираешься работать в своем офисе сейчас?", 
-            "Перестань пялиться на мою грудь, ты жалок.", 
-            "У тебя проблемы с работой?»
+            "Aren't you suppose to work in your office now?", 
+            "Stop staring at my breasts, you pathetic.", 
+            "Do you have any trouble with your work?"
         ],
         "fiancee": [
-            "Разве ты не собираешься работать в своем офисе сейчас? Уже скучаешь по мне?", 
-            "Перестань пялиться на мою грудь, ты можешь потрогать её, если хочешь."
+            "Aren't you suppose to work in your office now? Miss me already?", 
+            "Stop staring at my breasts, you can touch them if you want."
         ]
     }
 
@@ -103,4 +103,4 @@ init 1 python:
             "Что у тебя на уме, хозяин?"
         ]
     }
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

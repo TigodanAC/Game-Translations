@@ -237,14 +237,14 @@ default F_state = NzState()
 default G_state = NzState()
 
 
-define a = Character("[A]", who_color=A.color)
-define b = Character("[B]", who_color=B.color)
-define c = Character("[C]", who_color=C.color)
-define c_qm = Character("[C]?", who_color=C.color)
-define d = Character("[D]", who_color=D.color)
-define e = Character("[E]", who_color=E.color)
-define f = Character("[F]", who_color=F.color)
-define g = Character("[G]", who_color=G.color)
+define a = Character("[A.name]", who_color=A.color)
+define b = Character("[B.name]", who_color=B.color)
+define c = Character("[C.name]", who_color=C.color)
+define c_qm = Character("[C.name]?", who_color=C.color)
+define d = Character("[D.name]", who_color=D.color)
+define e = Character("[E.name]", who_color=E.color)
+define f = Character("[F.name]", who_color=F.color)
+define g = Character("[G.name]", who_color=G.color)
 define narrator = Character(None, what_color=gui.dialogue_color)
 define player = Character("[P.name]", who_color=P.color)
 
@@ -258,4 +258,4 @@ define bubble_d = Character(None, screen="bubble", show_color=D.color)
 define bubble_e = Character(None, screen="bubble", show_color=E.color)
 define bubble_f = Character(None, screen="bubble", show_color=F.color)
 define bubble_g = Character(None, screen="bubble", show_color=G.color)
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+

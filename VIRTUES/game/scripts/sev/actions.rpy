@@ -29,7 +29,7 @@ init python:
     Action.current_parent = "college"
     apartment = Action("apartment", _("Студенческое общежитие"), has_children=True, pos=(522, 432))  
     B_room = Action("B_room", _("Найти Сеннин"), "t.period in (Forenoon, Afternoon)", displaying="seen('B_love_1')", to_map=False, training_nz="B")
-    F_room = Action("F_room", _("Найдите Рэйчел"), "is_day()", displaying="seen('F_love_2')", to_map=False, training_nz="F")
+    F_room = Action("F_room", _("Найти Рэйчел"), "is_day()", displaying="seen('F_love_2')", to_map=False, training_nz="F")
     college_bathroom = Action("college_bathroom", _("Общественная ванная комната"))
 
     Action.current_parent = "college"
@@ -45,8 +45,8 @@ init python:
     Action.current_parent = "mansion"
     mansion_rooms = Action("mansion_rooms", _("Особняк Элизы"), displaying="seen('d7_1')", has_children=True, rename=[("Особняк Элизы", "seen('D_dqsj')")], pos=(950, 485))
     C_room = Action("C_room", _("Комната Теодоры"), "t.period in (Forenoon, Afternoon, Evening, LateNight)", displaying="seen('pcsj')")
-    D_room = Action("D_room", _("Найдите Айрин"), "t.period in (Afternoon, Evening)", to_map=False, training_nz="D")
-    E_room = Action("E_room", _("Найдите Элизу"), "t.period in (Forenoon, Afternoon, Evening)", displaying="seen('pcsj', 'D_dqsj')", to_map=False, training_nz="E")
+    D_room = Action("D_room", _("Найти Айрин"), "t.period in (Afternoon, Evening)", to_map=False, training_nz="D")
+    E_room = Action("E_room", _("Найти Элизу"), "t.period in (Forenoon, Afternoon, Evening)", displaying="seen('pcsj', 'D_dqsj')", to_map=False, training_nz="E")
     mansion_pool = Action("mansion_pool", _("Бассейн"))
     mansion_bathroom = Action("mansion_bathroom", _("Ванная комната"))
     mansion_toilet = Action("mansion_toilet", _("Туалет"), xysize=(135, 124))
@@ -63,7 +63,7 @@ init python:
     Action.current_parent = "map"
     company = Action("company", _("Здание ШайниРост"), has_children=True, pos=(676, 378-60))
     work = Action("work", _("Работа"), "seen('pcsj') and t.period in (Forenoon, Afternoon) and Monday <= t.day <= Friday"),
-    find_C_company = Action("find_C_company", _("Найдите Теодору"), "seen('pcsj') and t.period in (Forenoon, Afternoon) and Monday <= t.day <= Friday", to_map=False, training_nz="C")
+    find_C_company = Action("find_C_company", _("Найти Теодору"), "seen('pcsj') and t.period in (Forenoon, Afternoon) and Monday <= t.day <= Friday", to_map=False, training_nz="C")
 
     Action.current_parent = "map"
     find_A_restaurant = Action("find_A_restaurant", _("Ресторан"), "t.period is Evening and Monday<=t.day<=Saturday and seen('A_wsdgsj')", pos=(500, 713-60))
@@ -134,9 +134,9 @@ init python:
             return True
         return False
 
-    G_room = Action("G_room", _("Найдите один"), "is_G_home()", hover_message=G_room_hover, to_map=False, training_nz="G")
-    A_room = Action("A_room", _("Найдите Веру"), "is_A_home()", hover_message=A_room_hover, to_map=False, training_nz="A")
+    G_room = Action("G_room", _("Найти один"), "is_G_home()", hover_message=G_room_hover, to_map=False, training_nz="G")
+    A_room = Action("A_room", _("Найти Веру"), "is_A_home()", hover_message=A_room_hover, to_map=False, training_nz="A")
     C_room_2 = Action("C_room_2", ("Комната Теодоры"))
 
     Action.current_parent = None
-# Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
+
