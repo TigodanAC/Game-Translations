@@ -9,7 +9,7 @@ label A_daily_12:
 
     scene a_daily12_1 with tstmgr
 
-    "Вера didn’t have a shift this afternoon so she came to my room and watched TV while I was in the shower."
+    "Сегодня была не Верина смена, поэтому она пришла ко мне в комнату и смотрела телевизор, пока я был в душе."
 
 
 
@@ -19,11 +19,11 @@ label A_daily_12:
 
     scene a_daily12_2 with tstmgr
 
-    "*Phone ringing* Dududu Dududu Dududu... ... ... ..."
+    "*Телефонный звонок* Дзынь Дзынь Дзынь... ... ... ..."
 
 
 
-    a "Hmmm?"
+    a "Хммм?"
 
 
 
@@ -33,161 +33,161 @@ label A_daily_12:
 
 
 
-    a "Mom?"
+    a "Мам?"
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "Hello mom. How’s everything?"
+    a "Привет, мам. Как дела?"
 
 
 
     scene a_daily12_5 with tstmgr
 
-    a "Me? I’m watching TV right now. I don’t have a shift today."
+    a "Я? Я сейчас смотрю телевизор. Сегодня не моя смена."
 
 
 
-    a "Ah... I’m doing great. People are all nice here, the jobs are easy, and I get well-paid."
+    a "Ах... У меня всё отлично. Все люди здесь хорошие, работа лёгкая, и мне хорошо платят."
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "So... yeah, you don’t need to worry about me at all."
+    a "Так что... да, тебе совсем не нужно обо мне беспокоиться."
 
 
 
     scene a_daily12_5 with tstmgr
 
-    a "By the way, did you receive the money I sent to you? Just... tell me if you need more..."
+    a "Кстати, ты получила деньги, которые я тебе отправила? Просто... скажи мне, если тебе нужно больше..."
 
 
 
     scene a_daily12_7 with tstmgr
 
-    player "(Asking loudly outside the room) Hey, V, did you see my white shirt? The one I always wear."
+    player "(Громко спрашивая из другой комнаты) Эй, Вер, ты не видела мою белую рубашку? Ту, которую я всегда ношу."
 
 
 
     scene a_daily12_8 with tstmgr
 
-    a "I just ironed it. It's in the laundry room."
+    a "Я только что погладила её. Она в прачечной."
 
 
 
-    player "Oh, thanks, V, love you."
+    player "О, спасибо, Вер, люблю тебя."
 
 
 
     scene a_daily12_9 with tstmgr
 
-    a "Love you too~"
+    a "И я тебя люблю~"
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "Sorry mom, where were we?"
+    a "Прости, мам, на чём мы остановились?"
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "Oh, you want to know who I was talking to?"
+    a "О, ты хочешь знать, с кем я разговаривала?"
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "That was my boyfriend. We are now... living together."
+    a "Это был мой молодой человек. Теперь мы... живём вместе."
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "How did we meet?"
+    a "Как мы познакомились?"
 
 
 
     scene a_daily12_10 with tstmgr
 
-    a "Hmmmmm... ... ... ..."
+    a "Хммммм... ... ... ..."
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "That... was a long story. Let’s talk about it sometime later."
+    a "Это... длинная история. Давай поговорим об этом как-нибудь позже."
 
 
 
-    a "Just relax, he is a good man."
+    a "Просто расслабься, он хороший человек."
 
 
 
-    a "I mean, he is definitely way better than the guy you set me up with for that blind date."
+    a "Я имею в виду, он определённо намного лучше, чем парень, с которым ты устроила мне то свидание вслепую."
 
 
 
     scene a_daily12_5 with tstmgr
 
-    a "He picks me up and walks home with me when I have shifts at night, He comes to my workplaces and buys a lot of things just to get the opportunity to chat with me while my managers are around..."
+    a "Он подвозит меня или идёт со мной домой, когда у меня ночные смены, он приходит ко мне на работу и покупает много вещей только для того, чтобы иметь возможность пообщаться со мной, пока мои менеджеры рядом..."
 
 
 
     scene a_daily12_11 with tstmgr
 
-    a "And he protects me when I am in danger... ..."
+    a "И он защищает меня, когда я в опасности... ..."
 
 
 
     scene a_daily12_12 with tstmgr
 
-    a "Oh, I mean, not the real danger. It was just a trope. Don’t worry about me. There is no danger at all. This city is extremely safe."
+    a "О, я не имела в виду реальную опасность. Это я образно. Не беспокойся обо мне. Тут вообще нет никакой опасности. Этот город чрезвычайно безопасен."
 
 
 
     scene a_daily12_4 with tstmgr
 
-    a "You want to see a picture of him? Hmm... okay."
+    a "Хочешь увидеть его фотографию? Хм... хорошо."
 
 
 
     scene a_daily12_13 with tstmgr
 
-    a "I’m sending it to you right now... and... ... done!"
+    a "Я отправляю её тебе прямо сейчас... и... ... готово!"
 
 
 
     scene a_daily12_6 with tstmgr
 
-    a "Did you receive it? He is cute, isn’t he?"
+    a "Ты получила её? Он милый, не правда ли?"
 
 
 
     scene a_daily12_12 with tstmgr
 
-    a "Huh? What do you mean I’m lying?"
+    a "Хм? Что значит я вру?"
 
 
 
-    a "You saw him on the news earlier?"
+    a "Ты раньше видела его в новостях?"
 
 
 
-    a "Yeah, I know he is kind of a celebrity and he has a rich father. But I am not lying! We are really living together!"
+    a "Да, я знаю, что он в некотором роде знаменитость и у него богатый отец. Но я не вру! Мы действительно живём вместе!"
 
 
 
     scene a_daily12_10 with tstmgr
 
-    a "Hmmmmmmmmm... ... ... ..."
+    a "Хмммммммммм... ... ... ..."
 
 
 
-    a "Fine, let’s facetime."
+    a "Хорошо, давай поговорим по фейстайму."
 
 
 
@@ -197,65 +197,65 @@ label A_daily_12:
 
 
 
-    "A few moments later..."
+    "Несколько секунд спустя..."
 
 
 
     scene a_daily12_14 with dissolve
 
-    player "Emmmm, V? What’s up?"
+    player "Эммм, Вер? Что случилось?"
 
 
 
     scene a_daily12_15 with tstmgr
 
-    a "See, mom? I was not lying. This is a real person~"
+    a "Видишь, мама? Я не врала. Это реальный человек~"
 
 
 
-    player "Your mom?"
+    player "Твоя мама?"
 
 
 
     scene a_daily12_16 with tstmgr
 
-    player "Hi there, Ma’m. It’s so good to see you..."
+    player "Добрый день, мэм. Я так рад Вас видеть..."
 
 
 
-    "And I saw a middle-aged woman screaming in the camera."
+    "И я увидел женщину средних лет, визжащую в камеру."
 
 
 
     scene a_daily12_17 with tstmgr
 
-    a "Ehh... ..."
+    a "Эхх... ..."
 
 
 
     scene a_daily12_18 with tstmgr
 
-    a "She is kind of your fan, so... ..."
+    a "Она в некотором смысле твоя фанатка, так что... ..."
 
 
 
-    player "Ha, I have fans?"
+    player "Ха, у меня есть фанаты?"
 
 
 
     scene a_daily12_19 with tstmgr
 
-    a "Stop screaming, mom, you are embarrassing me."
+    a "Перестань кричать, мама, ты меня смущаешь."
 
 
 
-    a "Let’s... let’s talk later, bye, mom, love you..."
+    a "Давай... поговорим позже, пока, мам, люблю тебя..."
 
 
 
     scene a_daily12_20 with tstmgr
 
-    "She cut the facetime off."
+    "Она отключила фейстайм."
 
 
 
@@ -265,13 +265,13 @@ label A_daily_12:
 
     scene a_daily12_21 with tstmgr
 
-    player "Were you just showing me off to your mother?"
+    player "Ты просто хвасталась мной перед мамой?"
 
 
 
     scene a_daily12_22 with tstmgr
 
-    a "Yep~~ and it feels good~"
+    a "Да~~ и это было приятно~"
 
 
 
