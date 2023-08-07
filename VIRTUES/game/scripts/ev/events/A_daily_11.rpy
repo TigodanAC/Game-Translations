@@ -3,39 +3,39 @@ label A_daily_11:
     scene void with tstmgr
     play music sorrow
 
-    "The next morning..."
+    "Следующим утром..."
 
 
 
-    "*Bird cheeps* ... ... ... ..."
+    "*Щебетание птиц* ... ... ... ..."
 
 
 
-    "*Bird cheeps* ... ... ... ... ... ... ... ..."
+    "*Щебетание птиц* ... ... ... ... ... ... ... ..."
 
 
 
     scene a_daily11_1 with tstmgr
 
-    a "Wummmm... ..."
+    a "Ммм... ..."
 
 
 
-    a "It is morning already?... ..."
+    a "Уже утро?... ..."
 
 
 
-    "Вера sat up on the bed."
+    "Вера села на кровати."
 
 
 
     scene a_daily11_5 with tstmgr
 
-    a "The weather looks great today."
+    a "Погода сегодня отличная."
 
 
 
-    player "(Snoring) Zzzzzzzz... ... Zzzzzzz... ..."
+    player "(Храп) Хррр-пфф... ... Хррр-пфф... ..."
 
 
 
@@ -47,21 +47,21 @@ label A_daily_11:
 
     scene a_daily11_4 with tstmgr
 
-    a "That was... quite a night."
+    a "Это была... бурная ночь."
 
 
 
-    a "He came... twice inside of me. Such a beast... ..."
+    a "Он кончил... дважды в меня. Такой зверь... ..."
 
 
 
-    a "Humph..."
+    a "Хм..."
 
 
 
     scene a_daily11_6 with tstmgr
 
-    a "And the beast has a cute sleeping face."
+    a "И у зверя милое спящее личико."
 
 
 
@@ -71,35 +71,35 @@ label A_daily_11:
 
     scene a_daily11_5 with tstmgr
 
-    a "What's happened in these past few months...it all feels like a dream."
+    a "Что произошло за последние несколько месяцев... всё это похоже на сон."
 
 
 
-    a "I feels like only yesterday I was living in a slum...desperately trying to support myself and my mother..."
+    a "Мне кажется, только вчера я жила в трущобах... отчаянно пыталась прокормить себя и свою маму..."
 
 
 
     scene a_daily11_4 with tstmgr
 
-    a "But now... I am here at this big house, waking up on a big bed every day with... ..."
+    a "Но теперь... Я здесь, в этом большом доме, каждый день просыпаюсь на большой кровати с... ..."
 
 
 
-    a "With the first man in my life... ..."
+    a "С первым мужчиной в моей жизни... ..."
 
 
 
-    a "Life is really fantastic. You never know what is going to happen next... or who you will meet... ..."
+    a "Жизнь в самом деле удивительна. Ты никогда не знаешь, что произойдёт дальше... или кого ты встретишь... ..."
 
 
 
     scene a_daily11_9 with tstmgr
 
-    a "But will he leave me someday in the future?"
+    a "Но бросит ли он меня когда-нибудь в будущем?"
 
 
 
-    a "Hmmmmm... ... ... ..."
+    a "Хммммм... ... ... ..."
 
 
 
@@ -109,23 +109,23 @@ label A_daily_11:
 
     scene a_daily11_6 with tstmgr
 
-    player "Zzzzz... Zzzzz... Zzzz... ..."
+    player "Хррр-пфф... Хррр-пфф... Хррр-пфф... ..."
 
 
 
     scene a_daily11_7 with tstmgr
 
-    player "Ehh... ..."
+    player "Эхх... ..."
 
 
 
     scene a_daily11_8 with tstmgr
 
-    player "Morning, V."
+    player "Доброе утро, Вер."
 
 
 
-    a "Ah, you are awake. I’m going to prepare the breakfast right now."
+    a "Ах, ты проснулся. Я собираюсь приготовить завтрак прямо сейчас."
 
 
 
@@ -135,37 +135,37 @@ label A_daily_11:
 
     scene a_daily11_10 with tstmgr
 
-    player "Hey, forget about the breakfast. Let’s have some fun."
+    player "Эй, забудь о завтраке. Давай повеселимся."
 
 
 
-    a "Stop... I need to go to work later."
+    a "Перестань... Позже мне нужно будет на работу."
 
 
 
-    player "I’ll be quick..."
+    player "Я быстро..."
 
 
 
     scene a_daily11_11 with tstmgr
 
-    a "Don’t you ever get tired?"
+    a "Ты никогда не устаёшь?"
 
 
 
-    a "What if I get pregnant?"
+    a "Что, если я забеременею?"
 
 
 
     if A.relation == "girlfriend":
 
-        player "Then we will raise the baby together."
+        player "Тогда мы будем воспитывать ребёнка вместе."
 
 
 
     if A.relation == "sexpartner":
 
-        player "You don’t need to worry about the future. The only thing we should do is to enjoy the present."
+        player "Тебе не нужно беспокоиться о будущем. Единственное, что мы должны делать, это наслаждаться настоящим."
 
 
 
@@ -175,7 +175,7 @@ label A_daily_11:
 
 
 
-    a "(Kissing) Wummmm... ... ... ..."
+    a "(Поцелуй) Ммм... ... ... ..."
 
 
 
@@ -187,17 +187,17 @@ label A_daily_11:
 
     scene a_daily11_13 with tstmgr
 
-    player "We haven’t made love during the day before, have we?"
+    player "Мы не занимались любовью накануне, не так ли?"
 
 
 
-    player "So this is going to be the first time... ..."
+    player "Так что это будет первый раз... ..."
 
 
 
     scene a_daily11_14 with tstmgr
 
-    player "Do you feel uncomfortable with the window? I can draw the curtains if you want."
+    player "Ты чувствуешь себя неловко из-за окна? Я могу задёрнуть шторы, если хочешь."
 
 
 
@@ -207,31 +207,31 @@ label A_daily_11:
 
     scene a_daily11_15 with tstmgr
 
-    a "People can't see through from outside, right?"
+    a "Люди снаружи не могут нас увидеть, верно?"
 
 
 
-    player "Yep. It is a mirror if you look from the outside."
+    player "Ага. Это зеркало, если смотреть снаружи."
 
 
 
     scene a_daily11_16 with tstmgr
 
-    a "Then... I’m okay with it."
+    a "Тогда... Меня это не напрягает."
 
 
 
-    player "But will it make you more excited when imagining people seeing us from outside?"
+    player "Но возбуждаешься ли ты сильнее, когда представляешь, что люди снаружи могут нас увидеть?"
 
 
 
     scene a_daily11_17 with tstmgr
 
-    a "Oh my God, are you a pervert?"
+    a "Боже мой, ты извращенец?"
 
 
 
-    player "I’m just saying... ..."
+    player "Я просто говорю... ..."
 
 
 
@@ -241,21 +241,21 @@ label A_daily_11:
 
     scene a_daily11_16 with tstmgr
 
-    a "I wish I will never become a pervert like you."
+    a "Я бы ни за что не хотела стать такой извращенкой, как ты."
 
 
 
-    a "Now just finish the thing quickly. I don’t want to be late for work."
+    a "А теперь быстро закончи с этим. Не хочу опаздывать на работу."
 
 
 
     scene a_daily11_18 with tstmgr
 
-    player "Alright... ... ... ..."
+    player "Хорошо... ... ... ..."
 
 
 
-    a "Stop, it itches~~"
+    a "Прекрати, щекотно~~"
 
 
 
@@ -265,23 +265,23 @@ label A_daily_11:
 
 
 
-    a "(Moaning with restraint) Hmmmmm... hmmmm... hmmmm... ... ... ..."
+    a "(Сдерживая стоны) Ммммм... ммммм... ммммм... ... ... ..."
 
 
 
-    a "Oh... ... you don’t need to... ... move... so fast... ..."
+    a "Ох... ... тебе не стоит... ... двигаться... так быстро... ..."
 
 
 
-    player "Hah, but you were the one who just said 'finish it quickly'."
+    player "Хах, но это ты только что сказала 'заканчивай побыстрее'."
 
 
 
-    a "Awwwww... ... but... ..."
+    a "Ооо... ... но... ..."
 
 
 
-    a "This is... so intense... ..."
+    a "Это... так интенсивно... ..."
 
 
     stop sound
@@ -291,19 +291,19 @@ label A_daily_11:
 
 
 
-    a "Ah... ah... ah... ah... more... ahh... ..."
+    a "Ах... ах... ах... ах... ещё... ... ..."
 
 
 
-    "Her bouncing tits keep hitting my arms in a nasty way. Shit, I really like this feeling."
+    "Её подпрыгивающие сиськи продолжают неприятно бить меня по рукам. Чёрт, мне очень нравится это чувство."
 
 
 
-    "I don’t think I can hold any longer... ..."
+    "Я не думаю, что смогу больше сдерживаться... ..."
 
 
 
-    player "I’m cumming, Вера!~~~"
+    player "Я кончаю, Вера!~~~"
 
 
     stop sound
@@ -312,33 +312,33 @@ label A_daily_11:
 
     $ flashlight()
 
-    a "Awwwwwwwwww~~~~~"
+    a "Аааааааах~~~~~"
 
 
 
-    "I pulled my dick out of her body at the last second and came outside."
+    "Я вытащил член из неё в последнюю секунду и кончил наружу."
 
 
 
     scene a_daily11_22 with tstmgr
 
-    a "(Breathing harshly) Huh... huh... huh... huh... ..."
+    a "(Тяжело дыша) фух... фух... фух... фух... ..."
 
 
 
-    a "That was... amazing... ..."
+    a "Это было... замечательно... ..."
 
 
 
-    a "But [P]... ... ... ..."
+    a "Но [P]... ... ... ..."
 
 
 
-    a "Why didn’t you cum... inside me?"
+    a "Почему ты не кончил... в меня?"
 
 
 
-    player "Because I don’t want you to go to work with a sticky pussy. Aren't I sweet?"
+    player "Потому что я не хочу, чтобы ты пошла на работу с липкой киской. Разве я не милашка?"
 
 
 
@@ -346,15 +346,15 @@ label A_daily_11:
 
 
 
-    a "But now I've got a sticky belly. What's the difference? I still need to go to a shower anyway."
+    a "Но теперь у меня липкий живот. Какая разница? Мне всё равно нужно в душ."
 
 
 
-    a "You... blockhead... ..."
+    a "Ты... дурак... ..."
 
 
 
-    player "Oh, sorry... ... ... ..."
+    player "Ой, извини... ... ... ..."
 
 
 
