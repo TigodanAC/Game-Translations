@@ -1,15 +1,15 @@
-define guide_text = '''You don’t need a walkthrough to play this game. 
+define guide_text = '''Вам не нужно прохождение, чтобы играть в эту игру. 
 
-All the plots & events in this game can be easily triggered. We don’t want to add any puzzles, or complicated trigger conditions that may turn you off. 
+Все события в этой игре могут быть легко запущены. Мы не хотим добавлять какие-либо головоломки или сложные триггерные условия, которые могут вас оттолкнуть.
 
-The most important way to advance the story is to raise girls’ love points. You can achieve that in two ways: 
-1. Meet the girls at certain locations. For example, on weekdays Senning can be found at class. You can just click on the “go to class” button in the university panel, meet her there, and then her love points will be raised.
+Самый главный способ продвинуть историю — поднять очки любви девочек. Вы можете добиться этого двумя способами:
+1. Встретиться с девушками в определенных местах. Например, в будние дни Сеннин можно встретить на занятиях. Вы можете просто нажать на кнопку «пойти на занятия» на панели университета, встретиться с ней там, и тогда её очки любви будут повышены.
 
-2. Trigger girls’ short events which would automatically show on the map with a badge of girls’ mini avatars. Those events will only show up after the prologue.
+2. Запускайте короткие события для девочек, которые будут автоматически отображаться на карте со значком мини-аватаров девочек. Эти события появятся только после пролога.
 
-Whenever there is a new triggerable plot & event, it will show on the map with a badge (red/orange/mini avatars)
+Всякий раз, когда появляется новый триггерный сюжет и событие, они будет отображаться на карте со значком (красный/оранжевый/мини-аватары).
 ---------------------------------------------------------------
-{size=-4}If you're stuck in a place that you're unable to proceed the game, use the Escape button in the right-click menu to go back to the map. (or press E to open escape menu.){/size}'''
+{size=-4}Если вы застряли в месте, где не можете продолжить игру, используйте кнопку Побег в контекстном меню, чтобы вернуться на карту. (или нажмите E, чтобы открыть меню побега.){/size}'''
 
 screen guide():
     zorder 91
@@ -40,7 +40,7 @@ screen guide():
             else:
                 xsize 1000 ysize 670 yoffset 20
 
-            text "{size=+10}{color=#e8888a}Tutorial{/color}{/size}"
+            text "{size=+10}{color=#e8888a}Руководство{/color}{/size}"
 
             text guide_text:
                 size 27

@@ -9,7 +9,7 @@ init python:
         if seen("G_love_6"):
             sleepers.add(G.code)
         for nz in (sleepers - old_sleepers):
-            Push('You can now sleep with {} at night.'.format(get(nz)))
+            Push('Теперь вы можете спать с {} по ночам.'.format(get(nz)))
 
 default sleep_A_count = 0
 label sleep_A:
@@ -20,14 +20,14 @@ label sleep_A:
 
     if rdc(1):
         scene sleep_a_1 with tstmgr
-        player "Oww... Vera... you are so good at this..."
+        player "Оууу... Вера... ты так хороша в этом..."
         narrator "... ... ... ..."
     elif rdc(2):
         scene sleep_a_2 with tstmgr
-        a "I have work to do tomorrow, [P.name]. Don't... make it too long."
+        a "У меня завтра есть дела, [P.name]. Не... делай это слишком долго."
     else:
         scene sleep_a_3 with tstmgr
-        a "Stop... I want to sleep..."
+        a "Стоп... Я хочу спать..."
         "... ... ... ..."
 
     $ new_day()
@@ -43,15 +43,15 @@ label sleep_C:
 
     if rdc(1):
         scene sleep_c_1 with tstmgr
-        c "(Talking in the dream) Irene... I'm not doing your homework for you... ..."
+        c "(Говорит во сне) Айрин... Я не делаю за тебя домашку... ..."
         "... ... ... ..."
     elif rdc(2):
         scene sleep_c_2 with tstmgr
-        c "Wait~~ Don't play with my nipple!~~~"
+        c "Подожди~~ Не играйся с моим соском!~~~"
         "... ... ... ..."
     else:
         scene sleep_c_3 with tstmgr
-        c "Have a good night, my little virgin~"
+        c "Спокойной ночи, мой маленький девственник~"
         "... ... ... ..."
 
     $ new_day()
@@ -67,15 +67,15 @@ label sleep_G:
 
     if rdc(1):
         scene sleep_g_1 with tstmgr
-        g "Wait, wait, don't sleep yet~ The night is still young~"
+        g "Подожди, подожди, ещё рано спать~ Ночь ещё только начинается~"
         "... ... ... ..."
     elif rdc(2):
         scene sleep_g_2 with tstmgr
-        g "Awwwwwwww~~~~~ yes, yes, keep fucking me like that~~"
+        g "Оооооооу~~~~~ Да, ДАА, продолжай трахать меня в том же духе~~"
         "... ... ... ..."
     else:
         scene sleep_g_3 with tstmgr
-        g "(Talking in the dream) chicken... ... fried chicken... ..."
+        g "(Говорит во сне) Курица... ... жареная курица... ..."
         "... ... ... ..."
 
     $ new_day()
@@ -88,15 +88,15 @@ label sleep_ACG:
 
     if rdc(1):
         scene sleep_acg_1 with tstmgr
-        player "Zzzzzzzz~~ Zzzzzzz~ Zzzzzzz~~~"
+        player "Хрррррр~~ Хрррррр~ Хрррррр~~~"
         "... ... ... ..."
     elif rdc(2):
         scene sleep_acg_2 with tstmgr
-        player "Awww~ It's so good to have a harem~"
+        player "Оууу~ Как хорошо иметь гарем~"
         "... ... ... ..."
     else:
         scene sleep_acg_3 with tstmgr
-        c "This time... I will hold longer than Vera~"
+        c "На этот раз... Я продержусь дольше, чем Вера~"
         "... ... ... ..."
 
     $ new_day()

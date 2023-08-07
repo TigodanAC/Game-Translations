@@ -113,15 +113,15 @@ screen find():
                     fixed:
                         xysize (103, 89) xoffset 10
                         add "gui/find/find_love.png"
-                    text "Love {}".format(format(findee.love.value)) align (0.5, 0.5):
+                    text "Любовь {}".format(format(findee.love.value)) align (0.5, 0.5):
                         outlines [(1, "#9a1ec7")]
                 fixed pos (340, 926-890) xysize (100, 112):
                     add "gui/find/find_lust.png"
-                    text "H.A. {}".format(format(findee.harem.value)) align (0.5, 0.69):
+                    text "П.Г. {}".format(format(findee.harem.value)) align (0.5, 0.69):
                         outlines [(1, "#c7491e")]
 
                 vbox pos (470, 948-890):
-                    text "Relationship:" size 33 font font.bold
+                    text "Отношение:" size 33 font font.bold
                     add "gui/find/{}.png".format(findee.relation)
 
                 hbox:

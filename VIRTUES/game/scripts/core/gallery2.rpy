@@ -74,7 +74,7 @@ screen gallery():
 
     default notified = False
 
-    default tab = "Vera"
+    default tab = "Вера"
 
     use game_menu("Gallery")
 
@@ -84,7 +84,7 @@ screen gallery():
         xoffset 240
 
         hbox spacing 12:
-            for k in ["Vera", "Irene", "Rachel", "Theodora", "Uno", "Elisa", "Senning", "Other"]:
+            for k in ["Вера", "Айрин", "Рэйчел", "Теодора", "Уно", "Элиза", "Сеннин", "Другие"]:
                 textbutton k action SetScreenVariable("tab", k)
 
         vpgrid:
@@ -107,14 +107,14 @@ screen gallery():
                             action ShowTransient("gallery_viewer", cgset=cgset, transition=Pixellate(0.5, 8))
                             alternate cgset.action
                         if renpy.variant("pc"):
-                            hovered MenuNotify("{color=#e8888a}Right click{/color} to replay the memory.")
+                            hovered MenuNotify("{color=#e8888a}Щелкните правой кнопкой мыши{/color} чтобы воспроизвести событие.")
                             unhovered HideMenuNotify()
 
     if not notified:
-        on "show" action If(renpy.variant("touch"), true=MenuNotify("{color=#e8888a}Long press{/color} to replay the memory."))
+        on "show" action If(renpy.variant("touch"), true=MenuNotify("{color=#e8888a}Длительное нажатие{/color} чтобы воспроизвести событие."))
 
     if renpy.variant("touch"):
-        use game_menu_notify("{color=#e8888a}Long Press{/color} to replay the memory.", size=32)
+        use game_menu_notify("{color=#e8888a}Длительное нажатие{/color} чтобы воспроизвести событие.", size=32)
     else:
         use game_menu_notify
 
@@ -124,7 +124,7 @@ screen gallery():
             at normal_t(0.5)
             align (0.5, 0.5)
             has vbox
-            text "{color=#e8888a}Right click{/color} to replay the memory.{color=#e8888a}" size 32
+            text "{color=#e8888a}Щелкните правой кнопкой мыши{/color} чтобы воспроизвести событие.{color=#e8888a}" size 32
             textbutton "OK" action SetVariable("persistent.replay_notify", False) xalign 0.5 yoffset 10
 
 screen gallery_viewer(cgset):

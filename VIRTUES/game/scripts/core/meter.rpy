@@ -171,8 +171,8 @@ init -3 python:
         
         def __init__(self):
             super(MeterWrapper, self).__init__()
-            self.name = _("Love")
-            self.abbr = _("Love")
+            self.name = _("Любовь")
+            self.abbr = _("Любовь")
         
         def __cmp__(self, comparer):
             if self.value < comparer:
@@ -196,8 +196,8 @@ init -3 python:
             self.meter_name = meter
             self.base = base
             self.__dict__.update(kwargs)
-            self.name = _("Love")
-            self.abbr = _("Love")
+            self.name = _("Любовь")
+            self.abbr = _("Любовь")
         
         @property
         def value(self):
@@ -248,7 +248,7 @@ init -3 python:
         
         @property
         def name(self):
-            return _("Lust")
+            return _("Похоть")
         
         @property
         def meter(self):
@@ -267,8 +267,8 @@ init -3 python:
             super(MeterWrapper, self).__init__()
             self.meter_name = meter
             self.base = base
-            self.name = _("Harem Acceptance")
-            self.abbr = _("H.A.")
+            self.name = _("Принятие Гарема")
+            self.abbr = _("П.Г.")
             self.max_value = max_value
             self.__dict__.update(kwargs)  
         

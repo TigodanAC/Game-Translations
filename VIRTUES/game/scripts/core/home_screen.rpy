@@ -86,7 +86,7 @@ screen home():
 
 label go_to_bed:
     if t.period < LateNight:
-        "It's too early to go to bed."
+        "Ещё слишком рано ложиться спать."
     else:
         call sleep_event
     return

@@ -7,14 +7,14 @@ transform in_room:
     on hover:
         ease 0.2 zoom 1.0
 
-default bnb = Bnb("Agang's Harbor")
+default bnb = Bnb("Гавань Аганга")
 
 init python:
 
     Room.type_names = {
-        "basic": "Guest Bedrooms",
-        "private": "Main Bedrooms",
-        "facility": "Public Areas"
+        "basic": "Гостевые спальни",
+        "private": "Основные спальни",
+        "facility": "Общественные места"
     }
 
     Room("basic", "basic_room", "gui/action/basic.png", revenue=100.0, expanse=.0, cost=500.0)
@@ -76,9 +76,9 @@ screen room_hover(room, message=None):
             spacing 4
         text "[room.name]"
         if room.revenue > 0:
-            text "Revenue: $[room.revenue] /Day"
+            text "Доход: $[room.revenue] /День"
         if room.expanse > 0:
-            text "Expense: $[room.expanse]"
+            text "Расход: $[room.expanse]"
         if message:
             text "[message]"
 
@@ -123,10 +123,10 @@ screen bnb():
 
                 vbox:
                     text "[bnb.revenue.name]"
-                    text "${}/Day".format(get_bnb_revenue())
+                    text "${}/День".format(get_bnb_revenue())
                 vbox:
                     text "[bnb.expanse.name]"
-                    text "$[bnb.expanse.value]/Week"
+                    text "$[bnb.expanse.value]/Неделя"
 
                 null height 20
 
@@ -176,7 +176,7 @@ screen bnb():
                     null height 36
 
                 hbox:
-                    text "Guest Bedrooms"
+                    text "Гостевые спальни"
                     null width 18
                     add Solid("#ffffffb0", ysize=2, yalign=0.5)
 
@@ -283,10 +283,10 @@ init -1 python:
             self.name = name
             self.owner = owner
             
-            self.lease = Attr(1400.0, name=_("Land Tax"), owner=self)
-            self.maintenance_fee = Attr(600.0, name=_("Maintenance Cost"), owner=self)
-            self.rooms_revenue = Attr(.0, name=_("Room Revenues"), owner=self)
-            self.rooms_expanse = Attr(.0, name=_("Room Expenses"), owner=self)
+            self.lease = Attr(1400.0, name=_("Земельный налог"), owner=self)
+            self.maintenance_fee = Attr(600.0, name=_("Стоимость технического обслуживания"), owner=self)
+            self.rooms_revenue = Attr(.0, name=_("Доходы от номеров"), owner=self)
+            self.rooms_expanse = Attr(.0, name=_("Расходы на номер"), owner=self)
             self.rooms_revenues = []
             
             self.cleaning_count_of_week = 0
@@ -299,7 +299,7 @@ init -1 python:
             self.ysize = ysize
             
             def room_revenues_str(self):
-                return "Room Income ({}) * [Star({}) + Facility Multiplier({})]".format(self.room_revenue, self.stage, self.facility_buff)
+                return "Доход от номера ({}) * [Star({}) + Facility Multiplier({})]".format(self.room_revenue, self.stage, self.facility_buff)
             self.rooms_revenues.sval = room_revenues_str(self)
             self.update()
         
@@ -341,19 +341,19 @@ init -1 python:
         
         @property
         def tip(self):
-            return Attr(self.cleaning_count_of_week * 30.0, name=_("Tips"), owner=self)
+            return Attr(self.cleaning_count_of_week * 30.0, name=_("Чаевые"), owner=self)
         
         @property
         def expanse(self):
             expanse = self.lease + self.maintenance_fee + Attr.sum([room.expanse for room in self.rooms])
-            expanse.name = "Expense"
+            expanse.name = "Расход"
             return expanse
         
         @property
         def revenue(self):
             revenue = self.tip + Attr.sum([room.revenue for room in self.rooms])
             revenue.value *= 1.0
-            revenue.name = "Revenue"
+            revenue.name = "Доход"
             return revenue
         
         def get_revenue(self):

@@ -1,12 +1,12 @@
 default TRAINING = {
-        "A": TrainingStatus("A"),
-        "B": TrainingStatus("B"),
-        "C": TrainingStatus("C"),
-        "D": TrainingStatus("D"),
-        "E": TrainingStatus("E", shame=1),
-        "F": TrainingStatus("F"),
-        "G": TrainingStatus("G", sub=1, shame=1)
-    }
+    "A": TrainingStatus("A"),
+    "B": TrainingStatus("B"),
+    "C": TrainingStatus("C"),
+    "D": TrainingStatus("D"),
+    "E": TrainingStatus("E", shame=1),
+    "F": TrainingStatus("F"),
+    "G": TrainingStatus("G", sub=1, shame=1)
+}
 
 define TRAINING_EVENTS = defaultdict(lambda: defaultdict(list))
 
@@ -30,10 +30,10 @@ init python:
     class TrainingStatus(object):
         types = ["inti", "skill", "sub", "shame"]
         type_names = {
-                "inti": "Intimacy",
-                "skill": "Sex Skill",
-                "sub": "Submissiveness",
-                "shame": "Shamelessness"
+                "inti": "Близость",
+                "skill": "Сексуальные навыки",
+                "sub": "Покорность",
+                "shame": "Бесстыдство"
             }
         
         def __init__(self, nz, inti=0, skill=0, sub=0, shame=0):

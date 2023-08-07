@@ -11,9 +11,9 @@ init python in debug:
             if prefix.isupper():
                 events[prefix].append(event)
             elif event.repeatable:
-                events["Repeatable"].append(event)
+                events["Повторяемый"].append(event)
             else:
-                events["Other"].append(event)
+                events["Другой"].append(event)
         
         for prefix, lst in events.items():
             events[prefix] = sorted(lst, key=store.sort_event)
@@ -85,9 +85,9 @@ screen eventer():
         background Solid("#000000")
         xysize 1400,1080
         has vbox
-        text "{color=#d6d500}Current Event: [cEvent]{/color}"
-        text "{{color=#7cd6be}}AutoEvent Queue: {}{{/color}}".format(", ".join(auto_event_queue))
-        textbutton "{{color=#8080ba}}Event History: {}{{/color}}".format(debug.str_history()):
+        text "{color=#d6d500}Текущее событие: [cEvent]{/color}"
+        text "{{color=#7cd6be}}Очередь автособытий: {}{{/color}}".format(", ".join(auto_event_queue))
+        textbutton "{{color=#8080ba}}История событий: {}{{/color}}".format(debug.str_history()):
             action ShowTransient("event_history"), debug.print_history
 
         hbox spacing 12:

@@ -15,12 +15,10 @@ python early:
             return "{}".format("unlocked" if self.is_password_unlocked else "locked")
         
         def __eq__(self, other):
-            if isinstance(self, BackgroundState) \
-        and self.name == other.name \
-        and self.is_password_unlocked == other.is_password_unlocked:
+            if isinstance(self, BackgroundState) and self.name == other.name and self.is_password_unlocked == other.is_password_unlocked:
                 return True
-            
-            return False
+            else:
+                return False
 
 init python:
     class Background(object):
@@ -68,14 +66,14 @@ init python:
         def unlock_by_password(self, password):
             if password == self.password:
                 persistent.bg_states_2[self.name] = True
-                Push("Background unlocked.")
+                Push("Фон разблокирован.")
                 return True
             else:
-                Push("Wrong password.")
+                Push("Неправильный пароль.")
                 return False
         
         def __repr__(self):
-            return "Background(" + self.name + ")"
+            return "Фон(" + self.name + ")"
 
     class BackgroundSystem(object):
         data = {}
@@ -113,9 +111,9 @@ init python:
                     cls.current[nz.code] = bg.name
                     store._bubble_what = bg.tweet
                 elif bg.is_shop_unlocked == False:
-                    Push("You can unlock this picture at Posia's or Minna's store.")
+                    Push("Вы можете разблокировать эту картинку в магазине Позии или Минны.")
                 else:
-                    Push("You can unlock this picture after advancing more of her story.")
+                    Push("Вы можете разблокировать эту картинку после того, как продвинетесь дальше в истории героини.")
             else:
                 cls.current[nz.code] = None
                 idx = int(random.random() * len(findee.tweets[findee.relation]))
@@ -156,171 +154,171 @@ init python:
     password_for_10 = "40379"
     password_for_20 = "80539"
     password_forbit = "𗀀"
-    reward_str_for_10 = "{color=#dd6574}{size=-3}$10 Reward{/size}{/color}"
-    reward_str_for_20 = "{color=#f4cc6c}{size=-3}$20 Reward{/size}{/color}"
-    shop_str = "{color=#a186be}{size=-3}Posia's Shop{/size}{/color}"
-    shop2_str = "{color=#a186be}{size=-3}Minna's Shop{/size}{/color}"
+    reward_str_for_10 = "{color=#dd6574}{size=-3}$10 Награда{/size}{/color}"
+    reward_str_for_20 = "{color=#f4cc6c}{size=-3}$20 Награда{/size}{/color}"
+    shop_str = "{color=#a186be}{size=-3}Магазин Позии{/size}{/color}"
+    shop2_str = "{color=#a186be}{size=-3}Магазин Минны{/size}{/color}"
 
     BackgroundSystem.add("b_v7_10", password_for_10, ["[reward_str_for_10] Young Senning"], [],
-        "It's... nice... to... see you, [P].")
+        "Рада... видеть... тебя..., [P].")
     BackgroundSystem.add("c_v7_10", password_for_10, ["[reward_str_for_10] Young Theo"], [],
-        "You didn't forget what you have promised to me, did you?")
+        "Ты же не забыл своё обещание, правда?")
     BackgroundSystem.add("c_v7_20", password_for_20, ["[reward_str_for_20] Gift Suit"], [],
-        "I'm no one's gift, but... ... whatever~")
+        "Я не чей-ош подарок, но... ... неважно~")
     BackgroundSystem.add("d_v7_20", password_for_20, ["[reward_str_for_20] Gift Suit"], [],
-        "Surprise!~ Irene is the gift for you!~")
-    BackgroundSystem.add("a_normal_1", None, ["Maid Suit"], ["A_daily_10"],
-        "I am your exclusive maid, hah~~")
-    BackgroundSystem.add("b_normal_1", None, ["Yellow Shirt"], [],
-        "Thanks for coming by, [P]..."),
-    BackgroundSystem.add("b_normal_2", None, ["Lady in Black"], ["B_train_sha_1"],
-        "Do you prefer me to dress like this?")
-    BackgroundSystem.add("c_normal_1", None, ["White Dress"], ["C_love_5"],
-        "Take a seat~")
-    BackgroundSystem.add("d_normal_1", None, ["Student Uniform"], [],
-        "Irene is a good student~ Irene is a good student~~"),
-    BackgroundSystem.add("d_normal_2", None, ["Cat Uniform"], ["D_love_6"],
-        "Meow~~ Meow~~ Meow meow meow~~~")
-    BackgroundSystem.add("g_normal_1", None, ["Coser Dress"], [],
-        "Hi, my landlord sir~")
+        "Сюрприз!~ Айрин - подарок для тебя!~")
+    BackgroundSystem.add("a_normal_1", None, ["Костюм горничной"], ["A_daily_10"],
+        "Я твоя эксклюзивная горничная, хах~~")
+    BackgroundSystem.add("b_normal_1", None, ["Желтая рубашка"], [],
+        "Спасибо, что пришли, [P]..."),
+    BackgroundSystem.add("b_normal_2", None, ["Женщина в черном"], ["B_train_sha_1"],
+        "Ты предпочитаешь, чтобы я одевалась вот так?")
+    BackgroundSystem.add("c_normal_1", None, ["Белое платье"], ["C_love_5"],
+        "Присаживайся~")
+    BackgroundSystem.add("d_normal_1", None, ["Студенческая форма"], [],
+        "Айрин хорошая ученица~~ Айрин хорошая ученица~~"),
+    BackgroundSystem.add("d_normal_2", None, ["Костюм кошечки"], ["D_love_6"],
+        "Мяу~~ Мяу~~ Мяу-мяу-мяу~~~")
+    BackgroundSystem.add("g_normal_1", None, ["Платье Coser"], [],
+        "Приветствую, мой господин~")
 
     BackgroundSystem.add("d_v8_10", password_for_10, ["[reward_str_for_10] Mature Irene"], [],
-        "Ah!~ Long time no see, Oniichan~")
+        "Ах!~ Давно не виделись, Братик~")
     BackgroundSystem.add("e_v8_10", password_for_10, ["[reward_str_for_10] Young Elisa"], [],
-        "Why can't it just... stop leaking out?")
+        "Почему оно не может просто... перестать вытекать?")
     BackgroundSystem.add("e_v8_20", password_for_20, ["[reward_str_for_20] Gift suit"], [],
-        "Be careful, master, this gift is fragile~")
+        "Будь осторожен, мастер, этот подарок очень хрупкий~")
     BackgroundSystem.add("a_v8_20", password_for_20, ["[reward_str_for_20] Dark Elf Vera"], [],
-        "This lake... has been corrupted by human's scent... ...")
+        "Это озеро... было испорчено человеческим запахом... ...")
     BackgroundSystem.add("c_v8_20", password_for_20, ["[reward_str_for_20] Warrior Theo"], [],
-        "Can I restore peace to this land one day?")
+        "Смогу ли я когда-нибудь восстановить мир на этой земле?")
 
-    BackgroundSystem.add("b_normal_3", None, ["That's my shirt!"], ["B_love_6"],
-        "I... I will give this shirt back to you tomorrow, so... ...")
-    BackgroundSystem.add("g_normal_2", None, ["Nightgown"], ["G_love_6"],
-        "This dress... just keeps falling off from my shoulders...")
+    BackgroundSystem.add("b_normal_3", None, ["Это моя рубашка!"], ["B_love_6"],
+        "Я... Я верну тебе эту рубашку завтра, так что... ...")
+    BackgroundSystem.add("g_normal_2", None, ["Ночнушка"], ["G_love_6"],
+        "Это платье... все время спадает с моих плеч...")
     BackgroundSystem.add("d_v9_10", password_for_10, ["[reward_str_for_10] Vampire Princess Irene"], [],
-        "Trick or treat!~~ Irene doesn't need candies, Irene needs your blood, or other fluids from your body~")
+        "Кошелек или жизнь!~~ Айрин не нужны конфеты, Айрин нужна твоя кровь или другие жидкости твоего тела~")
     BackgroundSystem.add("d_v9_20", password_for_20, ["[reward_str_for_20] Cat Ninja Irene"], [],
-        "Meow meow~ Take this sword!~")
+        "Мяу-мяу~ Возьми этот меч!~")
     BackgroundSystem.add("f_v9_10", password_for_10, ["[reward_str_for_10] Foreign Princess Rachel"], [],
-        "Welcome to my realm, Traveler~")
+        "Добро пожаловать в мое царство, Путешественник~")
     BackgroundSystem.add("g_v9_20", password_for_20, ["[reward_str_for_20] Cat Ninja Uno"], [],
-        "Are you sure... this is part of my training? Meow... ...")
+        "Ты уверен... это часть моего обучения? Мяу... ...")
 
 
     BackgroundSystem.add("b_v10_10", password_for_10, ["[reward_str_for_10] Mature Senning"], [],
-        "We... finally meet again... ...")
+        "Мы... наконец встретились снова... ...")
     BackgroundSystem.add("g_v10_10", password_for_10, ["[reward_str_for_10] Bikini fighter"], [],
-        "Can you take a picture for me, please?~~")
+        "Можешь сфотографировать меня, пожалуйста?~~")
     BackgroundSystem.add("a_v10_20", password_for_20, ["[reward_str_for_20] Wild west"], [],
-        "Come on, immersing yourself in the wild with me~")
+        "Давай, окунись со мной в дикую природу~")
     BackgroundSystem.add("e_v10_20", password_for_20, ["[reward_str_for_20] Wild west"], [],
-        "Keep up, cowboy. The sun is about to set~")
+        "Ну же, ковбой. Солнце вот-вот сядет~")
 
 
     BackgroundSystem.add("c_v11_10", password_for_10, ["[reward_str_for_10] Maid Suit Theodora"], [],
-        "Don't bother me yet, I still have works to do...")
+        "Не беспокой меня, у меня ещё есть дела...")
     BackgroundSystem.add("d_v11_10", password_for_10, ["[reward_str_for_10] Maid Suit Irene"], [],
-        "Where did Irene put the mop at?... ...")
+        "Куда Айрин положила швабру?... ...")
     BackgroundSystem.add("e_v11_20", password_for_20, ["[reward_str_for_20] Queen Elisa"], [],
-        "Welcome back, my king~")
+        "С возвращением, мой король~")
     BackgroundSystem.add("g_v11_20", password_for_20, ["[reward_str_for_20] Captured Cop Uno"], [],
-        "Wuuuuuummmmmmmmmmm~~~~~~~~")
+        "Уууууууммммммммммм~~~~~~~~~")
 
 
     BackgroundSystem.add("b_v12_20", password_for_20, ["[reward_str_for_20] Practicing Nurse"], [],
-        "Please... just bite my nipple if I hurt you with the injection... ...")
+        "Пожалуйста... просто укуси мой сосок, если я причиню тебе боль уколом... ...")
     BackgroundSystem.add("f_v12_20", password_for_20, ["[reward_str_for_20] Captain Rachel"], [],
-        "Hmmmmmmm... ... But first I have to build my own ship~")
+        "Хмммммм... ... Но сначала я должена построить свой собственный корабль~")
     BackgroundSystem.add("a_v12_10", password_for_10, ["[reward_str_for_10] Horny Maid Vera"], [],
-        "I was... just about to clean the bathroom, my master...")
+        "Я... как раз собиралась почистить ванную, мой хозяин...")
     BackgroundSystem.add("g_v12_10", password_for_10, ["[reward_str_for_10] Miko Uno"], [],
-        "I'm going to wash myself now, stop watching!~")
+        "Я собираюсь в душ, хватит смотреть!~")
 
 
     BackgroundSystem.add("a_v13_10", password_for_10, ["[reward_str_for_10] Bikini Fighter Vera"], [],
-        "Is there... anything I can help? I can fight~")
+        "Я могу... чем-нибудь помочь? Я умею драться~")
     BackgroundSystem.add("e_v13_10", password_for_10, ["[reward_str_for_10] Elisa Naked In Apron"], [],
-        "Do you want to have some milk cake?")
+        "Хочешь молочного пирога?")
     BackgroundSystem.add("c_v13_20", password_for_20, ["[reward_str_for_20] Wedding Dress"], [],
-        "Now you have me... my body, my heart, my everything~")
+        "Теперь у тебя есть я... моё тело, моё сердце, моё всё~")
     BackgroundSystem.add("b_v13_20", password_for_20, ["[reward_str_for_20] Bunny Girl Senning"], [],
-        "I am here... to serve you~")
+        "Я здесь... чтобы служить тебе~")
 
 
     BackgroundSystem.add("f_v135_10", password_for_10, ["[reward_str_for_10] Swimsuit Rachel"], [],
-        "I'm just... trying to be more... feminine.")
+        "Я просто... пытаюсь быть более... женственной.")
     BackgroundSystem.add("d_v135_20", password_for_20, ["[reward_str_for_20] Little Mage Irene"], [],
-        "Awww~ This hat is too heavy... ...")
+        "Аууу~ Эта шляпа слишком тяжелая... ...")
 
     BackgroundSystem.add("d_v14_10", password_for_10, ["[reward_str_for_10] Oriental style Irene"], [],
-        "Where are my pants?")
+        "Где мои штаны?")
     BackgroundSystem.add("g_v14_10", password_for_10, ["[reward_str_for_10] Student gym suit Uno"], [],
-        "It is too short. I can't even pull it under my breasts... ...")
+        "Оно слишком короткое. Я даже не могу засунуть его под грудь... ...")
     BackgroundSystem.add("c_v14_20", password_for_20, ["[reward_str_for_20] Pearl princess Theo"], [],
-        "I think I lost several pearls on the ground, would you like to pick them up?~")
+        "Кажется, я потерял несколько жемчужин где-то на земле, ты не хочешь их подобрать?~")
     BackgroundSystem.add("e_v14_20", password_for_20, ["[reward_str_for_20] Goddess Elisa"], [],
-        "This glow of light will lead you the way home~")
+        "Это сияние света приведет тебя домой~")
 
 
     BackgroundSystem.add("c_v145_10", password_for_10, ["[reward_str_for_10] Bad student Theo"], [],
-        "Lie yourself down, show your cock out, you know what to do~")
+        "Ложись, доставай свой член. Ты знаешь, что делать~")
     BackgroundSystem.add("b_v145_20", password_for_20, ["[reward_str_for_20] Oriental style Senning"], [],
-        "Don't... don't stare at me like that~~")
+        "Не... не смотри на меня так~~")
 
     BackgroundSystem.add("b_v15_10", password_for_10, ["[reward_str_for_10] Senning or Minna"], [],
-        "Surprised? Humph~ Guess there aren't too many differences between me and mama~")
+        "Удивлен? Хм~ Думаю, между мной и мамой не так уж много различий~")
     BackgroundSystem.add("d_v15_10", password_for_10, ["[reward_str_for_10] Neko hoodie Irene"], [],
-        "Nya~ nya~ nya~")
+        "Ня~ ня~ ня~")
     BackgroundSystem.add("e_v15_20", password_for_20, ["[reward_str_for_20] Elisa in the gym"], [],
-        "I really can't work out with these huge breasts... ...")
+        "Я действительно не могу тренироваться с такой огромной грудью... ...")
     BackgroundSystem.add("g_v15_20", password_for_20, ["[reward_str_for_20] Piggy Uno"], [],
-        "Oink~ oink~ Master~~ Do you want to caress your lovely pink piggy?~")
+        "Хрю~ хрю~ Мастер~~ Хочешь погладить свою прелестную розовую свинку?~")
 
 
     BackgroundSystem.add("e_v16_10", password_for_10, ["[reward_str_for_10] Full of love Elisa"], [],
-        "Would you like to walk with me for a while?")
+        "Хочешь немного прогуляться со мной?")
     BackgroundSystem.add("d_v16_10", password_for_10, ["[reward_str_for_10] Whitecollar Irene"], [],
-        "No no no, you have to listen to everything Irene tells you~")
+        "Нет-нет-нет, ты должен слушать все, что тебе говорит Айрин~")
     BackgroundSystem.add("a_v16_20", password_for_20, ["[reward_str_for_20] Pregnant Vera"], [],
-        "Our baby... is kicking me")
+        "Наш ребенок... пинает меня")
     BackgroundSystem.add("c_v16_20", password_for_20, ["[reward_str_for_20] Pregnant Theo"], [],
-        "Have you thought about our baby's name?")
+        "Ты уже придумал имя для нашего малыша?")
     BackgroundSystem.add("g_v16_20", password_for_20, ["[reward_str_for_20] Pregnant Uno"], [],
-        "Uno is getting chubbier and chubbier~")
+        "Уно становится все пухлее и пухлее~")
 
 
     def save_bg_init():
         BackgroundSystem.add_to_shop("a_store_1", None, ["[shop_str] Astrologer suit"], [],
-            "This suit... is expensive, isn't it?")
+            "Этот костюм... дорогой, не так ли?")
         BackgroundSystem.add_to_shop("b_store_1", None, ["[shop_str] Astrologer suit"], [],
-            "Should I wear a pair of dark glasses? That will make me look more convincing, right?")
+            "Должна ли я носить пару тёмных очков? Это заставит меня выглядеть более убедительной, верно?")
         BackgroundSystem.add_to_shop("c_store_1", None, ["[shop_str] Astrologer suit"], [],
-            "Believe it or not, you are going to have a bad day~")
+            "Веришь или нет, у тебя будет плохой день~")
         BackgroundSystem.add_to_shop("d_store_1", None, ["[shop_str] Astrologer suit"], [],
-            "Irene is a mage~ Can I turn you into a sheep or something?~")
+            "Айрин - маг~ Могу ли я превратить тебя в овцу или что-то в этом роде?~")
         BackgroundSystem.add_to_shop("e_store_1", None, ["[shop_str] Astrologer suit"], [],
-            "What... what should I say now? Abracadabra?")
+            "Что... что мне теперь говорить? Абракадабра?")
         BackgroundSystem.add_to_shop("f_store_1", None, ["[shop_str] Astrologer suit"], [],
-            "Awwww... this is really not my style... ...")
+            "Оууу... это действительно не мой стиль... ...")
         BackgroundSystem.add_to_shop("g_store_1", None, ["[shop_str] Astrologer suit"], [],
-            "I feel like I can communicate with the nature now~")
+            "Я чувствую, что теперь могу общаться с природой~")
         
         BackgroundSystem.add_to_shop("a_store_2", None, ["[shop2_str] Cheongsam"], [],
-            "Thanks for buying this dress for me. I like it very much~")
+            "Спасибо, что купили это платье для меня. Мне очень нравится~")
         BackgroundSystem.add_to_shop("b_store_2", None, ["[shop2_str] Cheongsam"], [],
-            "I wish you a happy new year and a happy Lunar Festival!")
+            "Желаю вам счастливого Нового года и счастливого Лунного фестиваля!")
         BackgroundSystem.add_to_shop("c_store_2", None, ["[shop2_str] Cheongsam"], [],
-            "I really shouldn't wear a dress like this at work, but... whatever... ...")
+            "Я действительно не должна носить такое платье на работе, но... неважно... ...")
         BackgroundSystem.add_to_shop("d_store_2", None, ["[shop2_str] Cheongsam"], [],
-            "Do I... look mature with this dress? I mean, a mature kitty~")
+            "Я... выгляжу взрослой в этом платье? Как взрослый котёнок, я имела ввиду~")
         BackgroundSystem.add_to_shop("e_store_2", None, ["[shop2_str] Cheongsam"], [],
-            "Ah, a cheongsam, so rare to see. I remember I once saw an elegant lady wearing this during a fashion week many years ago.")
+            "Ах, ципао, его так редко можно увидеть. Я помню, как много лет назад я видел элегантную даму в этом платье на неделе моды.")
         BackgroundSystem.add_to_shop("f_store_2", None, ["[shop2_str] Cheongsam"], [],
-            "I have never tried such a style before... What? I look good? Are you... sure?")
+            "Я никогда раньше не пробовала такой стиль... Что? Я выгляжу хорошо? Ты... уверен?")
         BackgroundSystem.add_to_shop("g_store_2", None, ["[shop2_str] Cheongsam"], [],
-            "I don't know, but... ... this dress really suits my braid.")
+            "Не знаю, но... ...это платье очень подходит к моей косе.")
 
 
 screen bg_selection():
@@ -354,7 +352,7 @@ screen bg_selection():
                 selected_idle thumbnail
                 selected_hover thumbnail
                 action Function(BackgroundSystem.set_nz_background, nz=findee, bg=None)
-            text "Reset to default" align 0.5, 0.5
+            text "Восстановление значений по умолчанию" align 0.5, 0.5
 
         for bg in BackgroundSystem.get_nz_backgrounds(findee):
             vbox spacing 10:
@@ -402,7 +400,7 @@ screen bg_unlocker(bg):
 
         has vbox:
             align 0.5, 0.5
-        text "Input password to unlock:"
+        text "Введите пароль для разблокировки:"
 
         input:
             style "name_input_input"
@@ -414,14 +412,14 @@ screen bg_unlocker(bg):
             align 0.5, 0.5
             button:
                 style "name_input_button"
-                text _("Confirm") style "name_input_button_text"
+                text _("Подтвердить") style "name_input_button_text"
                 action Function(bg.unlock_by_password, password=password)
             button:
                 style "name_input_button"
-                text _("Cancel") style "name_input_button_text"
+                text _("Отмена") style "name_input_button_text"
 
                 action Return()
 
-        textbutton "Look for password":
+        textbutton "Найти пароль":
             action OpenURL('https://www.patreon.com/posts/43901371')
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

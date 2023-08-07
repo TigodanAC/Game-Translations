@@ -107,10 +107,10 @@ screen file_slots(title):
                         action FileAction(slot)
                     if title == "Save":
                         alternate Show("save_input", slot=slot)
-                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}Right Click{/color} to save with description.")
+                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}Щелкните правой кнопкой мыши{/color} чтобы сохранить с описанием.")
                     else:
                         alternate FileDelete(slot)
-                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}Right Click{/color} to delete the save.")
+                        hovered SetLocalVariable("desc", True), MenuNotify("{color=#e8888a}Щелкните правой кнопкой мыши{/color} чтобы удалить сохранение.")
                     unhovered HideMenuNotify(), SetLocalVariable("desc", False)
                     add "fileslot_hover_border"
 
@@ -163,7 +163,7 @@ screen file_slots(title):
 
     if renpy.variant("touch") and title == "Load":
         if title == "Load":
-            use game_menu_notify("{color=#e8888a}Long Press{/color} to delete the save.", size=32)
+            use game_menu_notify("{color=#e8888a}Длительное нажатие{/color} чтобы удалить сохранение.", size=32)
     else:
         use game_menu_notify
 
@@ -228,11 +228,11 @@ screen save_input(slot):
             xalign 0.5
             button:
                 style "name_input_button"
-                text _("Confirm") style "name_input_button_text"
+                text _("Подтвердить") style "name_input_button_text"
                 action SetVariable("save_name", save_name+desc), FileAction(slot), Hide("save_input")
 
             button:
                 style "name_input_button"
-                text _("Cancel") style "name_input_button_text"
+                text _("Отмена") style "name_input_button_text"
                 action Hide("save_input")
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

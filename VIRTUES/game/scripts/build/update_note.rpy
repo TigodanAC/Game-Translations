@@ -1,20 +1,20 @@
 define past_note_link_text = "{a=past}v16: ...{/a}"
 
-define update_note_text = '''{size=+2}{color=#ffcd5c}   Thanks for playing our game, please feel free to let us know if you find any bugs or issues!
+define update_note_text = '''{size=+2}{color=#ffcd5c}   Спасибо, что играете в нашу игру, пожалуйста, сообщите нам, если Вы обнаружите какие-либо ошибки или проблемы!
 {/color}{color=#df0000}{/color}{/size}
 
 v17:
-- Irene's 'Princess in the castle' happy ending
-- Irene's 'Away from home' happy ending
-- Elisa's 'Lover' happy ending
-- Elisa's 'Sex slave' happy ending
-- Harem afterstory: Vera as a college student
-- Harem afterstory: Uno's real family 
-- Harem afterstory: Senning's video report
-- Harem afterstory: Theodora & Elisa's male worship
-- General proofreading
-- More than 1000+ new pictures
-- More than 70+ animated scenes
+- Счастливый конец Айрин 'Принцесса в замке'
+- Счастливый конец Айрин 'Вдали от дома'
+- Счастливый конец Элизы «Любовник»
+- Счастливый конец «Секс-рабыни» Элизы
+- Последующая история гарема: Вера в колледже
+- Последующая история гарема: настоящая семья Уно 
+- Последующая история гарема: видеоотчет Сеннин
+- Последующая история гарема: мужское обожествление Теодоры и Элизы
+- Общая корректура
+- Более 1000+ новых картинок
+- Более 70+ анимированных сцен
 
 ''' + past_note_link_text
 

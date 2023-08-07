@@ -152,19 +152,19 @@ screen nz_detail(idx):
                     style_prefix "nzd_content"
                     add nz_detail.separator_short
 
-                    label "Age: "
+                    label "Возраст: "
                     text _("[nz.age]")
                     add nz_detail.separator_short
 
-                    label "Favorites: "
+                    label "Предпочтения: "
                     text _(", ".join(nz.like))
                     add nz_detail.separator_short
 
-                    label "About [nz.name]: "
+                    label "[nz.name]: "
                     text _(nz.intro() if callable(nz.intro) else nz.intro)
 
                     add nz_detail.separator_short
-                    label "Erogenous Zones: "
+                    label "Эрогенные зоны: "
                     text _(", ".join(nz.zone))
 
                     add nz_detail.separator_short
@@ -175,7 +175,7 @@ screen nz_detail(idx):
             add nz.code.lower() + "_id" yoffset -40
 
 
-    textbutton _("Return"):
+    textbutton _("Вернуться"):
         style "return_button"
         action Hide("nz_detail")
 

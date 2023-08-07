@@ -69,21 +69,21 @@ init -3 python:
             self.revenues = []
             self.expanses = []
             self.days_worked_of_week = 0
-            self.credit = Attr(3, name=_("Credit"), owner=self)
-            self.virtue = Attr(50, name=_("Virtue"), owner=self)
+            self.credit = Attr(3, name=_("Кредит"), owner=self)
+            self.virtue = Attr(50, name=_("Достоинство"), owner=self)
             self.account_book = []
         
         @property
         def revenue(self):
             revenue = Attr.sum(self.revenues)
-            revenue.name = "Revenue"
+            revenue.name = "Доход"
             revenue.value *= 1.0
             return revenue
         
         @property
         def expanse(self):
             expanse = Attr.sum(self.expanses)
-            expanse.name = "Expense"
+            expanse.name = "Расход"
             return expanse
         
         @property
@@ -168,11 +168,11 @@ init -3 python:
         def title(self):
             pstg = self.virtue
             if 0 <= pstg <= 20:
-                return "Harem Master"
+                return "Мастер гарема"
             elif 20 < pstg <= 30:
-                return "Playboy"
+                return "Плейбой"
             elif 30 < pstg <= 40:
-                return "Charming Dude"
+                return "Очаровательный чувак"
             elif 40 < pstg <= 50:
-                return "Man of Virtue"
+                return "Добродетельный человек"
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc

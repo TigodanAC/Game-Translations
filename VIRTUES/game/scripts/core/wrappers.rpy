@@ -59,7 +59,7 @@ init -2 python:
     def next_stage(owner, obj, handle=True):
         obj.next_stage()
         if not obj.out_of_content:
-            Push(_("{}'s {} unlocked, new plot unlocked").format(owner, obj))
+            Push(_("{} {} разблокирован, новый сюжет разблокирован").format(owner, obj))
         else:
             try:
                 storyline_owner = obj.nz
@@ -67,7 +67,7 @@ init -2 python:
                 storyline_owner = owner
             
             
-            Push(_("Her love cannot be raised further."))
+            Push(_("Её любовь не может стать больше"))
             return
 
     def lock(obj, handle=True):
@@ -85,16 +85,16 @@ init -2 python:
         
         if type(obj) is Harem:
             if obj.value + value > obj.max_value:
-                Push(_("{}'s harem acceptance level can't be further raised in current version.").format(storyline_owner))
+                Push(_("Уровень принятия гарема {} не может быть повышен в текущей версии.").format(storyline_owner))
                 return
         
         if obj.is_plot_locked:
             if obj is B.love:
                 if seen("B_love_1"): 
-                    Push("I am tired of studying right now, perhaps I should spend some time on Vera")
+                    Push("Я устал для учёбы, может быть, я должен потратить немного времени на Веру?")
             if obj is A.love:
                 if seen("A_love_1"):
-                    Push("I have spent too much time on Vera, maybe I should go to classes more often.")
+                    Push("Я слишком много времени потратил на Веру, может, мне стоит чаще ходить на занятия?")
             return
         
         if obj.is_stage_locked:
@@ -102,83 +102,83 @@ init -2 python:
             return
         
         if obj.out_of_content:
-            Push(_("You have reached the end of {}'s storyline for now.").format(storyline_owner))
-            Push(_("Please wait for our next update."))
+            Push(_("Вы дошли до конца сюжетной линии {}.").format(storyline_owner))
+            Push(_("Пожалуйста, дождитесь нашего следующего обновления."))
             return
         
         r = obj.add(value, chance)
         if r != 0.0:
-            Push(_("{}'s {} increased by {}").format(owner, obj, r))
+            Push(_("{} {} увеличилось на {}").format(obj, owner, r))
         else:
-            Push(_("{}'s {} is unchanged").format(owner, obj))
+            Push(_("{} {} не изменилась").format(obj, owner))
         
         if obj.is_stage_locked:
             _stage_lock_notification(owner, obj)
 
     def _stage_lock_notification(owner, obj):
         if obj >= obj.max_value:
-            Push(_("Her love cannot be raised further."))
+            Push(_("Её любовь не может стать больше."))
             return
         
         if obj.owner == 'A':
             if obj >= 30:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{} {} на максимуме, найдите её в комнате и прокачайте её атрибуты.").format(obj, owner))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj, owner))
         
         elif obj.owner == 'B':
             if obj >= 60 and not seen("B_daily_21"):
-                Push(_("You should improve the relationship with Minna and Irene first."))
+                Push(_("Сначала тебе следует улучшить отношения с Минной и Айрин."))
             elif obj >= 35:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{} {} на максимуме, найдите её в комнате и прокачайте её атрибуты.").format(obj, owner))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj, owner))
         
         elif obj.owner == 'C':
             if obj >= 40:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{} {} на максимуме, найдите её в комнате и прокачайте её атрибуты.").format(obj, owner))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj, owner))
         
         elif obj.owner == 'D':
             if obj >= 35:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{} {} на максимуме, найдите её в комнате и прокачайте её атрибуты.").format(obj, owner))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj, owner))
         
         elif obj.owner == 'E':
             if obj >= 45:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{} {} на максимуме, найдите её в комнате и прокачайте её атрибуты.").format(obj, owner))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj, owner))
         
         elif obj.owner == 'F':
             if obj >= 25 and not seen("A_love_5"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Vera."))
+                Push(_("Дальнейшая история Рэйчел будет доступна после того, как вы улучшите отношения с Верой."))
             elif obj is F.love and obj >= 30 and not seen("B_train_inti_1"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Senning."))
+                Push(_("Дальнейшая история Рэйчел будет доступна после того, как вы улучшите отношения с Сеннин."))
             elif obj is F.love and obj >= 35 and not seen("G_train_sha_2"):
-                Push(_("More of Rachel's story will be unlocked after you improve relationship with Uno."))
+                Push(_("Дальнейшая история Рэйчел будет доступна после того, как вы улучшите отношения с Уно."))
             elif obj is F.love and obj >= 40 and not seen ('ACG_duo_4'):
-                Push(_("You should raise Vera, Theo, and Uno's harem acceptance first."))
+                Push(_("Сначала вы должны поднять принятие гарема у Веры, Тео и Уно."))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj, owner))
         
         elif obj.owner == 'G':
             if obj >= 35:
-                Push(_("{}'s {} is full, find her in her room and level up her attributes.").format(owner, obj))
+                Push(_("{} {} на максимуме, найдите её в комнате и прокачайте её атрибуты.").format(obj, owner))
             else:
-                Push(_("{}'s {} is full, try unlock it by the relevant event").format(owner, obj))
+                Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj, owner))
         
         return
 
     def sub(owner, obj, value):
         r = obj.sub(value)
-        Push(_("{}'s {} decreased by {}").format(owner, obj.name, value))
+        Push(_("{} {} уменьшилась на {}").format(obj.name, owner, value))
 
 
     def not_implemented_message():
-        Push("Sorry, this story will be implemented in future version.")
+        Push("Извините, эта история будет реализована в будущей версии.")
 
 
 
@@ -235,7 +235,7 @@ init -2 python:
         
         @classmethod
         def stage_locked(cls, obj):
-            Push(_("{}'s {} is full, try unlock it by the relevant event").format(obj.owner.name, obj.name))
+            Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj.name, obj.owner.name))
         
         @classmethod
         def plot_locked(cls, obj):
@@ -244,77 +244,77 @@ init -2 python:
                     return
             except AttributeError:
                 pass
-            Push(_("{}'s {} locked, try unlock it by the relevant event").format(obj.owner.name, obj.name))
+            Push(_("{} {} на максимуме, попробуте разблокировать по соответствующему событию").format(obj.name, obj.owner.name))
         
         @classmethod
         def unlocked(cls, obj):
             pass
             if isinstance(obj, Meter):
-                Push(_("{}'s {} locked").format(obj.owner.name, obj.name))
+                Push(_("{} {} заблокирована").format(obj.name, obj.owner.name))
         
         @classmethod
         def increase(cls, obj, value):
             if value == 0.0:
                 cls.unchanged()
             else:
-                Push(_("{}'s {} increased by {}").format(obj.owner.name, obj.name, value))
+                Push(_("{} {} увеличилась на {}").format(obj.name, obj.owner.name, value))
         
         @classmethod
         def decrease(cls, obj, value):
             if value == 0.0:
                 cls.unchanged()
             else:
-                Push(_("{}'s {} decreased by {}").format(obj.owner.name, obj.name, value))
+                Push(_("{} {} уменьшилось на {}").format(obj.name, obj.owner.name, value))
         
         @classmethod
         def unchanged(cls, obj):
-            Push(_("{}'s {} is unchanged").format(obj.owner.name, obj.name))
+            Push(_("{} {} без изменений").format(obj.name, obj.owner.name))
         
         @classmethod
         def cash_zero(cls, obj, value):
-            Push(_("{} lost all the savings, {} in total".format(obj.name, value)))
+            Push(_("{} потерял все сбережения, всего {}".format(obj.name, value)))
         
         @classmethod           
         def cash_earn(cls, person, value, thing):
-            Push(_("You have earned ${} from {}").format(value, thing))
+            Push(_("Вы заработали {}$ от {}").format(value, thing))
         
         @classmethod
         def purchase_succeeded(cls, obj, thing, value):
-            Push(_("{0}'s savings decreased by ${1} for purchasing {2}").format(obj.name, value, thing))
+            Push(_("Сбережения {0} уменьшились на {1}$ после покупки {2}").format(obj.name, value, thing))
         
         @classmethod
         def purchase_failed(cls, thing):
-            Push(_("No enough money for buying {}").format(thing))
+            Push(_("Не хватает денег на покупку {}").format(thing))
         
         @classmethod
         def payment_succeeded(cls, obj, thing, value):
-            Push(_("{0}'s savings decreased by ${1} for paying {2}").format(obj.name, value, thing))
+            Push(_("Сбережения {0} уменьшились на {1}$ после оплаты {2}").format(obj.name, value, thing))
         
         @classmethod
         def payment_failed(cls, thing):
-            Push(_("No enough money for paying {}").format(thing))
+            Push(_("Не хватает денег для оплаты {}").format(thing))
             run_event('suicide_ending')
         
         @classmethod
         def notify_new_location(cls, *args):
-            Push(_("{} unlocked").format(*args))
+            Push(_("{} разблокирован").format(*args))
         
         @classmethod
         def time_pass(cls, value):
             if value == 1:
-                Push(_("{} period of time passed").format(value))
+                Push(_("{} период времени пропущен").format(value))
             else:
-                Push(_("{} periods of time passed").format(value))
+                Push(_("{} временных периодов пропущено").format(value))
         
         @classmethod
         def lock_in_version(cls, obj):
-            Push(_("You have reached the end of {}'s storyline for now.").format(obj.owner))
-            Push(_("Please wait for our next update."))
+            Push(_("Вы дошли до конца сюжетной линии {} на данный момент.").format(obj.owner))
+            Push(_("Пожалуйста, дождитесь нашего следующего обновления."))
         
         @classmethod
         def out_of_content(cls, obj):
-            Push(_("You have reached the end of {}'s storyline for now.").format(obj.owner))
-            Push(_("Please wait for our next update."))
+            Push(_("Вы дошли до конца сюжетной линии {}.").format(obj.owner))
+            Push(_("Пожалуйста, дождитесь нашего следующего обновления."))
 
 
 default available_interactions = defaultdict(set)
@@ -419,7 +419,7 @@ init python:
             old = available_interactions.get(nz.code, set())
             new = set(get_nz_interaction_labels(nz.code))
             for label in (new - old):
-                Push('New interaction with {} "{}" unlocked.'.format(nz, get_interaction(label).name))
+                Push('Новое взаимодействие с {} "{}" разблокировано.'.format(nz, get_interaction(label).name))
             available_interactions[nz.code] = new
 
     def get_nz_clothes(nz_code):
@@ -431,7 +431,7 @@ init python:
             new = set(get_nz_clothes(nz.code))
             for clothes in (new - old):
                 if not clothes.startswith("Default"):
-                    Push('{}\'s new outfit "{}" unlocked.'.format(nz, clothes))
+                    Push('Новый наряд для {} "{}" unlocked.'.format(nz, clothes))
             available_clothes[nz.code] = new
 
     def to_next_day():
