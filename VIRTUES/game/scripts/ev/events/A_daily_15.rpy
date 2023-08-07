@@ -20,79 +20,79 @@ label A_daily_15.end:
 
 label A_daily_15.line_c:
 
-    "*The following plot is from Вера’s perspective*"
+    "*Следующий сюжет с точки зрения Веры*"
 
 
 
     scene a_daily15_1 with dissolve
 
-    g "Good morning, Вера... ..."
+    g "Доброе утро, Вера... ..."
 
 
 
     scene a_daily15_2 with tstmgr
 
-    a "Oh, hi, Уно~ Why are you up so early today?"
+    a "О, привет, Уно~ Почему ты сегодня так рано проснулась?"
 
 
 
     scene a_daily15_3 with tstmgr
 
-    g "*Yawning* Ah... ... hh... ...hhh... ..."
+    g "*Зевая* Ах... ... хх... ...ххх... ..."
 
 
 
     scene a_daily15_4 with tstmgr
 
-    g "I just got up to pee... ... Will... go back to my bed right away."
+    g "Я только что встала, чтобы пописать... ... Пойду... и сразу же вернусь в свою постель."
 
 
 
-    a "Oh, do you want anything for breakfast?"
+    a "О, ты хочешь что-нибудь на завтрак?"
 
 
 
     scene a_daily15_5 with tstmgr
 
-    g "No, I’m fine, mommy, thank you for asking~"
+    g "Нет, я в порядке, мамочка, спасибо, что спросила~"
 
 
 
     scene a_daily15_6 with tstmgr
 
-    a "Mommy... ... I am not that old!~"
+    a "Мамочка... ...я не настолько старая!~"
 
 
 
-    g "Hee hee~~~"
+    g "Хи хи~~~"
 
 
 
-    g "I’m sure you will be a great mommy after you have a kid~"
+    g "Я уверена, что после рождения ребёнка ты будешь отличной мамой~"
 
 
 
     scene a_daily15_7 with tstmgr
 
-    a "A... kid... ..."
+    a "... ребёнка... ..."
 
 
 
-    g "How can you get up so early every day and still be full of energy? Life is so not fair~"
+    g "Как можно так рано вставать каждый день и при этом быть полным энергии? Жизнь так несправедлива~"
 
 
 
-    g "See you tonight, have a good day~"
+    g "Увидимся сегодня вечером, хорошего дня~"
 
 
 
     scene a_daily15_8 with tstmgr
 
-    a "You have a good dream~"
+    a "Приятных снов~"
 
 
 
-    "Уно left the living room and went to sleep again."
+    "Уно вышла из гостиной и снова заснула."
 
 
 
@@ -104,7 +104,7 @@ label A_daily_15.line_c:
 
     scene a_daily15_10 with tstmgr
 
-    a "(Hummm~ It’s about time to wake [P] up~)"
+    a "(Хммм~ Пора будить [P]~)"
 
 
 
@@ -116,19 +116,19 @@ label A_daily_15.line_c:
 
     scene a_daily15_12 with tstmgr
 
-    a "(Wait a second... ... I feel... ...)"
+    a "(Подожди секунду... ... я чувствую... ...)"
 
 
 
     scene a_daily15_13 with tstmgr
 
-    a "(Ewwwwww... ... I... I think I’m going to vomit... ...)"
+    a "(Фуууууу... ... Я... меня, кажется, вырвет... ...)"
 
 
 
     scene void with tstmgr
 
-    "Вера ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
+    "Вера побежала в туалет со всех ног и даже забыла выключить газовую плиту..."
 
 
 
@@ -138,55 +138,55 @@ label A_daily_15.line_c:
 
 
 
-    "10 minutes later... ..."
+    "10 минут спустя... ..."
 
 
 
     scene a_daily15_14 with dissolve
 
-    a "*Left the toilet* Ah... ... This is strange, it never happened before."
+    a "*Выходя из туалета* Ах... ...Это странно, такого раньше не было."
 
 
 
     scene a_daily15_15 with tstmgr
 
-    a "Do I have a stomach problem?"
+    a "У меня проблемы с желудком?"
 
 
 
-    a "Or... ... ... ..."
+    a "Или... ... ... ..."
 
 
 
-    a "Was that actually a morning sickness?"
+    a "Было ли это на самом деле утренней тошнотой?"
 
 
 
     scene a_daily15_16 with tstmgr
 
-    a "I... didn’t have my period this month either."
+    a "Кроме того, у меня... в этом месяце не было месячных."
 
 
 
-    a "Am I... pregnant?"
+    a "Я... беременна?"
 
 
 
     scene a_daily15_5 with flashback
 
-    g "I’m sure you will be a great mommy after you have a kid~"
+    g "Я уверена, что после рождения ребёнка ты будешь отличной мамой~"
 
 
 
     scene a_daily15_16 with flashback
 
-    a "Oh dear... ... ... ..."
+    a "О, Боже... ... ... ..."
 
 
 
     scene a_daily15_17 with tstmgr
 
-    a "Am I going to be a mother?"
+    a "Я действительно стану мамой?"
 
 
 
@@ -198,75 +198,75 @@ label A_daily_15.line_c:
 
 label A_daily_15.line_d:
 
-    "*The following plot is from Вера’s perspective*"
+    "*Следующий сюжет с точки зрения Веры*"
 
 
 
     scene a_daily15_1 with dissolve
 
-    "BnB Guest" "Good morning, Вера... ..."
+    "Гостья в отеле" "Доброе утро, Вера... ..."
 
 
 
     scene a_daily15_2 with tstmgr
 
-    a "Oh, hi, Mrs. Smith~ The breakfast is about ready~"
+    a "О, здравствуйте, миссис Смит~ Завтрак почти готов~"
 
 
 
-    "BnB Guest" "Ah, I really would like to have it, but I’m going to an interview now, so... ..."
+    "Гостья в отеле" "Ах, мне бы очень хотелось позавтракать, но я сейчас иду на собеседование, так что... ..."
 
 
 
     scene a_daily15_8 with tstmgr
 
-    a "It’s okay~ Good luck with the interview. You can do it!"
+    a "Всё в порядке~ Удачи на собеседовании. У Вас всё получится!"
 
 
 
-    "BnB Guest" "I will, thanks..."
+    "Гостья в отеле" "Я постараюсь, спасибо..."
 
 
 
-    "BnB Guest" "... ... ... ..."
+    "Гостья в отеле" "... ... ... ..."
 
 
 
-    "BnB Guest" "I wish I could have a mom like you... ..."
+    "Гостья в отеле" "Хотела бы я иметь такую ​​маму, как Вы... ..."
 
 
 
     scene a_daily15_6 with tstmgr
 
-    a "Huh?"
+    a "Хм?"
 
 
 
-    "BnB Guest" "Oh, I mean... you are such a virtuous woman, I’ve only been here for a few days but you have already given me a feeling of being cared for like a family... ..."
+    "Гостья в отеле" "О, я имею в виду... Вы такая добрая женщина, я здесь всего несколько дней, но Вы уже дали мне почувствовать, что обо мне заботятся, как в семье... ..."
 
 
 
-    "BnB Guest" "I’m sure you will be a great mom after you have a kid~"
+    "Гостья в отеле" "Я уверена, что после рождения ребёнка Вы будете отличной мамой~"
 
 
 
     scene a_daily15_7 with tstmgr
 
-    a "A... kid... ..."
+    a "... ребёнка... ..."
 
 
 
-    "BnB Guest" "Anyway, see you tonight, Вера, have a good day~"
+    "Гостья в отеле" "В любом случае, увидимся вечером, Вера, хорошего дня~"
 
 
 
     scene a_daily15_8 with tstmgr
 
-    a "You too, Mrs. Smith~"
+    a "И Вам, миссис Смит~"
 
 
 
-    "The lady guest then left the house for the interview... ..."
+    "Затем гостья вышла из дома на собеседование... ..."
 
 
 
@@ -278,7 +278,7 @@ label A_daily_15.line_d:
 
     scene a_daily15_10 with tstmgr
 
-    a "(Hummm~ It’s about time to wake [P] up~)"
+    a "(Хммм~ Пора будить [P]~)"
 
 
 
@@ -290,19 +290,19 @@ label A_daily_15.line_d:
 
     scene a_daily15_12 with tstmgr
 
-    a "(Wait a second... ... I feel... ...)"
+    a "(Подожди секунду... ... я чувствую... ...)"
 
 
 
     scene a_daily15_13 with tstmgr
 
-    a "(Ewwwwww... ... I... I think I’m going to vomit... ...)"
+    a "(Фуууууу... ... Я... меня, кажется, вырвет... ...)"
 
 
 
     scene void with tstmgr
 
-    "Вера ran to the toilet as fast as she could and even forgot to turn off the gas oven..."
+    "Вера побежала в туалет со всех ног и даже забыла выключить газовую плиту..."
 
 
 
@@ -310,55 +310,55 @@ label A_daily_15.line_d:
 
 
 
-    "10 minutes later... ..."
+    "10 минут спустя... ..."
 
 
 
     scene a_daily15_14 with dissolve
 
-    a "*Left the toilet* Ah... ... This is strange, it never happened before."
+    a "*Выходя из туалета* Ах... ...Это странно, такого раньше не было."
 
 
 
     scene a_daily15_15 with tstmgr
 
-    a "Do I have a stomach problem?"
+    a "У меня проблемы с желудком?"
 
 
 
-    a "Or... ... ... ..."
+    a "Или... ... ... ..."
 
 
 
-    a "Was that actually a morning sickness?"
+    a "Было ли это на самом деле утренней тошнотой?"
 
 
 
     scene a_daily15_16 with tstmgr
 
-    a "I... didn’t have my period this month either."
+    a "Кроме того, у меня... в этом месяце не было месячных."
 
 
 
-    a "Am I... pregnant?"
+    a "Я... беременна?"
 
 
 
     scene a_daily15_6 with flashback
 
-    "BnB Guest" "I’m sure you will be a great mom after you have a kid~"
+    "Гостья в отеле" "Я уверена, что после рождения ребёнка Вы будете отличной мамой~"
 
 
 
     scene a_daily15_16 with flashback
 
-    a "Oh dear... ... ... ..."
+    a "О, Боже... ... ... ..."
 
 
 
     scene a_daily15_17 with tstmgr
 
-    a "Am I really going to be a mother?"
+    a "Я действительно стану мамой?"
 
 
 
