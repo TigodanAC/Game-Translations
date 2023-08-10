@@ -4,15 +4,15 @@ label A_dgsjhx:
 
     narrator "... ... ... ..."
 
-    narrator "The next day."
+    narrator "На следующий день."
 
-    narrator "I entered the cafe where Вера works for breakfast again in the morning."
+    narrator "Утром я снова зашёл в кафе, где работает Вера, чтобы позавтракать."
 
-    narrator "Well, the food isn't great, but at least I get a chance to talk with Вера."
+    narrator "Ну, еда не очень, но, по крайней мере, у меня есть возможность поговорить с Верой."
 
-    narrator "During these days, I've been wondering why I come and see this girl. Do I have a crush on her? Or do I just feel guilty about our night together?"
+    narrator "Все эти дни я не мог понять, почему я прихожу увидеться с этой девушкой. Я влюбился в неё? Или я просто чувствую вину за нашу ночь вместе?"
 
-    narrator "I don't know. I can't tell."
+    narrator "Я не знаю. Не могу сказать."
 
     narrator "... ... ... ..."
 
@@ -20,55 +20,55 @@ label A_dgsjhx:
 
     narrator "... ... ... ..."
 
-    a "What would you like to order today?"
+    a "Что бы ты хотел сегодня заказать?"
 
-    player "A bacon sandwich meal as usual, plus a medium hot chocolate. Thanks."
+    player "Сэндвич с беконом, как обычно, и средний стакан горячего шоколада. Спасибо."
 
-    a "... Coming right up."
+    a "... Сейчас принесу."
 
-    player "You don't seem happy. What's the matter? Is it because of me?"
+    player "Ты не выглядишь счастливой. В чём дело? Это из-за меня?"
 
     scene a_cafe_surprise with tstmgr
 
-    a "Oh, no... It has nothing to do with you."
+    a "О, нет... Это не имеет к тебе никакого отношения."
 
-    player "Do you want to talk about it?"
+    player "Хочешь поговорить об этом?"
 
     scene a_cafe_weird with tstmgr
 
     a "... ... ... ..."
 
-    a "Fine..."
+    a "Ладно..."
 
-    a "I need money."
+    a "Мне нужны деньги."
 
-    player "Wait, I have already solved your housing problem. What else do you need money for?"
+    player "Подожди, я уже решил твой жилищный вопрос. На что ещё тебе нужны деньги?"
 
-    a "My mom fell by accident and broke three ribs last week. She needs to have surgery but can barely afford it."
+    a "Моя мама случайно упала и сломала три ребра на прошлой неделе. Ей нужна операция, но она с трудом может себе это позволить."
 
-    a "So I have to earn more to support her. I'm now looking for one more job I can work at night."
+    a "Так что я должна зарабатывать больше, чтобы поддержать её. Я сейчас ищу ещё одну работу, на котрой я смогла бы работать в ночное время."
 
-    player " I'm, I'm sorry to hear that, Вера."
+    player "Мне очень жаль это слышать, Вера."
 
-    player "I can help you with that surgery fee if you want..."
+    player "Я могу помочь тебе с оплатой операции, если хочешь..."
 
-    a "No, I won't accept your money."
+    a "Нет, я не приму твои деньги."
 
-    player "Well, then how about letting me help you find that job?"
+    player "Тогда как насчёт того, чтобы позволить мне помочь тебе найти эту работу?"
 
     scene a_cafe_surprise with tstmgr
 
-    a "Really? Do you know any place?"
+    a "Серьёзно? Ты знаешь какое-нибудь место?"
 
-    player "I can introduce you to the owner of a restaurant. The boss is my friend. I'm sure he will be happy to have a gorgeous like you to work for him."
+    player "Я могу познакомить тебя с владельцем ресторана. Босс - мой друг. Я уверен, что он будет счастлив, если такая красавица, как ты, будет работать на него."
 
     scene a_cafe_weird with tstmgr
 
-    a "I'm not sure..."
+    a "Я не уверена..."
 
-    player "It is an upscale restaurant with regular management. You'll be safe there. Besides, I can assure you that the wage level there is above the average."
+    player "Это высококлассный ресторан с постоянным менеджментом. Там ты будешь в безопасности. Кроме того, могу тебя заверить, что уровень зарплаты там выше среднего."
 
-    player "I think you should give it a try."
+    player "Я думаю, тебе стоит попробовать."
 
     scene a_cafe_normal1 with tstmgr
 
@@ -76,29 +76,29 @@ label A_dgsjhx:
 
     scene a_cafe_smile2 with tstmgr
 
-    a "Sounds not bad. I will check it out tonight. Thanks, thanks for your help. I owe you one."
+    a "Звучит неплохо. Я подумаю об этом сегодня вечером. Спасибо, спасибо за твою помощь. Я у тебя в долгу."
 
-    player "No big deal. I'm just doing what a friend should do."
+    player "Не стоит благодарности. Я просто делаю то, что должен делать друг."
 
     scene a_cafe_surprise with tstmgr
 
-    a "We are... friends?"
+    a "Мы... друзья?"
 
-    player "Eh, aren't we?"
+    player "А разве нет?"
 
     scene a_cafe_weird with tstmgr
 
-    a "I don't know..."
+    a "Я не знаю..."
 
     a "... ... ... ..."
 
-    player "Oh... ..."
+    player "О... ..."
 
     scene a_cafe_smile2 with tstmgr
 
-    a "Anyway, thank you. Now let me go place your order. You must be starving by now."
+    a "В любом случае, спасибо тебе. Теперь позволь мне сделать твой заказ. Ты, должно быть, уже проголодался."
 
-    player "It's fine, take your time. No need to rush."
+    player "Всё в порядке, не торопись. Не надо спешить."
 
     jump event_post
 # Decompiled by unrpyc: https://github.com/CensoredUsername/unrpyc
