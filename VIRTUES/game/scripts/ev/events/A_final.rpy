@@ -7,15 +7,15 @@ label A_final:
 
 
 
-    "Some days later, early in the morning... ..."
+    "Несколько дней спустя, рано утром... ..."
 
 
 
-    player "Zzz... zzz... zzz... zzz..."
+    player "Хррр... хррр... хррр... хррр..."
 
 
 
-    player "zz... zz... ..."
+    player "хрр... хрр... ..."
 
 
 
@@ -23,7 +23,7 @@ label A_final:
 
 
 
-    player "*Opening eyes lazily* ... ... ... ..."
+    player "*Лениво открывая глаза* ... ... ... ..."
 
 
 
@@ -35,41 +35,41 @@ label A_final:
 
 
 
-    player "What are you looking at?"
+    player "На что ты смотришь?"
 
 
 
     scene a_final_2 with tstmgr
 
-    a "The birds on the trees. They are so cute and I really love that chirping sound~"
+    a "Птицы на деревьях. Они такие милые, и мне очень нравится это чириканье~"
 
 
 
-    player "The birds... they didn’t shit on my car, did they?"
+    player "Птицы... они ведь не нагадили на мою машину, да?"
 
 
 
     scene a_final_3 with tstmgr
 
-    a "You are ruining the moment."
+    a "Ты портишь момент."
 
 
 
-    player "Oh, I apology~"
+    player "О, я извиняюсь~"
 
 
 
     scene a_final_4 with tstmgr
 
-    a "*Smiling* ... ... ... ..."
+    a "*Улыбается* ... ... ... ..."
 
 
 
-    player "So... why are you naked?"
+    player "Итак... почему ты голая?"
 
 
 
-    a "For the sunbath~ Your room has great sunlight in the morning~"
+    a "Для принятия солнечных ванн~ Утром в твоей комнате много солнечного света~"
 
 
 
@@ -77,121 +77,121 @@ label A_final:
 
 
 
-    "That's a weird excuse."
+    "Это странное оправдание."
 
 
 
-    a "Breakfast is ready. Do you want me to bring it here?"
+    a "Завтрак готов. Хочешь, я принесу его сюда?"
 
 
 
     scene a_final_5 with tstmgr
 
-    player "Don't bother. I’m getting up~"
+    player "Не беспокойся. Я встаю~"
 
 
 
-    "Вера quit her jobs some days ago since she was diagnosed with endocrine disorders caused by overwork. Now she is trying to get her body back to the best condition... ... for pregnancy."
+    "Несколько дней назад Вера уволилась со всех своих работ, так как у неё обнаружили эндокринные нарушения, вызванные переутомлением. Теперь она пытается привести своё тело в наилучшее состояние... ... для беременности."
 
 
 
-    player "So, what do you plan to do for today?"
+    player "Итак, какие у тебя планы на сегодня?"
 
 
 
     scene a_final_6 with tstmgr
 
-    a "Cleaning the house, making breakfast for our bnb guests, nothing special."
+    a "Уборка дома, приготовление завтрака для гостей нашего отеля, ничего особенного."
 
 
 
     scene a_final_7 with tstmgr
 
-    a "It really feels strange to have so much free time every day. I have no idea how to manage it at all."
+    a "На самом деле кажется странным ежедневно иметь так много свободного времени. Я вообще понятия не имею, как им распоряжаться."
 
 
 
-    player "Now you got enough time to develop a hobby or learn something. You once said you are interested in laws, right? Now you have time to read some books about that."
+    player "Теперь у тебя достаточно времени, чтобы найти хобби или чему-то научиться. Ты как-то сказала, что интересуешься законами, верно? Теперь у тебя есть время прочитать несколько книг об этом."
 
 
 
     scene a_final_8 with tstmgr
 
-    a "Yeah, I should probably find myself something to do... ..."
+    a "Да, я, наверное, должна найти себе занятие... ..."
 
 
 
-    player "By the way, how’s our bnb business these days?"
+    player "Кстати, как успехи с нашим отельным бизнесом на сегодняшний день?"
 
 
 
     scene a_final_9 with tstmgr
 
-    a "It's pretty good, actually it has never been this good before. Our rooms are fully booked for one month from now."
+    a "Очень хорошо, на самом деле лучше, чем когда-либо до этого. Наши номера полностью забронированы на месяц вперёд."
 
 
 
-    a "Maybe we should consider raising the price a little?"
+    a "Может, стоит немного поднять цену?"
 
 
 
-    player "This is so surprising. Why did our house suddenly become so popular?"
+    player "Это так удивительно. Почему наш отель вдруг стал таким популярным?"
 
 
 
     scene a_final_10 with tstmgr
 
-    a "I guess it was because you have a great bnb manager~"
+    a "Думаю, это из-за того, что у тебя отличный отельный менеджер~"
 
 
 
-    player "Yeah... ..."
+    player "Ага... ..."
 
 
 
     scene a_final_11 with tstmgr
 
-    a "Do you want to reward her for that?"
+    a "Не хочешь вознаградить её за это?"
 
 
 
     scene a_final_12 with tstmgr
 
-    player "What are you suggesting?"
+    player "Что ты предлагаешь?"
 
 
 
     scene a_final_13 with tstmgr
 
-    a "You know what I want the most... ..."
+    a "Ты знаешь, чего я хочу больше всего... ..."
 
 
 
     scene a_final_14 with tstmgr
 
-    player "Nope, you have to tell me yourself~"
+    player "Нет, ты должна сказать мне сама~"
 
 
 
-    a "You are so bad~"
+    a "Ты такой плохой~"
 
 
 
     scene a_final_15 with tstmgr
 
-    a "I want to have your seed in my womb... and born you a child~ That's the only wish I have right now~"
+    a "Я хочу, чтобы твоё семя было в моей матке... и я родила тебе ребёнка~ Это единственное желание, которое у меня сейчас есть~"
 
 
 
-    player "That’s the reason you came to my room naked in the morning, right? You horny girl~"
+    player "Вот почему ты пришла утром в мою комнату голой, верно? Ты пошлая девочка~"
 
 
 
-    a "It is all your fault... ..."
+    a "Это всё твоя вина... ..."
 
 
 
-    player "Alright, let’s see if I can get you fertilized this time~"
+    player "Хорошо, давай посмотрим, смогу ли я оплодотворить тебя на этот раз~"
 
 
 
@@ -203,33 +203,33 @@ label A_final:
 
     scene a_final_17 with tstmgr
 
-    player "*Penetrated in* ... ... ... ..."
+    player "*Проникая внутрь* ... ... ... ..."
 
 
 
-    a "Awwwww~~~~"
+    a "Оууууу~~~~"
 
 
 
     scene a_final_18 with tstmgr
 
-    a "[P]’s penis... ... is coming so deep~ yes~~~"
+    a "Член [P]... ... входит так глубоко~ да~~~"
 
 
 
-    a "The deeper you reach... the easier I will be fertilized~~"
+    a "Чем глубже ты проникаешь ... тем выше шанс оплодотворения~~"
 
 
 
-    player "Huh? Are you sure about that?"
+    player "Хм? Ты уверена насчёт этого?"
 
 
 
-    a "Yes, I have faith in that~~"
+    a "Да, я верю в это~~"
 
 
 
-    player "Alright then... ..."
+    player "Тогда ладно... ..."
 
 
 
@@ -239,31 +239,31 @@ label A_final:
 
 
 
-    a "Ahhhh~~ Yes~~~ This is exactly what I want to have before breakfast~~"
+    a "Аааа~~ Да~~~ Это именно то, что я хотела перед завтраком~~"
 
 
 
-    a "[P]’s energetic penis~ is getting so big in my pussy~"
+    a "Твёрдый член [P]~ становится таким большим в моей киске~"
 
 
 
-    a "And it is hitting so deep~~~~"
+    a "И проникает так глубоко~~~~"
 
 
 
-    player "Вера... hold me tighter and rub your tits on my chest. That feels so good~"
+    player "Вера... обними меня крепче и потрись сиськами о мою грудь. Это так хорошо~"
 
 
 
-    a "yes, okay, rubbing my tits~~~ ohhhhh~~~"
+    a "да, хорошо, трусь сиськами~~~ оооооо~~~"
 
 
 
-    a "Awwww~~ I love you so much~~~"
+    a "Аааа~~ Я так тебя люблю~~~"
 
 
 
-    player "I love you too~"
+    player "Я тоже тебя люблю~"
 
 
     stop sound
@@ -273,35 +273,35 @@ label A_final:
 
 
 
-    a "[P]... ohhhh~~~ my love~~~"
+    a "[P]... ооо~~~ моя любовь~~~"
 
 
 
-    a "I wish... you can hold me like this... and fuck me forever~"
+    a "Я хочу... чтобы ты мог обнимать меня вот так... и трахать меня вечно~"
 
 
 
-    player "From now on till the end of your life, you can always have this dick whenever you want~"
+    player "С этого момента и до конца жизни ты всегда можешь получить этот член, когда захочешь~"
 
 
 
-    a "That is... the best love confession I’ve heard in my life~"
+    a "Это... лучшее признание в любви, которое я слышала в своей жизни~"
 
 
 
-    "We looked at each other in the eyes with affection while our bodies are moving themselves. This is the moment I want to remember forever~"
+    "Мы с нежностью смотрели друг другу в глаза, в то время как наши тела двигались сами собой. Этот момент я хочу запомнить навсегда~"
 
 
 
-    player "Вера... I think I’m going to... ..."
+    player "Вера... Думаю, я собираюсь... ..."
 
 
 
-    a "Yes, yes, in my deep, give me your seed, your love, your everything~~"
+    a "Да, да, глубоко во мне, дай мне своё семя, свою любовь, своё всё~~"
 
 
 
-    player "I’m cumming!!~~~"
+    player "Я кончаю!!~~~"
 
 
     stop sound
@@ -313,15 +313,15 @@ label A_final:
 
 
 
-    a "Ohhhhhhhh~~~ Yes, yes, put your seed on my soil~~~"
+    a "Охххххх~~~ Да, да, посади своё семя в мою почву~~~"
 
 
 
-    "Once again, her vagina was occupied by my sperm. Will we get lucky this time?"
+    "В очередной раз её влагалище было заполнено моей спермой. Повезёт ли нам на этот раз?"
 
 
 
-    a "Love you... [P]... ... Love you so much... ..."
+    a "Люблю тебя... [P]... ... Я так сильно тебя люблю... ..."
 
 
 
@@ -331,45 +331,45 @@ label A_final:
 
 
 
-    "Sometime later... ..."
+    "Некоторое время спустя... ..."
 
 
 
     scene a_final_22 with dissolve
 
-    a "Awwww... ... that was so good~ Thank you for your creampie, [P]~"
+    a "Оооо... ... это было так хорошо~ Спасибо, что кончил в меня, [P]~"
 
 
 
     scene a_final_23 with tstmgr
 
-    a "Hmmmmmmm?"
+    a "Хмммммм?"
 
 
 
     scene a_final_24 with tstmgr
 
-    a "Oh no, your sperm... ... it is leaking out from my pussy! It is all wasted!"
+    a "О нет, твоя сперма... ... она вытекает из моей киски! Всё было зря!"
 
 
 
-    player "Eh... ... Do you want another round?"
+    player "Эх... ... Хочешь ещё один раунд?"
 
 
 
     scene a_final_25 with tstmgr
 
-    a "Awwwwww?"
+    a "Ооооо?"
 
 
 
     scene a_final_26 with tstmgr
 
-    a "Yes, please~ I almost forgot that you are a tireless monster of sex~"
+    a "Да, пожалуйста~ Я почти забыла, что ты неутомимый монстр секса~"
 
 
 
-    a "This time... I will make sure it doesn’t leak out~"
+    a "На этот раз... Я прослежу, чтобы ничего не вытекло~"
 
 
 
@@ -383,7 +383,7 @@ label A_final:
 
 
 
-    a "Huhh~~~ hhh~~ [P]... why... why in the closet?~~~"
+    a "Хахх~~~ ххх~~ [P]... почему... почему в туалете?~~~"
 
 
 
@@ -393,27 +393,27 @@ label A_final:
 
 
 
-    "Here we are, in the middle of sex again, but this time I decided to go rougher. I pushed her to the corner of the closet and fucked her wildly from behind."
+    "Вот мы снова занимаемся сексом, но на этот раз я решил действовать грубее. Я толкнул её в угол туалета и дико трахнул сзади."
 
 
 
-    player "Don't you like it?"
+    player "Тебе не нравится?"
 
 
 
-    a "Of course I like it~ I will always enjoy everything you do to me~~"
+    a "Конечно, мне это нравится~ Я всегда буду наслаждаться всем, что ты делаешь со мной~~"
 
 
 
-    a "Awww... ... It’s just... ... your penis is getting even bigger than earlier~~"
+    a "Оуууу... ... Просто... ... твой пенис стал ещё больше, чем раньше~~"
 
 
 
-    player "Isn't that a good thing?"
+    player "Разве это не хорошо?"
 
 
 
-    a "Ye... yes, but~~~ awwwww~~~ if you keep fucking me like that, I will... I will... ..."
+    a "Д... да, но~~~ оуууу~~~ если ты продолжишь так трахать меня, я... я скоро... ..."
 
 
     stop sound
@@ -423,31 +423,31 @@ label A_final:
 
 
 
-    a "I will lose my mind in your powerful thrust~~~~"
+    a "Я сойду с ума от твоих мощных толчков~~~~"
 
 
 
-    player "That’s exactly what I’m up to~"
+    player "Именно этим я и занимаюсь~"
 
 
 
-    a "Awwww~~~ [P]~~~ ahhh~~ hhhhh~~~~"
+    a "Ооооу~~~ [P]~~~ ааах~~ ххххх~~~~"
 
 
 
-    a "Your penis... is pumping your sperm left in my pussy... deeply inside~~ Awwww... ..."
+    a "Твой пенис... закачивает сперму, оставшуюся в моей киске... глубоко внутрь~~ Оуууу... ..."
 
 
 
-    a "I think I’m really gonna be fertilized this time~~~"
+    a "Я думаю, что на этот раз я действительно забеременею~~~"
 
 
 
-    player "Ah~~~ yeah~~~ My new sperm is coming too!"
+    player "Ах~~~ да~~~ Моя новая сперма тоже поступает!"
 
 
 
-    player "Take it all with your womb!~~~~~"
+    player "Забери её всю своей маткой~~~~~"
 
 
     stop sound
@@ -455,19 +455,19 @@ label A_final:
     play sound cumshot
     $ flashlight()
 
-    a "Ohhhhhhhhhhhhhhh!!!~~~~~~~~~"
+    a "Ооооооооооооооо!!!~~~~~~~~~"
 
 
 
-    a "I can feel it, I can feel it, this time you came even more inside me~~"
+    a "Я чувствую это, я чувствую это, на этот раз ты кончил в меня ещё больше~~"
 
 
 
-    a "Awwwww~~~ I really wish I can be the mother of your kid~~~~"
+    a "Оооо~~~ Я действительно хочу быть матерью твоего ребенка~~~~"
 
 
 
-    a "Let's just... keep your penis inside me for a while... ... to make sure nothing got wasted~"
+    a "Давай просто... ты оставишь свой член во мне ненадолго... ... чтобы убедиться, что ничего не вытекло~"
 
 
 
@@ -477,17 +477,17 @@ label A_final:
 
 
 
-    "10 minutes later, Вера finally took my dick out of her pussy, and... ..."
+    "Через 10 минут Вера наконец-то достала мой член из своей киски, и... ..."
 
 
 
     scene a_final_30 with dissolve
 
-    a "Humm~~ mmmm~~ aummm~~ hum~~"
+    a "Хм~~ ммм~~ аммм~~ хм~~"
 
 
 
-    "Now she is kneeling on the ground and doing the cleaning service for my dick submissively. This is definitely the best thing a man can ever want after sex."
+    "Теперь она стоит на коленях на полу и покорно чистит мой член. Это определённо лучшее, что может хотеть мужчина после секса."
 
 
 
@@ -497,55 +497,55 @@ label A_final:
 
 
 
-    player "Ah... ... I think I figure out the reason why our house suddenly became popular."
+    player "Ах... ...Кажется, я понял, почему наш дом внезапно стал популярным."
 
 
 
-    a "What are you talking about?"
+    a "О чём ты говоришь?"
 
 
 
     scene a_final_32 with tstmgr
 
-    player "I am checking the reviews of our house on the bnb websites. Do you want to know what the review with the most ‘like’ says?"
+    player "Я проверяю отзывы о нашем отеле на сайтах В&B. Хочешь знать, что сказано в отзыве с наибольшим количеством лайков?"
 
 
 
     scene a_final_33 with tstmgr
 
-    a "What does it say?"
+    a "Что там сказано?"
 
 
 
     scene a_final_34 with tstmgr
 
-    player "It says ‘This place has the sexiest hostess. Who can reject to live with her in the same house for some days?’"
+    player "Там сказано ‘В этом месте самая сексуальная хозяйка. Кто может отказаться жить с ней в одном доме несколько дней?’"
 
 
 
     scene a_final_35 with tstmgr
 
-    a "Oh... ... they are talking about... me?"
+    a "О... ...они говорят... обо мне?"
 
 
 
-    player "Yeah, since you have quit your jobs, now our bnb guests can see you more often in the house. That’s why they found this place so attractive."
+    player "Ага, так как ты уволилась с работы, теперь наши гости могут чаще видеть тебя в отеле. Вот почему они находят это место таким привлекательным."
 
 
 
-    a "Oh, yes... ... Many guests told me that they enjoy having me around."
+    a "О, да... ...Многие гости говорили мне, что им нравится, когда я рядом."
 
 
 
     scene a_final_36 with tstmgr
 
-    player "Have you ever been harassed by any guest?"
+    player "К тебе когда-нибудь приставал какой-нибудь гость?"
 
 
 
     scene a_final_37 with tstmgr
 
-    a "Hmmmm... ... Sometimes there will be some guests that are a little bit clingy, but still, it is easier to deal with them than dealing with the customers of where I worked."
+    a "Хмммм... ...Иногда бывают немного навязчивые гости, но всё же с ними легче иметь дело, чем с клиентами того места, где я работала."
 
 
 
@@ -555,49 +555,49 @@ label A_final:
 
 
 
-    player "Damn this feels bad... ..."
+    player "Чёрт, это плохо... ..."
 
 
 
     scene a_final_39 with tstmgr
 
-    player "Personally I want to close the bnb service right now because I don’t want to see my girl has any chance to be harassed at my own home."
+    player "Лично я хочу закрыть сервисное обслуживание отеля прямо сейчас, потому что я не хочу, чтобы моей девушки домогались в моём собственном доме."
 
 
 
     scene a_final_40 with tstmgr
 
-    player "But... I think you should be the one that makes the decision. After all, you are the one in charge of our bnb service."
+    player "Но... я думаю, ты сама должна принять решение. В конце концов, ты отвечаешь за сервис нашего отеля."
 
 
 
-    player "If you think this job has caused you any trouble, then let’s just close it."
+    player "Если ты считаешь, что эта работа доставляет тебе какие-то неприятности, то давай просто прекратим её."
 
 
 
-    player "But if you are still enjoying it, then... ..."
+    player "Но если она тебе всё ещё нравится, то... ..."
 
 
 
     scene a_final_41 with tstmgr
 
-    a "I’m enjoying it~"
+    a "Она мне нравится~"
 
 
 
-    a "I mean, I really love to cook and do the housework. It would give me a great sense of accomplishment when I see people are satisfied with my food or hear them admire my housework skill."
+    a "Я имею в виду, я действительно люблю готовить и делать работу по дому. Когда я вижу, что люди довольны моей едой, или слышу, как они восхищаются моим умением работать по дому, это даёт мне огромное чувство выполненного долга."
 
 
 
     scene a_final_42 with tstmgr
 
-    a "It makes me feel like... ... I am useful."
+    a "Это заставляет меня чувствовать, что... ...я приношу пользу."
 
 
 
     scene a_final_43 with tstmgr
 
-    a "I don’t have a high level of education, I don’t have any other skills that are worth telling. Cooking and houseworking... ... These are the only things that I am proud of myself."
+    a "У меня нет высокого уровня образования, у меня нет других навыков, о которых стоит рассказывать. Готовка и работа по дому... ... Это единственное, чем я горжусь."
 
 
 
@@ -607,7 +607,7 @@ label A_final:
 
     scene a_final_44 with tstmgr
 
-    a "Besides... ... if you close the bnb service now, I will really be bored to death to stay in the house alone when you are out for work."
+    a "Кроме того... ...если ты сейчас закроешь сервисное обслуживание отеля, мне действительно будет смертельно скучно оставаться дома одной, когда ты будешь на работе."
 
 
 
@@ -618,60 +618,60 @@ label A_final:
     label A_final_choice_1:
 
     menu:
-        "Don’t close the bnb service yet":
+        "Пока что не закрывать сервис отеля":
 
 
             scene a_final_45 with tstmgr
 
-            player "Okay then, I won’t close it for now. But I need you to promise me that you will let me know if you change your mind."
+            player "Ладно, пока не буду закрывать. Но мне нужно, чтобы ты пообещала мне, что дашь мне знать, если передумаешь."
 
-            player "And please take care of yourself when I am not home."
+            player "И, пожалуйста, береги себя, когда меня нет дома."
 
             scene a_final_47 with tstmgr
 
-            a "I will~ Come on, I’m not a kid anymore~"
+            a "Конечно, буду~ Да ладно тебе, я уже не ребёнок~"
 
-            a "*Kissing* ... ... ... ..."
+            a "*Поцелуй* ... ... ... ..."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Do the job with her together (Вера’s happy end)":
+        "Заниматься работой вместе с ней (хорошая концовка Веры)":
 
 
 
 
-            "*This is Вера’s solo ending, it happens in a route which you only fell in love with Вера and no other girls have moved into your house.*"
+            "*Это одиночная концовка Веры, она случается в руте, где ты влюбился только в Веру и никакие другие девушки не переехали в твой дом.*"
 
             scene a_final_45 with tstmgr
 
-            player "Alright, if it is something you wish, then let’s just keep the bnb service running."
+            player "Хорошо, если ты этого хочешь, давай продолжим сервисное обслуживание отеля."
 
-            player "But I have to say my worry is still there. It is not a good choice to leave you alone in the house with any clingy guests. This is not what a man should do."
+            player "Но я должен сказать, что моё беспокойство никуда не делось. Оставлять тебя одну в доме с назойливыми гостями — не лучший выбор. Это не то, как должен поступать мужчина."
 
-            a "But what can you do?"
+            a "Но что ты можешь сделать?"
 
-            player "I can quit my job in the Shinyrost company and stay in the house with you together."
+            player "Я могу уволиться с работы в компании Shinyrost и оставаться дома вместе с тобой."
 
             scene a_final_46 with tstmgr
 
-            a "What?"
+            a "Что?"
 
-            player "I have saved enough money from work. We can live a good life even after I quit my job."
+            player "Я скопил достаточно денег на работе. Мы сможем жить хорошей жизнью даже после того, как я уволюсь с работы."
 
-            a "But... you are not the kind of person who would be satisfied to stay at home."
+            a "Но... ты не тот человек, который был бы доволен оставаться дома."
 
-            player "What are you talking about? I will be satisfied as hell as long as I am staying with you."
+            player "О чём ты говоришь? Я буду чертовски доволен до тех пор, пока остаюсь с тобой."
 
             scene a_final_47 with tstmgr
 
             a "[P]~~~"
 
-            player "You just have to teach me how to do the housework~"
+            player "Ты просто должна научить меня делать работу по дому~"
 
             scene a_final_48 with tstmgr
 
-            a "I’ll make you the best househusband in town... ..."
+            a "Я сделаю из тебя лучшего домохозяина в городе... ..."
 
             "... ... ... ..."
 
@@ -681,57 +681,57 @@ label A_final:
 
             "... ... ... ... ... ... ... ..."
 
-            "So... this is it. I quit my job the next Monday, and began to manage the bnb business with Вера together."
+            "В общем... вот так вот. Я уволился с работы в следующий понедельник и начал вместе с Верой управлять отельным бизнесом."
 
-            "I became, a househusband."
+            "Я стал домохозяином."
 
-            "I would never have dreamed that one day I would quit my work and willingly become a househusband. Love can really change a man~"
+            "Я никогда бы не подумал, что однажды брошу работу и добровольно стану домохозяином. Любовь действительно способна изменить человека~"
 
-            "And I hadn’t really realized how hard housework can be until I really began to do it."
+            "И я действительно не осознавал, насколько тяжёлой может быть работа по дому, пока я сам не начал её делать."
 
             scene a_final_49 with dissolve
 
-            player "Oh my god... ... This is so tiring. Do we really have to clean the tub every day?"
+            player "Боже мой... ... Это так утомительно. Нам серьёзно нужно мыть ванну каждый день?"
 
             scene a_final_50 with tstmgr
 
-            a "Of course, you have no idea how dirty it will be after one bath."
+            a "Конечно, ты не представляешь, насколько грязной она будет после одного купания."
 
-            player "Did you do this for us every day?"
+            player "Ты делала это для нас каждый день?"
 
-            a "Yeah, of course. The tub won’t clean itself~"
+            a "Да, конечно. Ванна не очищается сама~"
 
-            player "Damn, I feel so guilty about this... ... I enjoyed having a bath every day but I had no idea about how much work you have done to keep it clean."
+            player "Чёрт, я чувствую себя таким виноватым из-за этого... ...Мне нравилось принимать ванну каждый день, но я понятия не имел, сколько работы ты проделываешь, чтобы содержать её в чистоте."
 
             scene a_final_51 with tstmgr
 
-            a "We all have our work to do. For me, keeping the house clean and making you happy is the most important job~"
+            a "У всех нас есть своя работа. Для меня содержать дом в чистоте и делать тебя счастливым — самая важная работа~"
 
             player "Вера... ..."
 
             scene a_final_52 with tstmgr
 
-            player "From now on I will clean the tub every day. It’s time for me to do something for you~"
+            player "С этого момента я буду чистить ванну каждый день. Пришло время мне сделать что-то для тебя~"
 
-            a "Awwwww~~~ [P]~~~ Love you~"
+            a "Оууууу~~~ [P]~~~ Люблю тебя~"
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "After I quit my job in the Shinyrost company, our financial status inevitably went strained, but it was not a big deal at all~"
+            "После того, как я уволился с работы в компании Shinyrost, наше финансовое положение неизбежно ухудшилось, но это было совсем неважно~"
 
-            "Now we would discuss coupons together, and I began to go to grocery stores with her for buying on-sale food."
+            "Теперь мы вместе обсуждали купоны, и я стал ходить с ней в продуктовые магазины, чтобы купить продукты на распродаже."
 
             scene a_final_53 with dissolve
 
-            player "Should we get some beef?"
+            player "Может, нам взять немного говядины?"
 
             scene a_final_54 with tstmgr
 
-            a "Ah, yeah, but not that one, let’s take a look at the one on that shelf first. That one is cheaper."
+            a "Ах, да, но не эту, давай сначала взглянем на ту, что на другой полке. Она дешевле."
 
-            player "Oh, okay."
+            player "Ох, хорошо."
 
             scene a_final_55 with tstmgr
 
@@ -739,33 +739,33 @@ label A_final:
 
             scene a_final_56 with tstmgr
 
-            a "This is... so romantic~"
+            a "Это... так романтично~"
 
 
 
-            player "Romantic? What are you talking about?"
+            player "Романтично? О чём ты говоришь?"
 
 
 
-            a "When I was a girl, I always dreamed that one day I could go shopping in the grocery stores with my lover. It was like the most romantic thing to me~"
+            a "Когда я была маленькой, я всегда мечтала, что однажды смогу ходить по магазинам со своим возлюбленным. Для меня это было самым романтичным~"
 
 
 
-            player "I thought normally people would consider going on a cruise or having a candlelight dinner as romantic... ... Shopping in the grocery stores? That was like the least romantic thing to most people~"
+            player "Я думал, что обычно люди считают романтичным круиз или ужин при свечах... ... Покупки в продуктовых магазинах? Для большинства людей это было бы самой неромантичной вещью в мире~"
 
 
 
-            a "All those things, cruise... candlelight dinner... ... They feel so unreal to me. They are not... ... close to life enough. In my opinion, the most romantic thing should be something normal but lovable~"
+            a "Все эти вещи, круиз... ужин при свечах... ... они кажутся мне такими нереальными. Они ... ...недостаточно близки к жизни. На мой взгляд, самым романтичным должно быть что-то обычное, но милое~"
 
 
 
             scene a_final_57 with tstmgr
 
-            a "Dating in a grocery store with the love of my life, ah~ what can be better than that?~"
+            a "Свидание в продуктовом магазине с любовью всей моей жизни, ах~ что может быть лучше этого?~"
 
 
 
-            player "Ha~~~"
+            player "Ха~~~"
 
 
 
@@ -775,61 +775,61 @@ label A_final:
 
 
 
-            "On the other hand, our house became a little less popular on the bnb websites after I started showing up more in the house. It seems like my presence did reduce some guests who came here simply to hit on her. I’m happy to know that because it means I didn’t quit my job for nothing~"
+            "С другой стороны, наш дом стал немного менее популярным на сайтах B&B после того, как я стал чаще появляться в доме. Похоже, моё присутствие уменьшило количество гостей, пришедших сюда просто для того, чтобы поприставать к ней. Я рад этому, потому что это означает, что я не ушёл с работы напрасно~"
 
 
 
-            "Some of my friends didn’t understand my decision though. ‘You are going to regret it in two months. Staying in your house every day is boring as hell’ they said."
+            "Однако некоторые из моих друзей не поняли моего решения. ‘Ты пожалеешь об этом через два месяца. Сидеть дома каждый день чертовски скучно’ сказали они."
 
 
 
-            "But... well, they have no idea about how exciting my home life can be~"
+            "Но... ладно, они понятия не имеют о том, насколько захватывающей может быть моя домашняя жизнь~"
 
 
 
             scene a_final_58 with dissolve
 
-            "Guest A" "Good afternoon, Вера~"
+            "Гость А" "Добрый день, Вера~"
 
 
 
             scene a_final_59 with tstmgr
 
-            a "Oh, morning, I mean, good afternoon, Mr. White."
+            a "О, доброе утро, я имею в виду, добрый день, мистер Уайт."
 
 
 
-            "Guest A" "What are you doing?"
+            "Гость А" "Чем Вы занимаетесь?"
 
 
 
             scene a_final_60 with tstmgr
 
-            a "I just... finished washing the dishes. Now I am... taking a breath... ..."
+            a "Я только что... закончила мыть посуду. Теперь я... перевожу дыхание... ..."
 
 
 
-            "Guest A" "Don't get yourself too tired. Why don’t you ask your boyfriend to do the work for you?"
+            "Гость А" "Не переутомляйтесь. Почему бы Вам не попросить своего парня сделать работу за Вас?"
 
 
 
             scene a_final_61 with tstmgr
 
-            a "He... is busy at something else... ..."
+            a "Он... занят кое-чем другим... ..."
 
 
 
-            a "Are you going out, Mr. White?"
+            a "Вы уходите, мистер Уайт?"
 
 
 
-            "Guest A" "Yeah, I’m going to have a walk in the park, do you want to come too?"
+            "Гость А" "Да, я собираюсь прогуляться в парке, хотите пойти со мной?"
 
 
 
             scene a_final_62 with tstmgr
 
-            a "No... I have housework to do."
+            a "Нет... У меня есть работа по дому."
 
 
 
@@ -837,113 +837,113 @@ label A_final:
 
             $ flashlight()
 
-            a "Ohhhh~~"
+            a "Оооох~~"
 
 
 
             scene a_final_62 with tstmgr
 
-            a "Oh, I was just... coughing."
+            a "О, я просто... закашлялась."
 
 
 
-            "Guest A" "You don’t look so well. Do you need any help?"
+            "Гость А" "Вы не очень хорошо выглядите. Вам помочь?"
 
 
 
-            a "I... I’m fine... ... I just... need a moment."
+            a "Я... я в порядке... ... мне просто... нужна минутка."
 
 
 
-            "Guest A" "Where is your boyfriend? He should stay by your side when you need him."
+            "Гость А" "Где Ваш парень? Он должен оставаться рядом с Вами, когда он Вам нужен."
 
 
 
-            a "He is... ..."
+            a "Он... ..."
 
 
 
             scene a_final_64 with tstmgr
 
-            a "He is really busy with something else~~~"
+            a "Он действительно занят кое-чем другим~~~"
 
 
 
-            "Guest A" "Are you sure you really don’t need any help? Your body is trembling."
+            "Гость А" "Вы уверены, что Вам действительно не нужна помощь? Вы дрожите."
 
 
 
             scene a_final_65 with tstmgr
 
-            a "I’m... fine. Don’t worry about me~~"
+            a "Я в порядке. Не беспокойтесь обо мне~~"
 
 
 
             scene a_final_66 with tstmgr
 
-            a "I just need... a moment alone... ..."
+            a "Мне просто нужно... побыть немного наедине... ..."
 
 
 
             scene a_final_67 with tstmgr
 
-            "Guest A" "Sigh, if you say so."
+            "Гость А" "Ладно, если Вы так говорите."
 
 
 
             scene a_final_66 with tstmgr
 
-            "The guest left... ..."
+            "Гость ушёл... ..."
 
 
 
             scene a_final_67 with tstmgr
 
-            a "Fi... finally... ..."
+            a "Н... наконец-то... ..."
 
 
 
             scene a_final_68 with tstmgr
 
-            player "Hummm~~ hum~~~ Yeah, I can finally make my sound out~"
+            player "Хмммм~~ хм~~~ Да, наконец-то я могу издавать звуки~"
 
 
 
-            player "I almost drowned myself in your juicy pussy~"
+            player "Я чуть не утонул в твоей сочной киске~"
 
 
 
-            a "This is... too risky... ... People may find out any moment... ..."
+            a "Это... слишком рискованно... ... Люди могут догадаться в любой момент... ..."
 
 
 
-            a "But... ... awwww~~ I am enjoying it so much~"
+            a "Но... ... оооо~~ Мне это так нравится~"
 
 
 
             scene a_final_69 with tstmgr
 
-            a "I... I’m cumming~~~"
+            a "Я... я кончаю~~~"
 
 
 
             scene a_final_70 with tstmgr
 
-            "However, I took my face away at the last second before she orgasms."
+            "Однако я убрал лицо в последнюю секунду перед тем, как она испытала оргазм."
 
 
 
             scene a_final_71 with tstmgr
 
-            a "Why... why stop? I was almost... ..."
+            a "Почему... зачем останавливаться? Я была почти... ..."
 
 
 
-            player "You can’t be the one who has all the fun~ You need to make me satisfied first if you want to cum~"
+            player "Ты не можешь быть единственной, кто получает удовольствие~ Сначала ты должна доставить удовольствие мне, если хочешь кончить~"
 
 
 
-            a "Awwwwwwww... ... I... I get it. Let's... let’s go to the toilet~"
+            a "Оуууууууу... ... Я... Я поняла. Давай... пойдём в туалет~"
 
 
 
@@ -953,7 +953,7 @@ label A_final:
 
 
 
-            "Sometime later..."
+            "Некоторое время спустя..."
 
 
 
@@ -963,7 +963,7 @@ label A_final:
 
 
 
-            a "*Kissing* Humm~~ wuummm~~ [P]~~ love you~~~ hummm~~"
+            a "*Поцелуй* Хмм~~ вумммм~~ [P]~~ люблю тебя~~~ хммм~~"
 
 
 
@@ -971,19 +971,19 @@ label A_final:
 
 
 
-            "Вера is skilfully fingering my cock with one hand, and pleasing me with her tongue at the same time. She has become very good at this~"
+            "Вера умело дрочит мой член одной рукой, одновременно ублажая языком. Она стала очень хороша в этом~"
 
 
 
-            a "[P]’s wet penis... ... Want to have it in my wet pussy~~"
+            a "Мокрый пенис [P]... ... Хочу почувствовать его в своей мокрой киске~~"
 
 
 
-            "She is keeping rubbing her pussy against my leg. Oh my... she must be extremely excited right now because she is making my thigh soaking wet."
+            "Она продолжает тереться своей киской о мою ногу. Боже мой... она, должно быть, очень возбуждена сейчас, потому что моё бедро насквозь промокло."
 
 
 
-            a "[P]~~~ hummm~~~ mmm~~ huh~~ so good~~"
+            a "[P]~~~ хм~~~ ммм~~ да~~ так хорошо~~"
 
 
 
@@ -996,11 +996,11 @@ label A_final:
             play sound spank
             $ flashlight()
 
-            a "Awww~~~"
+            a "Оууу~~~"
 
 
 
-            player "You have become such a slut, my girl~"
+            player "Ты стала такой шлюхой, моя девочка~"
 
 
 
@@ -1014,11 +1014,11 @@ label A_final:
             play sound spank
             $ flashlight()
 
-            a "Ohhhhh~~~"
+            a "Ооооооx~~~"
 
 
 
-            a "I am only a slut... when I am with you~ My love~"
+            a "Я шлюха... только когда я с тобой~ Любовь моя~"
 
 
 
@@ -1028,11 +1028,11 @@ label A_final:
 
             scene a_final_75 with tstmgr
 
-            a "Please~ my love~~ I really need your penis right now~~ Please~~ otherwise my pussy will be flooded with my dirty fluid~~"
+            a "Пожалуйста~ любовь моя~~ Мне очень нужен твой член прямо сейчас~~ Пожалуйста~~ иначе моя киска будет залита моей грязной жидкостью~~"
 
 
 
-            player "Alright then~"
+            player "Тогда хорошо~"
 
 
 
@@ -1042,15 +1042,15 @@ label A_final:
 
 
 
-            "Sometime later..."
+            "Некоторое время спустя..."
 
 
 
-            "Guest B" "Hmmmmmm... ... The toilet has been occupied for ten minutes. Shit, how much longer do I have to wait?"
+            "Гость Б" "Хмммммм... ... Туалет занят уже десять минут. Чёрт, сколько мне ещё ждать?"
 
 
 
-            "Meanwhile, in the toilet..."
+            "Тем временем в туалете..."
 
 
 
@@ -1060,41 +1060,41 @@ label A_final:
 
 
 
-            a "Huh~~~ hhh~~ huh~~~ hhh~~ [P]~~~ hhh~~~"
+            a "Ха~~~ ххх~~ хах~~~ ххх~~ [P]~~~ ххх~~~"
 
 
 
-            a "Can't... make any voice out... ... otherwise people will hear us... ..."
+            a "Не могу... издать ни одного звука... ... иначе нас услышат... ..."
 
 
 
-            a "But... ..."
+            a "Но... ..."
 
 
 
-            a "Awwww~~~ www~~ [P]’s penis~~ yes~~~ [P]’s big penis inside me~~~ love it so much~~~"
+            a "Ооо~~~ oxx~~ Пенис [P]~~ да~~~ Большой член [P] во мне~~~ люблю это так сильно~~~"
 
 
 
-            a "I can’t help~~~ I can’t help hold my voice~~~"
+            a "Я не могу сдержать~~~ Я не могу сдержать свой голос~~~"
 
 
 
             scene void with tstmgr
 
-            "Guest B" "Hey, the guy in the toilet! Stop watching porn when you shit! I can hear the moaning even from the outside!"
+            "Гость Б" "Эй, парень в туалете! Хватит смотреть порно, когда срёшь! Я слышу стоны даже снаружи!"
 
 
 
-            player "Oh, eh... sorry~"
+            player "О, э... извините~"
 
 
 
-            "Guest B" "How much longer do you need? I have waited for 20 minutes!"
+            "Гость Б" "Сколько ещё тебе нужно? Я ждал 20 минут!"
 
 
 
-            player "Eh... ... ... ..."
+            player "Э... ... ... ..."
 
 
             stop sound
@@ -1104,27 +1104,27 @@ label A_final:
 
 
 
-            player "Actually, the toilet seems to be clogged. Why don’t you go to the restroom upstairs?"
+            player "На самом деле, туалет, похоже, забит. Почему бы тебе не пойти в туалет наверху?"
 
 
 
-            "Guest B" "Eh... ... So why are you watching porn videos in a clogged toilet?"
+            "Гость Б" "Э... ... Так почему ты смотришь порно в забитом туалете?"
 
 
 
-            player "Hmmmmm... ... Just relaxing myself while I’m trying to fix it?"
+            player "Хммммм... ... Просто расслабляюсь, пока пытаюсь починить его?"
 
 
 
-            "Guest B" "... ... ... ..."
+            "Гость Б" "... ... ... ..."
 
 
 
-            "Guest B" "Whatever... ..."
+            "Гость Б" "Похер... ..."
 
 
 
-            "The guest left... ..."
+            "Гость ушёл... ..."
 
 
             stop sound
@@ -1134,35 +1134,35 @@ label A_final:
 
 
 
-            a "Awwwww~~~ Do I really sound like a woman in the porn videos?"
+            a "Оооо~~~ Я действительно похожа на девушку из порноролика?"
 
 
 
-            player "That’s a compliment, Вера. Your moaning is as sexy as those porn stars~"
+            player "Это комплимент, Вера. Твои стоны так же сексуальны, как у порнозвезды~"
 
 
 
-            a "For... for real?~~ Will you be more excited... hearing my moaning?"
+            a "На... на самом деле?~~ Возбудишься ли ты сильнее... услышав мой стон?"
 
 
 
-            player "Definitely~"
+            player "Определённо~"
 
 
 
-            a "I... I’m so happy~~~~ I will... Ohhhh~~ I will go watch porn videos and try to make my moaning sexier~~~"
+            a "Я... Я так счастлива~~~~ Я буду... Оооо~~ Я буду смотреть порно и попробую сделать свои стоны более сексуальными~~~"
 
 
 
-            player "Oh... my Вера~~"
+            player "Ох... моя Вера~~"
 
 
 
-            a "Now please~~ please give me your cum~~ awwwww~~~ I need... I need your cum right now~~"
+            a "А теперь, пожалуйста~~ пожалуйста, дай мне свою сперму~~ оуууу~~~ Мне нужна... Мне нужна твоя сперма прямо сейчас~~"
 
 
 
-            player "I'm cumming!!~~~"
+            player "Я кончаю!!~~~"
 
 
             stop sound
@@ -1170,29 +1170,29 @@ label A_final:
             play sound cumshot
             $ flashlight()
 
-            a "Ohhhhhhhhhhhhhhhhhhhhhh!!~~~~~"
+            a "Оооооооооооооооооооооооооооооо!!~~~~~"
 
 
 
-            a "Wait~~~ No~~~ Ohhhhhh~~ This is~~~~ so... so... so so deep~~~~~"
+            a "Подожди~~~ Нет~~~ Ооооо~~ Это~~~~ так... так... так глубоко~~~~~"
 
 
 
             scene a_final_80 with tstmgr
 
-            a "I can feel... ... your penis has opened the gate of my womb... ..."
+            a "Я чувствую... ...твой пенис открыл врата моей матки... ..."
 
 
 
             scene a_final_81 with tstmgr
 
-            a "All your sperm... is irrigated directly into it~~~"
+            a "Вся твоя сперма... попадает прямо в неё~~~"
 
 
 
             scene a_final_82 with tstmgr
 
-            a "This time... this time I’ll definitely get fertilized~~~ I can feel it~~~ ohhhhh~~~~"
+            a "На этот раз... на этот раз я обязательно забеременею~~~ Я чувствую это~~~ оооооо~~~~"
 
 
 
@@ -1206,67 +1206,67 @@ label A_final:
 
 
 
-            "Her feeling was correct. Three months later, we happily found out that she was really pregnant. Her long-cherished dream finally came true."
+            "Её чувство не подвело. Через три месяца мы с радостью узнали, что она действительно беременна. Её давняя заветная мечта наконец-то сбылась."
 
 
 
-            "I closed the bnb service as soon as we found out she was pregnant because I wanted to provide her the best environment for nourishing the fetus."
+            "Я закрыл сервис отеля, как только мы узнали, что она беременна, потому что хотел обеспечить ей наилучшие условия для кормления плода."
 
 
 
-            "Now I am responsible for all the housework and I am enjoying doing it. I also began to write articles online to make some money."
+            "Теперь я отвечаю за всю работу по дому, и мне нравится это делать. Я также начал писать статьи в интернете, чтобы заработать немного денег."
 
 
 
-            "I used to think that a man’s life should be full of adventures and excitements, but now... I’m just happy to stay with the woman I love at home and live a relaxed life with her."
+            "Раньше я думал, что жизнь мужчины должна быть полна приключений и волнений, но теперь... Я просто счастлив быть с любимой девушкой дома и жить с ней спокойной жизнью."
 
 
 
-            "It’s not bad... to be normal."
+            "Это не плохо... быть нормальным."
 
             "... ... ... ..."
 
-            "Five months later after Вера was pregnant... ..."
+            "Через пять месяцев после того, как Вера забеременела... ..."
 
             scene a_final_83 with dissolve
 
-            a "I can feel it. The baby is kicking me again~"
+            a "Я чувствую это. Малыш снова пинает меня~"
 
 
 
-            a "She is... so energetic, just like her father~"
+            a "Она... такая энергичная, как и её отец.~"
 
 
 
-            a "Do you want to put your face on my belly and feel your daughter’s heartbeat, darling?"
+            a "Хочешь приложить лицо к моему животу и почувствовать сердцебиение своей дочери, дорогой?"
 
 
 
             scene a_final_84 with tstmgr
 
-            player "I’m afraid I will scare her again with my heavy breath~"
+            player "Боюсь, я снова напугаю её своим тяжёлым дыханием~"
 
 
 
-            a "Then just hold your breath~"
+            a "Тогда просто задержи дыхание~"
 
 
 
-            player "That will be too hard for me... ..."
+            player "Это будет слишком сложно для меня... ..."
 
 
 
-            player "I mean, there is a small living thing inside your belly! Come on, this is just... ... wow... ..."
+            player "Я имею в виду, в твоём животе маленькое живое существо! Да ладно, это просто... ... вау... ..."
 
 
 
             scene a_final_85 with tstmgr
 
-            player "Life is such a miracle~"
+            player "Жизнь - это такое чудо~"
 
 
 
-            a "You and I... we made this miracle together."
+            a "Ты и я... мы сделали это чудо вместе."
 
 
 
@@ -1276,37 +1276,37 @@ label A_final:
 
             scene a_final_86 with tstmgr
 
-            a "When we first met in the nightclub, I thought you were just another playboy who plays with a girl’s heart for fun."
+            a "Когда мы впервые встретились в ночном клубе, я подумала, что ты просто очередной плейбой, который ради забавы играет с сердцами девушек."
 
 
 
-            a "I thought about ignoring you when you tried to hit on me. Ahhhh... ... I am so glad that I didn’t do that~"
+            a "Я думала о том, чтобы проигнорировать тебя, когда ты пытался приставать ко мне. Аааа... ... Я так рада, что не сделала этого~"
 
 
 
-            a "What would my life have been like if I didn’t meet you? I can’t even imagine."
+            a "Какой была бы моя жизнь, если бы я не встретила тебя? Я даже не могу представить."
 
 
 
-            a "Thank you for bringing color to my life, my love, and thank you for making this little miracle with me together~"
+            a "Спасибо тебе за то, что привнёс краски в мою жизнь, любовь моя, и спасибо тебе за то, что сотворил это маленькое чудо вместе со мной~"
 
 
 
-            a "You changed... everything in my world~"
+            a "Ты изменил... всё в моём мире~"
 
 
 
             scene a_final_87 with tstmgr
 
-            player "I want to say the same thing to you, Вера."
+            player "Я хочу сказать тебе то же самое, Вера."
 
 
 
-            player "You were right about me when we first met, I was indeed a playboy~ And look what I am now? A damn good homemaker~"
+            player "Ты была права насчёт меня, когда мы впервые встретились, я действительно был плейбоем~ И посмотри, какой я сейчас? Чертовски хороший домохозяин~"
 
 
 
-            player "It is all because of you~ You have changed me... into a better person..."
+            player "Это всё благодаря тебе~ Ты изменила меня... в лучшую сторону..."
 
 
 
@@ -1316,49 +1316,49 @@ label A_final:
 
             scene a_final_88 with tstmgr
 
-            player "*Kissing belly* ... ... ... ..."
+            player "*Целуя живот* ... ... ... ..."
 
 
 
-            a "Ahhhh~~ hhh~ [P]~~~"
+            a "Аааах~~ хах~ [P]~~~"
 
 
 
             scene a_final_89 with tstmgr
 
-            a "I must be... the happiest woman in the world~"
+            a "Я, должно быть... самая счастливая женщина в мире~"
 
 
 
             scene a_final_90 with tstmgr
 
-            player "Oh~ I think the baby just kicked me through your belly~"
+            player "О~ Я думаю, ребёнок только что пнул меня через твой живот~"
 
 
 
-            player "Hmmmm... ... wait, why is there water on your pussy?"
+            player "Хмммм... ... подожди, почему на твоей киске вода?"
 
 
 
-            player "Shit! Your water is broken?"
+            player "Дерьмо! У тебя отошли воды?"
 
 
 
             scene a_final_91 with tstmgr
 
-            a "No, silly... ... It has only been five months~"
+            a "Нет, глупый... ... Я только на пятом месяце~"
 
 
 
-            a "That was just... the fluid of excitement... ..."
+            a "Это просто... жидкость от возбуждения... ..."
 
 
 
-            player "One single kiss on your belly can make you excited? You are so damn horny~"
+            player "Один-единственный поцелуй в живот может тебя возбудить? Ты чертовски похотливая~"
 
 
 
-            a "That’s... all your fault... ... You have made me a horny and shameless woman... ... I don’t even wear anything at home anymore after we closed the bnb service."
+            a "Это... ты во всём виноват... ... Ты сделал меня похотливой и бесстыдной женщиной... ... Я даже ничего не ношу дома после того, как мы закрыли сервис отеля."
 
 
 
@@ -1366,11 +1366,11 @@ label A_final:
 
 
 
-            a "Would you please... clean the water in my pussy for me? It is... for the baby’s good~"
+            a "Не мог бы ты... очистить мою киску от жидкости? Это... на благо ребёнка~"
 
 
 
-            player "You don’t even have to ask~"
+            player "Тебе даже не нужно спрашивать~"
 
 
 
@@ -1380,7 +1380,7 @@ label A_final:
 
 
 
-            "Вера then climbed on the top of me and began to rub my face with her wet pussy... ..."
+            "Затем Вера забралась на меня сверху и начала тереться о моё лицо своей мокрой киской... ..."
 
 
 
@@ -1390,31 +1390,31 @@ label A_final:
 
 
 
-            player "Вера... ohhhhhh~~~"
+            player "Вера... оххххх~~~"
 
 
 
-            "Although she has gained a lot of weight lately, she is trying so hard not to put too much weight on my face."
+            "Хотя в последнее время она сильно набрала вес, она изо всех сил старается не садиться до конца на моё лицо, чтобы мне не было тяжело."
 
 
 
-            player "*Licking* Simm~~ hummmm~~ so good~~ hummmm~~"
+            player "*Лижет* лизь~~ хммм~~ так хорошо~~ хммм~~"
 
 
 
-            a "Ahhh~~ Yes, lick my pussy like that, my love~~~"
+            a "Ааа~~ Да, лижи мою киску вот так, любовь моя~~~"
 
 
 
-            a "Use your tongue... yes~~~ awwwww~~~"
+            a "Используй язык... да~~~ ооооо~~~"
 
 
 
-            a "Please let me know... if I’m pressing you too hard~~"
+            a "Пожалуйста, дай мне знать... если я давлю на тебя слишком сильно~~"
 
 
 
-            player "*Licking* Not at all~~ hummm~~ mmmm~~ I’m enjoying it so much~~~"
+            player "*Лижет* Вовсе нет~~ хмм~~ мммм~~ Мне это так нравится~~~"
 
 
 
@@ -1424,31 +1424,31 @@ label A_final:
 
 
 
-            a "Awwww~~ yes~ yes~~~ yes~~~ keep licking~~ yes~~~"
+            a "Ооо~~ да~ да~~~ да~~~ продолжай лизать~~ да~~~"
 
 
 
-            a "This feels so good~~~ ohhhhh~~~ Your magic tongue~~~"
+            a "Это так приятно~~~ оооо~~~ Твой волшебный язык~~~"
 
 
 
-            player "*Licking* Вера... Вера... ... simmm~~ zimmm~~ so juicy... ..."
+            player "*Лижет* Вера... Вера... ... лизь~~ лиззь~~ такая сочная... ..."
 
 
 
-            a "Ahhhh~~ you are biting my labia~~~"
+            a "Аааа~~ ты кусаешь мои губы~~~"
 
 
 
-            a "I... I can’t hold anymore~~"
+            a "Я... я больше не могу сдерживаться~~"
 
 
 
-            a "You didn’t clean the water on my pussy... instead you are making my pussy wetter and wetter~~~ Ohhhhhh~~~"
+            a "Ты не очистил мою киску от жидкости... вместо этого ты делаешь её всё более и более влажной~~~ Ооооооо~~~"
 
 
 
-            a "Haaaaaaahh~~~ I... I’m cumming!!~~~~"
+            a "Хааааааа~~~ Я... я кончаю!!~~~~"
 
 
 
@@ -1456,39 +1456,39 @@ label A_final:
 
             $ flashlight()
 
-            a "Ohhhhhhhhhhhhhhhhhhh!~~~~~"
+            a "Оооооооооооооооооооооооооо!~~~~~"
 
 
 
-            "Вера orgasmed greatly and squirted co much water out from her pussy..."
+            "Вера испытала сильный оргазм и сквиртанула..."
 
 
 
-            player "Glug~ glug~ glug~"
+            player "Глык~ глык~ глык~"
 
 
 
             scene a_final_95 with tstmgr
 
-            player "Вера’s love juice... so sweet... ..."
+            player "любовный сок Веры... такой сладкий... ..."
 
 
 
-            a "Yes~ yes~ I love the way you suck my pussy~"
+            a "Да~ да~ Мне нравится, как ты сосёшь мою киску~"
 
 
 
             scene a_final_96 with tstmgr
 
-            a "Thank you for satisfying me with your tongue, my love."
+            a "Спасибо, что доставил мне удовольствие своим языком, любовь моя."
 
 
 
-            a "Now let me... help you take care of this with my hands~"
+            a "А теперь позволь мне... помочь тебе позаботиться об этом своими руками~"
 
 
 
-            "Вера took my dick out of my pants and started giving me a handjob."
+            "Вера достала мой член из штанов и начала дрочить."
 
 
 
@@ -1530,21 +1530,21 @@ label A_final:
 
             scene a_final_97 with tstmgr
 
-            player "Ahhhh~~~ Shit, I’m cumming!"
+            player "Аааа~~~ Чёрт, я кончаю!"
 
 
 
             scene a_final_98 with tstmgr
 
-            a "Wait a second, my love, try to hold your cum~"
+            a "Подожди секунду, любовь моя, постарайся сдержать свою сперму~"
 
 
 
-            "She suddenly blocked my dickhole with a hand, and that literally stopped my sperm from bursting out."
+            "Она внезапно закрыла мой член рукой, и это буквально остановило мою сперму."
 
 
 
-            player "Ohhhhhhhhh, shit!!! What are you doing?!"
+            player "Ооооооооооооооооо, чёрт! Что ты делаешь?!"
 
 
 
@@ -1562,35 +1562,7 @@ label A_final:
 
             scene a_final_99 with tstmgr
 
-            a "I just want you to hold for a little bit longer~"
-
-
-
-            scene a_final_98 with tstmgr
-
-            pause
-
-
-
-            scene a_final_99 with tstmgr
-
-            pause
-
-
-
-            scene a_final_98 with tstmgr
-
-            pause
-
-
-
-            scene a_final_99 with tstmgr
-
-            pause
-
-
-
-            "I can feel my urethra is filled with my sperm, but she is still blocking my hole and not letting my sperm out! Ohhhhh~~~ Where did she learn this trick?"
+            a "Я просто хочу, чтобы ты продержался ещё немного~"
 
 
 
@@ -1614,21 +1586,49 @@ label A_final:
 
             scene a_final_99 with tstmgr
 
-            player "I... I can’t take it anymore. I need to cum right now otherwise my dick is gonna explode!"
+            pause
 
 
 
-            a "Okay then... ..."
+            "Я чувствую, как мой член наполнен спермой, но она всё ещё закрывает его и не выпускает сперму! Оооо~~~ Где она научилась этому трюку?"
+
+
+
+            scene a_final_98 with tstmgr
+
+            pause
+
+
+
+            scene a_final_99 with tstmgr
+
+            pause
+
+
+
+            scene a_final_98 with tstmgr
+
+            pause
+
+
+
+            scene a_final_99 with tstmgr
+
+            player "Я... я больше не могу. Мне нужно кончить прямо сейчас, иначе мой член взорвётся!"
+
+
+
+            a "Тогда ладно... ..."
 
 
 
             scene a_final_100 with tstmgr
 
-            a "Now, my love, cum in my breasts as you want~"
+            a "Теперь, любовь моя, кончай мне на грудь сколько хочешь~"
 
 
 
-            player "Ohhhhhhhhhhh Shit!!!!!!~~~~~"
+            player "Оооо, чёрт!!!!!!~~~~~"
 
 
 
@@ -1636,47 +1636,47 @@ label A_final:
             play sound cumshot
             $ flashlight()
 
-            player "Ohhhhhhhhhhhhhhhhhhhhhhhhhhhhh!!!!!~~~~~~"
+            player "Оооооооооооооооооооооооооооооооооо!!!!!~~~~~~"
 
 
 
-            "This is definitely the greatest orgasm I have in so many years! Oh my god... ..."
+            "Это определённо самый сильный оргазм, который у меня был за столько лет! Боже мой... ..."
 
 
 
-            "It suddenly reminds me of what it was like when I masturbated for the first time. That pleasure... that excitement for the unknown... Awwwww... ... I think I’m gonna cry~~~"
+            "Это внезапно напомнило мне о том, как я впервые подрочил. Это удовольствие... это волнение перед неизвестным... Оууууу... ... Думаю, я сейчас расплачусь~~~"
 
 
 
             scene a_final_102 with tstmgr
 
-            a "Do you enjoy it, my love?"
+            a "Тебе понравилось, любовь моя?"
 
 
 
-            player "Вера... you... ... you are so fucking amazing... ..."
+            player "Вера... ты... ... ты такая чертовски потрясающая... ..."
 
 
 
-            a "Now... ... do you still have energy for another round?"
+            a "А теперь... ...у тебя ещё есть силы для следующего раунда?"
 
 
 
-            a "I want to... feel your cock with my pussy... ..."
+            a "Я хочу... почувствовать твой член своей киской... ..."
 
 
 
-            player "Won’t we interrupt the baby?"
+            player "Мы не потревожим ребёнка?"
 
 
 
             scene a_final_107 with tstmgr
 
-            a "Don’t worry, she won’t be interrupted... as long as your cock doesn’t go too deep~~"
+            a "Не волнуйся, мы ему не помешаем... если ты не будешь входить в меня слишком глубоко~~"
 
 
 
-            player "If you say so... ..."
+            player "Если ты так говоришь... ..."
 
 
 
@@ -1686,31 +1686,31 @@ label A_final:
 
 
 
-            a "Haah~~ ahhhh~~ yes~~ This is... this is good~~~"
+            a "Хаах~~ ахххх~~ да~~ Это... это хорошо~~~"
 
 
 
-            a "Your dick... won’t go so deep in this position~~"
+            a "Твой член... не входит слишком глубоко в этой позе~~"
 
 
 
-            player "Вера... Did your butt get bigger lately?"
+            player "Вера... Твоя попа стала больше в последнее время?"
 
 
 
-            a "Of course... ... My butt, my breasts... are all growing as my belly grows~"
+            a "Конечно... ... Моя попа, моя грудь... всё растёт вместе с моим животом~"
 
 
 
-            a "Do you think... I’m too fat?"
+            a "Ты думаешь... я слишком толстая?"
 
 
 
-            player "Not at all, you are sexy as always, my love~"
+            player "Совсем нет, ты как всегда сексуальна, любовь моя~"
 
 
 
-            a "That’s... that’s good to hear~~~"
+            a "Это... приятно слышать~~~"
 
 
             stop sound
@@ -1720,23 +1720,23 @@ label A_final:
 
 
 
-            a "Awwwww~~~ [P]~~~ big cock~~~ awwww~~~"
+            a "Оуууу~~~ [P]~~~ большой член~~~ охххх~~~"
 
 
 
-            a "Your cock is making me so excited even if it is not hitting my deepest area~~~"
+            a "Твой член меня так возбуждает, даже если он не касается моей самой глубокой области~~~"
 
 
 
-            a "Ohhhhh~~~ hhhh~~~ hhhh~~~ [P]~~~ hhhh~~~"
+            a "Оооо~~~ хххх~~~ хххх~~~ [P]~~~ хххх~~~"
 
 
 
-            a "I’m gonna lose myself in your thrust again~~~~"
+            a "Я снова схожу с ума от твоих толчков~~~~"
 
 
 
-            player "Вера... yes, my Вера... ... Just immerse in your lust like you always do~"
+            player "Вера... да, моя Вера... ... Просто погрузись в свою похоть, как ты всегда это делаешь~"
 
 
             stop sound
@@ -1746,35 +1746,35 @@ label A_final:
 
 
 
-            a "Ahhh~~~ hhh~~~ hhh~~~ hhh~~~ hhh~~~ hhh~~~ hhh~~~"
+            a "Ахх~~~ ххх~~~ ххх~~~ ххх~~~ ххх~~~ ххх~~~ ххх~~~"
 
 
 
-            a "Can’t... can’t control myself... ... I’m moving too fast but I can’t control myself~~~"
+            a "Не могу... не могу себя контролировать... ...я двигаюсь слишком быстро, но не могу себя контролировать~~~"
 
 
 
-            a "My overgrown saggy tits are bouncing so hard and keeping hitting each other~~ Awwww it hurts... ... but... I can’t control it~~~"
+            a "Мои огромные отвисшие сиськи так сильно подпрыгивают и продолжают бить друг друга~~ Оооохх, это больно... ... но... я не могу это контролировать~~~"
 
 
 
-            a "Yes~~ ohhh~~ yes~~~ [P]~~~ my love~~~ yes~~~"
+            a "Да~~ ооо~~ да~~~ [P]~~~ моя любовь~~~ да~~~"
 
 
 
-            a "I can’t... I can’t hold myself anymore~~"
+            a "Я не могу... Я больше не могу сдерживаться~~"
 
 
 
-            player "I’m about to cum too, Вера!!!~~~"
+            player "Я тоже сейчас кончу, Вера!!!~~~"
 
 
 
-            a "Cum outside! Cum outside! Don’t interrupt baby with your hot cum~~~~"
+            a "Кончай наружу! Кончай наружу! Не тревожь малышку своей горячей спермой~~~~"
 
 
 
-            player "I know it!"
+            player "Я знаю!"
 
 
             stop sound
@@ -1782,19 +1782,19 @@ label A_final:
             play sound cumshot
             $ flashlight()
 
-            player "I love you, Вера!!!!!!~~~~~~~"
+            player "Я люблю тебя, Вера!!!!!!~~~~~~~"
 
 
 
-            a "Ohhhhhhhhhhhhhhh~~~~~~~~"
+            a "Ооооооооооооооооооооххх~~~~~~~~"
 
 
 
-            "I took my dick out at the last second before ejaculation and squirted my cum to the sky~"
+            "Я вынул член в последнюю секунду перед семяизвержением и выплеснул свою сперму вверх~"
 
 
 
-            a "That was... so good~~ Oh my love... ..."
+            a "Это было... так хорошо~~ О, любовь моя... ..."
 
 
 
@@ -1804,39 +1804,39 @@ label A_final:
 
 
 
-            "Sometime later... ..."
+            "Некоторое время спустя... ..."
 
 
 
             scene a_final_108 with tstmgr
 
-            player "My love... ... Where did you learn those tricks? You literally made me lose myself on the bed."
+            player "Любовь моя... ... Где ты научилась этим трюкам? В постели ты буквально заставила меня потерять голову."
 
 
 
-            a "You asked me to learn something or develop a hobby... ... So I decided to learn more about the thing I like to do most~"
+            a "Ты просил меня чему-то научиться или найти хобби... ...Поэтому я решила узнать больше о том, что мне нравится делать больше всего~"
 
 
 
-            a "Which is... having sex with you~"
+            a "И это... заниматься с тобой сексом~"
 
 
 
-            a "I began to watch all kinds of porn videos and make notes about all the tricks I see~ It looks like I did a pretty good job, hah?"
+            a "Я начала смотреть всевозможные порноролики и записывать все увиденные трюки~ Похоже, я проделала неплохую работу, а?"
 
 
 
-            player "Yeah... absolutely~"
+            player "Да... это точно~"
 
 
 
             scene a_final_109 with tstmgr
 
-            player "But now I think you should find something else to learn, such as... baby caring~"
+            player "Но теперь, я думаю, тебе стоит научиться чему-то другому, например... уходу за ребёнком~"
 
 
 
-            a "Oh, yes, you are right~ I will start tomorrow~"
+            a "О, да, ты прав~ Я начну завтра~"
 
 
 
@@ -1844,11 +1844,11 @@ label A_final:
 
 
 
-            a "We will be... good parents, right?"
+            a "Мы будем... хорошими родителями, верно?"
 
 
 
-            player "We definitely will~"
+            player "Обязательно~"
 
 
 
@@ -1856,7 +1856,7 @@ label A_final:
 
 
 
-            "*Вера happy end achieved!*"
+            "*Хорошая концовка Веры получена!*"
 
 
 
