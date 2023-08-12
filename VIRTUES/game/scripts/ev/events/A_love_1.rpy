@@ -5,195 +5,195 @@ label A_love_1:
 
     narrator "... ... ... ..."
 
-    narrator "Вера has officially moved into my house. It's good news for me. Although I am not living there, I will get a lot of opportunities to get closer to her."
+    narrator "Вера официально переехала в мой дом. Это хорошая новость для меня. Хотя я там не живу, у меня будет много возможностей сблизиться с ней."
 
-    narrator "Our relationship has improved a lot during these days. She has basically walked out of the unpleasant memory. Now she takes me as a friend. And in fact, I may be her only friend in this city."
+    narrator "За эти дни наши отношения значительно улучшились. Она практически избавилась от неприятных воспоминаний. Теперь она воспринимает меня как друга. И на самом деле, я, возможно, её единственный друг в этом городе."
 
-    narrator "In fact, I think it's about time I pay her a visit."
+    narrator "На самом деле, я думаю, что мне самое время нанести ей визит."
 
-    narrator "I know she has to work through Monday to Saturday, so I'll wait until Sunday."
+    narrator "Я знаю, что она должна работать с понедельника по субботу, так что подожду до воскресенья."
 
     narrator "... ... ... ..."
 
-    narrator "Sunday morning."
+    narrator "Утро воскресенья."
 
     narrator "... ... ... ..."
 
     scene home_background with tstmgr
 
-    narrator "I am here at the house gate."
+    narrator "Я здесь, у ворот дома."
 
-    narrator "Actually, this is my first time visiting this house. My dad has owned it for over three years, but Вера is the first to actually live in it."
+    narrator "На самом деле, я впервые посещаю этот дом. Мой отец владеет им уже более трёх лет, но Вера - первая, кто по-настоящему живёт в нём."
 
-    narrator "Obviously, my dad did not renovate this house. It looks a little bit out-of-style from the outside, but I can take that."
+    narrator "Очевидно, мой отец не ремонтировал этот дом. Со стороны он выглядит немного старомодным, но я могу с этим смириться."
 
     scene home_frontyard_day_background with tstmgr
 
-    narrator "I walked up to the front door and rang the doorbell."
+    narrator "Я подошёл ко входной двери и позвонил в дверной звонок."
 
-    narrator "Ding-dong."
+    narrator "Динь-дон."
 
-    narrator "Ding-dong, ding-dong."
-
-    narrator "... ... ... ..."
-
-    narrator "Emm... She is not at home?"
-
-    narrator "That's weird. Where else would she be on a Sunday morning?"
-
-    narrator "I pressed the button several more times, but still, no one answered."
+    narrator "Динь-дон, динь-дон."
 
     narrator "... ... ... ..."
 
-    narrator "Well, this is strange."
+    narrator "Эмм... Её нет дома?"
 
-    narrator "I do have a duplicate key. Should I enter the house myself?"
+    narrator "Это странно. Где ещё она может быть воскресным утром?"
 
-    narrator "But... is it proper to get in the house without her permission?"
+    narrator "Я нажал кнопку ещё несколько раз, но по-прежнему никто не ответил."
+
+    narrator "... ... ... ..."
+
+    narrator "Что ж, это странно."
+
+    narrator "У меня есть дубликат ключа. Стоит ли мне самому войти в дом?"
+
+    narrator "Но... прилично ли входить в дом без её разрешения?"
 
     scene void with tstmgr
 
-    narrator "Perhaps I should make her a phone call to figure out what happens."
+    narrator "Возможно, мне следует позвонить ей, чтобы выяснить, что происходит."
 
     narrator "... ... ... ..."
 
-    narrator "Du... Du... Du... Du..."
+    narrator "Ту... ту... ту... ту..."
 
-    narrator "She didn't answer the phone, either."
+    narrator "Она не ответила на звонок."
 
-    narrator "I started to get worried about her. What if she is now in the house and having some trouble, for example, carbon monoxide poisoning?"
+    narrator "Я начал беспокоиться за неё. Что, если она сейчас находится в доме и у неё какие-то проблемы, например, отравление угарным газом?"
 
-    narrator "Yeah, I should definitely go inside and check things out."
+    narrator "Да, мне опредёленно стоит зайти внутрь и всё проверить."
 
-    narrator "Thus I opened the door."
+    narrator "Поэтому я открыл дверь."
 
     scene home_livingroom_day_background with tstmgr
 
-    narrator "Well, the furnishings and the decorations inside the house are clean and simple. Вера seems like a nice housekeeper."
+    narrator "Что ж, мебель и убранство внутри дома чистые и простые. Кажется, Вера - хорошая хозяйка."
 
     narrator "... ... ... ..."
 
-    narrator ".... What was that noise?"
+    narrator ".... Что это был за шум?"
 
-    narrator "It sounds like... flowing water."
+    narrator "Это звучит как... текущая вода."
 
-    narrator "I suddenly realized that the noise was coming from the bathroom."
+    narrator "Я вдруг понял, что шум доносится из ванной."
 
-    player "(??? She is at the shower?)"
+    player "(??? Она в душе?)"
 
-    player "(No wonder she didn't hear me knocking the door.)"
+    player "(Неудивительно, что она не слышала, как я стучал в дверь.)"
 
-    narrator "I approached the bathroom door. Yes, someone is having a bath right now."
+    narrator "Я подошёл к двери ванной. Да, прямо сейчас кто-то принимает ванну."
 
     narrator "... ... ... ..."
 
-    narrator "Well then, here comes the hard question."
+    narrator "Что ж, тогда возникает трудный вопрос."
 
-    narrator "What should I do in this situation? Shall I take a peek or not?"
+    narrator "Что мне следует делать в этой ситуации? Мне заглянуть или нет?"
 
     menu:
-        "Take a peek":
-            narrator "A virtuous man like me should never do such a thing, but... ..."
+        "Заглянуть":
+            narrator "Такой порядочный человек, как я, никогда не должен так поступать, но... ..."
 
-            narrator "Sorry, Вера. I just can't fight it right now."
+            narrator "Прости, Вера. Я просто не могу бороться с этим прямо сейчас."
 
-            narrator "I quietly cracked the door open just a bit."
+            narrator "Я тихонько приоткрыл дверь, совсем чуть-чуть."
 
             scene a_love2_1 with tstmgr
 
-            narrator "Oh my God, what am I looking at?"
+            narrator "Боже мой, на что я смотрю?"
 
-            narrator "Holy shit...I can't pull my eyes away. The way the water bounces off her supple tits...the water glistening against her golden wheat-colored skin...flowing along the contours of her gorgeous curves..."
+            narrator "Чёрт возьми... Я не могу оторвать глаз. То, как вода отскакивает от её упругой груди... вода блестит на её золотистой коже пшеничного цвета... струится по контурам её великолепных изгибов..."
 
-            narrator "That body worths a city..."
+            narrator "Это тело стоит целого города..."
 
             scene a_love2_2 with tstmgr
 
-            narrator "She suddenly opened her eyes and sighed."
+            narrator "Она вдруг открыла глаза и вздохнула."
 
-            a "It has been such a long week..."
+            a "Это была такая длинная неделя..."
 
-            narrator "Good, She didn't notice me."
+            narrator "Хорошо, она меня не заметила."
 
             a "... ... ... ..."
 
             scene a_love2_3 with tstmgr
 
-            a "Are they getting bigger again......"
+            a "Неужели они снова становятся больше......"
 
-            narrator "She seemed to shift her attention on her breasts."
+            narrator "Казалось, она переключила внимание на свою грудь."
 
             scene a_love2_4 with tstmgr
 
-            a "I've felt my bra become tighter recently."
+            a "Недавно я почувствовала, что мой лифчик стал теснее."
 
-            a "If I had smaller breasts, I may not be so tired at work. They've been making my shoulders so sore."
+            a "Если бы у меня была грудь поменьше, возможно, я бы не так уставала на работе. Из-за груди у меня так болят плечи."
 
             scene a_love2_5 with tstmgr
 
-            a "I've noticed they have been drawing a lot of attention too..."
+            a "Я также заметила, что они привлекают много внимания..."
 
-            a "Sometimes... I even see people staring...the look in their eyes is so...nasty"
+            a "Иногда... я даже вижу, как люди пялятся... их взгляд такой... мерзкий"
 
-            a "And people always hit my breasts by arms on the bus or metro, pretend like it was a coincidence..."
+            a "И люди всегда бьют меня по груди руками в автобусе или метро, ​​делая вид, что это совпадение...."
 
             scene a_love2_6 with tstmgr
 
             a "... ... ... ..."
 
-            a "Even [P.name] would peek at my breasts sometimes, too..."
+            a "Даже [P.name] иногда поглядывает на мою грудь..."
 
-            a "Does... does he like them?"
+            a "Она... нравится ему?"
 
-            a "Eh... ..."
+            a "Ах... ..."
 
             scene a_love2_7 with tstmgr
 
-            a "Nipples... are getting harder..."
+            a "Соски... становятся твёрже..."
 
-            a "Thinking of [P.name]...excites me?"
+            a "Мысли о [P.name]... возбуждают меня?"
 
             scene a_love2_8 with tstmgr
 
-            a "You should be ashamed, Вера. You are so dirty..."
+            a "Тебе должно быть стыдно, Вера. Ты такая грязная..."
 
             a "... ... ... ..."
 
             scene a_love2_9 with tstmgr
 
-            a "Maybe... I can touch it for a second... only one second."
+            a "Может быть... Я могу коснуться его на секунду... только на одну секунду."
 
-            narrator "She pinches one of her nipples."
+            narrator "Она ущипнула один из сосков."
 
-            a "Nnngh... I shouldn't... but it feels...mmmmm...nice. Ah! When did I become so... erotic?..."
+            a "Нннгх... Я не должна... но это так... ммммм... приятно. Ах! Когда я успела стать такой... эротичной?..."
 
-            a "I must be out of my mind. I have bathed for too long."
+            a "Я, должно быть, сошла с ума. Я слишком долго мылась."
 
-            a "I should... get out..."
+            a "Я должна... выходить..."
 
-            narrator "Ah, damn, I thought she was going to masturbate in the bathtub, but her self-control is way too strong."
+            narrator "Ах, чёрт, я думал, она собирается мастурбировать в ванной, но её самоконтроль слишком силён."
 
-            narrator "I'd better leave before she spots me."
+            narrator "Мне лучше уйти, пока она меня не заметила."
 
             scene void with tstmgr
 
-            narrator "I carefully closed the door, and then quickly left the house."
+            narrator "Я осторожно закрыл дверь, а затем быстро вышел из дома."
 
             narrator "... ... ... ..."
-        "Don't take a peek":
+        "Не подглядывать":
 
 
-            narrator "How could that evil thought come into my mind?"
+            narrator "Как эти дурные мысли могли прийти мне в голову?"
 
-            player "(I am a man of virtue. How could I peek at a bathing girl? That is not virtuous at all)."
+            player "(Я порядочный человек. Как я мог подглядывать за купающейся девушкой? Это совсем непорядочно)."
 
-            player "(I should leave before she comes out)."
+            player "(Я должен уйти до того, как она выйдет)."
 
-            narrator "I left the house quietly."
+            narrator "Я тихо вышел из дома."
 
             narrator "... ... ... ..."
 
-            narrator "After that, I was happy all day long because I knew I have overcome my dark side. Now feel I'm a much more virtuous man."
+            narrator "После этого я был счастлив весь день, потому что знал, что преодолел свою тёмную сторону. Теперь чувствую, что я гораздо более порядочный человек."
 
     stop music fadeout 1.0
 
