@@ -3,259 +3,259 @@ label A_love_2_bLine:
     scene void with tstmgr
     play music sorrow
 
-    narrator "The following plot is from Вера's perspective."
+    narrator "Следующий сюжет с точки зрения Веры."
 
     narrator "... ... ... ..."
 
-    narrator "This afternoon, I was working at the clothing store as usual."
+    narrator "Сегодня днём ​​я, как обычно, работала в магазине одежды."
 
     scene a_love3_1 with tstmgr
 
-    a "Welcome to our store."
+    a "Добро пожаловать в наш магазин."
 
-    "Woman" "You must be kidding me. Вера? Is that you?"
+    "Женщина" "Ты, должно быть, шутишь надо мной. Вера? Это ты?"
 
     scene a_love3_2 with tstmgr
 
-    a "Eh, Sorry. Do we know each other?"
+    a "Ой, извините. Мы знакомы?"
 
-    "Woman" "Did you forget me? I'm Jolin. We were in the same middle school."
+    "Женщина" "Ты забыла меня? Я Джолин. Мы учились в одной средней школе."
 
-    a "Jolin?..."
+    a "Джолин?..."
 
     scene a_love3_1 with tstmgr
 
-    a "Oh, yes, I remember. We even shared the same desk for a few months back in the eighth grade. What a coincidence. How have you been?"
+    a "О, да, я помню. Мы даже сидели за одной партой на протяжении нескольких месяцев в восьмом классе. Какое совпадение. Как твои дела?"
 
-    "Woman" "I am doing very well. My family and I moved to this city 5 years ago. Now I am the financial manager of a local restaurant."
+    "Женщина" "У меня всё очень хорошо. Мы с семьёй переехали в этот город 5 лет назад. Сейчас я работаю финансовым менеджером местного ресторана."
 
-    a "Wow, that's great. I'm so happy for you."
+    a "Ух ты, здорово. Я так рада за тебя."
 
-    "Woman" "So what about you? You were the top student back in our middle school. How did you end up being a... salesperson?"
+    "Женщина" "А что насчёт тебя? Ты была лучшей ученицей в нашей средней школе. Как ты стала... продавцом?"
 
     scene a_love3_3 with tstmgr
 
-    a "I... can't afford to go to college..."
+    a "Я... не могу позволить себе поступить в колледж..."
 
-    "Woman" "Oh, really?"
+    "Женщина" "Ох, правда?"
 
-    "Woman" "I'm sorry to hear that. I thought you must be a social elite now. This is really beyond my expectations."
+    "Женщина" "Мне жаль это слышать. Я думала, ты, должно быть, теперь принадлежишь к элите общества. Это действительно не соответствует моим ожиданиям."
 
     scene a_love3_4 with tstmgr
 
-    a "Please don't make fun of me..."
+    a "Пожалуйста, не смейся надо мной..."
 
-    "Woman" "I didn't mean to do that, but you really should go find a better job. See, this is a city of opportunities. Although you have no educational background, at least you have a pretty face. You know what I'm saying? If you want, you can always use that to earn a living."
+    "Женщина" "Я совсем не собиралась этого делать, но тебе на самом деле стоит найти работу получше. Понимаешь, это город возможностей. Хоть у тебя и нет образования, но у тебя хотя бы красивое лицо. Ты знаешь, о чём я говорю? Если захочешь, ты всегда можешь воспользоваться этим, чтобы заработать на жизнь."
 
-    "Woman" "There are so many rich old dudes out there willing to be your sugar daddy."
+    "Женщина" "На свете так много богатых старых чуваков, желающих стать твоим папиком."
 
     a "... ... ... ..."
 
-    "Woman" "This place is not the small town we came from. Since you are here, you need to embrace all the opportunities."
+    "Женщина" "Это место не тот маленький городок, из которого мы приехали. Поскольку ты здесь, тебе нужно использовать все возможности."
 
-    a "I... won't sell my body."
+    a "Я... не буду продавать свое тело."
 
-    "Woman" "(Sneering) No wonder you became a salesperson."
+    "Женщина" "(С насмешкой) Неудивительно, что ты стала продавцом."
 
     scene a_love3_8 with tstmgr
 
-    a "(Being angry) You!..."
+    a "(Начиная злиться) Ты!..."
 
-    "Woman" "Oh my Gods, look, look who that is!"
+    "Женщина" "О боги, смотрите, смотрите, кто это!"
 
     scene a_love3_6 with tstmgr
 
-    narrator "I look at where she looks. It's [P], he is walking towards us."
+    narrator "Я смотрю туда же, куда и она. Это [П], он идёт к нам."
 
-    "Woman" "You see that handsome guy? That is [P]. His father is one of the wealthiest guys in this country. I have followed him on Instagram for years."
+    "Женщина" "Видишь того красавца? Это [П]. Его отец — один из самых богатых людей в этой стране. Я слежу за ним в Инстаграме в течение многих лет."
 
-    "Woman" "I heard that his father's wealth is currently frozen by the bank. But it won't take long. [P] is still one of the most popular young bachelors in this country. "
+    "Женщина" "Я слышала, что состояние его отца в настоящее время заморожено банком. Но это не займёт много времени. [P] по-прежнему остаётся одним из самых популярных молодых холостяков в этой стране."
 
-    a "Is that so?..."
+    a "Это правда?..."
 
-    "Woman" "What? You never heard of him? He is quite famous on the internet."
+    "Женщина" "Что? Ты никогда не слышала о нём? Он достаточно известен в интернете."
 
-    "Woman" "Oh, don't tell me you could not even afford to buy a smartphone. That will be hilarious, haha..."
+    "Женщина" "О, только не говори мне, что ты не смогла позволить себе купить даже смартфон. Это будет весело, ха-ха..."
 
     scene a_love3_7 with tstmgr
 
     a "... ... ... ..."
 
-    "Woman" "You see, that is the opportunity I'm talking about. If I can get on his bed, my life will definitely change forever. "
+    "Женщина" "Как видишь, это и есть та возможность, о которой я говорю. Если я смогу забраться к нему в постель, моя жизнь определённо изменится навсегда. "
 
-    narrator "[P] is coming closer."
+    narrator "[П] подходит ближе."
 
     player "... ... ... ..."
 
-    player "(I've been here since that woman arrived and heard everything they talked about. It seems like Вера needs some help)"
+    player "(Я был здесь с тех пор, как пришла эта женщина, и слышал всё, о чём они говорили. Кажется, Вере нужна помощь)"
 
-    player "(Emm... I need to find a way to embarrass that arrogant woman and save Вера's face)"
+    player "(Эмм... Мне нужно найти способ смутить эту высокомерную женщину и сохранить лицо Веры)"
 
-    player "(How should I do?)"
+    player "(Как мне поступить?)"
 
     menu:
-        "Pretend Вера is a social elite":
+        "Сделать вид, что Вера — социальная элита":
 
 
-            player "Hi there, Вера."
+            player "Привет, Вера."
 
             scene a_love3_10 with tstmgr
 
             a "... ... ... ..."
 
-            a "Hello, [P]..."
+            a "Привет, [P]..."
 
-            "Woman" "??????"
+            "Женщина" "??????"
 
-            "Woman" "(It can't be... They know each other? How on earth could that happen?)"
+            "Женщина" "(Не может быть... Они знакомы? Как такое могло случиться?)"
 
-            player "Why are you here dressing like a salesperson? I've been looking for you for a long time."
+            player "Почему ты здесь и почему одета, как продавец? Я долго искал тебя."
 
-            a "? What are you..."
+            a "? Что ты..."
 
-            player "You need to behave yourself and stop pretending like someone else. My dad won't be in the company for the next few months, and there will be a lot of things waiting for you to deal with. You have no time to play with your weird habit."
+            player "Тебе нужно вести себя прилично и перестать притворяться кем-то другим. Моего отца не будет в компании в течение следующих нескольких месяцев, и тебе предстоит со многим разобраться. У тебя нет времени забавляться со своей странной привычкой."
 
-            a "?????(What is he talking about?)"
+            a "?????(О чём он говорит?)"
 
-            player "(Looking at Jolin) Is that your friend?"
+            player "(Глядя на Джолин) Это твоя подруга?"
 
             a "... ... ... ..."
 
-            "Woman" "Eh... "
+            "Женщина" "Ах... "
 
-            "Woman" " I'm, I'm Jolin. Me and Вера, we were classmates back in middle school."
+            "Женщина" " Я, я Джолин. Мы с Верой были одноклассницами в средней школе."
 
-            player "Oh, okay."
+            player "Ох, понятно."
 
-            player "Mind if I borrow Вера for a moment? We have some business things to discuss."
+            player "Не возражаете, если я одолжу Веру на минутку? У нас есть кое-какие деловые вопросы для обсуждения."
 
-            "Woman" "Oh, sure, sure..."
+            "Женщина" "О, конечно, конечно..."
 
-            narrator "[P] drew me aside, but I am still confused about what's going on."
+            narrator "[P] отвёл меня в сторону, но я всё ещё не понимаю, что происходит."
 
             scene a_love3_6 with tstmgr
 
-            a "What are you trying to do? You look crazy."
+            a "Что ты пытаешься сделать? Ты выглядишь сумасшедшим."
 
-            player "Well, I am helping you with this situation, you are welcome."
+            player "Что ж, я помогаю тебе выбраться из этой ситуации, обращайся."
 
-            a "What kind of help is that?"
+            a "Что это за помощь?"
 
-            player "Now that woman would believe that you are actually a high-ranked officer in my dad's company. Let's see how she'll react."
+            player "Теперь та женщина поверит, что ты на самом деле высокопоставленный сотрудник в компании моего отца. Давай посмотрим, как она отреагирует."
 
-            a "But..."
+            a "Но..."
 
-            player "Relax. Just listen to me and enjoy this."
+            player "Расслабься. Просто послушай меня и наслаждайся."
 
             scene dressstore_background with tstmgr
 
             narrator "... ... ... ..."
 
-            narrator "After [P] left, Jolin found me again."
+            narrator "После того, как [P] ушёл, Джолин снова нашла меня."
 
-            "Woman" "Are you... work for him and his dad?"
+            "Женщина" "Ты... работаешь на него и его отца?"
 
             scene a_dressstore_unhappy with tstmgr
 
             a "... ... ... ..."
 
-            narrator "\"Keep silent and stay rude.\" That is what [P] told me to do. "
+            narrator "\"Храни молчание и оставайся грубой.\" Это то, что [P] мне сказал делать. "
 
-            "Woman" " I'm, I'm really sorry for what I said before... I don't know..."
-
-            a "... ... ... ..."
-
-            "Woman" "You must think I am a joke..."
+            "Женщина" " Я, я действительно сожалею о том, что сказала раньше... Я не знаю..."
 
             a "... ... ... ..."
 
-            "Woman" "Will you... forgive me?"
+            "Женщина" "Ты, должно быть, думаешь, что я шучу..."
 
             a "... ... ... ..."
 
-            "Woman" "Of course you won't... "
+            "Женщина" "Ты... простишь меня?"
 
-            "Woman" "I'm leaving... "
+            a "... ... ... ..."
 
-            narrator "She suddenly cried out and ran away."
+            "Женщина" "Конечно, ты не станешь... "
+
+            "Женщина" "Я ухожу... "
+
+            narrator "Она вдруг расплакалась и убежала."
 
             scene a_dressstore_weird with tstmgr
 
             a "... ... ... ..."
 
-            a "(Why do I feel a little sorry for her?)"
-        "Pretend Вера is your girlfriend":
+            a "(Почему мне её немного жаль?)"
+        "Сделать вид, что Вера - твоя девушка":
 
 
-            "Woman" "Oh... He is coming to me, he is coming to me, Oh my Gods, he is even smiling at me."
+            "Женщина" "О... Он идёт ко мне, он идёт ко мне, о мои боги, он даже улыбается мне."
 
-            narrator "This woman suddenly stopped talking and acted as demurely as she can. Her eyes glow with anticipation."
+            narrator "Эта женщина внезапно замолчала и начала вести себя настолько скромно, насколько может. Её глаза светятся предвкушением."
 
             scene a_love3_8 with tstmgr
 
-            narrator "But [P] did not even give her a glimpse. He walked straight up to me."
+            narrator "Но [П] даже не взглянул на неё. Он подошёл прямо ко мне."
 
-            player "When will you be off work?"
+            player "Когда ты освободишься?"
 
-            a "Me?"
+            a "Я?"
 
             scene a_love3_9 with tstmgr
 
-            a "About... half an hour later."
+            a "Примерно... через полчаса."
 
-            player "Then I'll wait for you here. Let's go to dinner together."
+            player "Тогда я подожду тебя здесь. Пойдём ужинать вместе."
 
             scene a_love3_10 with tstmgr
 
-            narrator "I'm surprised. He has never asked me to dinner before."
+            narrator "Я удивлена. Он никогда раньше не приглашал меня на ужин."
 
-            narrator "I looked at Jolin. She looked on in stunned silence. Her jaw was practically on the floor. I realized then that [P] was helping me deal with this rude woman."
+            narrator "Я взглянула на Джолин. Она смотрела в ошеломлённом молчании. Её челюсть была практически на полу. Тогда я поняла, что [P] помогает мне справиться с этой грубой женщиной."
 
-            a "Oh... right. Just, please wait for a moment."
+            a "О... точно. Только, пожалуйста, подожди минутку."
 
             scene dressstore_background with tstmgr
 
-            narrator "I turned around and tried to leave. I don't know why, but I felt too shy to look him in the eyes."
+            narrator "Я развернулась и попыталась уйти. Не знаю почему, но я стеснялась смотреть ему в глаза."
 
-            player "Aren't you forgetting something?"
+            player "Ты ничего не забыла?"
 
-            a "What?"
+            a "Что?"
 
             scene a_love3_11 with tstmgr
 
-            narrator "I turned around again and faced him. He suddenly brought his mouth inches from mine."
+            narrator "Я снова повернулась и посмотрела на него. Внезапно его губы оказались в нескольких дюймах от моих."
 
-            narrator "Is he trying to kiss me?"
+            narrator "Он пытается поцеловать меня?"
 
-            narrator "This is all happening so fast. We're not dating. How could he dare to...I don't like him... I think..."
+            narrator "Всё это происходит так быстро. Мы не встречаемся. Как он мог осмелиться... Он мне не нравится... Я думаю..."
 
-            narrator "I must reject him."
+            narrator "Я должна отшить его."
 
             scene a_love3_12 with tstmgr
 
-            narrator "I moved my head a little bit and eluded his mouth."
+            narrator "Я немного повернула голову и ускользнула от его рта."
 
-            a "I'm, I'm still at work. It's... not right."
+            a "Я, я всё ещё на работе. Это... неправильно."
 
-            narrator "??? What am I saying?! I meant to reject him outright but now I just look like I'm being shy."
+            narrator "??? Что я говорю?! Я собиралась сразу отшить его, но теперь я просто выгляжу так, как будто стесняюсь."
 
-            player "Just one kiss. It won't get you fired."
+            player "Всего один поцелуй. Из-за этого тебя не уволят."
 
             scene a_love3_13 with tstmgr
 
-            narrator "He placed his hand on the back of my neck and pulled me in. Our lips touched and I..."
+            narrator "Он положил руку мне на затылок и притянул к себе. Наши губы соприкоснулись, и я..."
 
             narrator "... ... ... ..."
 
-            narrator "Oh God, what just happened?"
+            narrator "О Боже, что только что произошло?"
 
-            narrator "That's my first kiss!"
+            narrator "Это мой первый поцелуй!"
 
-            narrator "He took my virginity, and now he also takes my first kiss! I... I..."
+            narrator "Он лишил меня девственности, а теперь он ещё и забирает мой первый поцелуй! Я... Я..."
 
-            narrator "Wait... why it feels... familiar?"
+            narrator "Подожди-ка... почему это кажется... знакомым?"
 
-            narrator "His lips... his tongue... I feel like I have tasted them before."
+            narrator "Его губы... его язык... Мне кажется, что я уже пробовала их раньше."
 
             scene day3_fix_9 with flashback
 
@@ -263,85 +263,85 @@ label A_love_2_bLine:
 
             narrator "... ... ... ..."
 
-            narrator "A picture appeared in my head. I suddenly recalled something about that night, something about... a long, deep kiss."
+            narrator "В моей голове возникла картинка. Я вдруг вспомнила кое-что о той ночи, что-то о... долгом, глубоком поцелуе."
 
-            narrator "Now I remember...he had already taken my first kiss that night, along with my virginity."
+            narrator "Теперь я вспомнила...в ту ночь он уже забрал мой первый поцелуй вместе с моей девственностью."
 
-            narrator "He is so... bad..."
+            narrator "Он такой... плохой..."
 
             scene a_love3_14 with flashback
 
-            "Woman" "What. The. Fuuuuck!?!?"
+            "Женщина" "Что. За. Хуйня!?!?"
 
-            "Woman" "She... and he... Oh My God..."
+            "Женщина" "Она... и он... Боже мой..."
 
             scene a_love3_15 with tstmgr
 
-            narrator "This kiss only lasted for a very short time. He didn't go too far, but when his mouth left mine, I still felt dizzy."
+            narrator "Этот поцелуй длился совсем недолго. Он не зашёл слишком далеко, но, когда его рот оторвался от моего, у меня всё ещё кружилась голова."
 
-            player "Go on with your work now, I will wait here."
+            player "Продолжай свою работу, а я подожду здесь."
 
             scene dressstore_background with tstmgr
 
-            narrator "I ran off at the first second when he released me. I need... I need to calm down for a while."
+            narrator "Я убежала в ту же секунду, как только он меня отпустил. Мне нужно... Мне нужно немного успокоиться."
 
             player "... ... ... ..."
 
-            "Woman" "Hello..."
+            "Женщина" "Привет..."
 
-            "Woman" "Hi there, I'm Jolin. Me and Вера, we were classmates back in middle school. "
+            "Женщина" "Привет, я Джолин. Мы с Верой были одноклассницами в средней школе. "
 
-            player "Oh, okay."
+            player "Ох, понятно."
 
-            "Woman" "If you don't mind, we can exchange the contact..."
+            "Женщина" "Если не возражаешь, можем обменяться контактами..."
 
-            player "(Decisively interrupting) I don't think that is necessary."
+            player "(Решительно прерывая) Я не думаю, что это необходимо."
 
-            "Woman" "(Replying awkwardly) Oh... okay... fine..."
+            "Женщина" "(Неловко отвечая) О... ладно... хорошо..."
 
-            "Woman" "Eh, is she, is she your girlfriend? "
+            "Женщина" "Эм, она, она твоя девушка? "
 
-            player "Isn't it obvious?"
+            player "Разве это не очевидно?"
 
-            "Woman" "(A little scared) ... ... Sorry, I didn't know."
+            "Женщина" "(Слегка испуганно) ... ... Извини, я не знала."
 
-            "Woman" "I, I'm leaving right now."
+            "Женщина" "Я, я ухожу прямо сейчас."
 
             scene void with tstmgr
 
             narrator "... ... ... ..."
 
-            narrator " (The following plot is back to [P]'s perspective again)."
+            narrator " (Следующий сюжет снова с точки зрения [P])."
 
-            narrator "After a while, Вера got off work. I walked with her, but She seemed very angry."
+            narrator "Через некоторое время Вера ушла с работы. Я пошёл с ней, но она казалась очень сердитой."
 
             scene a_love3_16 with tstmgr
 
-            player "That was my fault, Вера. That kiss was not supposed to happen. I was just trying to help you deal with that arrogant woman."
+            player "Это была моя вина, Вера. Этого поцелуя не должно было случиться. Я просто пытался помочь тебе справиться с этой высокомерной женщиной."
 
             a "... ... ... ..."
 
             scene a_love3_17 with tstmgr
 
-            a "Why bother? It's not the first time you've done that to me anyway."
+            a "Зачем беспокоиться? В любом случае, ты не в первый раз так поступаешь со мной."
 
-            player "Not the first time? What do you mean?"
+            player "Не в первый раз? Что ты имеешь в виду?"
 
-            a "You took my first kiss the night we met. Don't you remember?"
+            a "Ты забрал мой первый поцелуй в ту ночь, когда мы встретились. Разве ты не помнишь?"
 
-            narrator "What? Damn, I can't remember anything clearly about that night. "
+            narrator "Что? Чёрт, я ничего не могу ясно вспомнить о той ночи. "
 
-            player "No... I don't remember a thing. "
+            player "Нет... Я ничего не помню. "
 
-            player "Was... was it a good one?"
+            player "Этот поцелуй... был хорошим?"
 
             scene a_love3_fix_1 with tstmgr
 
-            a "(Flushed) I... ... "
+            a "(Краснея) Я... ... "
 
-            a "I don't know... ..."
+            a "Я не знаю... ..."
 
-            narrator "We looked at each other awkwardly, then headed home together in silence."
+            narrator "Мы неловко переглянулись, а затем молча отправились домой."
 
             scene void with tstmgr
 
