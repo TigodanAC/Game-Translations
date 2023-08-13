@@ -3,221 +3,221 @@ label A_love_4:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight, Вера and I walked back home together from the restaurant as usual. "
+    "Вечером мы с Верой, как обычно, вместе возвращались домой из ресторана."
 
-    "The house is quiet and empty. Seems like all the guests have gone to sleep."
+    "В доме тихо и пусто. Кажется, все гости уже легли спать."
 
     scene a_love_4_2 with tstmgr
 
-    player "God, I'm exhausted..."
+    player "Боже, я так устал..."
 
     scene a_love_4_1 with tstmgr
 
-    a "Shh... ..."
+    a "Шшш... ..."
 
-    a "(Speaking in a low voice) Don't wake the people."
+    a "(Говоря тихим голосом) Не буди людей."
 
-    player "Oh... sorry, my fault."
+    player "О... извини, виноват."
 
-    player "I'm going to take a quick shower before bed, and you?"
+    player "Я собираюсь быстренько принять душ перед сном, а ты?"
 
-    a "I need to do the laundry first. See you tomorrow."
+    a "Сначала мне нужно заняться стиркой. Увидимся завтра."
 
-    player "See you tomorrow."
+    player "До завтра."
 
     scene a_love_4_2 with tstmgr
 
-    player "(On second thought, maybe I should grab a beer before shower...)"
+    player "(Если подумать, может быть, мне стоит выпить пива перед душем...)"
 
-    "I went to the kitchen and took a beer out from the refrigerator. "
+    "Я пошёл на кухню и достал пиво из холодильника."
 
-    "And suddenly, I heard Вера scream. It's not very loud but still audible even in the kitchen."
+    "И вдруг я услышал крик Веры. Он не очень громкий, но всё равно слышен даже на кухне."
 
-    player "(And she asked me not to wake people up...)"
+    player "(И это она попросила меня не будить людей...)"
 
-    "I went to the laundry room and opened the door."
+    "Я пошёл в прачечную и открыл дверь."
 
     scene a_love_4_3 with fade
 
-    player "Oh, dear. What happened?"
+    player "О, Боже. Что случилось?"
 
-    a "Emm... ... ... ..."
+    a "Эмм... ... ... ..."
 
-    "It seems she just fell on the ground."
+    "Кажется, она просто упала на пол."
 
-    player " Are you alright? Are you hurt?"
+    player " С тобой всё в порядке? Ты не ушиблась?"
 
     scene a_love_4_4 with tstmgr
 
-    a "I... I think I'm fine... maybe I'm just too tired."
+    a "Я... Думаю, я в порядке... Может быть, я просто слишком устала."
 
-    a "My left foot hurts... "
+    a "У меня болит левая нога... "
 
-    player "Let me take a look."
+    player "Дай взглянуть."
 
     scene a_love_4_5 with tstmgr
 
-    "I sat on the ground, and carefully held her left foot with my hands."
+    "Я сел на пол и осторожно взял её левую ступню руками."
 
-    player "It didn't swell up, might just be a minor sprain. "
+    player "Она не опухла, возможно, просто небольшое растяжение связок."
 
     scene a_love_4_6 with tstmgr
 
-    a "I... I didn't allow you to touch my foot..."
+    a "Я... я не разрешала тебе прикасаться к моей ноге...."
 
-    player "Oh... Uh... sorry..."
+    player "О... Эм... Извини..."
 
     a "... ... ... ..."
 
     scene a_love_4_7 with tstmgr
 
-    a "Nevermind... it doesn't feel bad though..."
+    a "Не бери в голову... Не сказала бы, что мне неприятно из-за этого..."
 
-    player "That's good to hear."
+    player "Приятно слышать."
 
-    player "Do you want a foot massage? It can reduce the pain and may even release your pressure. "
+    player "Хочешь массаж ног? Он может уменьшить боль и даже снизить давление."
 
-    player "And I'm actually quite confident with my massaging skill."
+    player "И я на самом деле вполне уверен в своих навыках массажа."
 
     scene a_love_4_6 with tstmgr
 
-    a "I don't think... ..."
+    a "Я не думаю... ..."
 
     scene a_love_4_9 with tstmgr
 
-    a "(Moaning) Awwww... ... ... ..."
+    a "(Стоны) Ааххх... ... ... ..."
 
-    "She moaned out when I pressed her sole."
+    "Она застонала, когда я надавил на её ступню."
 
-    player "does it hurt?"
+    player "Тебе больно?"
 
-    a "(Nodding) Em... ..."
+    a "(Кивая) Мхм... ..."
 
-    player "Well, you know, Сеннин once told me that each part of your foot actually reflects one vital organ of your body, so the pain of your sole means that one of your organs is in trouble."
+    player "Знаешь, Сеннин однажды сказала мне, что каждая часть стопы на самом деле отвечает за определённый жизненно важный орган тела, так что боль в твоей ступне означает, что с одним из органов твоего тела проблемы."
 
     scene a_love_4_8 with tstmgr
 
-    a "What? Are you serious? Which organ is it?"
+    a "Что? Ты серьёзно? С каким именно органом?"
 
     player "... ... ... ..."
 
-    player "Forget it, I can't remember what she said. And I don't believe her, either."
+    player "Забудь, я не могу вспомнить, что она сказала. И к тому же я ей не верю."
 
-    player "I mean, my entire foot was hurting as hell when I tried to press it myself, so I went for a body check in a hospital, but turned out I was perfectly healthy."
+    player "Я имею в виду, что вся моя ступня чертовски болела, когда я пытался надавить на неё сам, поэтому я пошёл на обследование в больницу, но оказалось, что я совершенно здоров."
 
     scene a_love_4_10 with tstmgr
 
-    a "... That's funny."
+    a "... Забавно."
 
     scene a_love_4_9 with tstmgr
 
-    a "(Moaning) Aw... ... ... ..."
+    a "(Стоны) Ах... ... ... ..."
 
-    a "(Moaning) Ahh... Just, just make it lighter, please..."
+    a "(Стоны) Ахх... Просто, просто не надавливай так сильно, пожалуйста..."
 
-    player "Roger that, Ma'am."
+    player "Вас понял, мэм."
 
-    "I kept massaging her foot and her moaning became louder and shorter."
+    "Я продолжал массировать её ногу, и её стоны становились всё громче и короче."
 
     scene a_love_4_11 with tstmgr
 
-    a "Ah, ah... Uhh... ... ..."
+    a "Ах, ах... Ухх... ... ..."
 
-    "Well, it starts to sound... erotic."
+    "Ну, это начинает звучать... эротично."
 
-    "Did I just turn her on by touching her foot?... That's surprising."
+    "Я только что возбудил её, прикоснувшись к её ноге?... Удивительно."
 
-    "And I soon realized that her moaning has turned me on as well. My penis is swelling up every second."
+    "И вскоре я понял, что её стоны возбудили и меня. Мой член становится твёрже с каждой секундой."
 
-    "Then finally, I again, let my lust get the better of me."
+    "Затем, наконец, я снова позволил своей похоти взять верх надо мной."
 
     scene a_love_4_12 with tstmgr
 
     player "Вера... ..."
 
-    "I got closer to her. She looked at me, and I saw the fire of desire in her eyes, too."
+    "Я приблизился к ней. Она посмотрела на меня, и я увидел огонь желания в её глазах."
 
-    player "I can't control it anymore..."
+    player "Я больше не могу это контролировать..."
 
-    a "What... are you doing?"
+    a "Что... ты делаешь?"
 
     player "Вера..."
 
     scene a_love_4_13 with tstmgr
 
-    "I went closer, spread her legs, and she didn't stop me."
+    "Я сел поближе, раздвинул её ноги, и она меня не остановила."
 
     a "[P]..."
 
     scene a_love_4_14 with tstmgr
 
-    "She nervously avoided my gaze. How adorable."
+    "Она нервно избегала моего взгляда. Как очаровательно."
 
     scene a_love_4_15 with tstmgr
 
-    "I picked her up on my legs. "
+    "Я посадил её к себе на колени."
 
     a "... ... ... ..."
 
     scene a_love_4_16 with tstmgr
 
-    a "We shouldn't..."
+    a "Мы не должны этого делать..."
 
     scene a_love_4_17 with tstmgr
 
-    "I answered by pulling her even closer."
+    "В ответ я притянул её ещё ближе."
 
-    "Close enough for our mouths to meet. Her trembling breath mingling with mine."
+    "Достаточно близко, чтобы наши губы встретились. Её дрожащее дыхание смешалось с моим."
 
     scene a_love_4_18 with tstmgr
 
-    "I guess she has already figured out what I am trying to do, otherwise why is she looking at me with such an expectation?"
+    "Я думаю, она уже поняла, что я пытаюсь сделать, иначе почему она смотрит на меня с таким ожиданием?"
 
     scene a_love_4_19 with tstmgr
 
     "... ... ... ..."
 
-    "And here comes a wonderful kiss."
+    "За этим последовал чудесный поцелуй."
 
-    "Her lips pressed against mine felt like soft, heavenly clouds. It feels so good... ..."
+    "Её губы, прижавшиеся к моим, были похожи на мягкие небесные облака. Это так приятно... ..."
 
     scene a_love_4_19 with tstmgr
 
-    a "(Slightly Moaning) Ammm... hum... ..."
+    a "(Слегка стонет) Аммм... ммм... ..."
 
     scene a_love_4_20 with tstmgr
 
     player "??????"
 
-    "She started using her tongue on her own and made this kiss a wet one."
+    "Она начала использовать язык и сделала этот поцелуй влажным."
 
-    "This is... beyond my expectations...her tongue dancing against mine is...heaven..."
+    "Это... превосходит все мои ожидания...её язык, танцующий с моим, - это... рай..."
 
-    a "(Erotically Moaning) Mmmm... Ah... Wmm... ..."
+    a "(Эротично стонет) Ммм... Ах... Ммм... ..."
 
     "... ... ... ..."
 
     scene a_love_4_18 with tstmgr
 
-    "We left each other's mouth after a 1-minute long kiss."
+    "Мы оторвались друг от друга после минутного поцелуя."
 
-    player "I never knew you were such a horny girl."
+    player "Я никогда не знал, что ты такая похотливая девушка."
 
-    a "I'm not... ..."
+    a "Я не такая... ..."
 
     scene a_love_4_21 with tstmgr
 
-    a "(Moaning with pleasure) Ah... ..."
+    a "(Стонет от удовольствия) Ах... ..."
 
-    a "(He is kissing my neck... and...)"
+    a "(Он целует меня в шею... и...)"
 
     scene a_love_4_22 with tstmgr
 
-    a "(I can feel... something really hard between his legs...)"
+    a "(Я чувствую... что-то очень твёрдое между его ног....)"
 
     scene a_love_4_23 with tstmgr
 
-    a "(Something... hard and... hot...)"
+    a "(Что-то... твёрдое и... горячее...)"
 
     scene a_love_4_24 with tstmgr
 
@@ -225,19 +225,19 @@ label A_love_4:
 
     scene a_love_4_25 with tstmgr
 
-    "The door suddenly opened."
+    "Дверь внезапно открылась."
 
     scene a_love_4_26 with tstmgr
 
-    "Female Guest" "Oh my goodness... "
+    "Гостья" "О, Боже мой... "
 
-    "Female Guest" "Sorry!!! I didn't know!!!"
+    "Гостья" "Извините!!! Я не знала!!!"
 
-    "The woman immediately shut the door and ran away."
+    "Женщина тут же закрыла дверь и убежала."
 
-    player "(Ahh... damn it...)"
+    player "(Аах... чёрт возьми...)"
 
-    "That woman just ruined the moment. Fuck! "
+    "Эта женщина просто испортила момент. Блять!"
 
     "... ... ... ..."
 
@@ -245,35 +245,35 @@ label A_love_4:
 
     a "[P]... ..."
 
-    a "I guess... we went too far..."
+    a "Я думаю ... мы зашли слишком далеко..."
 
     player "... ... ... ..."
 
-    "I sadly realized that Вера had returned to normal. The fire of desire had disappeared from her eyes."
+    "Я с грустью понял, что Вера пришла в норму. Огонь желания исчез из её глаз."
 
-    "Damn, I was so close!"
+    "Чёрт, я был так близок!"
 
-    a "All of this... was not supposed to happen."
+    a "Всего этого... не должно было случиться."
 
     player "... ... ... ..."
 
-    a "Can you put me down? I think my foot is fine now."
+    a "Ты можешь меня опустить? Думаю, моя нога уже в порядке."
 
-    player "If that is what you want... ..."
+    player "Если это то, чего ты хочешь... ..."
 
     scene a_love_4_28 with tstmgr
 
     "... ... ... ..."
 
-    a "Good night... [P]."
+    a "Спокойной ночи... [P]."
 
     scene void with tstmgr
 
-    "She left the room real quick and forgot about the laundry thing."
+    "Она быстро вышла из комнаты и забыла о стирке."
 
-    player "Shit!"
+    player "Дерьмо!"
 
-    "I'm going to charge that goddamned woman for extra 100 dollars for ruining my time. I don't care if she is going to sue me or not."
+    "Я возьму с этой проклятой женщины дополнительные 100 долларов за то, что она испортила такой момент. Мне всё равно, подаст она на меня в суд или нет."
 
     "... ... ... ..."
 
@@ -281,21 +281,21 @@ label A_love_4:
 
     scene home_livingroom_day_background with tstmgr
 
-    "The next morning. Вера was doing housework in the livingroom."
+    "Следующее утро. Вера занимается домашними делами в гостиной."
 
-    player "Hi, Вера. You got up so early today."
+    player "Привет, Вера. Ты сегодня так рано встала."
 
-    player "And, eh... about last night..."
+    player "И, эм... Насчёт прошлой ночи..."
 
     a "... ... ... ..."
 
-    "She didn't talk with me as she always did, instead, she ran away from the room immediately after seeing me."
+    "Она не стала разговаривать со мной, как всегда, вместо этого она выбежала из комнаты сразу же, как только увидела меня."
 
     player "... ... ... ..."
 
-    "After what happened last night, now she is too shy to face me. I need to fix this."
+    "После того, что произошло прошлой ночью, она стесняется даже взглянуть на меня. Мне нужно исправить это."
 
-    "I should find her at her workplaces more often, even if she doesn't want to talk with me. "
+    "Я должен чаще заходить к ней на работу, даже если она не хочет со мной разговаривать."
 
     stop music fadeout 1.0
 
