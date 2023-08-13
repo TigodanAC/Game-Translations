@@ -3,105 +3,105 @@ label A_love_3:
     scene void with tstmgr
     play music sorrow
 
-    player "So... how's your work lately?"
+    player "Итак... как твоя работа в последнее время?"
 
     scene a_room_night_frown with tstmgr
 
-    a "Nothing special."
+    a "Ничего особенного."
 
     scene a_room_night_normal with tstmgr
 
-    a "Sorry, but I really need to rest now. We can talk tomorrow."
+    a "Извини, но мне действительно нужно сейчас отдохнуть. Мы можем поговорить завтра."
 
-    narrator "She is so tired after work that she doesn't even want to talk with me."
+    narrator "Она так устала после работы, что даже не хочет со мной разговаривать."
 
-    player "I really think that you should at least quit one job. These jobs are overwhelming you. "
+    player "Я действительно думаю, что тебе следует уволиться хотя бы с одной работы. Эти работы выматывают тебя."
 
     scene a_room_night_frown with tstmgr
 
-    a "Not until I save up enough money."
+    a "Не уволюсь, пока не накоплю достаточно денег."
 
-    player "But you won't be able to save up anything if you're too exhausted to go to work."
+    player "Но ты не сможешь ничего накопить, если будешь слишком измотана, чтобы идти на работу."
 
     a "... ... ... ..."
 
-    a "We have talked about this. Don't worry about me, I am fine."
+    a "Мы уже говорили об этом. Не беспокойся обо мне, я в порядке."
 
     player "... ... ... ..."
 
-    player "If you say so."
+    player "Ну раз ты так говоришь."
 
-    player "Just so you know, I will always be there if you need me. "
+    player "Просто знай, что я всегда буду рядом, если понадоблюсь."
 
     scene a_room_night_normal with tstmgr
 
-    a "Thanks, [P]..."
+    a "Спасибо, [P]..."
 
-    player "Alright, I will see you tomorrow. You have a good rest."
+    player "Ладно, увидимся завтра. Хорошо тебе отдохнуть."
 
-    player "Good night."
+    player "Спокойной ночи."
 
     scene void with tstmgr
 
     a "... ... ... ..."
 
-    a "Wait, [P]..."
+    a "Подожди, [P]..."
 
     scene a_love_3_5 with tstmgr
 
-    a "Can you give me a... hug?"
+    a "Можешь меня... обнять?"
 
-    player "Hug?"
+    player "Обнять?"
 
     scene a_love_3_6 with tstmgr
 
-    a "Just for a few seconds..."
+    a "Всего на несколько секунд..."
 
-    player "Eh... okay."
+    player "Э... хорошо."
 
     scene a_love_3_1 with tstmgr
 
-    narrator "She came closer to me and put her head on my shoulder."
+    narrator "Она подошла ко мне и положила голову мне на плечо."
 
-    a "I'm just... too tired..."
+    a "Я просто... так устала..."
 
     scene a_love_3_2 with tstmgr
 
-    narrator "I gently wrapped my arms around her."
+    narrator "Я нежно обнял её."
 
-    player "You know you can always choose to come back and help me with our B&B business. "
+    player "Ты же знаешь, что всегда можешь вернуться и помогать мне с нашим отельным бизнесом. "
 
     a "... ... ... ..."
 
-    a "Thank you, for everything."
+    a "Спасибо тебе за всё."
 
-    a "At least... now I know there is a shoulder for me to lean on."
+    a "По крайней мере... теперь я знаю, что у меня есть плечо, на которое я могу опереться."
 
-    narrator "We held each other for a little while."
+    narrator "Некоторое время мы обнимали друг друга."
 
     scene a_general_1_hug_3 with tstmgr
 
-    a "Thanks, [P]. I feel... much better now."
+    a "Спасибо, [П]. Я чувствую себя... намного лучше сейчас."
 
-    player "Anytime, Вера."
+    player "В любое время, Вера."
 
     scene a_love_3_3 with tstmgr
 
-    narrator "I released her from the hug and took my arms off her body as all gentlemen would do. "
+    narrator "Я выпустил её из объятий и убрал руки с её тела, как поступили бы все джентльмены."
 
-    a "(Speaking in a very low voice) Don't leave me..."
+    a "(Говоря очень тихим голосом) Не покидай меня..."
 
-    player "Hm? Did you say something?"
+    player "Хм? Ты что-то сказала?"
 
-    a "... ... Nothing..."
+    a "... ... Ничего..."
 
     scene a_love_3_4 with tstmgr
 
-    a "Good night, [P]."
+    a "Спокойной ночи, [P]."
 
     player "... ... ... ..."
 
-    player "Good night, Вера. "
+    player "Спокойной ночи, Вера. "
 
     scene void with tstmgr
 
