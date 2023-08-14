@@ -3,57 +3,57 @@ label A_love_5:
     scene void with tstmgr
     play music sorrow
 
-    "Вера still doesn't want to talk with me. Uhh... this drives me crazy."
+    "Вера до сих пор не хочет со мной разговаривать. Эхх... это сводит меня с ума."
 
-    "I can't stand it anymore. I have to find her and solve this thing, tonight."
+    "Я больше не могу этого выносить. Я должен найти её и решить эту проблему сегодня вечером."
 
-    "*Knock, knock, knock...*"
+    "*Тук, тук, тук...*"
 
-    player "Вера, may I come in?"
+    player "Вера, можно войти?"
 
     a "... ... ... ..."
 
-    a "No, it's already late. I... I don't think you should be here."
+    a "Нет, уже поздно. Я... Я не думаю, что тебе следует быть здесь."
 
     player "... ... ... ..."
 
-    "She refused to see me, again."
+    "Она снова отказалась меня видеть."
 
-    "Well, normally I would just say goodnight and go away, but not today. "
+    "Ну, обычно я бы просто пожелал спокойной ночи и ушёл, но не сегодня."
 
-    "I used the backup key to open her door."
+    "Я воспользовался запасным ключом, чтобы открыть её дверь."
 
     scene a_love_5_1 with tstmgr
 
-    a "What do you think you are doing?"
+    a "Что, по-твоему, ты делаешь?"
 
-    a "You can't just break into my room like this..."
+    a "Ты не можешь просто так ворваться в мою комнату..."
 
     scene a_love_5_2 with tstmgr
 
-    player "Вера, listen, we have to talk."
+    player "Вера, послушай, нам нужно поговорить."
 
     a "... ... ... ..."
 
-    a "Don't be this close to me."
+    a "Не подходи ко мне так близко."
 
     scene a_love_5_3 with tstmgr
 
-    a "We are just... friends."
+    a "Мы всего лишь... друзья."
 
-    a "What are you... ... Wait..."
+    a "Что ты... ... Подожди..."
 
     scene a_love_5_4 with tstmgr
 
     "... ... ... ..."
 
-    a "Hmmm... ..."
+    a "Мммм... ..."
 
     scene a_love_5_5 with tstmgr
 
-    player "You never reject my kiss. "
+    player "Ты никогда не отвергаешь мой поцелуй."
 
-    player "I won't lie to myself anymore and neither should you. There is more than just friendship between us and I know you feel it too."
+    player "Я больше не буду лгать себе, и тебе тоже не следует. Между нами нечто большее, чем просто дружба, и я знаю, что ты тоже это чувствуешь."
 
     a "... ... [P]..."
 
@@ -63,21 +63,21 @@ label A_love_5:
 
     scene a_love_5_6 with tstmgr
 
-    a "(Joyful moaning) Emm... ... ah... ..."
+    a "(Радостные стоны) Ммм... ... ах... ..."
 
     scene a_love_5_5 with tstmgr
 
     "... ... ... ..."
 
-    player "This is... fascinating."
+    player "Это... очаровательно."
 
-    player "You are... fascinating."
+    player "Ты... очаровательная."
 
     scene a_love_5_7 with tstmgr
 
     a "... ... ... ..."
 
-    "She sealed my mouth with a kiss again."
+    "Она прильнула ко мне, и наши губы снова слились в поцелуе."
 
     scene a_love_5_8 with tstmgr
 
@@ -85,146 +85,146 @@ label A_love_5:
 
     scene a_love_5_9 with tstmgr
 
-    "We began to melt into each other's embrace. Our twisting tongues drowning in passion. Our grasping hands longing to be even closer..."
+    "Мы начали таять в объятиях друг друга. Наши переплетающиеся языки тонут в страсти. Наши цепкие руки жаждут быть ещё ближе..."
 
     scene a_love_5_10 with tstmgr
 
-    a "Sorry... "
+    a "Извини... "
 
-    player "For what?"
+    player "За что?"
 
-    a "I've been so rude to you lately."
+    a "Я была так груба с тобой в последнее время."
 
-    player "Yeah, that broke my heart. You need to make up to me."
+    player "Да, это разбило мне сердце. Тебе нужно загладить свою вину передо мной."
 
     scene a_love_5_11 with tstmgr
 
-    "She flushed."
+    "Она покраснела."
 
-    a "What... do you want?"
+    a "Чего... ты хочешь?"
 
     menu:
-        "I want you to be my girlfriend":
+        "Я хочу, чтобы ты стала моей девушкой":
 
             $ A.relation = "girlfriend"
 
-            player "I want you to be my girlfriend."
+            player "Я хочу, чтобы ты стала моей девушкой."
 
             scene a_love_5_12 with tstmgr
 
-            a "What? "
+            a "Что?"
 
             scene a_love_5_13 with tstmgr
 
-            a "Are you... serious about that?"
+            a "Ты... серьёзно?"
 
-            player "I'm 100%% serious. "
+            player "Я на 100% серьёзен."
 
-            player "What do you think?"
+            player "Что ты думаешь?"
 
-            a "I... I've never been in a relationship before. I don't know what it's like."
+            a "Я... у меня никогда раньше не было отношений. Я не знаю, как это."
 
             scene a_love_5_14 with tstmgr
 
-            a "But I do know one thing, that I can't imagine living in a life without you anymore."
+            a "Но я знаю одно: я больше не могу представить жизнь без тебя."
 
-            player "Is that a yes?"
+            player "Это \"да\"?"
 
             scene a_love_5_15 with tstmgr
 
-            "(Moaning) Emmm... ..."
+            "(Cтоны) Эммм... ..."
 
-            a "Yes, it is."
+            a "Да."
 
-            player "So... what do we do now?"
+            player "Итак... что нам теперь делать?"
 
             a "... ... ... ..."
 
             scene a_love_5_16 with tstmgr
 
-            a "Whatever you say."
+            a "Всё, что захочешь."
 
             scene void with dissolve
 
             player "... ... ... ..."
 
-            player "Come here."
+            player "Иди сюда."
 
             scene a_love_5_17 with longdissolve
 
-            a "Ouch, do you have to be so aggressive?"
+            a "Ой, тебе обязательно быть таким агрессивным?"
 
-            player "Sorry, Вера. I just can't take it anymore."
+            player "Прости, Вера. Я просто больше не могу."
 
             scene a_love_5_18 with tstmgr
 
-            a "What's that hot stick on my butt?"
+            a "Что это за горячая палка у меня на заднице?"
 
-            a "Is that your..."
+            a "Это твой..."
 
-            a "I thought... we were going to have some foreplays before you... do that thing."
+            a "Я думала... у нас будет небольшая прелюдия, прежде чем ты... сделаешь это."
 
-            player "Well, you are already wet as hell, so I think we can pass that."
+            player "Ну, ты уже чертовски мокрая, так что, я думаю, мы можем это пропустить."
 
             scene a_love_5_19 with tstmgr
 
-            player "Did those kisses make you wet?"
+            player "Ты промокла из-за тех поцелуев?"
 
-            a "I... I don't know..."
+            a "Я... Я не знаю..."
 
-            player "Ha, you are even hornier than I thought."
+            player "Ха, ты ещё более похотливая, чем я думал."
 
-            a "I'm not... ..."
+            a "Неправда... ..."
 
             scene a_love_5_20 with tstmgr
 
-            player "Then how about this?"
+            player "Тогда как насчёт этого?"
 
-            a "Awwww... ouch..."
+            a "Оуууу... ой..."
 
             scene a_love_5_21 with tstmgr
 
-            a "No no no no, wait a minute. It can't get in! I'm not ready for this!"
+            a "Нет-нет-нет, подожди минутку. Ты не можешь войти! Я не готова к этому!"
 
-            player "Your body begs to differ...it's opening up...do you trust me?"
+            player "Твоё тело умоляет об обратном...оно раскрывается...ты мне доверяешь?"
 
             scene a_love_5_20 with tstmgr
 
-            a "I-I do...but...I...I need a moment to-"
+            a "Я-я доверяю... но... мне... мне нужно время, чтобы-"
 
             scene a_love_5_22 with tstmgr
 
-            a "(Shrill moaning) YEEEEEEEEEE!!!... ..."
+            a "(Пронзительный стон) УИИИИИИИИИИ!!!... ..."
 
-            player "Ohhh... so tight..."
+            player "Оххх... так туго..."
 
             scene a_love_5_23 with tstmgr
 
-            player "I will be careful, Вера. Just relax, and give yourself to me."
+            player "Я буду осторожен, Вера. Просто расслабься и отдайся мне."
 
-            a "I hate you... ..."
+            a "Я тебя ненавижу... ..."
 
             a "... ... ... ..."
 
             scene a_love_5_24 with tstmgr
 
-            a "Please... just be gentle."
+            a "Пожалуйста... просто будь нежным."
 
             scene void with tstmgr
 
-            player "I will start to move."
+            player "Я начну двигаться."
 
             scene a_love_5_25 with dissolve
             play sound a_love_5_25 loop
             pause
 
-            a "(Slightly moaning)Ahhh... ... ... ..."
+            a "(Слегка постанывая) Аххх... ... ... ..."
 
-            a "Ohh...Emm...It's..."
+            a "Охх...Эмм...Это..."
 
-            a "It is not as painful as I thought it would be."
+            a "Это не так больно, как я думала."
 
-            player "See? Just take deep breaths and enjoy the most comfortable thing two adults can do together."
+            player "Видишь? Просто сделай глубокий вдох и наслаждайся самым приятным занятием, которое двое взрослых могут делать вместе."
 
             a "... ... ... ..."
 
@@ -233,23 +233,23 @@ label A_love_5:
             play sound a_love_5_26 loop
             pause
 
-            a "Ah... you are right. It actually feels good."
+            a "Ах... ты прав. Это и правда приятно."
 
-            a "Mmm... ..."
+            a "Ммм... ..."
 
-            a "You know, you can... do it harder... if you want."
+            a "Знаешь, ты можешь... делать это жёстче... если хочешь."
 
-            player "As you wish, love."
+            player "Как пожелаешь, любимая."
 
-            a "Lo... love?"
+            a "Лю... любимая?"
 
-            player "Do you like me calling you that?"
+            player "Тебе нравится, что я тебя так называю?"
 
             a "... ... ... ..."
 
-            a "I like it..."
+            a "Мне это нравится..."
 
-            a "Please... love me more."
+            a "Пожалуйста... люби меня сильнее."
 
             stop sound
             scene a_love_5_28 with tstmgr
@@ -265,29 +265,29 @@ label A_love_5:
             play sound a_love_5_27 loop
             pause
 
-            a "(Moaning with pleasure) Ah! ah! ah! ah! [P], [P]..."
+            a "(Стонет от удовольствия) Ах! ах! ах! ах! [P], [P]..."
 
-            a "I feel like I'm in heaven."
+            a "Я чувствую себя как на небесах."
 
-            a "Ah... Ahhh... Yesss.. ... right...there..."
+            a "Ах... Ахххх... Даааа.. ... именно... здесь..."
 
-            a "too deep, you are going... too deep. I can't..."
+            a "слишком глубоко, ты входишь... слишком глубоко. Я не могу..."
 
-            player "Huhh... I'm about to cum, Вера."
+            player "Хахх... Я сейчас кончу, Вера."
 
             scene a_love_5_29 with tstmgr
 
-            a "Wait, wait, don't push that hard!"
+            a "Подожди, подожди, не входи так резко!"
 
             scene a_love_5_30 with tstmgr
 
-            a "Awwwwwwwwww!!!!!~~~~~"
+            a "Оооооооооооооооооо!!!!!~~~~~"
 
-            "Вера convulsed wildly. She has reached the orgasm before I do."
+            "Вера дико забилась в конвульсиях. Она достигла оргазма раньше, чем я."
 
-            "And... ..."
+            "И... ..."
 
-            player "I'm cumming!!!"
+            player "Я кончаю!!!"
 
             stop sound
             scene a_love_5_31 with tstmgr
@@ -295,9 +295,9 @@ label A_love_5:
 
             $ flashlight()
 
-            a "Owwwwwwwwwwwwwwww... ... ... ..."
+            a "Оууууууууууууу... ... ... ..."
 
-            "That was... hell of a creampie."
+            "Это был... адский кримпай."
 
             a "[P]... ... ... ..."
 
@@ -307,145 +307,145 @@ label A_love_5:
 
             "... .... ... ... ... ..."
 
-            "Later tonight."
+            "Позже вечером."
 
             scene a_love_5_32 with longdissolve
 
-            player "That was, fantastic."
+            player "Это было фантастически."
 
-            player "Are you alright, Вера?"
+            player "Ты в порядке, Вера?"
 
             scene a_love_5_33 with tstmgr
 
-            a "I... I feel good..."
+            a "Я... я чувствую себя хорошо..."
 
-            a "It's indeed... the most comfortable thing in the adult world."
+            a "Это действительно... самая приятная вещь во взрослом мире."
 
             scene a_love_5_34 with tstmgr
 
-            a "My belly... still feels warm."
+            a "В животе... всё ещё чувствуется тепло."
 
-            a "Your seed is in my body now..."
+            a "Твоё семя сейчас в моём теле..."
 
-            player "Sorry, I should have cum outside."
+            player "Извини, я должен был кончить наружу."
 
             scene a_love_5_35 with tstmgr
 
-            a "No need to say sorry. I am happy about it."
+            a "Не нужно извиняться. Я рада этому."
 
-            a "And it's my safe period, so don't worry."
+            a "И сейчас мой безопасный период, так что не волнуйся."
 
             player "Вера... ..."
 
             scene a_love_5_36 with tstmgr
 
-            a "Time to sleep, [P]. Good night."
+            a "Пора спать, [П]. Спокойной ночи."
 
-            player "Good night."
+            player "Спокойной ночи."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "I want you":
+        "Я хочу тебя":
 
 
             $ A.relation = "sexpartner"
 
-            player "You know exactly what I want."
+            player "Ты точно знаешь, чего я хочу."
 
-            player "I want you."
+            player "Я хочу тебя."
 
             scene a_love_5_13 with tstmgr
 
-            a "You... ..."
+            a "Ты... ..."
 
-            player "You are expecting me to do this, aren't you? Just give in to your desire."
+            player "Ты ждёшь, что я это сделаю, не так ли? Просто поддайся своему желанию."
 
-            a "What... are you talking about..."
+            a "О чём... ты говоришь..."
 
-            player "I just want to make you comfortable, nothing else."
+            player "Я просто хочу сделать тебе приятно, только и всего."
 
-            a "I... I..."
+            a "Я... Я..."
 
             scene a_love_5_41 with tstmgr
 
-            a "(Moaning with surprise) Aww... ..."
+            a "(Удивлённо стонет) Оуу... ..."
 
             scene a_love_5_42 with tstmgr
 
-            player "See, you are already wet. Your body is desiring me."
+            player "Видишь, ты уже мокрая. Твоё тело желает меня."
 
-            player "Is it because of those kisses?"
+            player "Это из-за тех поцелуев?"
 
-            a "I... I don't know..."
+            a "Я... Я не знаю..."
 
-            player "It's okay...just let your body take control."
+            player "Всё в порядке... Просто позволь своему телу взять всё под контроль."
 
             scene a_love_5_41 with tstmgr
 
-            a "I'm not... ..."
+            a "Я не стану... ..."
 
             scene void with dissolve
 
-            player "Then maybe you need a little more...convincing."
+            player "Тогда, возможно, мне нужно быть немного более... убедительным."
 
             scene a_love_5_40 with longdissolve
 
-            a "Ouch, you are hurting me!"
+            a "Ой, ты делаешь мне больно!"
 
-            player "Sorry, Вера. I just can't take it anymore."
+            player "Прости, Вера. Я просто больше не могу."
 
             scene a_love_5_18 with tstmgr
 
-            player "Do you feel that hot stick on your butt?"
+            player "Ты чувствуешь эту горячую палку на своей заднице?"
 
-            a "Is that your..."
+            a "Это твой..."
 
-            a "Awwww... ouch..."
+            a "Оуууу... ой..."
 
             scene a_love_5_21 with tstmgr
 
-            a "No no no no, wait a minute. It can't get in! I'm not ready for this!"
+            a "Нет-нет-нет, подожди минутку. Ты не можешь войти! Я не готова к этому!"
 
-            player "Your body begs to differ...it's opening up...do you trust me?"
+            player "Твоё тело умоляет об обратном...оно раскрывается...ты мне доверяешь?"
 
             scene a_love_5_20 with tstmgr
 
-            a "Wait, wait, wait..."
+            a "Подожди, подожди, подожди..."
 
             scene a_love_5_22 with tstmgr
 
-            a "(Shrill moaning) YEEEEEEEEEE!!!... ..."
+            a "(Пронзительный стон) УИИИИИИИИИИ!!!... ..."
 
-            player "Uhhh... so tight..."
+            player "Оххх... так туго..."
 
             scene a_love_5_23 with tstmgr
 
-            player "I will be careful, Вера. Just relax, and enjoy it."
+            player "Я буду осторожен, Вера. Просто расслабься и отдайся мне."
 
-            a "I hate you... ..."
+            a "Я тебя ненавижу... ..."
 
             a "... ... ... ..."
 
             scene a_love_5_24 with tstmgr
 
-            a "Please... ... just be gentle."
+            a "Пожалуйста... просто будь нежным."
 
             scene void with tstmgr
 
-            player "I will start to move."
+            player "Я начну двигаться."
 
             scene a_love_5_25 with dissolve
             play sound a_love_5_25 loop
             pause
 
-            a "(Slightly moaning)Ahhh... ... ... ..."
+            a "(Слегка постанывая) Аххх... ... ... ..."
 
-            a "Ohh...Emm...It's..."
+            a "Охх...Эмм...Это..."
 
-            a "It is not as painful as I thought it would be."
+            a "Это не так больно, как я думала."
 
-            player "See? Just take deep breaths and enjoy the most comfortable thing two adults can do together."
+            player "Видишь? Просто сделай глубокий вдох и наслаждайся самым приятным занятием, которое двое взрослых могут делать вместе."
 
             a "... ... ... ..."
 
@@ -454,21 +454,21 @@ label A_love_5:
             play sound a_love_5_26 loop
             pause
 
-            a "Ah... you are right. It actually feels good."
+            a "Ах... ты прав. Это и правда приятно."
 
-            a "Mmm... ..."
+            a "Ммм... ..."
 
-            a "You know, you can... do harder, if you want."
+            a "Знаешь, ты можешь... делать это жёстче... если хочешь."
 
-            player "That's right Вера...Just let go...ahh...submit to your desire..."
+            player "Правильно, Вера...Просто отпусти...ахх...подчинись своему желанию..."
 
-            player "That's my good girl."
+            player "Это моя хорошая девочка."
 
-            a "Stop saying that..."
+            a "Перестань говорить это..."
 
-            player "Be ready for the impact."
+            player "Готовься к последствиям."
 
-            a "What impact?"
+            a "Каким последствиям?"
 
             stop sound
             scene a_love_5_28 with tstmgr
@@ -480,27 +480,27 @@ label A_love_5:
             play sound a_love_5_27 loop
             pause
 
-            a "(Moaning with pleasure) Ah! ah! ah! [P], [P]..."
+            a "(Стонет от удовольствия) Ах! ах! ах! ах! [P], [P]..."
 
-            a "I feel like I am in heaven."
+            a "Я чувствую себя как на небесах."
 
-            a "Ah... Ahhh... Ummm... ... Awww..."
+            a "Ах... Ахххх... Даааа.. ... именно... здесь..."
 
-            a "too deep, you are going... too deep. I can't take it..."
+            a "слишком глубоко, ты входишь... слишком глубоко. Я не могу..."
 
-            player "Huhh... I'm about to cum, Вера."
+            player "Хахх... Я сейчас кончу, Вера."
 
             scene a_love_5_29 with tstmgr
 
-            a "Ahh! If you go that hard I...I-I'm gonna!"
+            a "Ах! Если ты будешь входить так резко, я.....я-я собираюсь!"
 
             scene a_love_5_30 with tstmgr
 
-            a "Awwwww... ... ... ..."
+            a "Оууууу... ... ... ..."
 
-            "Вера convulsed wildly. She has reached the orgasm before I do."
+            "Вера дико забилась в конвульсиях. Она достигла оргазма раньше, чем я."
 
-            player "I'm cumming!!!"
+            player "Я кончаю!!!"
 
             stop sound
             scene a_love_5_31 with tstmgr
@@ -508,9 +508,9 @@ label A_love_5:
 
             $ flashlight()
 
-            a "Owwwwwwwwwwwwwwww... ... ... ..."
+            a "Оууууууууууууу... ... ... ..."
 
-            "That was... one hell of a creampie."
+            "Это был... адский кримпай."
 
             a "[P]... ... ... ..."
 
@@ -520,57 +520,57 @@ label A_love_5:
 
             "... .... ... ... ... ..."
 
-            "Later tonight."
+            "Позже вечером."
 
             scene a_love_5_32 with longdissolve
 
-            player "Wow... that was, fantastic."
+            player "Вау... это было фантастически."
 
-            player "Are you alright, Вера?"
+            player "Ты в порядке, Вера?"
 
             scene a_love_5_33 with tstmgr
 
-            a "I... I feel good..."
+            a "Я... я чувствую себя хорошо..."
 
-            a "It's indeed... the most comfortable thing in the adult world."
+            a "Это действительно... самая приятная вещь во взрослом мире."
 
             scene a_love_5_34 with tstmgr
 
-            a "My belly... still feels warm."
+            a "В животе... всё ещё чувствуется тепло."
 
-            a "Your seed is in my body now..."
+            a "Твоё семя сейчас в моём теле..."
 
-            player "Sorry, I should have cum outside."
+            player "Извини, я должен был кончить наружу."
 
-            player "I will bring you some pills tomorrow."
+            player "Завтра я принесу тебе таблетки."
 
             scene a_love_5_39 with tstmgr
 
             a "... ... ... ..."
 
-            a "Okay..."
+            a "Хорошо..."
 
             scene a_love_5_38 with tstmgr
 
-            a "Are you going back to your room tonight?"
+            a "Ты собираешься вернуться в свою комнату сегодня вечером?"
 
-            player "Do you want me to stay here?"
+            player "Ты хочешь, чтобы я остался здесь?"
 
             scene a_love_5_37 with tstmgr
 
             a "... ... ... ..."
 
-            player "Okay, I will stay here with you."
+            player "Хорошо, я останусь здесь с тобой."
 
             scene a_love_5_35 with tstmgr
 
-            a "Thank you, [P]."
+            a "Спасибо, [P]."
 
             scene a_love_5_36 with tstmgr
 
-            a "Good night..."
+            a "Спокойной ночи..."
 
-            player "Good night."
+            player "Спокойной ночи."
 
             scene void with tstmgr
 
