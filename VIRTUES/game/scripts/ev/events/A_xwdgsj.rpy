@@ -2,97 +2,97 @@ label A_xwdgsj:
 
     scene void with tstmgr
 
-    narrator "According to Jake, Вера works at a clothing store every afternoon. Perhaps I could encounter her there and see if I can strike up a conversation."
+    narrator "По словам Джейка, Вера каждый день работает в магазине одежды. Возможно, я мог бы встретиться с ней там и посмотреть, смогу ли я завязать разговор."
 
     narrator "... ... ... ..."
 
     scene dressstore_background with tstmgr
 
-    narrator "I found the store he mentioned and walked in."
+    narrator "Я нашёл магазин, который он упоминал, и вошёл."
 
-    narrator "Hmm... This place looks quite nice. If Вера really works here, she might get a fair wage."
+    narrator "Хмм... Это место выглядит очень мило. Если Вера действительно здесь работает, должно быть, она получает достойную зарплату."
 
-    narrator "I soon found Вера. Her face and body shape make her so conspicuous in this store."
+    narrator "Вскоре я увидел Веру. Её лицо и фигура делают её такой заметной в этом магазине."
 
     scene a_dressstore_unhappy with tstmgr
 
-    narrator "Wow, nice uniform."
+    narrator "Вау, красивая форма."
 
-    player "Вера? What a coincidence. Do you work here?"
-
-    a "... ... ... ..."
-
-    a "Yes, I work at this place every afternoon."
+    player "Вера? Какое совпадение. Ты здесь работаешь?"
 
     a "... ... ... ..."
 
-    a "Why are you here? We only sell women's clothing."
+    a "Да, я работаю здесь каждый день после обеда."
 
-    player "Oh... About that..."
+    a "... ... ... ..."
 
-    a "Are you stalking me?"
+    a "Почему ты здесь? Мы продаём только женскую одежду."
 
-    player "What? No, God, how would you think that way?"
+    player "Ох... Насчёт этого..."
 
-    player "I am just trying to... buy a gift for my...aunt."
+    a "Ты преследуешь меня?"
+
+    player "Что? Нет, Боже, как ты могла так подумать?"
+
+    player "Я просто пытаюсь... купить подарок для моей...тёти."
 
     scene a_dressstore_frown with tstmgr
 
-    a "Your aunt?"
+    a "Твоей тёти?"
 
-    player "Yes, I can show you her picture."
+    player "Да, я могу показать тебе её фотографию."
 
-    a "There is no need for that..."
+    a "В этом нет необходимости..."
 
-    a "So... What would you like to buy?"
+    a "Итак... Что бы ты хотел купить?"
 
-    player "I don't know yet. I'm just looking around."
+    player "Я ещё не знаю. Я просто осматриваюсь."
 
-    a "Oh... Okay..."
+    a "Ох... Хорошо..."
 
     a "... ... ... ..."
 
     player "... ... ... ..."
 
-    narrator "As a salesperson, she is supposed to talk with the guest all the time...but she is certainly not in the mood to talk with me right now."
+    narrator "Как продавец, она должна всё время разговаривать с клиентом... Но сейчас она явно не в настроении разговаривать со мной."
 
-    narrator "This is awkward."
+    narrator "Это неловко."
 
-    player "Eh... Well..."
+    player "Эм... Ладно..."
 
-    player "It's pretty late in the afternoon so you should be getting off soon, right? Would you like to join me for dinner?"
+    player "Уже довольно поздно, так что ты скоро закончишь, верно? Не хочешь составить мне компанию за ужином?"
 
     scene a_dressstore_weird with tstmgr
 
-    a "Dinner?"
+    a "Ужином?"
 
     scene a_dressstore_frown with tstmgr
 
-    a "Thank you, but no."
+    a "Спасибо, но нет."
 
-    a "I prefer to go home directly after work these days."
+    a "В последнее время я предпочитаю идти домой сразу после работы."
 
-    player "I understand that."
+    player "Я понимаю."
 
-    a "Sorry."
+    a "Извини."
 
-    player "Then how about letting me drive you home?"
+    player "Тогда как насчёт того, чтобы позволить мне отвезти тебя домой?"
 
     scene a_dressstore_weird with tstmgr
 
     a "... ... ... ..."
 
-    a "Why are you... ..."
+    a "Почему ты... ..."
 
     scene a_dressstore_smile3 with tstmgr
 
-    a "Alright. Thanks for your kindness."
+    a "Хорошо. Спасибо за твою доброту."
 
-    player "Great!"
+    player "Отлично!"
 
     narrator "... ... ... ..."
 
-    narrator "Later, I drove her home and we had a conversation along the way. I have a feeling that things are getting better between us."
+    narrator "Позже я отвёз её домой, и по дороге мы разговаривали. Я чувствую, что между нами всё налаживается."
 
 
     $ add(A, A.love, 1)
