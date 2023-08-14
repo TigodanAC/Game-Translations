@@ -2,132 +2,132 @@ label A_swdgsj:
 
     scene void with tstmgr
 
-    narrator "According to Jake, Вера works at a cafe every morning. Perhaps I could encounter her there and try and get to know her better."
+    narrator "По словам Джейка, Вера каждое утро работает в кафе. Возможно, я мог бы встретиться с ней там и попытаться узнать её получше."
 
     narrator "... ... ... ..."
 
     scene cafe_background with tstmgr
 
-    narrator "I found the cafe Jake mentioned and made my way inside.."
+    narrator "Я нашёл кафе, о котором упоминал Джейк, и пробрался внутрь..."
 
-    narrator "The place is smaller than I imagined and quite...quaint. I don't know how a place can be so dark when the sun is beaming outside. Whose idea was this?"
+    narrator "Это место меньше, чем я себе представлял, и довольно... странное. Не знаю, как может быть так темно, когда снаружи светит солнце. Чья это была идея?"
 
-    narrator "Luckily, Вера is really here. It was not difficult to find her at all because she was the only server here."
+    narrator "К счастью, Вера действительно здесь. Найти её было совсем несложно, потому что она была тут единственным официантом."
 
     scene a_cafe_smile2 with tstmgr
 
-    a "Welcome."
+    a "Добро пожаловать."
 
     scene a_cafe_weird with tstmgr
 
-    a "Ah..."
+    a "Ах..."
 
-    player "Oh? Hi, Вера. I didn't expect to see you here."
+    player "О? Привет, Вера. Я не ожидал тебя здесь увидеть."
 
-    a "Hello..."
+    a "Привет..."
 
-    player "Do you work here?"
+    player "Ты работаешь здесь?"
 
     narrator "... ... ... ..."
 
-    narrator "She was a little bit shocked at my appearance. It took her a while to return to normal."
+    narrator "Она была немного шокирована моим появлением. Ей потребовалось некоторое время, чтобы прийти в норму."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Yes, I work here every day in the morning, as a waitress."
+    a "Да, я работаю здесь официанткой каждое утро."
 
     scene a_cafe_weird with tstmgr
 
-    a "Why are you here?"
+    a "Почему ты здесь?"
 
-    player "I was just... walking down the street and happened to see you from outside, so I decided to come in and say hi. That's all."
+    player "Я просто... шёл по улице и случайно увидел тебя снаружи, поэтому решил зайти поздороваться. Вот и всё."
 
     a "... ... ... ..."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Alright...... What can I get for you today?"
+    a "Хорошо...... Что я могу принести для тебя сегодня?"
 
-    player "Do you have any recommendations?"
+    player "У тебя есть какие-нибудь рекомендации?"
 
     scene a_cafe_weird with tstmgr
 
-    a "Emm... I don't know."
+    a "Эмм... не знаю."
 
     scene a_cafe_smile2 with tstmgr
 
-    a "You can try the bacon sandwich meal. The bacon is fresh, I'm sure of that."
+    a "Ты можешь попробовать сэндвич с беконом. Бекон свежий, я в этом уверена."
 
-    player "Sounds good. I'll have one bacon sandwich meal then. Thank you."
+    player "Звучит отлично. Тогда я съем один сэндвич с беконом. Спасибо."
 
-    a " I'll be right back."
+    a "Я скоро вернусь."
 
     scene cafe_background with tstmgr
 
     narrator "... ... ... ..."
 
-    narrator "Sometime later, I finished my breakfast and checked out."
+    narrator "Через некоторое время я закончил свой завтрак и рассчитался."
 
     scene a_cafe_normal1 with tstmgr
 
-    a "Did you enjoy the meal?"
+    a "Тебе понравилась еда?"
 
     player "... ... ... ..."
 
-    narrator "(Well, no. The bacon was overcooked. It tasted like firewood. I wonder if I should tell her the truth.)"
+    narrator "(Что ж, нет. Бекон был пережарен. На вкус как дрова. Интересно, должен ли я сказать ей правду?)"
 
     a "... ... ... ..."
 
     scene a_cafe_weird with tstmgr
 
-    a "Nevermind, you don't need to tell, I knew the bacon was overcooked. It must taste like firewood."
+    a "Неважно, тебе не нужно говорить, я знала, что бекон был пережарен. Должно быть, на вкус он как дрова."
 
-    player "??? How did you know?"
+    player "??? Как ты узнала?"
 
     a "... ... ... ..."
 
-    a "I am actually quite good at cooking, but the chief doesn't listen to any of my advice."
+    a "Вообще-то я неплохо готовлю, но шеф не прислушивается ни к одному из моих советов."
 
-    player "Why is that?"
+    player "Почему это?"
 
-    a "He wouldn't hear from a server."
+    a "Он не станет прислушиваться к официантке."
 
-    player "Ha, now I see why this place has so few guests."
+    player "Ха, теперь я понимаю, почему здесь так мало гостей."
 
     menu:
-        "Tip her regularly":
+        "Дать ей небольшие чаевые":
 
             scene cafe_background with tstmgr
 
-            narrator "We had a brief conversation after that. She didn't talk much, but it was a good start."
+            narrator "После этого у нас состоялся короткий разговор. Она мало говорила, но это было хорошее начало."
 
             narrator "... ... ... ..."
-        "Tip her generously":
+        "Дать ей щедрые чаевые":
 
 
             scene a_cafe_weird with tstmgr
 
-            a "Eh, why do you tip me so much?"
+            a "Эм, зачем ты оставил мне так много чаевых?"
 
-            player "Because I am satisfied with your service. Just take it."
+            player "Потому что я доволен твоим обслуживанием. Просто возьми их."
 
-            a "But 30%%... That's too much."
+            a "Но 30%... Это слишком много."
 
-            player "People always tip more for a server they know. It's a sign of goodwill, nothing else."
+            player "Люди всегда дают больше чаевых тому официанту, которого они знают. Это жест доброй воли, не более."
 
             scene a_cafe_smile2 with tstmgr
 
-            a "Is that so..."
+            a "Так ли это..."
 
             a "... ... ... ..."
 
             scene a_cafe_smile2 with tstmgr
 
-            a "Fine, thank you."
+            a "Хорошо, спасибо."
 
             scene cafe_background with tstmgr
 
-            narrator "We had a brief conversation after that. She didn't talk much, but it was a good start."
+            narrator "После этого у нас состоялся короткий разговор. Она мало говорила, но это было хорошее начало."
 
             narrator "... ... ... ..."
 
