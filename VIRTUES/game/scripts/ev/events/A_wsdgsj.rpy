@@ -2,49 +2,49 @@ label A_wsdgsj:
 
     scene void with tstmgr
 
-    narrator "Eh, I don't have assignments due tonight. What should I do to spend my evening?"
+    narrator "Эх, сегодня вечером у меня нет никаких дел. Как бы мне провести свой вечер?"
 
-    narrator "I wonder if Вера has gone to the restaurant I recommended or not. Perhaps I should go there and check out."
+    narrator "Интересно, заходила ли Вера в ресторан, который я посоветовал? Возможно, мне стоит пойти туда и проверить."
 
     narrator "... ... ... ..."
 
     scene bar_background with tstmgr
 
-    narrator "I entered the restaurunt and found my manager friend at the bar."
+    narrator "Я вошёл в ресторан и увидел своего друга-менеджера около барной стойки."
 
-    player "Hey, Bob, Did the girl I mentioned earlier come to you?"
+    player "Эй, Боб! Девушка, о которой я упоминал ранее, к тебе не приходила?"
 
-    "Restaurateur" "That brown-skin sweetheart? She is already at work. Right there, look."
+    "Restaurateur" "Эта смуглокожая милашка? Она уже на работе. Вот, смотри."
 
     scene wsdg_a1 with tstmgr
 
-    narrator "I looked in the direction he pointed out and saw Вера's slender figure bending over and delicately pouring a glass of wine."
+    narrator "Я посмотрел в указанном им направлении и увидел стройную фигуру Веры, склонившуюся и деликатно наливающую бокал вина."
 
     scene wsdg_a2 with tstmgr
 
-    narrator "Nice butts, by the way."
+    narrator "Хорошая задница, кстати."
 
-    "Restaurateur" "(Whistling) She really is a stunner, isn't she? I believe she will attract a lot of new guests to my restaurant."
+    "Restaurateur" "(Присвистывая) Она действительно потрясающая, не так ли? Я уверен, что она привлечёт много новых гостей в мой ресторан."
 
-    narrator "Should I be happy about her being popular? I'm not sure, but it is making me worry."
+    narrator "Должен ли я радоваться её популярности? Я не уверен, но это заставляет меня волноваться."
 
     scene wsdg_a1 with tstmgr
 
-    narrator "She is very charming, but vulnerable as well. she doesn't seem to know how to protect herself."
+    narrator "Она очень обаятельна, но в то же время уязвима. Похоже, она не знает, как защитить себя."
 
     player "... ... ... ..."
 
-    player "When will she get off duty?"
+    player "Когда заканчивается её смена?"
 
-    "Restaurateur" "11:30 pm, why do you ask?"
+    "Restaurateur" "23:30, а почему ты спрашиваешь?"
 
-    player "I will be here to pick her up."
+    player "Я буду здесь, чтобы подвезти её."
 
-    "Restaurateur" "Ha, such a gentleman you are. So what's she to you anyway? Are you courting her?"
+    "Restaurateur" "Ха, какой ты джентльмен. Так кто же она всё-таки для тебя? Ты ухаживаешь за ней?"
 
-    player "Eh, no. It's hard to explain. Let's just say I owe her one."
+    player "Эх, нет. Это трудно объяснить. Давай просто скажем, что я у неё в долгу."
 
-    "Restaurateur" "Okay, I get it."
+    "Restaurateur" "Хорошо, я понял."
 
     scene void with tstmgr
 
@@ -52,59 +52,59 @@ label A_wsdgsj:
 
     scene wsdg_a3 with tstmgr
 
-    narrator "Alright it's 11:30. Вера should be done any second now."
+    narrator "Хорошо, сейчас 23:30. Вера должна закончить в любую секунду."
 
-    narrator "It took a few minutes, but there she is. She seems to be in a good mood too."
+    narrator "Прошло несколько минут, а вот и она. Кажется, она тоже в хорошем настроении."
 
-    player "Hi, Вера."
+    player "Привет, Вера."
 
     scene wsdg_a6 with tstmgr
 
-    narrator "She noticed me with a little bit of surprise."
+    narrator "Она заметила меня с некоторым удивлением."
 
-    a "Why are you here?"
+    a "Почему ты здесь?"
 
-    player "It's not safe for a girl like you to go home alone in such a late night. I'll give you a ride."
+    player "Для такой девушки, как ты, небезопасно возвращаться домой в одиночестве такой поздней ночью. Я подвезу тебя."
 
-    a "Oh..."
+    a "Ох..."
 
     scene wsdg_a7 with tstmgr
 
-    a "That's very kind of you. Thank you."
+    a "Очень мило с твоей стороны. Спасибо."
 
-    player "So how was your first day at work?"
+    player "Итак, как прошёл твой первый рабочий день?"
 
-    a "I like this place. The guests are polite, my colleagues are friendly, everything seems good. Thanks for letting me know about this job."
+    a "Мне нравится это место. Гости вежливые, коллеги приветливые, вроде всё хорошо. Спасибо, что сообщил мне об этой работе."
 
-    player "No problem. I'm happy for you."
+    player "Без проблем. Я рад за тебя."
 
-    player "Eh... Also..."
+    player "Эм... И ещё..."
 
     player "... ... ... ..."
 
-    a "What are you trying to say?"
+    a "Что ты пытаешься сказать?"
 
-    player "If you don't mind, I can drive you home every day after your work."
+    player "Если ты не возражаешь, я могу подвозить тебя домой каждый день после работы."
 
     scene wsdg_a6 with tstmgr
 
-    a "I... I don't want to bother you that much."
+    a "Я... я не хочу тебя так сильно напрягать."
 
-    player "I insist."
+    player "Я настаиваю."
 
-    a "But..."
+    a "Но..."
 
-    player "It's my duty to ensure your safety after work since I am the one who recommended you here."
+    player "Обеспечивать твою безопасность после работы - моя обязанность, поскольку именно я порекомендовал тебе это место."
 
-    player "I am a responsible person. You should have known that by now."
+    player "Я ответственный человек. Ты уже должна была это запомнить."
 
     a "... ... ... ..."
 
-    a "Yes, you are."
+    a "Да, ты такой."
 
     scene wsdg_a7 with tstmgr
 
-    a "Fine, if that's what you really want, I'll accept your kindness. Thank you..."
+    a "Хорошо, если ты действительно этого хочешь, я приму твою доброту. Спасибо..."
 
     scene void with tstmgr
 
