@@ -2,63 +2,63 @@ label A_wsdgsjhx:
 
     scene a_love1_1 with tstmgr
 
-    narrator "I picked Вера up again tonight after she got off work."
+    narrator "Я снова забрал Веру сегодня вечером после того, как она вышла с работы."
 
-    player "How was your day?"
+    player "Как прошёл день?"
 
     scene a_love1_2 with tstmgr
 
-    a "Eh, It was fine, you?"
+    a "Ээ, хорошо, а у тебя?"
 
-    player "Well, nothing special happened."
+    player "Ну, ничего особенного не произошло."
 
-    a "You know, there was a drunk guest spitting on Alice just before you came."
+    a "Знаешь, как раз перед твоим приходом пьяный гость плюнул в Элис."
 
-    player "Really? That's unfortunate for her."
+    player "Серьёзно? Не повезло ей."
 
-    a "More unfortunately, she couldn't help but say the F word in front of that guest. Our manager amerced her for half a day's wage."
+    a "К сожалению, она не смогла не послать этого гостя. Наш менеджер лишил её половины дневной зарплаты."
 
-    player "Dang, I bet she'll end up quitting because of that."
+    player "Чёрт, держу пари, что в конце концов она уволится из-за этого."
 
-    a "Yeah she mentioned quitting to me, but who knows."
+    a "Да, она говорила мне об уходе, но кто знает."
 
-    narrator "It has been a few days since Вера and I were able to communicate pleasantly like friends. She's more talkative and has even become accustomed to waiting for me to pick her up after work."
+    narrator "Вот уже несколько дней, как мы с Верой приятно по-дружески общаемся. Она стала более разговорчивой и даже привыкла ждать, пока я заберу её после работы."
 
-    narrator "As a girl from the countryside who has no friends in the city, she is very lonely. She needs someone to talk with, so here I am. "
+    narrator "Как девушка из сельской местности, у которой нет друзей в городе, она очень одинока. Ей нужно с кем-то поговорить, так что я здесь."
 
     narrator "... ... ... ..."
 
-    player "Oh, I almost forgot. Here..."
+    player "О, чуть не забыл. Здесь..."
 
     scene a_love1_3 with tstmgr
 
-    narrator "I handed her a chain of keys."
+    narrator "Я протянул ей связку ключей."
 
-    player "Remember what I said about providing you a house to live in some days ago?"
+    player "Помнишь, я говорил о том, чтобы предоставить тебе дом для проживания несколько дней назад?"
 
-    player "These are the keys to your new house, and I have texted you the address. You can move in there tomorrow if you want."
+    player "Это ключи от твоего нового дома, и я отправил тебе адрес. Ты можешь переехать сюда завтра, если хочешь."
 
-    a "Ah..."
+    a "Ах..."
 
     scene a_love1_4 with tstmgr
 
-    a "Thank you..."
+    a "Спасибо тебе..."
 
-    player "Do you need any help moving?"
+    player "Тебе нужна помощь с переездом?"
 
-    a "I can handle this alone. I don't have much luggage."
+    a "Я могу справиться с ним сама. У меня не так много вещей."
 
-    player "Alright. Just call me if you have any problems."
+    player "Хорошо. Просто позвони мне, если у тебя возникнут проблемы."
 
-    a "Thank you..."
+    a "Спасибо..."
 
     scene a_love1_5 with tstmgr
 
-    a "*Murmuring*...You really are a good man..."
+    a "*Шёпотом*...Ты действительно хороший человек..."
 
-    player "Did you just say something?"
+    player "Ты только что что-то сказала?"
 
-    a "No, nothing at all."
+    a "Нет, совсем ничего."
 
     narrator "... ... ... ..."
 
