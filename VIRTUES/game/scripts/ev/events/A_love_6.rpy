@@ -7,83 +7,83 @@ label A_train_sexskill_1:
 
 
 
-    "The next day, 7 o’clock in the morning."
+    "Следующий день, 7 часов утра."
 
 
 
-    "A guest walked into the livingroom and encountered the owner of the house."
+    "Гость зашёл в гостиную и столкнулся с хозяином дома."
 
 
 
-    "Guest A" "Good morning, [P]."
+    "Гость А" "Доброе утро, [P]."
 
 
 
     scene a_love_6_1 with tstmgr
 
-    player "Oh, hi, Mr... ..."
+    player "О, здравствуйте, мистер... ..."
 
 
 
-    player "Mr. Brown. How did you sleep?"
+    player "Мистер Браун. Как спалось?"
 
 
 
-    "Guest A" "Pretty good. The mattress is soft enough for my vulnerable back."
+    "Гость А" "Довольно хорошо. Матрас достаточно мягкий для моей чувствительной спины."
 
 
 
-    player "Glad to hear that."
+    player "Рад слышать."
 
 
 
-    "Guest A" "Is the breakfast ready yet? I can’t wait to taste what Вера has prepared for us today."
+    "Гость А" "Завтрак уже готов? Мне не терпится попробовать то, что Вера приготовила для нас сегодня."
 
 
 
-    player "Eh... emm... Вера?"
+    player "Э... эмм... Вера?"
 
 
 
     scene a_love_6_2 with tstmgr
 
-    player "She is still asleep yet. I’ll wake her up in half an hour."
+    player "Она ещё спит. Я разбужу её через полчаса."
 
 
 
-    player "And the breakfast may have to wait, sorry."
+    player "А с завтраком, возможно, придётся подождать, извините."
 
 
 
-    "Guest A" "Oh, okay, don’t worry about it. Just let her rest."
+    "Гость А" "О, хорошо, не беспокойтесь об этом. Просто дайте ей отдохнуть."
 
 
 
     scene a_love_6_3 with tstmgr
 
-    player "Thanks... ..."
+    player "Спасибо... ..."
 
 
 
-    "Guest A" "She is a good girl. You should cherish her more."
+    "Гость А" "Она хорошая девочка. Вам следует больше ценить её."
 
 
 
-    player "Eh... I will. Thanks for caring."
+    player "Э... Я буду. Спасибо за заботу."
 
 
 
     scene a_love_6_4 with tstmgr
 
-    "Guest A" "I wish I was 40 years younger..."
+    "Гость А" "Хотел бы я быть на 40 лет моложе..."
 
 
 
-    "Guest A" "Uah... ... Anyway, I’m going out for a walk. See you later."
+    "Гость А" "Эх... ... В любом случае, я собираюсь прогуляться. Увидимся позже."
 
 
 
-    "Mr. Brown then left the room and went for a walk outside the house."
+    "Затем мистер Браун вышел из комнаты и отправился на прогулку."
 
 
 
@@ -93,39 +93,39 @@ label A_train_sexskill_1:
 
     scene a_love_6_5 with tstmgr
 
-    player "Seems like you are quite popular among our guests."
+    player "Похоже, ты довольно популярна среди наших гостей."
 
 
 
-    player "What will they think if they discover what we are doing right now?"
+    player "Что они подумают, если узнают, чем мы сейчас занимаемся?"
 
 
 
-    a "You made me do this... ..."
+    a "Ты заставил меня сделать это... ..."
 
 
 
-    player "But you seem to enjoy it very much."
+    player "Но, похоже, тебе это очень нравится."
 
 
 
     scene a_love_6_6 with tstmgr
 
-    a "Hum... hum... hum... hum... ..."
+    a "Гм... гм... гм... гм... ..."
 
 
 
-    a "Of course not..."
+    a "Конечно, нет..."
 
 
 
     scene a_love_6_7 with tstmgr
 
-    a "Hum... slurrp... mmmmm... shhlopp... ..."
+    a "Гм... хлюп... ммммм... шлёпп... ..."
 
 
 
-    player "Oh... Вера... ..."
+    player "Ох... Вера... ..."
 
 
 
@@ -135,83 +135,83 @@ label A_train_sexskill_1:
 
 
 
-    player "I’m... I'm about to cum..."
+    player "Я... я собираюсь кончить..."
 
 
 
     label A_love_6_choice_1:
 
     menu:
-        "Cum in her mouth":
+        "Кончить ей в рот":
 
 
-            player "I want to cum in your mouth."
+            player "Я хочу кончить тебе в рот."
 
             scene a_love_6_9 with tstmgr
 
-            "Вера made a groan as response and used her tongue to stimulate my glans. Damn, she is getting better at this every day."
+            "Вера издала стон в ответ и пустила в ход язык, чтобы стимулировать мою головку. Чёрт, она становится лучше в этом с каждым днем."
 
-            player "Perfect... Now... take my cum... ..."
+            player "Идеально ... Теперь ... прими мою сперму... ..."
 
             scene a_love_6_10 with tstmgr
 
             $ flashlight()
 
-            a "Oahhhhhh... ... ... ..."
+            a "Оохххххх... ... ... ..."
 
-            "She took my entire load in her mouth."
+            "Она взяла весь мой член в рот."
 
             scene a_love_6_11 with tstmgr
 
-            a "Wummmm... ... gulp..."
+            a "Умммм... ... гл......"
 
             scene a_love_6_12 with tstmgr
 
-            a "It was... so sticky... ..."
+            a "Это было... так липко... ..."
 
-            player "Oh... Вера."
+            player "Ох... Вера."
 
-            a "Now I need to get a quick shower and go to work. See you tonight."
+            a "Теперь мне нужно быстро принять душ и идти на работу. Увидимся вечером."
 
-            player "See you tonight."
+            player "До встречи."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Cum on her tits":
+        "Кончить на её сиськи":
 
 
 
 
-            player "I want to cum on your tits."
+            player "Я хочу кончить на твои сиськи."
 
-            a "On my... tits?"
+            a "На мои... сиськи?"
 
             scene a_love_6_13 with tstmgr
 
-            "She was a little surprised at my request but still put her beautiful brown tits out and held my dick in her cleavage as I asked."
+            "Она была немного удивлена ​​моей просьбе, но всё же обнажила свои красивые смуглые сиськи и положила мой член в декольте, когда я попросил."
 
-            player "Perfect... Now be ready to take my cum... ..."
+            player "Идеально ... Теперь будь готова принять мою сперму... ..."
 
             scene a_love_6_14 with tstmgr
 
             $ flashlight()
 
-            a "Oahhhhhh... ... ... ..."
+            a "Оохххххх... ... ... ..."
 
-            a "It’s... so hot... ... ... ..."
+            a "Это... так горячо... ... ... ..."
 
             scene a_love_6_15 with tstmgr
 
-            a "Oh no, how am I going to work like this? I have to take a shower again."
+            a "О нет, как я буду так работать? Мне снова нужно принять душ."
 
-            player "Sorry... ..."
+            player "Извини... ..."
 
             scene a_love_6_16 with tstmgr
 
-            a "Humph..."
+            a "Хм..."
 
-            a "Just be sure to make it up to me if I end up being late."
+            a "Просто не забудь загладить свою вину, если я в итоге опоздаю."
 
             scene void with tstmgr
 
