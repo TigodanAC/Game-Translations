@@ -3,35 +3,35 @@ label A_train_inti_1:
     scene void with tstmgr
     play music sorrow
 
-    "Later tonight..."
+    "Позже вечером..."
 
 
 
-    "Вера and I have arrived home together from her workplace."
+    "Вера и я вместе приехали домой с её работы."
 
 
 
     scene a_train_inti_1_1 with dissolve
 
-    player "Can I get the chance to spend the night with you?"
+    player "Могу ли я получить шанс провести с тобой ночь?"
 
 
 
-    a "I... I’d love to, but I’m so tired today, sorry... ... I’ll see you tomorrow."
+    a "Я... я бы с удовольствием, но я сегодня так устала, извини... ... увидимся завтра."
 
 
 
-    player "Oh, okay, have a good sleep."
+    player "О, ладно, спокойной ночи."
 
 
 
     scene a_train_inti_1_2 with tstmgr
 
-    a "Thank you~"
+    a "Спасибо~"
 
 
 
-    a "Now I need to go to the toilet first and then have a quick shower before going to bed..."
+    a "Теперь мне нужно сначала сходить в туалет, а потом быстро принять душ перед сном...."
 
 
 
@@ -41,19 +41,19 @@ label A_train_inti_1:
 
 
 
-    "Sometime later..."
+    "Некоторое время спустя..."
 
 
 
-    player "Hmmmmmmm... ..."
+    player "Хммммммм... ..."
 
 
 
-    player "Вера, you have been in the toilet for more than 20 minutes, are you alright?"
+    player "Вера, ты уже больше 20 минут в туалете, ты в порядке?"
 
 
 
-    "She didn’t respond."
+    "Она не ответила."
 
 
 
@@ -61,41 +61,41 @@ label A_train_inti_1:
 
 
 
-    "I decided to open the door of the toilet myself and check what happened in there."
+    "Я решил сам открыть дверь туалета и проверить, что там произошло."
 
 
 
-    "And I see..."
+    "И я увидел..."
 
 
 
     scene a_train_inti_1_3 with dissolve
 
-    a "*Slightly snoring* Zzzzz... ... Zzz... ... Zzz... ..."
+    a "*Слегка храпит* Хрррр... ... Хрр... ... Хрр... ..."
 
 
 
-    player "Shit, are you okay, Вера?"
+    player "Чёрт, ты в порядке, Вера?"
 
 
 
     scene a_train_inti_1_4 with tstmgr
 
-    a "*Opening eyes with difficulties* [P]... ... ... ..."
+    a "*С трудом открывая глаза* [P]... ... ... ..."
 
 
 
-    a "I’m... okay. I’m just... ... too tired... ..."
+    a "Я в порядке. Я просто... ... слишком устала... ..."
 
 
 
     scene a_train_inti_1_3 with tstmgr
 
-    "She closed her eyes again and fell asleep right away."
+    "Она снова закрыла глаза и тут же уснула."
 
 
 
-    a "Zzzzz... ... Zzz... ... Zzz... ..."
+    a "Хрррр... ... Хрр... ... Хрр... ..."
 
 
 
@@ -103,15 +103,15 @@ label A_train_inti_1:
 
 
 
-    player "I told you not to dedicate too much of your time to those jobs... ..."
+    player "Я говорил тебе не посвящать слишком много времени этим работам.... ..."
 
 
 
-    "Well, I can’t leave her like this. She just came home after a day of heavy work and she needs to at least take a shower before going to bed."
+    "Что ж, я не могу оставить её в таком состоянии. Она только что пришла домой после тяжёлого рабочего дня, и ей нужно хотя бы принять душ перед сном."
 
 
 
-    player "Alright, I’ll help you with the shower, babe."
+    player "Хорошо, я помогу тебе с душем, детка."
 
 
 
@@ -121,7 +121,7 @@ label A_train_inti_1:
 
 
 
-    "Sometime later..."
+    "Некоторое время спустя..."
 
 
 
@@ -133,41 +133,41 @@ label A_train_inti_1:
 
     scene a_train_inti_1_6 with tstmgr
 
-    a "Hmmmmmmm... ... ... ..."
+    a "Хммммммм... ... ... ..."
 
 
 
     scene a_train_inti_1_7 with tstmgr
 
-    a "[P]? What are you doing?"
+    a "[P]? Что ты делаешь?"
 
 
 
-    player "Ah, you are awake~"
+    player "Ах, ты проснулась~"
 
 
 
-    player "Do not move, I am almost done with your back."
+    player "Не двигайся, я почти закончил с твоей спиной."
 
 
 
     scene a_train_inti_1_8 with tstmgr
 
-    a "Oh, you are... ... washing my body for me... ... okay... ..."
+    a "О, ты... ... моешь моё тело для меня... ... хорошо... ..."
 
 
 
-    a "Thank you~"
+    a "Спасибо тебе~"
 
 
 
     scene a_train_inti_1_9 with tstmgr
 
-    a "I remembered that my mom used to help me take the bath when I was a little girl~"
+    a "Я вспомнила, что моя мама помогала мне принимать ванну, когда я была маленькой~"
 
 
 
-    player "I can do this for you every day if you want."
+    player "Я могу делать это для тебя каждый день, если хочешь."
 
 
 
@@ -177,23 +177,23 @@ label A_train_inti_1:
 
     scene a_train_inti_1_10 with tstmgr
 
-    a "You don’t have to be so kind to me. I will be spoiled..."
+    a "Тебе не стоит быть таким добрым ко мне. Я стану избалованной..."
 
 
 
     scene a_train_inti_1_11 with tstmgr
 
-    player "*Kissing Вера’s shoulder* Well, that’s exactly what I’m going to do. I will spoil you so hard and treat you like a princess."
+    player "*Целуя Веру в плечо* Ну, это именно то, что я собираюсь сделать. Я сильно избалую тебя и буду относиться к тебе как к принцессе."
 
 
 
     scene a_train_inti_1_12 with tstmgr
 
-    player "Cough! Cough! Cough! Cough!!"
+    player "Кх! Кх! Кх! Кх!!"
 
 
 
-    a "Wait, did you just kiss on the soap? You are ridiculous~"
+    a "Подожди, ты только что поцеловал мыло? Ты смешной~"
 
 
 
@@ -203,13 +203,13 @@ label A_train_inti_1:
 
 
 
-    "A few moments later..."
+    "Спустя несколько секунд..."
 
 
 
     scene a_train_inti_1_13 with tstmgr
 
-    player "Alright, Вера, could you turn around, please?"
+    player "Хорошо, Вера, не могла бы ты повернуться, пожалуйста?"
 
 
 
@@ -219,29 +219,29 @@ label A_train_inti_1:
 
 
 
-    a "Zzz... Zzzzz... ... Zzz... ..."
+    a "Хрр... Хрррр... ... Хрр... ..."
 
 
 
-    player "Fell in sleep again? That’s... efficiently."
+    player "Опять заснула? Это... удобно."
 
 
 
     scene a_train_inti_1_13 with tstmgr
 
-    "It must be a really long day for her. I should try not to wake her up again."
+    "Должно быть, это был действительно долгий день для неё. Я должен постараться больше её не будить."
 
 
 
     scene a_train_inti_1_15 with tstmgr
 
-    "I slowly turned her around and cleaned her front body as carefully as I could. Luckily, she didn’t wake up~"
+    "Я медленно повернул её и вымыл переднюю часть тела так тщательно, как только мог. К счастью, она не проснулась~"
 
 
 
     scene a_train_inti_1_16 with tstmgr
 
-    a "*Satisfied breathing* ... ... ... ..."
+    a "*Спокойное дыхание* ... ... ... ..."
 
 
 
@@ -249,21 +249,21 @@ label A_train_inti_1:
 
 
 
-    "What a sleeping beauty... ..."
+    "Какая спящая красавица... ..."
 
 
 
-    "Well, I really want to cum on those lovely tits right now, but... nope, not this time."
+    "Ну, я действительно хочу кончить на эти прекрасные сиськи прямо сейчас, но... нет, не в этот раз."
 
 
 
-    "Now I should take the sleeping beauty back to her bed and let her have a good sleep~"
+    "Теперь я должен отнести спящую красавицу обратно в кровать и дать ей хорошенько выспаться~"
 
 
 
     scene a_train_inti_1_17 with tstmgr
 
-    a "*Talking in the dream* [P]... ... love you... ... ... ..."
+    a "*Разговаривая во сне* [P]... ... люблю тебя... ... ... ..."
 
 
 
@@ -273,7 +273,7 @@ label A_train_inti_1:
 
     scene a_train_inti_1_18 with tstmgr
 
-    "On second thought, maybe I should sleep with her tonight, so I can count how many times she will say my name during sleep~"
+    "Если подумать, может быть, мне стоит поспать с ней сегодня ночью, чтобы я мог посчитать, сколько раз она произнесёт моё имя во сне~"
 
 
 
