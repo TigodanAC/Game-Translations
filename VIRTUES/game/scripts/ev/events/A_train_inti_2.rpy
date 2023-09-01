@@ -7,31 +7,31 @@ label A_train_inti_2:
 
 
 
-    "Late night, in the toilet..."
+    "Поздно ночью в туалете..."
 
 
 
     scene a_train_inti_2_1 with dissolve
 
-    a "*Breathing heavily after vomiting* Huhh... huh... huh... huh... ..."
+    a "*Тяжело дыша после рвоты* Хааа... хах... хах... хах... ..."
 
 
 
-    a "(Ehhhhh... ... I feel terrible... ...)"
+    a "(Эхххх... ... Чувствую себя ужасно... ...)"
 
 
 
-    a "(I have vomited for at least three times this week... ... Something is definitely wrong with me.)"
+    a "(На этой неделе меня вырвало как минимум три раза... ... Со мной определённо что-то не так.)"
 
 
 
     scene a_train_inti_2_2 with tstmgr
 
-    a "(Am I really... pregnant?)"
+    a "(Я действительно... беременна?)"
 
 
 
-    a "(I forgot to buy a test kit again... I am too busy with my works these days and I just don’t have time to worry about the other things... ...)"
+    a "(Я снова забыла купить тест на беременность... Сейчас я слишком занята работой, и у меня просто нет времени беспокоиться о других вещах.... ...)"
 
 
 
@@ -41,13 +41,13 @@ label A_train_inti_2:
 
     scene a_train_inti_2_3 with tstmgr
 
-    a "(Anyway, I should go to bed now... ... Let’s hope I will get better tomorrow...)"
+    a "(В любом случае, мне пора идти спать... ...Будем надеяться, что завтра мне станет лучше....)"
 
 
 
     scene void with tstmgr
 
-    "Вера left the toilet..."
+    "Вера вышла из туалета..."
 
 
 
@@ -57,41 +57,41 @@ label A_train_inti_2:
 
 
 
-    a "(I thought I would be nervous when this day comes, but... ...)"
+    a "(Я думала, что буду нервничать, когда наступит этот день, но... ...)"
 
 
 
     scene a_train_inti_2_5 with tstmgr
 
-    a "(In fact I don’t...)"
+    a "(На самом деле это не так...)"
 
 
 
     scene a_train_inti_2_6 with tstmgr
 
-    a "(I just feel excited when thinking about the possibility that [P]’s child... is growing in my belly.)"
+    a "(Я просто испытываю волнение, когда думаю о возможности того, что ребёнок [P]... растёт у меня в животе.)"
 
 
 
-    a "(Having a baby with the man you love is... such a happy thing~)"
+    a "(Иметь ребёнка от мужчины, которого ты любишь, - это... такое счастье ~)"
 
 
 
-    a "(It must be a very beautiful baby, just like his father~)"
+    a "(Должно быть, это будет очень красивый ребенок, такой же, как и его отец~)"
 
 
 
     scene a_train_inti_2_7 with tstmgr
 
-    a "(But... ...)"
+    a "(Но... ...)"
 
 
 
-    a "(I don’t know if he wants this baby or not yet... ...)"
+    a "(Я до сих пор не знаю, хочет он этого ребёнка или нет... ...)"
 
 
 
-    a "(Maybe... maybe he will leave me after knowing this, just like those bad men in the movies...)"
+    a "(Может быть... может быть, узнав об этом, он бросит меня, как те плохие парни в кино...)"
 
 
 
@@ -101,45 +101,45 @@ label A_train_inti_2:
 
     scene a_train_inti_2_8 with tstmgr
 
-    a "(Ah, stop thinking those nonsenses, Вера, [P] is not a bad man!)"
+    a "(Ах, хватит думать всякую ерунду, Вера, [P] - не плохой человек!)"
 
 
 
-    a "(But emmmmmmm... ... I won’t be able to have sex with him for months if I am really pregnant...)"
+    a "(Но эммммммм... ... Я не смогу заниматься с ним сексом несколько месяцев, если действительно беременна...)"
 
 
 
-    a "(Such a torture... ...)"
+    a "(Такая пытка... ...)"
 
 
 
-    a "(How am I going to survive without his dick for months?... ...)"
+    a "(Как я смогу выжить без его члена несколько месяцев?... ...)"
 
 
 
-    a "(His dick... ... ... ...)"
+    a "(Его член... ... ... ...)"
 
 
 
     scene a_train_inti_2_9 with tstmgr
 
-    a "(Awwwww... ... Just repeating ‘his dick’ in my mind makes me so horny~)"
+    a "(Оууууу... ... Просто мысленно повторяя ‘его член’, я так возбуждаюсь~)"
 
 
 
-    a "(This is all his fault... ...)"
+    a "(Это всё его вина... ...)"
 
 
 
     scene a_train_inti_2_10 with tstmgr
 
-    a "(Baby... ... please don’t become so horny like mommy when you grow up~)"
+    a "(Малыш... ... пожалуйста, не будь таким похотливым, как мама, когда вырастешь~)"
 
 
 
     scene a_train_inti_2_11 with tstmgr
 
-    player "Emmmm?"
+    player "Эммм?"
 
 
 
@@ -149,107 +149,107 @@ label A_train_inti_2:
 
 
 
-    a "Ohhhhhh?~~"
+    a "Оххххх?~~"
 
 
 
     scene a_train_inti_2_13 with tstmgr
 
-    player "What are you doing standing here?"
+    player "Что ты здесь делаешь?"
 
 
 
-    a "I was... ... ... ..."
+    a "Я... ... ... ..."
 
 
 
     scene a_train_inti_2_14 with tstmgr
 
-    player "Come on~ Let's go to your room. I want you so bad right now~"
+    player "Давай~ Пойдём в твою комнату. Я так хочу тебя прямо сейчас~"
 
 
 
-    a "Ahh~~ [P]... ..."
+    a "Ахх~~ [P]... ..."
 
 
 
-    a "But I don’t... feel well today... ..."
+    a "Но я... чувствую себя не очень хорошо сегодня... ..."
 
 
 
     scene a_train_inti_2_15 with tstmgr
 
-    player "Emmmmm?"
+    player "Эммммм?"
 
 
 
     label A_train_inti_2_choice_1:
 
     menu:
-        "Insist to have sex with her":
+        "Настаивать на сексе с ней":
 
 
             scene a_train_inti_2_58 with tstmgr
 
-            player "What are you talking about? I just saw you touching yourself~"
+            player "О чём ты говоришь? Я только что видел, как ты трогала себя~"
 
-            a "Oh... ... that was... ..."
+            a "Ох... ... это было... ..."
 
-            player "Are you playing hard-to-get today to whet my appetite?"
+            player "Ты сегодня разыгрываешь из себя недотрогу, чтобы подогреть мой аппетит?"
 
             scene a_train_inti_2_59 with tstmgr
 
-            a "I’m not~"
+            a "Нет~"
 
             scene a_train_inti_2_60 with tstmgr
 
-            player "But your nipples are getting so hard~ I can feel them pulsating even through a layer of clothing~"
+            player "Но твои соски становятся такими твёрдыми~ Я чувствую их пульсацию даже сквозь слой одежды~"
 
-            a "Ohhhhhhhh~~~~ [P]~~~~"
+            a "Оххххххх~~~~ [P]~~~~"
 
             scene a_train_inti_2_61 with tstmgr
 
-            a "(I... should reject him, but... I can’t, I just can’t~)"
+            a "(Я... должна бы ему отказать, но... я не могу, я просто не могу~)"
 
             scene a_train_inti_2_62 with tstmgr
 
-            a "(I have never felt so restless before. My sanity is waning every second... ...)"
+            a "(Никогда раньше я не чувствовала себя такой взволнованной. Моё здравомыслие ослабевает с каждой секундой... ...)"
 
             scene a_train_inti_2_64 with tstmgr
 
-            a "(Just thinking about that I might not be able to have sex with him for months makes me want to be fucked by him even more...)"
+            a "(Одна мысль о том, что я, возможно, не смогу заниматься с ним сексом несколько месяцев, заставляет меня ещё больше хотеть, чтобы он меня трахнул...)"
 
             scene a_train_inti_2_63 with tstmgr
 
-            a "(I want him to fuck me right now, I want him to fuck me one last time before my abstinence.)"
+            a "(Я хочу, чтобы он трахнул меня прямо сейчас, я хочу, чтобы он трахнул меня в последний раз перед моим воздержанием.)"
 
-            a "One last time, this will be... the one last time~ I promise~)"
+            a "В последний раз, это будет... в самый последний раз~ Обещаю~)"
 
-            a "[P]... ... Let’s go to my room... ..."
+            a "[P]... ... Пойдём в мою комнату... ..."
 
-            player "Okay... ..."
+            player "Хорошо... ..."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Sometime later, in Вера’s room..."
+            "Спустя некоторое время в комнате Веры..."
 
             scene a_train_inti_2_65 with tstmgr
 
             a "[P]... ... ... ..."
 
-            "I gradually realized that she was a little different than usual, her eyes seemed more gentle, but occasionally flashed a trace of hesitation and uncertainty."
+            "Постепенно я понял, что она немного не такая, как обычно, её глаза казались более нежными, но время от времени мелькали следы колебания и неуверенности."
 
-            "It makes her look even more innocent and endearing."
+            "Это делает её ещё более невинной и милой."
 
-            player "My Вера... ..."
+            player "Моя Вера... ..."
 
             scene a_train_inti_2_66 with tstmgr
 
-            "Although I was a little curious about the hesitation that she expressed, I decided to ignore it for now..."
+            "Хотя мне было немного любопытно насчёт нерешительности, которую она выразила, я решил пока проигнорировать это...."
 
-            "I’ll... ask her after we have enough fun~"
+            "Я... спрошу её, когда мы достаточно повеселимся~"
 
             scene a_train_inti_2_67 with tstmgr
 
@@ -263,93 +263,93 @@ label A_train_inti_2:
 
             a "[P]... ... ... ..."
 
-            "I lifted up her vest and let those magnificent boobs pop out..."
+            "Я задрал её майку и позволил этим великолепным сиськам показаться наружу..."
 
             scene a_train_inti_2_70 with tstmgr
 
-            "And... ..."
+            "И... ..."
 
             scene a_train_inti_2_71 with tstmgr
 
-            a "Huuuh~~~ Wuuuuuuaah~~~"
+            a "Хааах~~~ Уааааахх~~~"
 
-            a "Why do you love breasts so much? You are not a baby anymore!"
+            a "Почему ты так любишь грудь? Ты уже не ребёнок!"
 
             scene a_train_inti_2_72 with tstmgr
 
-            a "Our future children will be so poor because their father will grab all of their food!"
+            a "Наши будущие дети будут такими бедными, потому что их отец заберёт всю их еду!"
 
-            player "Well, that’s not something we should worry about now. First we need to get you pregnant first~"
+            player "Ну, это не то, о чём нам стоит беспокоиться сейчас. Сначала нам нужно, чтобы ты забеременела~"
 
-            a "Preg... pregnant... ..."
+            a "За... забеременела... ..."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            a "Yeeeeeeeee~~~~~ Wait, wait, wait~~"
+            a "Уииииииии~~~~~ Подожди, подожди, подожди~~"
 
             scene a_train_inti_2_73 with dissolve
             play sound a_train_inti_2_73 loop
             pause
 
-            a "This position... this position... ... is so not good!!!~~~~~"
+            a "Эта поза... эта поза... ... такая нехорошая!!!~~~~~"
 
-            player "Hmmm? You don’t like it when I hold you like this?"
+            player "Хм? Тебе не нравится, когда я беру тебя вот так?"
 
-            a "No, it’s not about that, it’s... ..."
+            a "Нет, я не об этом, это... ..."
 
-            a "Awwwwwwwww~~~~~~~"
+            a "Оууууууууу~~~~~~~"
 
-            a "Your dick... can reach the deepest part of my vagina in this position and this is not good!~~~"
+            a "Твой член... в такой позе может доставать до самой глубокой части моей вагины, и это нехорошо!~~~"
 
-            player "Eh, you are really making me confused now. Isn’t that supposed to be a good thing?"
+            player "Эм, ты меня сейчас реально сбиваешь с толку. Разве это не должно быть хорошо?"
 
-            a "No, no, no, you don’t understand~~~ I am actually... ..."
+            a "Нет, нет, нет, ты не понимаешь~~~ Вообще-то я... ..."
 
-            a "Ohhhhhhhhhhhh~~~ So deep~~~~"
+            a "Охххххххххх~~~ Так глубоко~~~~"
 
             stop sound
             scene a_train_inti_2_74 with tstmgr
             play sound a_train_inti_2_74 loop
             pause
 
-            player "Should we change a position now?"
+            player "Нам стоит сейчас поменять позу?"
 
-            a "No... no need... ... This... feels so good~~~~"
+            a "Нет... не нужно... ... Это... так приятно~~~~"
 
-            "Вера is constantly trembling in my arms. It seems like she is keeping having small orgasms..."
+            "Вера постоянно дрожит у меня в руках. Кажется, она продолжает испытывать небольшие оргазмы..."
 
-            "Ahh... It’s so good to be a girl. Why can’t boys cum as frequently as girls too?"
+            "Ахх... Как хорошо быть девушкой. Почему парни не могут кончать так же часто, как девушки?"
 
-            a "I feel like... I am flying in the sky~~~~~"
+            a "Я чувствую себя так, будто... будто я лечу по небу~~~~~"
 
-            player "That’s because you are so light, Вера... ..."
+            player "Это потому, что ты такая лёгкая, Вера... ..."
 
-            a "I... I guess I will... soon be heavier... much heavier~~~~"
+            a "Я... думаю, я скоро стану тяжелее... намного тяжелее~~~~"
 
-            a "Ohhhhh~~~ Yes, yes, I love the way you fuck me so much~~~"
+            a "Охххх~~~ Да, да, мне так нравится, как ты меня трахаешь~~~"
 
-            player "Alright, Вера, I think I’m about to... ..."
+            player "Ладно, Вера, думаю, я сейчас... ..."
 
-            a "Are you about to cum? Please, please do it outside!"
+            a "Ты собираешься кончить? Пожалуйста, пожалуйста, сделай это наружу!"
 
-            player "Hmmmm? Why is that? We haven’t done any birth control before."
+            player "Хммм? Это почему? Мы раньше не применяли никаких противозачаточных средств."
 
-            a "Awwwwwww~~~ Please, just for this time!"
+            a "Оуууууу~~~ Пожалуйста, только в этот раз!"
 
-            player "Well, since you asked... ..."
+            player "Ну, раз уж ты просишь... ..."
 
             stop sound
             scene a_train_inti_2_75 with tstmgr
             play sound cumshot
             $ flashlight()
 
-            player "I’m cumming!!~~~~~~~"
+            player "Я кончаю!!~~~~~~~"
 
-            a "Yeeeeeeeeeeee!!!!~~~~~~~~"
+            a "Уииииииииииииииии!!!!~~~~~~~~"
 
-            "I came outside of her as she asked... ..."
+            "По её просьбе я кончил наружу... ..."
 
             scene void with tstmgr
 
@@ -357,62 +357,62 @@ label A_train_inti_2:
 
             scene a_train_inti_2_76 with tstmgr
 
-            a "Thanks... [P]... ..."
+            a "Спасибо... [P]... ..."
 
-            player "It’s nothing, but I am really curious about why you didn’t want me to cum inside."
+            player "Не за что, но мне действительно любопытно, почему ты не хотела, чтобы я кончал внутрь."
 
-            a "That's because... that’s because... ..."
+            a "Это потому что... это потому что... ..."
 
-            a "I may be pregnant."
+            a "Возможно, я беременна."
 
             scene a_train_inti_2_77 with tstmgr
 
-            player "You may be what? Are you serious?"
+            player "'Возможно ты' что? Ты серьёзно?"
 
-            a "I didn’t have my period this month... ..."
+            a "В этом месяце у меня не было месячных... ..."
 
-            a "And I have vomited three times this week... ..."
+            a "И меня вырвало трижды на этой неделе... ..."
 
-            player "Oh babe, have you done any tests yet?"
+            player "Ох, детка, ты уже делала тест?"
 
-            a "Not yet... ..."
+            a "Ещё нет... ..."
 
             scene a_train_inti_2_76 with tstmgr
 
-            player "Okay, let’s go to the hospital tomorrow together and do a full check~"
+            player "Хорошо, пойдём завтра вместе в больницу и проведём полное обследование~"
 
-            a "But... I have works to do."
+            a "Но... у меня работы."
 
             scene a_train_inti_2_77 with tstmgr
 
-            player "Ah, shit, forget about those damn works. You can’t stay so busy with work after you are pregnant."
+            player "Ах, чёрт, забудь об этих чёртовых работах. Ты не можешь оставаться такой занятой на работе после того, как забеременела."
 
-            a "Okay... ..."
+            a "Ладно... ..."
 
-            a "Maybe I should have just quit those jobs a long time ago. I don’t even know what I was holding on to..."
+            a "Возможно, мне стоило уйти с этих работ давным-давно. Я даже не знаю, за что я держалась..."
 
             scene a_train_inti_2_78 with tstmgr
 
-            a "I will... quit all the jobs in a month and begin to learn to be a good full-time housewife~"
+            a "Я... уволюсь со всех работ через месяц и начну учиться быть хорошей домохозяйкой на полную ставку~"
 
             player "Вера... ..."
 
-            "It must be hard for Вера to say it. She always feels insecure and doesn’t want to rely on other people too much, but now... ..."
+            "Вере, наверное, тяжело это говорить. Она всегда чувствует себя неуверенно и не хочет слишком полагаться на других людей, но сейчас... ..."
 
-            "Motherhood is really a magical thing~"
+            "Материнство – это действительно волшебная вещь~"
 
             scene a_train_inti_2_79 with tstmgr
 
-            a "But I haven’t asked... ... will you be happy if I am really pregnant?"
+            a "Но я не спросила... ... Будешь ли ты рад, если я действительно беременна?"
 
-            player "What kind of question is that? Of course I will be happy~"
+            player "Что это за вопрос такой? Конечно, я буду счастлив~"
 
-            player "I can’t wait to welcome the fruit of our love coming to this world~"
+            player "Я не могу дождаться момента, когда поприветствую плод нашей любви, пришедший в этот мир~"
 
             scene a_train_inti_2_80 with tstmgr
 
             a "[P]~~~~~~~"
-        "Not to":
+        "Не настаивать":
 
 
 
@@ -421,139 +421,139 @@ label A_train_inti_2:
 
             scene a_train_inti_2_16 with tstmgr
 
-            player "I see, you must be tired after work."
+            player "Я вижу, ты, должно быть, устала после работы."
 
-            player "Let’s go to your room~"
+            player "Пойдём в твою комнату~"
 
             scene a_train_inti_2_17 with tstmgr
 
-            a "What are you going to do?"
+            a "Что ты собираешься делать?"
 
             scene a_train_inti_2_18 with tstmgr
 
-            player "Just go~ just go~"
+            player "Просто идём~ просто идём~"
 
-            a "Awwwwww... ... ... ..."
+            a "Оууууу... ... ... ..."
 
             scene void with tstmgr
 
             "... ... ... ..."
 
-            "Later, in Вера’s room..."
+            "Позже в комнате Веры..."
 
-            a "[P]... ... [P]... ... Don't... ahhh~~"
+            a "[P]... ... [P]... ... Перестань... ахххх~~"
 
-            a "It hurts~ Wait... ... Ohhh~~~ Yaahhh~~~"
+            a "Больно~ Подожди... ... Ооох~~~ Уааахх~~~"
 
-            a "Huhh~~~ huhh~~ please~~ Ahhhh~~~ Awwwww~~~"
+            a "Хахх~~~ хахх~~ пожалуйста~~ Ахххх~~~ Оуууууу~~~"
 
             player "... ... ... ..."
 
             scene a_train_inti_2_19 with dissolve
 
-            player "Seriously, I will never allow you to do a foot massage in a salon. The way you moan is just ridiculous."
+            player "Серьёзно, я никогда не позволю тебе делать массаж ног в салоне. То, как ты стонешь, просто смешно."
 
-            player "It’s like we are in the middle of sex or something."
+            player "Как будто мы занимаемся сексом или что-то в этом роде."
 
             scene a_train_inti_2_20 with tstmgr
 
-            a "Sorry... ... ... ..."
+            a "Прости... ... ... ..."
 
             player "... ... ... ..."
 
             scene a_train_inti_2_21 with tstmgr
 
-            player "Should I be more gentle?"
+            player "Мне нужно быть более нежным?"
 
             scene a_train_inti_2_22 with tstmgr
 
-            a "No, the strength is just fine. I am... enjoying it~"
+            a "Нет, с силой всё в порядке. Я... наслаждаюсь этим~"
 
             scene a_train_inti_2_23 with tstmgr
 
-            a "I love you... ..."
+            a "Я люблю тебя... ..."
 
             player "?"
 
-            player "I love you too, silly~"
+            player "Я тоже тебя люблю, глупенькая~"
 
             scene a_train_inti_2_24 with tstmgr
 
-            player "You know, you can ask me for this whenever you feel tired. I’m happy to do such things for you~"
+            player "Знаешь, ты можешь просить меня об этом, когда почувствуешь усталость. Я рад делать для тебя такие вещи~"
 
-            a "Okay... ..."
+            a "Хорошо... ..."
 
             scene a_train_inti_2_25 with tstmgr
 
             a "... ... ... ..."
 
-            a "There is... something I want to let you know... ..."
+            a "Есть... кое-что, что я хочу тебе сказать... ..."
 
-            player "Emmm? What is it?"
+            player "Эммм? Что это?"
 
             scene a_train_inti_2_26 with tstmgr
 
-            a "I... I... ..."
+            a "Я... Я... ..."
 
-            a "I saw a lot of children playing on the street today."
+            a "Сегодня я видела много детей, играющих на улице."
 
-            player "Okay, and then?"
+            player "Хорошо, и что?"
 
             scene a_train_inti_2_25 with tstmgr
 
-            a "So... eh... ... just ask, do you like kids?"
+            a "Ну... эм... ... просто интересуюсь, ты любишь детей?"
 
-            player "Kids? Yeah, I love kids. Kids are cute~"
+            player "Детей? Да, я люблю детей. Дети милые~"
 
             scene a_train_inti_2_27 with tstmgr
 
-            a "So... ... do you plan to have your own kids in the future?"
+            a "И... ... ты планируешь в будущем завести детей?"
 
-            player "With you?"
+            player "С тобой?"
 
             scene a_train_inti_2_28 with tstmgr
 
-            a "With... eh... ... whoever... ..."
+            a "С... э... ... кем бы то ни было... ..."
 
             player "... ... ... ..."
 
             label A_train_inti_2_choice_2:
 
             menu:
-                "Yes":
+                "Да":
 
 
                     scene a_train_inti_2_29 with tstmgr
 
-                    player "We are going to have a lot, a lot of kids~"
+                    player "У нас будет много-много детей~"
 
                     scene a_train_inti_2_30 with tstmgr
 
-                    "Вера looked pleasantly surprised after hearing that."
+                    "Услышав это, Вера выглядела приятно удивлённой."
 
                     scene a_train_inti_2_32 with tstmgr
 
-                    a "Are you sure?"
+                    a "Ты уверен?"
 
-                    player "Yeah~ Just imagine how beautiful they will be."
-                "No":
+                    player "Да~ Только представь, какие они будут красивые."
+                "Нет":
 
 
 
 
                     scene a_train_inti_2_29 with tstmgr
 
-                    player "Hmmmmm... ... I don’t have such a plan yet."
+                    player "Хммммм... ...У меня пока что нет этого в планах."
 
                     scene a_train_inti_2_31 with tstmgr
 
-                    a "*Being a little upset* Oh... ... ... ..."
+                    a "*Будучи немного растроенной* Ох... ... ... ..."
 
                     scene a_train_inti_2_33 with tstmgr
 
-                    player "Because I may be jealous of the baby for taking too much of your love from me~"
+                    player "Потому что я, возможно, буду завидовать малышу из-за того, что он отбирает у меня слишком много твоей любви~"
 
-                    player "But of course, I will still be very happy if I’m really going to be a dad~"
+                    player "Но, конечно, я всё равно буду очень рад, если действительно стану отцом~"
 
                     scene a_train_inti_2_34 with tstmgr
 
@@ -561,51 +561,51 @@ label A_train_inti_2:
 
             scene a_train_inti_2_35 with tstmgr
 
-            player "Wait a moment, are you pregnant?"
+            player "Подожди, ты беременна?"
 
             scene a_train_inti_2_36 with tstmgr
 
-            a "Maybe... ..."
+            a "Может быть... ..."
 
-            a "I didn’t have my period this month... ..."
+            a "У меня не было месячных в этом месяце... ..."
 
-            a "And I have vomited three times this week... ..."
+            a "И меня вырвало трижды на этой неделе... ..."
 
             scene a_train_inti_2_37 with tstmgr
 
-            player "Oh babe, have you done any tests yet?"
+            player "Ох, детка, ты уже делала тест?"
 
             scene a_train_inti_2_38 with tstmgr
 
-            a "Not yet... ..."
+            a "Ещё нет... ..."
 
             scene a_train_inti_2_39 with tstmgr
 
-            player "Okay, let’s go to the hospital tomorrow together and do a full check~"
+            player "Хорошо, пойдём завтра вместе в больницу и проведём полное обследование~"
 
-            a "But... I have works to do."
+            a "Но... у меня работы."
 
             scene a_train_inti_2_40 with tstmgr
 
-            player "Ah, shit, forget about those damn work. You can’t stay so busy with works after you are pregnant."
+            player "Ах, чёрт, забудь об этих чёртовых работах. Ты не можешь оставаться такой занятой на работе после того, как забеременела."
 
             scene a_train_inti_2_41 with tstmgr
 
-            a "Okay... ..."
+            a "Ладно... ..."
 
-            a "Maybe I should have just quit those jobs a long time ago. I don’t even know what I was holding on to..."
+            a "Возможно, мне стоило уйти с этих работ давным-давно. Я даже не знаю, за что я держалась..."
 
             scene a_train_inti_2_42 with tstmgr
 
-            a "I will... quit all the jobs in a month and begin to learn to be a good full-time housewife~"
+            a "Я... уволюсь со всех работ через месяц и начну учиться быть хорошей домохозяйкой на полную ставку~"
 
             scene a_train_inti_2_43 with tstmgr
 
             player "Вера... ..."
 
-            "It must be hard for Вера to say it. She always feels insecure and doesn’t want to rely on other people too much, but now... ..."
+            "Вере, наверное, тяжело это говорить. Она всегда чувствует себя неуверенно и не хочет слишком полагаться на других людей, но сейчас... ..."
 
-            "Motherhood is really a magical thing~"
+            "Материнство – это действительно волшебная вещь~"
 
 
 
@@ -615,47 +615,47 @@ label A_train_inti_2:
 
 
 
-    "Well, however... ..."
+    "Что ж, однако... ..."
 
 
 
     scene a_train_inti_2_44 with dissolve
 
-    a "What? I am not pregnant?"
+    a "Что? Я не беременна?"
 
 
 
-    "Doctor Connie" "Uh-huh, the blood test showed that you are not pregnant yet."
+    "Доктор Конни" "Мхм, анализ крови показал, что Вы ещё не беременны."
 
 
 
     scene a_train_inti_2_45 with tstmgr
 
-    a "But... I had the morning sick, and I didn’t have my period this month."
+    a "Но... утром меня тошнило, и в этом месяце у меня не было менструации."
 
 
 
     scene a_train_inti_2_46 with tstmgr
 
-    "Doctor Connie" "Well, pregnancy isn’t the only thing that can cause the absence of menstruation and emesis. You have some endocrine disorders according to the test, I think that’s the reason."
+    "Доктор Конни" "Что ж, беременность — не единственное, что может вызвать отсутствие менструации и рвоту. У Вас, судя по анализу, эндокринные нарушения, думаю, причина в этом."
 
 
 
     scene a_train_inti_2_47 with tstmgr
 
-    a "How... how could it be... ..."
+    a "Как... как это возможно... ..."
 
 
 
     scene a_train_inti_2_48 with tstmgr
 
-    player "Is that a serious issue?"
+    player "Это серьёзные нарушения?"
 
 
 
     scene a_train_inti_2_49 with tstmgr
 
-    "Doctor Connie" "Those are just the result of overworking. She will be fine after a good rest."
+    "Доктор Конни" "Это всего лишь результат переутомления. Она поправится после хорошего отдыха."
 
 
 
@@ -665,7 +665,7 @@ label A_train_inti_2:
 
     scene a_train_inti_2_50 with tstmgr
 
-    player "Alright, girl, did you hear that? You still have to quit those jobs as soon as possible."
+    player "Хорошо, девочка, ты это слышала? Тебе всё равно придётся уйти с этих работ как можно скорее."
 
 
 
@@ -673,73 +673,73 @@ label A_train_inti_2:
 
 
 
-    a "I’m not going to be a mother?"
+    a "Я не стану матерью?"
 
 
 
-    "Doctor Connie" "Not yet, girl."
+    "Доктор Конни" "Пока что нет, девушка."
 
 
 
     scene a_train_inti_2_51 with tstmgr
 
-    a "Awwwwww... ... This is so embarrassed... ..."
+    a "Оуууууу... ...Это так неловко... ..."
 
 
 
-    a "I thought about the baby’s name all night last night. I have come up with several good ones... ..."
+    a "Вчера всю ночь я думала об имени ребёнка. Я придумала несколько хороших... ..."
 
 
 
     scene a_train_inti_2_52 with tstmgr
 
-    player "Oh... ... ... ..."
+    player "Ох... ... ... ..."
 
 
 
     scene a_train_inti_2_53 with tstmgr
 
-    a "We must have a lot, a lot of children in the future!"
+    a "В будущем у нас должно быть много-много детей!"
 
 
 
-    player "Eh, okay... ..."
+    player "Эм, хорошо... ..."
 
 
 
-    a "*Shouting loudly* You are going to impregnate me tonight!!!"
+    a "*Громко крича* Ты оплодотворишь меня сегодня ночью!!!"
 
 
 
     scene a_train_inti_2_54 with tstmgr
 
-    "The whole hospital seemed to fall into silence at this moment. People in the corridor all looked over at us in surprise."
+    "В этот момент вся больница, казалось, погрузилась в молчание. Все в коридоре удивлённо посмотрели на нас."
 
 
 
     scene a_train_inti_2_55 with tstmgr
 
-    a "Awwwwwww... ... I want to kill myself... ..."
+    a "Оууууу... ...Я хочу убить себя... ..."
 
 
 
     scene a_train_inti_2_56 with tstmgr
 
-    "Вера covered her face and ran away."
+    "Вера закрыла лицо и убежала."
 
 
 
-    player "Eh... ... ... ..."
+    player "Эм... ... ... ..."
 
 
 
-    "Doctor Connie" "Geez... ... What’s wrong with this generation?"
+    "Доктор Конни" "Боже... ... Что не так с этим поколением?"
 
 
 
     scene a_train_inti_2_57 with tstmgr
 
-    player "I’m going to... eh... catch her up. Sorry, Doc."
+    player "Я собираюсь... эм... догнать её. Извините, Док."
 
 
 
