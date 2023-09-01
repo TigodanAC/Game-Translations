@@ -3,103 +3,103 @@ label A_train_sha_1:
     scene void with tstmgr
     play music happy
 
-    "It has been a while since Вера was asked to dress in a maid outfit at work. The result seems good. The cafe is much more popular than before."
+    "Прошло много времени с тех пор, как Веру просили одеться в костюм горничной на работе. Кажется, результат хороший. Кафе стало гораздо популярнее, чем раньше."
 
 
 
     scene a_train_sha_1_1 with dissolve
 
-    a "Welcome, sir. What do you like to order today?"
+    a "Добро пожаловать, сэр. Что бы Вы хотели заказать сегодня?"
 
 
 
-    "Guest A" "Eh... Wow... ..."
+    "Гость А" "Э... Вау... ..."
 
 
 
-    "Guest A" "(Those tits... ...)"
+    "Гость А" "(Эти сиськи... ...)"
 
 
 
     scene a_train_sha_1_2 with tstmgr
 
-    a "Sir?"
+    a "Сэр?"
 
 
 
-    "Guest A" "Oh, eh, a small cup of black coffee, please..."
+    "Гость А" "Ох, да, маленькую чашечку чёрного кофе, пожалуйста..."
 
 
 
-    "The food is still as awful as ever though, so most people only order a cup of coffee or something simple."
+    "Однако еда по-прежнему ужасна, поэтому большинство людей заказывают только чашку кофе или что-нибудь простое."
 
 
 
-    "They came here only to enjoy being served by the maids."
+    "Они пришли сюда только для того, чтобы насладиться обслуживанием горничных."
 
 
 
-    "Guest A" "Вера, isn’t it? You look Gorgeous today and... eh... ..."
+    "Гость А" "Вера, не так ли? Ты сегодня выглядишь великолепно и... да... ..."
 
 
 
     scene a_train_sha_1_3 with tstmgr
 
-    a "Thanks~ I’ll be back with your coffee soon."
+    a "Спасибо~ Я скоро вернусь с Вашим кофе."
 
 
 
     scene a_train_sha_1_4 with tstmgr
 
-    "Вера quickly headed back to the checkout counter to avoid further conversation."
+    "Вера быстро направилась обратно к кассе, чтобы избежать дальнейшего разговора."
 
 
 
     scene a_train_sha_1_5 with tstmgr
 
-    a "Emmmm?"
+    a "Эммммм?"
 
 
 
-    "And then she noticed me."
+    "И тут она заметила меня."
 
 
 
     scene a_train_sha_1_6 with tstmgr
 
-    a "[P]? When did you get here?"
+    a "[P]? Когда ты пришёл?"
 
 
 
-    player "I have been here for a while... ..."
+    player "Я был здесь некоторое время... ..."
 
 
 
-    a "You should have let me know so I can get you ordered first."
+    a "Ты должен был сообщить мне, чтобы я могла сделать твой заказ в первую очередь."
 
 
 
-    player "Yeah... ..."
+    player "Да... ..."
 
 
 
     scene a_train_sha_1_7 with tstmgr
 
-    a "You don’t look happy, what’s wrong?"
+    a "Ты не выглядишь радостным, что случилось?"
 
 
 
-    player "Well, the last three tables you served were blatantly staring at your chest. So yeah...not too happy... "
+    player "Ну, последние три столика, которые ты обслуживала, откровенно пялились на твою грудь. Так что да... не слишком счастлив... "
 
 
 
     scene a_train_sha_1_8 with tstmgr
 
-    a "(Sweet smiling) ... ... ... ..."
+    a "(Мило улыбается) ... ... ... ..."
 
 
 
-    a "I really like your face when you are being jealous~"
+    a "Мне очень нравится твоё лицо, когда ты ревнуешь~"
 
 
 
@@ -110,98 +110,98 @@ label A_train_sha_1:
     label A_train_sha_1_choice_1:
 
     menu:
-        "Hold her tight":
+        "Сжать её покрепче":
 
 
             scene a_train_sha_1_9 with tstmgr
 
-            "I suddenly held her tight in my arms."
+            "Внезапно я крепко сжал её в своих объятиях."
 
-            a "(Moaning softly) Ohh... ... ... ..."
+            a "(Тихо стонет) Охх... ... ... ..."
 
-            a "What are you doing? I have to... ..."
+            a "Что ты делаешь? Я должна... ..."
 
-            player "And I really like your face when you panic~"
+            player "А мне очень нравится твоё лицо, когда ты паникуешь~"
 
-            a "Stop now~ I have to get back to work."
+            a "Прекрати~ Мне пора возвращаться к работе."
 
             scene a_train_sha_1_10 with tstmgr
 
-            "I ignored her and firmly planted my face in her cleavage. I began peppering it with gentle kisses."
+            "Я проигнорировал её и уткнулся лицом в её декольте. Я начал осыпать его нежными поцелуями."
 
-            player "Those people can stare at your half-hidden tits as they want, but I am the only one that can put lips on them."
+            player "Эти люди могут сколько угодно пялиться на твои полуоткрытые сиськи, но я единственный, кто может прикасаться к ним губами."
 
-            a "(Moaning softly) Ahhh... ... owww... ..."
+            a "(Тихо стонет) Ахххх... ... оууу... ..."
 
-            a "Someone will see! Let me go~"
+            a "Кто-нибудь увидит! Отпусти меня~"
 
-            a "We can do this..ah...later..."
+            a "Мы можем сделать это... ах... позже..."
 
             player "... ... ... ..."
 
             scene a_train_sha_1_11 with tstmgr
 
-            "She is right. There are a few people around and they may notice us anytime. I don’t want to embarrass her."
+            "Она права. Вокруг немного людей, и они могут нас заметить в любой момент. Я не хочу её смущать."
 
-            player "Alright, girl. I've had my fun for now."
+            player "Хорошо, девочка. На данный момент я получил своё удовольствие."
 
-            player "And about my order...I'd like a small cup of hot chocolate if you'd be so kind. I'll stick around until you get off work and we can go grab some lunch. Sound okay?"
+            player "А насчёт моего заказа... Если ты будешь так любезна, мне бы хотелось маленькую чашечку горячего шоколада. Я останусь здесь, пока ты не закончишь работу, и потом мы можем пойти поесть. Звучит неплохо?"
 
             a "... ... ... ..."
 
-            a "Okay... ..."
+            a "Хорошо... ..."
 
             scene void with tstmgr
 
             "... ... ... ..."
-        "Reveal her tits":
+        "Обнажить её сиськи":
 
 
 
 
             scene a_train_sha_1_12 with tstmgr
 
-            a "Hmmmm?"
+            a "Хмммм?"
 
             scene a_train_sha_1_13 with tstmgr
 
-            a "Ahh?!!!!!!"
+            a "Ахх?!!!!!!"
 
-            "I suddenly pulled down the front of her outfit letting her plump tits bounce free."
+            "Я внезапно стянул перед её наряда, позволив её пухлым сиськам свободно подпрыгивать."
 
-            a "What are you doing??"
+            a "Что ты делаешь??"
 
-            player "Humph... These people may stare at your cleavage and fantasize, but only I can enjoy the real thing."
+            player "Хм... Эти люди могут пялиться на твоё декольте и фантазировать, но только я могу наслаждаться настоящим."
 
-            player "And I really like your face when you are in a panic~"
+            player "И мне очень нравится твоё лицо, когда ты в панике~"
 
             scene a_train_sha_1_14 with tstmgr
 
-            a "(Moaning with lust) Ahhh~~~ Ahhhh~~~~ Ahhh~~~"
+            a "(Стонет от похоти) Ахххх~~~ Ахххх~~~~ Аххх~~~"
 
-            player "Keep moaning like that and everyone will notice your slutty tits on display."
+            player "Продолжай так стонать, и все заметят твои распутные сиськи на всеобщее обозрение."
 
-            a "Then stop playing with my tits!"
+            a "Тогда хватит играть с моими сиськами!"
 
             player "... ... ... ..."
 
-            "That should be enough for now. The place is pretty busy and I don't want to embarrass her...too badly. I'll just leave her with a parting gift."
+            "На данный момент этого должно быть достаточно. Здесь довольно многолюдно, и я не хочу её смущать... слишком сильно. Я просто оставлю ей прощальный подарок."
 
             scene a_train_sha_1_15 with tstmgr
 
-            "I gently gave her nipple a kiss."
+            "Я нежно поцеловал её сосок."
 
-            a "Ohhhhhh~~~~~"
+            a "Оххххххх~~~~~"
 
             scene a_train_sha_1_16 with tstmgr
 
-            player "Alright, girl. I've had my fun."
+            player "Хорошо, девочка. На данный момент я получил своё удовольствие."
 
-            player "And about my order...I'd like a small cup of hot chocolate if you'd be so kind. I'll stick around until you get off work and we can go grab some lunch. Sound okay?"
+            player "А насчёт моего заказа... Если ты будешь так любезна, мне бы хотелось маленькую чашечку горячего шоколада. Я останусь здесь, пока ты не закончишь работу, и потом мы можем пойти поесть. Звучит неплохо?"
 
             a "... ... ... ..."
 
-            a "Okay... ..."
+            a "Хорошо... ..."
 
             scene void with tstmgr
 
