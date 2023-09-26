@@ -3,75 +3,75 @@ label A_train_sha_2:
     scene void with tstmgr
     play music happy
 
-    "Some days later, in an afternoon, I decided to check on Вера in the clothing store she works at..."
+    "Несколько дней спустя, днём, я решил навестить Веру в магазине одежды, где она работает..."
 
 
 
     scene a_train_sha_2_1 with dissolve
 
-    a "Ah~ [P], welcome~"
+    a "Ах~ [P], добро пожаловать~"
 
 
 
     scene a_train_sha_2_2 with tstmgr
 
-    a "But unfortunately this is really not a good time. Today is a national holiday and we are very busy. I don’t really have time for chatting."
+    a "Но, к сожалению, сейчас не лучшее время. Сегодня национальный праздник, и мы очень заняты. У меня действительно нет времени на болтовню."
 
 
 
-    player "Oh, okay... ..."
+    player "Ох, ладно... ..."
 
 
 
     scene a_train_sha_2_1 with tstmgr
 
-    a "I will see you again when I’m done with today’s work..."
+    a "Увидимся, когда закончу сегодняшнюю работу..."
 
 
 
-    player "But who said I am here just for a chat? I am here to buy some clothes~"
+    player "Но кто сказал, что я здесь только для того, чтобы поболтать? Я здесь, чтобы купить одежду~"
 
 
 
     scene a_train_sha_2_3 with tstmgr
 
-    a "We only sell women's clothes here."
+    a "Мы продаём здесь только женскую одежду."
 
 
 
-    player "Yeah, I’m here to buy some clothes for you, as a gift~"
+    player "Да, я здесь, чтобы купить тебе одежду в подарок~"
 
 
 
     scene a_train_sha_2_5 with tstmgr
 
-    a "Oh, eh... thanks... ..."
+    a "Ох, эм... спасибо... ..."
 
 
 
-    player "And as a salesperson, you will have to stay with the customer until he buys something or leaves. That’s your job, right?~"
+    player "А как продавцу тебе придётся оставаться с покупателем до тех пор, пока он что-нибудь не купит или не уйдёт. Это твоя работа, да?~"
 
 
 
-    player "We are going to have a lot of fun today~"
+    player "Сегодня нам будет очень весело~"
 
 
 
     scene a_train_sha_2_4 with tstmgr
 
-    a "So this is your plan, huh? Tricky~"
+    a "Так это твой план, да? Хитро~"
 
 
 
-    a "And what do you want to buy for me exactly?"
+    a "И что именно ты хочешь мне купить?"
 
 
 
-    player "Well, that depends on how satisfied I will be with your service..."
+    player "Ну, это зависит от того, насколько я буду доволен твоим обслуживанием...."
 
 
 
-    a "Jerk~"
+    a "Придурок~"
 
 
 
@@ -81,33 +81,33 @@ label A_train_sha_2:
 
 
 
-    "A few moments later, in a fitting room..."
+    "Несколько секунд спустя, в примерочной..."
 
 
 
     scene a_train_sha_2_6 with dissolve
 
-    a "My manager is going to kill me for disappearing at this busy hour."
+    a "Мой менеджер убьёт меня за то, что я пропала в такой напряжённый час."
 
 
 
-    player "Don’t worry, I’m gonna buy a lot of things today and they will all be counted as credits to you. Your manager won’t blame you for anything~"
+    player "Не волнуйся, сегодня я куплю много вещей, и все будут благодарны тебе за это. Твой менеджер ни в чём не станет тебя винить~"
 
 
 
     scene a_train_sha_2_7 with tstmgr
 
-    a "Humph~ You spend all that money just to stay with me for a while? I feel like I am a rich prostitute or something~"
+    a "Хампф~ Ты тратишь все эти деньги только для того, чтобы побыть со мной какое-то время? Я чувствую себя дорогой проституткой или кем-то в этом роде~"
 
 
 
-    player "I can just leave if you don’t feel happy about this."
+    player "Я могу просто уйти, если тебя это не устраивает."
 
 
 
     scene a_train_sha_2_8 with tstmgr
 
-    a "Jerk... ... ... ..."
+    a "Дурак.. ... ... ..."
 
 
 
@@ -117,87 +117,87 @@ label A_train_sha_2:
 
     scene a_train_sha_2_9 with tstmgr
 
-    a "Wuummmm~~~ Kiss~~~~"
+    a "Ууумммм~~~ Поцелуй~~~~"
 
 
 
     scene a_train_sha_2_10 with tstmgr
 
-    player "Wow, Вера, you didn’t wear briefs today?"
+    player "Вау, Вера, ты сегодня не надела трусики?"
 
 
 
     scene a_train_sha_2_11 with tstmgr
 
-    a "Because... I have this feeling... that you would come to me during the day~"
+    a "Потому что... у меня было предчувствие... что ты придёшь ко мне днём~"
 
 
 
-    a "So I am... prepared already~"
+    a "Так что я... уже готова~"
 
 
 
     scene a_train_sha_2_12 with tstmgr
 
-    player "Oh girl, I can’t believe how shameless you have become... ..."
+    player "О, девочка, я не могу поверить, какой бесстыдной ты стала.... ..."
 
 
 
-    a "And... whose fault is that?"
+    a "И... чья это вина?"
 
 
 
     scene a_train_sha_2_13 with tstmgr
 
-    player "Ho~ You dare to question a customer?"
+    player "Хо~ Ты смеешь задавать вопросы покупателю?"
 
 
 
-    a "Sor... sorry... ..."
+    a "Изви... извини... ..."
 
 
 
-    player "That’s not enough~"
+    player "Этого не достаточно~"
 
 
 
     scene a_train_sha_2_14 with tstmgr
 
-    player "I want you to look at yourself in the mirror and confess what a shameless slut you are~"
+    player "Я хочу, чтобы ты посмотрела на себя в зеркало и призналась, какая ты бесстыдная шлюха~"
 
 
 
-    a "This is... too much... ..."
+    a "Это... слишком... ..."
 
 
 
-    player "Just say it out, girl~"
+    player "Просто скажи это, девочка~"
 
 
 
     scene a_train_sha_2_15 with tstmgr
 
-    a "Awwwwwww~~~~"
+    a "Оуууууу~~~~"
 
 
 
     scene a_train_sha_2_17 with tstmgr
 
-    a "I am... a shameless slut. I cannot live without [P]’s mighty dick for a single day~"
+    a "Я... бессовестная шлюха. Я не могу жить без члена [P] ни единого дня~"
 
 
 
-    a "I don't wear any underwear because I am desperate to get filled by [P]’s sperm~"
+    a "Я не ношу нижнего белья, потому что отчаянно хочу, чтобы [P] наполнил меня спермой~"
 
 
 
     scene a_train_sha_2_16 with tstmgr
 
-    a "Awwww... ... I don’t even recognize myself in the mirror anymore~~"
+    a "Оууу... ...я даже себя в зеркале больше не узнаю~~"
 
 
 
-    a "[P]... it’s all your fault~"
+    a "[P]... это всё ты виноват~"
 
 
 
@@ -209,27 +209,27 @@ label A_train_sha_2:
 
     scene a_train_sha_2_18 with tstmgr
 
-    "Manager" "Has anyone seen Вера?"
+    "Менеджер" "Кто-нибудь видел Веру?"
 
 
 
-    "Salesperson A" "I think... I just saw her leading a customer to the fitting rooms."
+    "Продавец А" "Я думаю... Я только что видел, как она вела покупателя в примерочную."
 
 
 
-    "Manager" "And where she is now? A lot of customers are waiting!"
+    "Менеджер" "И где она сейчас? Много клиентов ждут!"
 
 
 
-    "Salesperson A" "I don’t know... She doesn’t seem to be out from the fitting room area yet."
+    "Продавец А" "Не знаю... Она, кажется, еще не вышла из примерочной."
 
 
 
-    "Manager" "Ha? How could it be?"
+    "Менеджер" "Ха? Как это могло произойти?"
 
 
 
-    "Manager" "Shit, she must be deserting somewhere. I’m gonna dock her wage badly!"
+    "Менеджер" "Чёрт, она, должно быть, куда-то сбежала. Я сильно урежу её зарплату!"
 
 
 
@@ -239,7 +239,7 @@ label A_train_sha_2:
 
 
 
-    "At the same time..."
+    "В то же время..."
 
 
 
@@ -249,23 +249,23 @@ label A_train_sha_2:
 
 
 
-    a "*Restricted moaning* Emmm~ mmm~ uhh~ How do you... uwwww~ like my service, dear customer?"
+    a "*Сдерживаемые стоны* Эммм~ ммм~ ух~ Как тебе... уууувв~ нравится моё обслуживание, дорогой клиент?"
 
 
 
-    player "Your service? Why do I feel like I am the one that serves? Look at your face in the mirror, you are enjoying this too much~"
+    player "Твоё обслуживание? Почему мне кажется, что я тот, кто обслуживает? Посмотри на своё лицо в зеркало, ты очень сильно наслаждаешься этим~"
 
 
 
-    a "Because this feels so good~ It’s like you are giving my vagina a massage with that big dick~"
+    a "Потому что это так приятно~ Как будто ты делаешь мне массаж влагалища этим большим членом~"
 
 
 
-    player "Ah-hah, so I am truly the one that serves~"
+    player "Ах-хах, значит, я действительно тот, кто обслуживает~"
 
 
 
-    a "Love you~"
+    a "Люблю тебя~"
 
 
 
@@ -273,19 +273,19 @@ label A_train_sha_2:
 
 
 
-    a "It feels so strange to watch myself being fucked like this in the mirror~"
+    a "Так странно смотреть, как меня вот так трахают в зеркале~"
 
 
 
-    a "It’s like... a live porn~"
+    a "Это как... живое порно~"
 
 
 
-    player "Well, just let me know if you want to make videos during sex, I am kinda professional at that now~"
+    player "Ну, просто дай мне знать, если захочешь снимать видео во время секса, теперь я в этом в некотором роде профессионал~"
 
 
 
-    a "I’ll... think about that... ..."
+    a "Я... подумаю об этом... ..."
 
 
     stop sound
@@ -295,27 +295,27 @@ label A_train_sha_2:
 
 
 
-    a "Awwww~ Yes~~ Your wriggling dick~ ohhhh~~~"
+    a "Оууу~ Да~~ Твой извивающийся член~ оххх~~~"
 
 
 
-    player "Keep your voice down, girl. You know there is only a curtain between us and the outside, right?"
+    player "Потише, девочка. Ты же знаешь, что между нами и внешним миром только занавеска, верно?"
 
 
 
-    a "I... can’t help~~~ [P]~~~ you are so powerful~~~"
+    a "Я... не могу сдерживаться~~~ [P]~~~ ты такой сильный~~~"
 
 
 
-    a "Awwwwww~ yes, yes, punish me, punish this shameless girl with that wriggling dick~~"
+    a "Оуууу~ да, да, накажи меня, накажи эту бессовестную девчонку извивающимся членом~~"
 
 
 
-    a "My slutty pussy... is all yours to take~~~"
+    a "Моя распутная киска... вся твоя~~~"
 
 
 
-    player "I’m... I’m cumming!!!"
+    player "Я... Я кончаю!!!"
 
 
     stop sound
@@ -323,15 +323,15 @@ label A_train_sha_2:
 
     $ flashlight()
 
-    a "Oh, wait, wait!"
+    a "Ой, подожди, подожди!"
 
 
 
-    "She suddenly stood up and got away from me."
+    "Она внезапно встала и отодвинулась от меня."
 
 
 
-    player "Вера? What the hell?"
+    player "Вера? Какого чёрта?"
 
 
 
@@ -340,45 +340,45 @@ label A_train_sha_2:
 
     $ flashlight()
 
-    "And then she swallowed my dick deep in her mouth and drank all my cum without any hesitation."
+    "А потом она глубоко заглотила мой член и без колебаний выпила всю мою сперму."
 
 
 
     scene a_train_sha_2_23 with tstmgr
 
-    player "Eh... Вера, why did you... ..."
+    player "Эм... Вера, зачем ты... ..."
 
 
 
     scene a_train_sha_2_24 with tstmgr
 
-    a "*Swallowing* ... ... ... ..."
+    a "*Глоток* ... ... ... ..."
 
 
 
     scene a_train_sha_2_26 with tstmgr
 
-    a "Ah~~~"
+    a "Ах~~~"
 
 
 
     scene a_train_sha_2_27 with tstmgr
 
-    a "I’m not wearing any underwear today, so... I can’t let you cum in my pussy, otherwise the fluid will all leak out and everyone will know what happened."
+    a "На мне сегодня нет нижнего белья, так что... Я не могу позволить тебе кончить мне в киску, иначе вся сперма вытечет, и все узнают, что произошло."
 
 
 
-    player "Oh, wow, that was... very thoughtful... ..."
+    player "Ох, вау, это было... очень продуманно... ..."
 
 
 
     scene a_train_sha_2_25 with tstmgr
 
-    a "Your cum is not as sticky as it used to be~ You must have come too many times recently."
+    a "Твоя сперма уже не такая липкая, как раньше~ Ты, должно быть, кончал слишком много в последнее время."
 
 
 
-    player "I guess so... ..."
+    player "Полагаю, так... ..."
 
 
 
@@ -388,7 +388,7 @@ label A_train_sha_2:
 
 
 
-    "We left the fitting room sometime later. I bought a lot of things in the store in order to increase Вера’s performance, but she still got scolded by her manager anyway... ..."
+    "Через некоторое время мы вышли из примерочной. Я купил много вещей в магазине, чтобы повысить показатели Веры, но её всё равно отругал менеджер... ..."
 
     stop music fadeout 1.0
 
