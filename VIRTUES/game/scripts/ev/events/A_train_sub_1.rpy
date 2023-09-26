@@ -3,7 +3,7 @@ label A_train_sub_1:
     scene void with tstmgr
     play music happy
 
-    "On a Saturday morning..."
+    "В субботу утром..."
 
 
 
@@ -11,23 +11,23 @@ label A_train_sub_1:
 
     $ flashlight()
 
-    a "Awwwwwww~~~~ It’s morning already~"
+    a "Оуууу~~~~ Уже утро~"
 
 
 
-    a "Today is a sunny day, great!~"
+    a "Сегодня солнечный день, отлично!~"
 
 
 
     scene a_train_sub_1_2 with tstmgr
 
-    a "And I’m having a day off for today, even greater!~"
+    a "И у меня сегодня выходной, что ещё лучше!~"
 
 
 
     scene a_train_sub_1_3 with tstmgr
 
-    a "Oh, it’s time to make breakfast~"
+    a "Ох, пора готовить завтрак~"
 
 
 
@@ -43,13 +43,13 @@ label A_train_sub_1:
 
 
 
-    a "Hmmmmmmm... ... ... ..."
+    a "Хммммммм... ... ... ..."
 
 
 
     scene a_train_sub_1_6 with tstmgr
 
-    a "No, maybe I should dress in a different style for today."
+    a "Нет, возможно, мне сегодня стоит одеться в другом стиле."
 
 
 
@@ -59,23 +59,23 @@ label A_train_sub_1:
 
 
 
-    "A few moments later..."
+    "Спустя несколько секунд..."
 
 
 
     scene a_train_sub_1_7 with dissolve
 
-    a "Ah-hah~ This will do. [P] once said that he’d like to see me wearing the maid suit in the house. He will be so happy when he sees this."
+    a "Агаа~ Это подойдёт. [P] однажды сказал, что хотел бы видеть меня дома в костюме горничной. Он будет так счастлив, когда увидит это."
 
 
 
     scene a_train_sub_1_8 with tstmgr
 
-    a "Awww... This dress is getting tighter for me. I should go ask for a bigger one the next time I go to the cafe for work."
+    a "Оууу... Это платье становится мне более тесным. Надо бы попросить больший размер, когда в следующий раз пойду в кафе на работу."
 
 
 
-    a "Now I should go wake him up~"
+    a "Теперь мне пора его разбудить~"
 
 
 
@@ -85,17 +85,17 @@ label A_train_sub_1:
 
 
 
-    "Sometime later..."
+    "Некоторое время спустя..."
 
 
 
     scene a_train_sub_1_9 with tstmgr
 
-    player "Zzzzz... Zzzz... Zzzz... ..."
+    player "Хрррр... Хрррр... Хрррр... ..."
 
 
 
-    a "Hum~~ Sleepy head."
+    a "Хм~~ Соня."
 
 
 
@@ -113,19 +113,19 @@ label A_train_sub_1:
 
     scene a_train_sub_1_12 with tstmgr
 
-    a "Wake up, honey~"
+    a "Просыпайся, дорогой~"
 
 
 
-    player "Zzzz... zzz... zzz... zzzz... ..."
+    player "Хрррр... хрр... хрр... хррр... ..."
 
 
 
-    a "It’s almost noon~"
+    a "Уже почти полдень~"
 
 
 
-    player "What... Zzzzz... zzz... zzzzz... ..."
+    player "Что... Хрррр... хрр... хрррр... ..."
 
 
 
@@ -157,43 +157,43 @@ label A_train_sub_1:
 
 
 
-    player "Emmmmmm... ..."
+    player "Эммммммм... ..."
 
 
 
     scene a_train_sub_1_16 with tstmgr
 
-    player "*Opening eyes* What’s so soft... ..."
+    player "*Открывая глаза* Что это такое мягкое... ..."
 
 
 
     scene a_train_sub_1_17 with tstmgr
 
-    a "Ah~ You are finally awake."
+    a "Ах~ Ты наконец проснулся."
 
 
 
-    player "Вера? What’s with the dress?"
+    player "Вера? Что с твоим платьем?"
 
 
 
     scene a_train_sub_1_18 with tstmgr
 
-    a "You said you like it, right? I have a day off today and I can be in this dress for the entire day if you like~"
+    a "Ты сказал, что оно тебе нравится, да? У меня сегодня выходной, и я могу носить это платье целый день, если хочешь~"
 
 
 
-    player "So you will be my exclusive housemaid for today?"
+    player "Так ты сегодня будешь моей личной горничной?"
 
 
 
     scene a_train_sub_1_20 with tstmgr
 
-    a "Ummmmm? Eh... I, I think so?"
+    a "Эммммм? Ээ... Я... Я думаю да?"
 
 
 
-    player "Oh girl, this is going to be so great~"
+    player "Ох, девочка, это будет так здорово~"
 
 
 
@@ -203,7 +203,7 @@ label A_train_sub_1:
 
 
 
-    a "So... ... what should I do? As a housemaid..."
+    a "И что же мне нужно делать? Как горничной..."
 
 
 
@@ -214,10 +214,10 @@ label A_train_sub_1:
     label A_train_sub_1_choice_1:
 
     menu:
-        "Be a good master":
+        "Быть хорошим хозяином":
 
 
-            player "Don’t take it seriously, girl. I’m not gonna order you to do anything. This is a rare day of leisure for you. You can do whatever you want."
+            player "Не воспринимай это всерьёз, девочка. Я не буду приказывать тебе что-либо делать. Для тебя это редкий день отдыха. Ты можешь делать всё, что захочешь."
 
             scene a_train_sub_1_17 with tstmgr
 
@@ -225,75 +225,75 @@ label A_train_sub_1:
 
             scene a_train_sub_1_18 with tstmgr
 
-            a "Okay then, master~ Let me start with the wake-up service~"
+            a "Хорошо, хозяин~ Позволь мне начать с побудки~"
 
-            "She suddenly took off my pants. The erected huge penis of mine popped out and made her groan with surprise a little bit."
+            "Она внезапно сняла с меня штаны. Мой твёрдый огромный член выскочил наружу и заставил её слегка застонать от удивления."
 
             scene a_train_sub_1_21 with tstmgr
 
-            a "Poor master, it must be hard to carry this huge thing with you every day~"
+            a "Бедный хозяин, наверное, тяжело носить с собой эту огромную штуку каждый день~"
 
-            a "Let me... help you with it~"
+            a "Позволь мне... помочь тебе с этим~"
 
             scene a_train_sub_1_22 with tstmgr
 
-            a "I will treat it with love and care. Look, it seems to be even more excited when it touches my breast~"
+            a "Я буду относиться к нему с любовью и заботой. Смотри-ка, кажется, он возбуждается ещё больше, когда касается моей груди~"
 
             scene a_train_sub_1_23 with tstmgr
 
-            a "Ah~ yes, a morning kiss from my nipple~"
+            a "Ах~ Да, утренний поцелуй моего соска~"
 
-            player "Lucky for him. I wish I can have a morning kiss like that too."
+            player "Повезло ему. Я бы тоже хотел утренний поцелуй наподобие этого."
 
-            a "Everyone will get his chance, just be patient~"
+            a "Каждый получит свой шанс, просто наберись терпения~"
 
             scene a_train_sub_1_24 with tstmgr
 
-            a "Awww~ My nipple is getting hard... ... It feels a little hurt to have your glans against it~"
+            a "Оууу~ Мой сосок становится твёрдым... ...Мне немного больно прижиматься им к головке~"
 
             scene a_train_sub_1_25 with tstmgr
 
-            a "Let’s try the other one now. The other one... needs your contact too~"
+            a "Давай сейчас попробуем второй. Второму... тоже нужен контакт с тобой~"
 
-            player "It would be best if a man can have two dicks..."
+            player "Было бы лучше, если бы у мужчин было два члена..."
 
-            a "That sounds... ... horror, master."
+            a "Это звучит... ...ужасающе, хозяин."
 
-            a "I will have to spend double time on making them cum. That must be annoying."
+            a "Мне пришлось бы потратить в два раза больше времени, чтобы заставить их кончить. Наверное, это бы надоедало."
 
             scene a_train_sub_1_27 with tstmgr
 
             player "... ... ... ..."
 
-            player "You are right~ One is enough~"
+            player "Ты права~ Одного достаточно~"
 
             scene a_train_sub_1_26 with tstmgr
 
-            a "Now, let me see how long it will take me to make it cum~"
+            a "Теперь посмотрим, сколько времени мне понадобится, чтобы заставить его кончить~"
 
             scene a_train_sub_1_28 with tstmgr
 
-            player "Don’t worry, Вера. I am not a bad master who only asks for service. I will help you with it~"
+            player "Не волнуйся, Вера. Я не плохой хозяин, который просит только об обслуживании. Я помогу тебе с этим~"
 
-            a "Awwwww~ [P]~~"
+            a "Оууууу~ [P]~~"
 
             scene a_train_sub_1_29 with tstmgr
 
-            player "Oh girl... I’m sure that your boobs have got heavier than before..."
+            player "Ох, девочка... Я уверен, что твоя грудь стала тяжелее, чем раньше...."
 
-            a "I... used to only eat frozen food when I lived in my slum apartment alone, but now I... eat better, thanks to you."
+            a "Я... раньше ела только замороженные продукты, когда жила одна в своей квартире в трущобах, но теперь я... ем лучше, благодаря тебе."
 
-            a "Better nutrition... made boobs grow better~"
+            a "Из-за более качественного питания... грудь похорошела~"
 
-            player "It's so happy to hear that~"
+            player "Так приятно это слышать~"
 
             scene a_train_sub_1_30 with tstmgr
 
-            player "Now let my dick feel the growth of them... ..."
+            player "Теперь позволь моему члену почувствовать их рост... ..."
 
             scene a_train_sub_1_31 with tstmgr
 
-            a "Awwwww... ... Hot penis... is in my cleavage~"
+            a "Оуууу... ...Горячий член... у меня в декольте~"
 
             scene a_train_sub_1_32 with tstmgr
 
@@ -307,15 +307,15 @@ label A_train_sub_1:
 
             pause
 
-            player "Damn this feels good~"
+            player "Чёрт, это приятно~"
 
             scene a_train_sub_1_33 with tstmgr
 
             $ flashlight()
 
-            player "Now take this!"
+            player "А как тебе это?"
 
-            a "Awwwwwwww~~~~ Yes, yes, fuck my breasts like that~"
+            a "Оууууу~~~~ Да, да, трахай мою грудь вот так~"
 
             scene a_train_sub_1_32 with tstmgr
 
@@ -327,7 +327,7 @@ label A_train_sub_1:
 
             scene a_train_sub_1_32 with tstmgr
 
-            a "You are... pushing my breasts so hard~"
+            a "Ты... так сильно долбишь мою грудь~"
 
             scene a_train_sub_1_31 with tstmgr
 
@@ -335,11 +335,11 @@ label A_train_sub_1:
 
             scene a_train_sub_1_32 with tstmgr
 
-            a "Master... ... master... ... I can... I can feel the rage of your penis... ..."
+            a "Хозяин... ... хозяин... ... я могу... я могу почувствовать буйство твоего члена... ...... ..."
 
             scene a_train_sub_1_33 with tstmgr
 
-            player "Ohhhhhhh shit!!!! I’m cumming!!!!"
+            player "Охххххх дерьмо!!!! Я кончаю!!!!"
 
             scene a_train_sub_1_34 with tstmgr
 
@@ -347,23 +347,23 @@ label A_train_sub_1:
 
             pause
 
-            "My fluid busted out from my dick like a white fountain. At the same time Вера lowered her head and accepted all the shooting flow in her mouth."
+            "Сперма хлынула из моего члена белым фонтаном. При этом Вера опустила голову и приняла в рот весь выстреливший поток."
 
             scene a_train_sub_1_35 with tstmgr
 
-            a "So... ... sticky... ..."
+            a "Такая... ... липкая... ..."
 
-            player "Вера... That was amazing... ..."
+            player "Вера... Это было замечательно... ..."
 
             scene a_train_sub_1_36 with tstmgr
 
-            a "I’m glad you like my service, master~"
+            a "Я рада, что тебе понравилось моё обслуживание, хозяин~"
 
-            a "Now you should get up. I will go prepare the breakfast for you."
+            a "Теперь тебе пора вставать. Я пойду готовить завтрак."
 
-            player "What are you talking about? We haven’t finished yet. I can’t be the only one who got satisfied."
+            player "О чём ты говоришь? Мы ещё не закончили. Я не могу быть единственным, кто остался удовлетворён."
 
-            player "It’s time for me to serve you now."
+            player "Пришло время мне обслужить тебя."
 
             scene a_train_sub_1_37 with tstmgr
 
@@ -373,39 +373,39 @@ label A_train_sub_1:
 
             a "... ... ... ..."
 
-            a "Please... caress me with your penis~"
-        "Be a bad master":
+            a "Пожалуйста... ласкай меня своим членом~"
+        "Быть плохим хозяином":
 
 
 
 
 
 
-            player "You shouldn’t even ask, little maid."
+            player "Не стоит даже спрашивать об этом, маленькая горничная."
 
             scene a_train_sub_1_48 with tstmgr
 
-            player "Can’t you see the erected huge thing in my pants? It’s your responsibility to make it calm. Now be quick."
+            player "Разве ты не видишь огромную эрегированную штуку у меня в штанах? Твоя задача – сделать его спокойным. Теперь поторопись."
 
-            a "Awwwwww... ... You sound like a different person. I’m on it, please don’t get mad at me!"
+            a "Оуууу... ... Ты говоришь как другой человек. Я займусь этим, пожалуйста, не злись на меня!"
 
             scene a_train_sub_1_21 with tstmgr
 
-            a "I'll try calm it down right now, master."
+            a "Я постараюсь успокоить его прямо сейчас, хозяин."
 
             scene a_train_sub_1_22 with tstmgr
 
-            a "I will treat it with love and care. Look, it seems to be even more excited when it touches my breast~"
+            a "Я буду относиться к нему с любовью и заботой. Смотри, кажется, он возбуждается ещё больше, когда касается моей груди~"
 
             scene a_train_sub_1_23 with tstmgr
 
-            a "Look, master, a morning kiss from my nipple~"
+            a "Смотри, хозяин, утренний поцелуй моего соска~"
 
             player "... ... ... ..."
 
             scene a_train_sub_1_24 with tstmgr
 
-            a "Awww~ My nipple is getting hard... ... It feels a little hurt to have your glans against it~"
+            a "Оууу~ Мой сосок становится твёрдым... ...Мне немного больно прижиматься им к головке~"
 
             player "... ... ... ..."
 
@@ -413,55 +413,55 @@ label A_train_sub_1:
 
             $ flashlight()
 
-            a "Yaaaaah~ What are you doing?"
+            a "Йаааах~ Что ты делаешь?"
 
-            player "The stimulation is not enough. It’s gonna take years to make me cum."
+            player "Стимуляции недостаточно. Для того, чтобы я кончил, понадобятся годы."
 
-            player "Now I don’t need your service anymore, little maid. I will operate these fun bags myself~"
+            player "Теперь мне больше не нужны твои услуги, маленькая горничная. Я сам буду пользоваться этими задорными грудями~"
 
             scene a_train_sub_1_39 with tstmgr
 
             $ flashlight()
 
-            a "Uhhhhhhhhh~~~~~~"
+            a "Ухххххххх~~~~~~"
 
             scene a_train_sub_1_40 with tstmgr
 
-            a "Fun... bags... ... That’s so rude, master... ..."
+            a "Задорные... груди... ...это так грубо, хозяин... ..."
 
-            a "But... ... as you wish, please feel free to use them to... have fun~"
+            a "Но... ... если хочешь, пожалуйста, не стесняйся использовать их, чтобы... развлечься~"
 
             scene a_train_sub_1_41 with tstmgr
 
-            player "I will, Вера. Now get over here so I can place my dick in your cleavage~"
+            player "Я так и сделаю, Вера. А теперь иди сюда, чтобы я мог вставить свой член тебе в декольте~"
 
-            a "Awwwwwww... You are pulling my nipples apart~~~"
+            a "Оууууу... Ты раздвигаешь мои сиськи~~~"
 
             scene a_train_sub_1_42 with tstmgr
 
-            player "Ha, can you feel how hard my dick is?"
+            player "Ха, ты чувствуешь, какой у меня твердый член?"
 
-            a "Yes~ it is as hard as my nipples~"
+            a "Да~ Он такой же твердый, как мои соски~"
 
-            player "And now... ..."
+            player "А теперь... ..."
 
             scene a_train_sub_1_43 with tstmgr
 
             $ flashlight()
 
-            player "Let's pull them together~"
+            player "Давай сведём их вместе~"
 
-            a "Owwwwwwwwww!!!!~~~"
+            a "Оууууууу!!!!~~~"
 
-            player "Does it hurt much when I drag your nipples like this, Вера?"
+            player "Тебе очень больно, когда я вот так оттягиваю твои соски, Вера?"
 
             scene a_train_sub_1_44 with tstmgr
 
             a "... ... ... ..."
 
-            a "You must be the baddest master in the world~"
+            a "Ты, должно быть, самый плохой хозяин в мире~"
 
-            a "But... maybe that’s why I like you. It actually feels good~"
+            a "Но... может быть, именно поэтому ты мне нравишься. На самом деле это приятно~"
 
             scene a_train_sub_1_45 with tstmgr
 
@@ -473,49 +473,49 @@ label A_train_sub_1:
 
             scene a_train_sub_1_45 with tstmgr
 
-            a "Up and down~ Up and down~"
+            a "Вверх и вниз~ Вверх и вниз~"
 
             scene a_train_sub_1_44 with tstmgr
 
-            a "Awwww~ I can’t feel my nipples anymore~"
+            a "Оууу~ Я больше не чувствую своих сосков~"
 
             scene a_train_sub_1_45 with tstmgr
 
-            a "I can only feel... the rage of your penis... and the fun... ..."
+            a "Я могу только чувствовать... буйство твоего пениса... и веселье... ..."
 
             scene a_train_sub_1_44 with tstmgr
 
-            a "You are right, master~ They are really... bags of fun~"
+            a "Ты прав, хозяин~ Они действительно... задорные~"
 
-            player "Вера, you are priceless as a housemaid..."
+            player "Вера, ты бесценна как горничная..."
 
             scene a_train_sub_1_46 with tstmgr
 
-            player "Ohhhhhhh shit!!!! I can’t hold myself anymore! I’m cumming!!!!"
+            player "Оххх дерьмо!!!! Я больше не могу сдерживаться! Я кончаю!!!!"
 
-            a "Already? Yes, yes, cum in my bags~"
+            a "Уже? Да, да, кончай на мою грудь~"
 
             scene a_train_sub_1_47 with tstmgr
 
             $ flashlight()
 
-            "My fluid busted out from my dick like a white fountain. At the same time Вера lowered her head and accepted all the shooting flow in her mouth."
+            "Сперма хлынула из моего члена белым фонтаном. При этом Вера опустила голову и приняла в рот весь выстреливший поток."
 
             scene a_train_sub_1_35 with tstmgr
 
-            a "So... ... sticky... ..."
+            a "Такая... ... липкая... ..."
 
-            player "Вера... That was amazing... ..."
+            player "Вера... Это было замечательно... ..."
 
             scene a_train_sub_1_36 with tstmgr
 
-            a "I’m glad my lewd boobs... really brought you some fun, master~"
+            a "Я рада, что мои непристойные сиськи... действительно доставили тебе удовольствие, хозяин~"
 
-            a "Now you should get up. I will go prepare the breakfast for you."
+            a "Теперь тебе пора вставать. Я пойду готовить завтрак."
 
-            player "What are you talking about? We haven’t finished yet. I can’t be the only one who got satisfied."
+            player "О чём ты говоришь? Мы ещё не закончили. Я не могу быть единственным, кто остался удовлетворён."
 
-            player "It’s time for me to serve you now."
+            player "Пришло время мне обслужить тебя."
 
             scene a_train_sub_1_37 with tstmgr
 
@@ -525,55 +525,55 @@ label A_train_sub_1:
 
             a "... ... ... ..."
 
-            a "Please... caress me with your... ... fun stick~"
+            a "Пожалуйста... ласкай меня своим членом~"
 
 
 
     scene a_train_sub_1_49 with tstmgr
 
-    "Вера then crawled on my body and located her pussy to my dick obediently."
+    "Затем Вера залезла на меня и послушно расположила свою киску возле моего члена."
 
 
 
-    a "It is still so hard after cumming~ Master, you are so strong..."
+    a "Даже после того, как кончил, он всё ещё такой твёрдый~ Хозяин, Ты такой сильный..."
 
 
 
-    player "Because... ..."
+    player "Потому что... ..."
 
 
 
-    player "Damn, Вера, do you have any idea about how sexy these hanging tits of yours are?"
+    player "Чёрт, Вера, ты хоть представляешь, насколько сексуальны твои свисающие сиськи?"
 
 
 
     scene a_train_sub_1_50 with tstmgr
 
-    player "Zimmmm~~~ Zip~~~ Simmmmmmm~~~~"
+    player "Зиммммм~~~ Зип~~~ Симмммммм~~~~"
 
 
 
-    a "Ohhhhhh... Master... ... I love the way you suck my nipple~"
+    a "Ооооо... Хозяин... ... мне нравится, как ты сосёшь мой сосок~"
 
 
 
-    player "Tits and nipples... sip~ sip~... ... made this world a better place... ... siip~ sip~"
+    player "Сиськи и соски... сип~ сип~... ... сделали этот мир лучшим местом... ... сиип~ сип~"
 
 
 
-    a "Unfortunately... there won’t be any milk coming out no matter how hard you try~"
+    a "К сожалению... молоко не появится, как бы ты ни старался~"
 
 
 
     scene a_train_sub_1_51 with tstmgr
 
-    player "I’m not really seeking for milk, but... you were wrong. You will eventually have milk if I try hard enough..."
+    player "На самом деле я не жду молока, но... ты ошибаешься. В конце концов у тебя будет молоко, если я достаточно постараюсь..."
 
 
 
     scene a_train_sub_1_52 with tstmgr
 
-    player "Not on sucking, but on fucking!~"
+    player "Не в сосании, а в трахании~"
 
 
 
@@ -581,19 +581,19 @@ label A_train_sub_1:
 
     $ flashlight()
 
-    a "Awwwwwwwwwwww~~~~~"
+    a "Оуууууууу~~~~~"
 
 
 
-    a "Master’s penis... is inside me... ..."
+    a "Член хозяина... внутри меня... ..."
 
 
 
-    "Вера moaned out dramatically as I sticked my dick into her deep."
+    "Вера драматично застонала, когда я глубоко всадил в неё свой член."
 
 
 
-    player "Let’s make a baby, my little maid~"
+    player "Давай заведём ребёнка, моя маленькая горничная~"
 
 
 
@@ -603,31 +603,31 @@ label A_train_sub_1:
 
 
 
-    a "Uhhhhh~~~ hhhh~~~ master~~~ mighty master~~~"
+    a "Уххх~~~ ххх~~~ хозяин~~~ сильный хозяин~~~"
 
 
 
-    a "Yes, just like that~~ hit me with that dick... ..."
+    a "Да, вот так~~ оттрахай меня этим членом... ..."
 
 
 
-    a "Awwwwww... ... master’s mighty dick~~~"
+    a "Оуууу... ... твёрдый член хозяина~~~"
 
 
 
-    player "Such a horny maid you are... ..."
+    player "Какая ты похотливая горничная... ..."
 
 
 
-    player "Promise me that you will never reveal this side to another man. You are my exclusive horny maid!"
+    player "Пообещай мне, что никогда не раскроешь эту сторону другому мужчине. Ты моя личная похотливая горничная!"
 
 
 
-    a "As long as... you don’t get tired of me~"
+    a "До тех пор пока... ты не устанешь от меня~"
 
 
 
-    player "Get tired of you? What are you talking about?"
+    player "Устану от тебя? О чём ты говоришь?"
 
 
     stop sound
@@ -637,23 +637,23 @@ label A_train_sub_1:
 
 
 
-    a "No... nothing... ... I was just... ... Ohhhhhhh~~~"
+    a "Нет... ничего... ... я просто... ... Охххххх~~~"
 
 
 
-    a "I will... always be your horny maid!!!~~~~"
+    a "Я... всегда буду твоей похотливой горничной!!!~~~~"
 
 
 
-    a "I will... ... bounce my tits only for you, wetting my pussy only for you, moan only for you!~~~~"
+    a "Моя грудь... ... будет подпрыгивать только для тебя, моя киска будет мокрой только для тебя, я буду стонать только для тебя!~~~~"
 
 
 
-    player "Awwww... Вера, how lucky I am to have you in my life... ..."
+    player "Оууу... Вера, как мне повезло, что ты есть в моей жизни... ..."
 
 
 
-    a "I... am the lucky one... ..."
+    a "Я... счастливчик... ..."
 
 
     stop sound
@@ -663,27 +663,27 @@ label A_train_sub_1:
 
 
 
-    a "Awww~~ www~~ uuuwwww~~~ love~~~ [P]~~~"
+    a "Оууу~~ ууу~~ ууууувв~~~ любовь~~~ [P]~~~"
 
 
 
-    a "Don’t~~~ Awwwwww~~~ Please don’t... get tired of... ... me... ..."
+    a "Не~~~ Оуууу~~~ Пожалуйста, не... устань от... ... меня.... ..."
 
 
 
-    a "Mast... t... ter... ... ... ..."
+    a "Хо... зя... ин... ... ... ..."
 
 
 
-    player "Вера... You are being nonsense. How will I ever get tired of you?"
+    player "Вера... Ты говоришь ерунду. Как я могу когда-нибудь устать от тебя?"
 
 
 
-    player "Now get ready for my seed!"
+    player "Теперь готовься к моему семени!"
 
 
 
-    a "I’m... ... ohhhhh~~ master~~ good master~~~~~~~"
+    a "Я... ... ооооо~~ хозяин~~ хороший хозяин~~~~~~~"
 
 
     stop sound
@@ -693,39 +693,39 @@ label A_train_sub_1:
 
     $ flashlight()
 
-    a "Ohhhhhhhhhhhhhhhhhhhhhhhhh!!!!~~~~~~~~~"
+    a "Ооооооооооооооооооо!!!!~~~~~~~~~"
 
 
 
-    "She had an intensive orgasm as soon as I loaded all the hot sperms into her deepest... ..."
+    "Она испытала сильнейший оргазм, как только я спустил всю горячую сперму в её самое глубокое место.... ..."
 
 
 
-    a "So... ... so much... Master's seed... Thanks for giving your little maid so much seed generously..."
+    a "Так... ... так много... семени хозяина... Спасибо, что щедро дал твоей маленькой горничной так много семени...."
 
 
 
-    player "Вера, you are just amazing... ..."
+    player "Вера, ты просто потрясающая... ..."
 
 
 
     scene a_train_sub_1_58 with tstmgr
 
-    a "Awwwww... ... ... ..."
+    a "Оууууу... ... ... ..."
 
 
 
-    player "Eh... ... I thought you were here to get me up~"
+    player "Эх... ...я думал, ты здесь, чтобы разбудить меня~"
 
 
 
-    a "I... I think we both need... another hour of sleep... ... Master... ..."
+    a "Я... я думаю, нам обоим нужно... ещё часик поспать... ... Хозяин... ..."
 
 
 
     scene a_train_sub_1_59 with tstmgr
 
-    player "Whatever you say, honey~ Whatever you say... ..."
+    player "Как скажешь, дорогая~ Как скажешь... ..."
 
 
 
